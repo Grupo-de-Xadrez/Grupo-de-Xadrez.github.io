@@ -1,59 +1,59 @@
 # Torneio de Xadrez
 ### Rodada atual:
-* A vs B = 
-* L vs C = 
-* K vs D = 
-* J vs E = 
-* I vs F = 
-* G vs H = 
+* Ribas vs Vitor = 
+* Alexandre vs Felipe = 
+* Freddy vs Diogo = 
+* Léo vs Silvio = 
+* Ricardo vs Pedro = 
+* Renato vs Milton = 
 
 ### Rodada seguinte:
-* C vs A = 
-* B vs H = 
-* D vs L = 
-* E vs K = 
-* F vs J = 
-* I vs G = 
+* Felipe vs Ribas = 
+* Vitor vs Milton = 
+* Diogo vs Alexandre = 
+* Silvio vs Freddy = 
+* Pedro vs Léo = 
+* Ricardo vs Renato = 
 
 ## Tabela
 
 | Pos | Nome | Pts | J | J P | V |
 | --- | --- | --- | --- | --- | --- |
-| 1 | A | 0 | 0 | 0 | 0 |
-| 1 | B | 0 | 0 | 0 | 0 |
-| 1 | C | 0 | 0 | 0 | 0 |
-| 1 | D | 0 | 0 | 0 | 0 |
-| 1 | E | 0 | 0 | 0 | 0 |
-| 1 | F | 0 | 0 | 0 | 0 |
-| 1 | G | 0 | 0 | 0 | 0 |
-| 1 | H | 0 | 0 | 0 | 0 |
-| 1 | I | 0 | 0 | 0 | 0 |
-| 1 | J | 0 | 0 | 0 | 0 |
-| 1 | K | 0 | 0 | 0 | 0 |
-| 1 | L | 0 | 0 | 0 | 0 |
+| 1 | Ribas | 0 | 0 | 0 | 0 |
+| 1 | Vitor | 0 | 0 | 0 | 0 |
+| 1 | Felipe | 0 | 0 | 0 | 0 |
+| 1 | Diogo | 0 | 0 | 0 | 0 |
+| 1 | Silvio | 0 | 0 | 0 | 0 |
+| 1 | Pedro | 0 | 0 | 0 | 0 |
+| 1 | Renato | 0 | 0 | 0 | 0 |
+| 1 | Milton | 0 | 0 | 0 | 0 |
+| 1 | Ricardo | 0 | 0 | 0 | 0 |
+| 1 | Léo | 0 | 0 | 0 | 0 |
+| 1 | Freddy | 0 | 0 | 0 | 0 |
+| 1 | Alexandre | 0 | 0 | 0 | 0 |
 
 ## Resultados
 ### Rodada 1:
-* A vs B = 
-* L vs C = 
-* K vs D = 
-* J vs E = 
-* I vs F = 
-* G vs H = 
+* Ribas vs Vitor = 
+* Alexandre vs Felipe = 
+* Freddy vs Diogo = 
+* Léo vs Silvio = 
+* Ricardo vs Pedro = 
+* Renato vs Milton = 
 
 ### Rodada 2:
-* C vs A = 
-* B vs H = 
-* D vs L = 
-* E vs K = 
-* F vs J = 
-* I vs G = 
+* Felipe vs Ribas = 
+* Vitor vs Milton = 
+* Diogo vs Alexandre = 
+* Silvio vs Freddy = 
+* Pedro vs Léo = 
+* Ricardo vs Renato = 
 
 ### Rodada 3:
-* A vs D = 
-* B vs C = 
-* L vs E = 
-* K vs F = 
-* J vs G = 
-* H vs I = 
+* Ribas vs Diogo = 
+* Vitor vs Felipe = 
+* Alexandre vs Silvio = 
+* Freddy vs Pedro = 
+* Léo vs Renato = 
+* Milton vs Ricardo = 
 
