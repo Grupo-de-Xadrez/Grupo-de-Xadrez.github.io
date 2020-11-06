@@ -57,3 +57,67 @@
 * Léo vs Renato = 
 * Milton vs Ricardo = 
 
+### Rodada 4:
+* Silvio vs Ribas = 
+* Diogo vs Vitor = 
+* Ricardo vs Felipe = 
+* Milton vs Léo = 
+* Pedro vs Alexandre = 
+* Renato vs Freddy = 
+
+### Rodada 5:
+* Ribas vs Pedro = 
+* Vitor vs Silvio = 
+* Felipe vs Diogo = 
+* Alexandre vs Renato = 
+* Freddy vs Milton = 
+* Léo vs Ricardo = 
+
+### Rodada 6:
+* Renato vs Ribas = 
+* Pedro vs Vitor = 
+* Silvio vs Felipe = 
+* Diogo vs Léo = 
+* Milton vs Alexandre = 
+* Ricardo vs Freddy = 
+
+### Rodada 7:
+* Ribas vs Milton = 
+* Vitor vs Renato = 
+* Felipe vs Pedro = 
+* Diogo vs Silvio = 
+* Alexandre vs Ricardo = 
+* Freddy vs Léo = 
+
+### Rodada 8:
+* Ricardo vs Ribas = 
+* Vitor vs Freddy = 
+* Renato vs Felipe = 
+* Pedro vs Diogo = 
+* Milton vs Silvio = 
+* Léo vs Alexandre = 
+
+### Rodada 9:
+* Ribas vs Léo = 
+* Ricardo vs Vitor = 
+* Felipe vs Milton = 
+* Diogo vs Renato = 
+* Silvio vs Pedro = 
+* Freddy vs Alexandre = 
+
+### Rodada 10:
+* Freddy vs Ribas = 
+* Alexandre vs Vitor = 
+* Léo vs Felipe = 
+* Milton vs Diogo = 
+* Renato vs Pedro = 
+* Silvio vs Ricardo = 
+
+### Rodada 11:
+* Ribas vs Alexandre = 
+* Léo vs Vitor = 
+* Felipe vs Freddy = 
+* Diogo vs Ricardo = 
+* Renato vs Silvio = 
+* Pedro vs Milton = 
+
