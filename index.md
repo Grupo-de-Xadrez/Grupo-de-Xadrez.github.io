@@ -3,7 +3,7 @@
 * Ribas vs Vitor = 
 * Alexandre vs Felipe = 
 * Freddy vs Diogo = 
-* Léo vs Silvio = 
+* Léo vs Sílvio = 
 * Ricardo vs Pedro = 
 * Renato vs Milton = 
 
@@ -11,7 +11,7 @@
 * Felipe vs Ribas = 
 * Vitor vs Milton = 
 * Diogo vs Alexandre = 
-* Silvio vs Freddy = 
+* Sílvio vs Freddy = 
 * Pedro vs Léo = 
 * Ricardo vs Renato = 
 
@@ -23,7 +23,7 @@
 | 1 | Vitor | 0 | 0 | 0 | 0 |
 | 1 | Felipe | 0 | 0 | 0 | 0 |
 | 1 | Diogo | 0 | 0 | 0 | 0 |
-| 1 | Silvio | 0 | 0 | 0 | 0 |
+| 1 | Sílvio | 0 | 0 | 0 | 0 |
 | 1 | Pedro | 0 | 0 | 0 | 0 |
 | 1 | Renato | 0 | 0 | 0 | 0 |
 | 1 | Milton | 0 | 0 | 0 | 0 |
@@ -37,7 +37,7 @@
 * Ribas vs Vitor = 
 * Alexandre vs Felipe = 
 * Freddy vs Diogo = 
-* Léo vs Silvio = 
+* Léo vs Sílvio = 
 * Ricardo vs Pedro = 
 * Renato vs Milton = 
 
@@ -45,20 +45,20 @@
 * Felipe vs Ribas = 
 * Vitor vs Milton = 
 * Diogo vs Alexandre = 
-* Silvio vs Freddy = 
+* Sílvio vs Freddy = 
 * Pedro vs Léo = 
 * Ricardo vs Renato = 
 
 ### Rodada 3:
 * Ribas vs Diogo = 
 * Vitor vs Felipe = 
-* Alexandre vs Silvio = 
+* Alexandre vs Sílvio = 
 * Freddy vs Pedro = 
 * Léo vs Renato = 
 * Milton vs Ricardo = 
 
 ### Rodada 4:
-* Silvio vs Ribas = 
+* Sílvio vs Ribas = 
 * Diogo vs Vitor = 
 * Ricardo vs Felipe = 
 * Milton vs Léo = 
@@ -67,7 +67,7 @@
 
 ### Rodada 5:
 * Ribas vs Pedro = 
-* Vitor vs Silvio = 
+* Vitor vs Sílvio = 
 * Felipe vs Diogo = 
 * Alexandre vs Renato = 
 * Freddy vs Milton = 
@@ -76,7 +76,7 @@
 ### Rodada 6:
 * Renato vs Ribas = 
 * Pedro vs Vitor = 
-* Silvio vs Felipe = 
+* Sílvio vs Felipe = 
 * Diogo vs Léo = 
 * Milton vs Alexandre = 
 * Ricardo vs Freddy = 
@@ -85,7 +85,7 @@
 * Ribas vs Milton = 
 * Vitor vs Renato = 
 * Felipe vs Pedro = 
-* Diogo vs Silvio = 
+* Diogo vs Sílvio = 
 * Alexandre vs Ricardo = 
 * Freddy vs Léo = 
 
@@ -94,7 +94,7 @@
 * Vitor vs Freddy = 
 * Renato vs Felipe = 
 * Pedro vs Diogo = 
-* Milton vs Silvio = 
+* Milton vs Sílvio = 
 * Léo vs Alexandre = 
 
 ### Rodada 9:
@@ -102,7 +102,7 @@
 * Ricardo vs Vitor = 
 * Felipe vs Milton = 
 * Diogo vs Renato = 
-* Silvio vs Pedro = 
+* Sílvio vs Pedro = 
 * Freddy vs Alexandre = 
 
 ### Rodada 10:
@@ -111,13 +111,13 @@
 * Léo vs Felipe = 
 * Milton vs Diogo = 
 * Renato vs Pedro = 
-* Silvio vs Ricardo = 
+* Sílvio vs Ricardo = 
 
 ### Rodada 11:
 * Ribas vs Alexandre = 
 * Léo vs Vitor = 
 * Felipe vs Freddy = 
 * Diogo vs Ricardo = 
-* Renato vs Silvio = 
+* Renato vs Sílvio = 
 * Pedro vs Milton = 
 
