@@ -13,12 +13,12 @@ K=Freddy
 L=Alexandre
 
 r:
-A,B=1-0
-L,C=0-1
-K,D=1-0
+A,B=w
+L,C=b
+K,D=w
 J,E=
-I,F=1-0
-G,H=0-1
+I,F=w
+G,H=b
 
 r:
 C,A=
