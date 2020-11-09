@@ -1,19 +1,27 @@
 # Torneio de Xadrez
 ### Rodada atual:
-* Ribas vs Vitor = Brancas venceram.
-* Alexandre vs Felipe = Pretas venceram.
-* Freddy vs Diogo = Brancas venceram.
-* Léo vs Sílvio = 
-* Ricardo vs Pedro = Brancas venceram.
-* Renato vs Milton = Pretas venceram.
-
-### Rodada seguinte:
 * Felipe vs Ribas = 
 * Vitor vs Milton = 
 * Diogo vs Alexandre = 
 * Sílvio vs Freddy = 
 * Pedro vs Léo = 
 * Ricardo vs Renato = 
+
+### Rodada anterior:
+* Ribas vs Vitor = Brancas venceram.
+* Alexandre vs Felipe = Pretas venceram.
+* Freddy vs Diogo = Brancas venceram.
+* Léo vs Sílvio = Brancas venceram.
+* Ricardo vs Pedro = Brancas venceram.
+* Renato vs Milton = Pretas venceram.
+
+### Rodada seguinte:
+* Ribas vs Diogo = 
+* Vitor vs Felipe = 
+* Alexandre vs Sílvio = 
+* Freddy vs Pedro = 
+* Léo vs Renato = 
+* Milton vs Ricardo = 
 
 ## Tabela
 
@@ -23,12 +31,12 @@
 | 1 | Milton | 1 | 1 | 1 | 1 |
 | 3 | Ribas | 1 | 1 | 0 | 1 |
 | 3 | Ricardo | 1 | 1 | 0 | 1 |
+| 3 | Léo | 1 | 1 | 0 | 1 |
 | 3 | Freddy | 1 | 1 | 0 | 1 |
-| 6 | Sílvio | 0 | 0 | 0 | 0 |
-| 6 | Léo | 0 | 0 | 0 | 0 |
-| 8 | Vitor | 0 | 1 | 1 | 0 |
-| 8 | Diogo | 0 | 1 | 1 | 0 |
-| 8 | Pedro | 0 | 1 | 1 | 0 |
+| 7 | Vitor | 0 | 1 | 1 | 0 |
+| 7 | Diogo | 0 | 1 | 1 | 0 |
+| 7 | Sílvio | 0 | 1 | 1 | 0 |
+| 7 | Pedro | 0 | 1 | 1 | 0 |
 | 11 | Renato | 0 | 1 | 0 | 0 |
 | 11 | Alexandre | 0 | 1 | 0 | 0 |
 
@@ -37,7 +45,7 @@
 * Ribas vs Vitor = Brancas venceram.
 * Alexandre vs Felipe = Pretas venceram.
 * Freddy vs Diogo = Brancas venceram.
-* Léo vs Sílvio = 
+* Léo vs Sílvio = Brancas venceram.
 * Ricardo vs Pedro = Brancas venceram.
 * Renato vs Milton = Pretas venceram.
 
