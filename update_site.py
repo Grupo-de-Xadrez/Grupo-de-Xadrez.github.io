@@ -72,7 +72,7 @@ def toStrStandings():
             games[g[0][1]] += 1
             gamesAsBlack[g[0][1]] += 1
 
-    table = list(map(lambda player: (getName(player), points[player], games[player], gamesAsBlack[player], wins[player]), sorted(names.keys(), key = lambda player: (points[player], -games[player], -gamesAsBlack[player], wins[player]), reverse=True)))
+    table = list(map(lambda player: (getName(player), points[player], games[player], gamesAsBlack[player], wins[player]), sorted(names.keys(), key = lambda player: (points[player], -games[player], gamesAsBlack[player], wins[player]), reverse=True)))
 
     tableStr = ''
 
