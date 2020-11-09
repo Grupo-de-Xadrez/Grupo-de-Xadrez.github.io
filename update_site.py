@@ -66,6 +66,7 @@ def toStrStandings():
                 points[g[0][1]] += 0.5
             elif g[1] == 'b':
                 points[g[0][1]] += 1
+                wins[g[0][1]] += 1
             else:
                 continue
             games[g[0][0]] += 1
