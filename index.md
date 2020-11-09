@@ -19,18 +19,18 @@
 
 | Pos | Nome | Pts | J | J P | V |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Ribas | 1 | 1 | 0 | 1 |
-| 1 | Ricardo | 1 | 1 | 0 | 1 |
-| 1 | Freddy | 1 | 1 | 0 | 1 |
-| 4 | Felipe | 1 | 1 | 1 | 0 |
-| 4 | Milton | 1 | 1 | 1 | 0 |
+| 1 | Felipe | 1 | 1 | 1 | 0 |
+| 1 | Milton | 1 | 1 | 1 | 0 |
+| 3 | Ribas | 1 | 1 | 0 | 1 |
+| 3 | Ricardo | 1 | 1 | 0 | 1 |
+| 3 | Freddy | 1 | 1 | 0 | 1 |
 | 6 | Sílvio | 0 | 0 | 0 | 0 |
 | 6 | Léo | 0 | 0 | 0 | 0 |
-| 8 | Renato | 0 | 1 | 0 | 0 |
-| 8 | Alexandre | 0 | 1 | 0 | 0 |
-| 10 | Vitor | 0 | 1 | 1 | 0 |
-| 10 | Diogo | 0 | 1 | 1 | 0 |
-| 10 | Pedro | 0 | 1 | 1 | 0 |
+| 8 | Vitor | 0 | 1 | 1 | 0 |
+| 8 | Diogo | 0 | 1 | 1 | 0 |
+| 8 | Pedro | 0 | 1 | 1 | 0 |
+| 11 | Renato | 0 | 1 | 0 | 0 |
+| 11 | Alexandre | 0 | 1 | 0 | 0 |
 
 ## Resultados
 ### Rodada 1:
