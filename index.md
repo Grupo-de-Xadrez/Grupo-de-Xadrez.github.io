@@ -42,7 +42,7 @@
 
 ## Resultados
 
-| | RIB | VIT | FEL | DIO | Sí | PED | REN | MIL | RIC | Lé | FRE | ALE | |
+| | RIB | VIT | FEL | DIO | SIL | PED | REN | MIL | RIC | LEO | FRE | ALE | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Ribas | X | 1 | 0.5 |  |  |  |  |  |  |  |  |  | 1.5 |
 | Vitor | 0 | X |  |  |  |  |  | 0 |  |  |  |  | 0 |

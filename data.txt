@@ -12,6 +12,20 @@ J=Léo
 K=Freddy
 L=Alexandre
 
+a:
+A=RIB
+B=VIT
+C=FEL
+D=DIO
+E=SIL
+F=PED
+G=REN
+H=MIL
+I=RIC
+J=LEO
+K=FRE
+L=ALE
+
 r:
 A,B=w
 L,C=b
