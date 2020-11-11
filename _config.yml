@@ -2,4 +2,3 @@ theme: jekyll-theme-slate
 github: is_project_page:false
 name: Torneio de Xadrez
 title: null
-max-width: 1400px;
