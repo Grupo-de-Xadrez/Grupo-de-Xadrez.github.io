@@ -1,26 +1,26 @@
 ### Rodada atual:
-* Ribas `    -    ` Diogo
-* Vitor `    -    ` Felipe
-* Alexandre `    -    ` Sílvio
-* Freddy `    -    ` Pedro
-* Léo `    -    ` Renato
-* Milton `    -    ` Ricardo
+* Ribas     -     Diogo
+* Vitor     -     Felipe
+* Alexandre     -     Sílvio
+* Freddy     -     Pedro
+* Léo     -     Renato
+* Milton     -     Ricardo
 
 ### Rodada anterior:
 * Felipe `1/2 - 1/2` Ribas
-* Vitor ` 0  -  1 ` *Milton*
-* *Diogo* ` 1  -  0 ` Alexandre
-* *Sílvio* ` 1  -  0 ` Freddy
-* Pedro ` 0  -  1 ` *Léo*
-* *Ricardo* ` 1  -  0 ` Renato
+* Vitor `0   -   1` *Milton*
+* *Diogo*  `1   -   0`  Alexandre
+* *Sílvio*  `1   -   0`  Freddy
+* Pedro `0   -   1` *Léo*
+* *Ricardo*  `1   -   0`  Renato
 
 ### Rodada seguinte:
-* Sílvio `    -    ` Ribas
-* Diogo `    -    ` Vitor
-* Ricardo `    -    ` Felipe
-* Milton `    -    ` Léo
-* Pedro `    -    ` Alexandre
-* Renato `    -    ` Freddy
+* Sílvio     -     Ribas
+* Diogo     -     Vitor
+* Ricardo     -     Felipe
+* Milton     -     Léo
+* Pedro     -     Alexandre
+* Renato     -     Freddy
 
 ## Tabela
 
@@ -57,90 +57,90 @@
 | Alexandre |  |  | 0 | 0 |  |  |  |  |  |  |  | :::::::: | 0 |
 
 ### Rodada 1:
-* *Ribas* ` 1  -  0 ` Vitor
-* Alexandre ` 0  -  1 ` *Felipe*
-* *Freddy* ` 1  -  0 ` Diogo
-* *Léo* ` 1  -  0 ` Sílvio
-* *Ricardo* ` 1  -  0 ` Pedro
-* Renato ` 0  -  1 ` *Milton*
+* *Ribas*  `1   -   0`  Vitor
+* Alexandre `0   -   1` *Felipe*
+* *Freddy*  `1   -   0`  Diogo
+* *Léo*  `1   -   0`  Sílvio
+* *Ricardo*  `1   -   0`  Pedro
+* Renato `0   -   1` *Milton*
 
 ### Rodada 2:
 * Felipe `1/2 - 1/2` Ribas
-* Vitor ` 0  -  1 ` *Milton*
-* *Diogo* ` 1  -  0 ` Alexandre
-* *Sílvio* ` 1  -  0 ` Freddy
-* Pedro ` 0  -  1 ` *Léo*
-* *Ricardo* ` 1  -  0 ` Renato
+* Vitor `0   -   1` *Milton*
+* *Diogo*  `1   -   0`  Alexandre
+* *Sílvio*  `1   -   0`  Freddy
+* Pedro `0   -   1` *Léo*
+* *Ricardo*  `1   -   0`  Renato
 
 ### Rodada 3:
-* Ribas `    -    ` Diogo
-* Vitor `    -    ` Felipe
-* Alexandre `    -    ` Sílvio
-* Freddy `    -    ` Pedro
-* Léo `    -    ` Renato
-* Milton `    -    ` Ricardo
+* Ribas     -     Diogo
+* Vitor     -     Felipe
+* Alexandre     -     Sílvio
+* Freddy     -     Pedro
+* Léo     -     Renato
+* Milton     -     Ricardo
 
 ### Rodada 4:
-* Sílvio `    -    ` Ribas
-* Diogo `    -    ` Vitor
-* Ricardo `    -    ` Felipe
-* Milton `    -    ` Léo
-* Pedro `    -    ` Alexandre
-* Renato `    -    ` Freddy
+* Sílvio     -     Ribas
+* Diogo     -     Vitor
+* Ricardo     -     Felipe
+* Milton     -     Léo
+* Pedro     -     Alexandre
+* Renato     -     Freddy
 
 ### Rodada 5:
-* Ribas `    -    ` Pedro
-* Vitor `    -    ` Sílvio
-* Felipe `    -    ` Diogo
-* Alexandre `    -    ` Renato
-* Freddy `    -    ` Milton
-* Léo `    -    ` Ricardo
+* Ribas     -     Pedro
+* Vitor     -     Sílvio
+* Felipe     -     Diogo
+* Alexandre     -     Renato
+* Freddy     -     Milton
+* Léo     -     Ricardo
 
 ### Rodada 6:
-* Renato `    -    ` Ribas
-* Pedro `    -    ` Vitor
-* Sílvio `    -    ` Felipe
-* Diogo `    -    ` Léo
-* Milton `    -    ` Alexandre
-* Ricardo `    -    ` Freddy
+* Renato     -     Ribas
+* Pedro     -     Vitor
+* Sílvio     -     Felipe
+* Diogo     -     Léo
+* Milton     -     Alexandre
+* Ricardo     -     Freddy
 
 ### Rodada 7:
-* Ribas `    -    ` Milton
-* Vitor `    -    ` Renato
-* Felipe `    -    ` Pedro
-* Diogo `    -    ` Sílvio
-* Alexandre `    -    ` Ricardo
-* Freddy `    -    ` Léo
+* Ribas     -     Milton
+* Vitor     -     Renato
+* Felipe     -     Pedro
+* Diogo     -     Sílvio
+* Alexandre     -     Ricardo
+* Freddy     -     Léo
 
 ### Rodada 8:
-* Ricardo `    -    ` Ribas
-* Vitor `    -    ` Freddy
-* Renato `    -    ` Felipe
-* Pedro `    -    ` Diogo
-* Milton `    -    ` Sílvio
-* Léo `    -    ` Alexandre
+* Ricardo     -     Ribas
+* Vitor     -     Freddy
+* Renato     -     Felipe
+* Pedro     -     Diogo
+* Milton     -     Sílvio
+* Léo     -     Alexandre
 
 ### Rodada 9:
-* Ribas `    -    ` Léo
-* Ricardo `    -    ` Vitor
-* Felipe `    -    ` Milton
-* Diogo `    -    ` Renato
-* Sílvio `    -    ` Pedro
-* Freddy `    -    ` Alexandre
+* Ribas     -     Léo
+* Ricardo     -     Vitor
+* Felipe     -     Milton
+* Diogo     -     Renato
+* Sílvio     -     Pedro
+* Freddy     -     Alexandre
 
 ### Rodada 10:
-* Freddy `    -    ` Ribas
-* Alexandre `    -    ` Vitor
-* Léo `    -    ` Felipe
-* Milton `    -    ` Diogo
-* Renato `    -    ` Pedro
-* Sílvio `    -    ` Ricardo
+* Freddy     -     Ribas
+* Alexandre     -     Vitor
+* Léo     -     Felipe
+* Milton     -     Diogo
+* Renato     -     Pedro
+* Sílvio     -     Ricardo
 
 ### Rodada 11:
-* Ribas `    -    ` Alexandre
-* Léo `    -    ` Vitor
-* Felipe `    -    ` Freddy
-* Diogo `    -    ` Ricardo
-* Renato `    -    ` Sílvio
-* Pedro `    -    ` Milton
+* Ribas     -     Alexandre
+* Léo     -     Vitor
+* Felipe     -     Freddy
+* Diogo     -     Ricardo
+* Renato     -     Sílvio
+* Pedro     -     Milton
 
