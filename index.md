@@ -1,26 +1,26 @@
 ### Rodada atual:
-* Ribas vs Diogo = 
-* Vitor vs Felipe = 
-* Alexandre vs Sílvio = 
-* Freddy vs Pedro = 
-* Léo vs Renato = 
-* Milton vs Ricardo = 
+* Ribas `    -    ` Diogo
+* Vitor `    -    ` Felipe
+* Alexandre `    -    ` Sílvio
+* Freddy `    -    ` Pedro
+* Léo `    -    ` Renato
+* Milton `    -    ` Ricardo
 
 ### Rodada anterior:
-* Felipe vs Ribas = Empatou.
-* Vitor vs Milton = Pretas venceram.
-* Diogo vs Alexandre = Brancas venceram.
-* Sílvio vs Freddy = Brancas venceram.
-* Pedro vs Léo = Pretas venceram.
-* Ricardo vs Renato = Brancas venceram.
+* Felipe `1/2 - 1/2` Ribas
+* Vitor ` 0  -  1 ` *Milton*
+* *Diogo* ` 1  -  0 ` Alexandre
+* *Sílvio* ` 1  -  0 ` Freddy
+* Pedro ` 0  -  1 ` *Léo*
+* *Ricardo* ` 1  -  0 ` Renato
 
 ### Rodada seguinte:
-* Sílvio vs Ribas = 
-* Diogo vs Vitor = 
-* Ricardo vs Felipe = 
-* Milton vs Léo = 
-* Pedro vs Alexandre = 
-* Renato vs Freddy = 
+* Sílvio `    -    ` Ribas
+* Diogo `    -    ` Vitor
+* Ricardo `    -    ` Felipe
+* Milton `    -    ` Léo
+* Pedro `    -    ` Alexandre
+* Renato `    -    ` Freddy
 
 ## Tabela
 
@@ -57,90 +57,90 @@
 | Alexandre |  |  | 0 | 0 |  |  |  |  |  |  |  | :::::::: | 0 |
 
 ### Rodada 1:
-* Ribas vs Vitor = Brancas venceram.
-* Alexandre vs Felipe = Pretas venceram.
-* Freddy vs Diogo = Brancas venceram.
-* Léo vs Sílvio = Brancas venceram.
-* Ricardo vs Pedro = Brancas venceram.
-* Renato vs Milton = Pretas venceram.
+* *Ribas* ` 1  -  0 ` Vitor
+* Alexandre ` 0  -  1 ` *Felipe*
+* *Freddy* ` 1  -  0 ` Diogo
+* *Léo* ` 1  -  0 ` Sílvio
+* *Ricardo* ` 1  -  0 ` Pedro
+* Renato ` 0  -  1 ` *Milton*
 
 ### Rodada 2:
-* Felipe vs Ribas = Empatou.
-* Vitor vs Milton = Pretas venceram.
-* Diogo vs Alexandre = Brancas venceram.
-* Sílvio vs Freddy = Brancas venceram.
-* Pedro vs Léo = Pretas venceram.
-* Ricardo vs Renato = Brancas venceram.
+* Felipe `1/2 - 1/2` Ribas
+* Vitor ` 0  -  1 ` *Milton*
+* *Diogo* ` 1  -  0 ` Alexandre
+* *Sílvio* ` 1  -  0 ` Freddy
+* Pedro ` 0  -  1 ` *Léo*
+* *Ricardo* ` 1  -  0 ` Renato
 
 ### Rodada 3:
-* Ribas vs Diogo = 
-* Vitor vs Felipe = 
-* Alexandre vs Sílvio = 
-* Freddy vs Pedro = 
-* Léo vs Renato = 
-* Milton vs Ricardo = 
+* Ribas `    -    ` Diogo
+* Vitor `    -    ` Felipe
+* Alexandre `    -    ` Sílvio
+* Freddy `    -    ` Pedro
+* Léo `    -    ` Renato
+* Milton `    -    ` Ricardo
 
 ### Rodada 4:
-* Sílvio vs Ribas = 
-* Diogo vs Vitor = 
-* Ricardo vs Felipe = 
-* Milton vs Léo = 
-* Pedro vs Alexandre = 
-* Renato vs Freddy = 
+* Sílvio `    -    ` Ribas
+* Diogo `    -    ` Vitor
+* Ricardo `    -    ` Felipe
+* Milton `    -    ` Léo
+* Pedro `    -    ` Alexandre
+* Renato `    -    ` Freddy
 
 ### Rodada 5:
-* Ribas vs Pedro = 
-* Vitor vs Sílvio = 
-* Felipe vs Diogo = 
-* Alexandre vs Renato = 
-* Freddy vs Milton = 
-* Léo vs Ricardo = 
+* Ribas `    -    ` Pedro
+* Vitor `    -    ` Sílvio
+* Felipe `    -    ` Diogo
+* Alexandre `    -    ` Renato
+* Freddy `    -    ` Milton
+* Léo `    -    ` Ricardo
 
 ### Rodada 6:
-* Renato vs Ribas = 
-* Pedro vs Vitor = 
-* Sílvio vs Felipe = 
-* Diogo vs Léo = 
-* Milton vs Alexandre = 
-* Ricardo vs Freddy = 
+* Renato `    -    ` Ribas
+* Pedro `    -    ` Vitor
+* Sílvio `    -    ` Felipe
+* Diogo `    -    ` Léo
+* Milton `    -    ` Alexandre
+* Ricardo `    -    ` Freddy
 
 ### Rodada 7:
-* Ribas vs Milton = 
-* Vitor vs Renato = 
-* Felipe vs Pedro = 
-* Diogo vs Sílvio = 
-* Alexandre vs Ricardo = 
-* Freddy vs Léo = 
+* Ribas `    -    ` Milton
+* Vitor `    -    ` Renato
+* Felipe `    -    ` Pedro
+* Diogo `    -    ` Sílvio
+* Alexandre `    -    ` Ricardo
+* Freddy `    -    ` Léo
 
 ### Rodada 8:
-* Ricardo vs Ribas = 
-* Vitor vs Freddy = 
-* Renato vs Felipe = 
-* Pedro vs Diogo = 
-* Milton vs Sílvio = 
-* Léo vs Alexandre = 
+* Ricardo `    -    ` Ribas
+* Vitor `    -    ` Freddy
+* Renato `    -    ` Felipe
+* Pedro `    -    ` Diogo
+* Milton `    -    ` Sílvio
+* Léo `    -    ` Alexandre
 
 ### Rodada 9:
-* Ribas vs Léo = 
-* Ricardo vs Vitor = 
-* Felipe vs Milton = 
-* Diogo vs Renato = 
-* Sílvio vs Pedro = 
-* Freddy vs Alexandre = 
+* Ribas `    -    ` Léo
+* Ricardo `    -    ` Vitor
+* Felipe `    -    ` Milton
+* Diogo `    -    ` Renato
+* Sílvio `    -    ` Pedro
+* Freddy `    -    ` Alexandre
 
 ### Rodada 10:
-* Freddy vs Ribas = 
-* Alexandre vs Vitor = 
-* Léo vs Felipe = 
-* Milton vs Diogo = 
-* Renato vs Pedro = 
-* Sílvio vs Ricardo = 
+* Freddy `    -    ` Ribas
+* Alexandre `    -    ` Vitor
+* Léo `    -    ` Felipe
+* Milton `    -    ` Diogo
+* Renato `    -    ` Pedro
+* Sílvio `    -    ` Ricardo
 
 ### Rodada 11:
-* Ribas vs Alexandre = 
-* Léo vs Vitor = 
-* Felipe vs Freddy = 
-* Diogo vs Ricardo = 
-* Renato vs Sílvio = 
-* Pedro vs Milton = 
+* Ribas `    -    ` Alexandre
+* Léo `    -    ` Vitor
+* Felipe `    -    ` Freddy
+* Diogo `    -    ` Ricardo
+* Renato `    -    ` Sílvio
+* Pedro `    -    ` Milton
 
