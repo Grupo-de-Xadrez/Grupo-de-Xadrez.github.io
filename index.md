@@ -23,7 +23,22 @@
 * Léo vs Renato = 
 * Milton vs Ricardo = 
 
-## Tabela
+## Tabelas
+
+| Pos | Nome | Pts | J | J P | V |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Milton | 2 | 2 | 2 | 2 |
+| 2 | Léo | 2 | 2 | 1 | 2 |
+| 3 | Ribas | 1.5 | 2 | 1 | 1 |
+| 3 | Felipe | 1.5 | 2 | 1 | 1 |
+| 5 | Ricardo | 1 | 1 | 0 | 1 |
+| 6 | Diogo | 1 | 2 | 1 | 1 |
+| 6 | Sílvio | 1 | 2 | 1 | 1 |
+| 6 | Freddy | 1 | 2 | 1 | 1 |
+| 9 | Renato | 0 | 1 | 0 | 0 |
+| 10 | Vitor | 0 | 2 | 1 | 0 |
+| 10 | Pedro | 0 | 2 | 1 | 0 |
+| 10 | Alexandre | 0 | 2 | 1 | 0 |
 
 | Pos | Nome | Pts | J | J P | V |
 | --- | --- | --- | --- | --- | --- |
