@@ -23,7 +23,7 @@
 * Pedro vs Alexandre = 
 * Renato vs Freddy = 
 
-## Tabela
+## Tabelas
 
 | Pos | Nome | Pts | J | J P | V |
 | --- | --- | --- | --- | --- | --- |
@@ -39,6 +39,20 @@
 | 9 | Pedro | 0 | 2 | 1 | 0 |
 | 9 | Renato | 0 | 2 | 1 | 0 |
 | 9 | Alexandre | 0 | 2 | 1 | 0 |
+
+| | RIB | VIT | FEL | DIO | Sí | PED | REN | MIL | RIC | Lé | FRE | ALE | |
+| Ribas | X | 1 | � |  |  |  |  |  |  |  |  |  | 1.5 |
+| Vitor | 0 | X |  |  |  |  |  | 0 |  |  |  |  | 0 |
+| Felipe | � |  | X |  |  |  |  |  |  |  |  | 1 | 1.5 |
+| Diogo |  |  |  | X |  |  |  |  |  |  | 0 | 1 | 1 |
+| Sílvio |  |  |  |  | X |  |  |  |  | 0 | 1 |  | 1 |
+| Pedro |  |  |  |  |  | X |  |  | 0 | 0 |  |  | 0 |
+| Renato |  |  |  |  |  |  | X | 0 | 0 |  |  |  | 0 |
+| Milton |  | 1 |  |  |  |  | 1 | X |  |  |  |  | 2 |
+| Ricardo |  |  |  |  |  | 1 | 1 |  | X |  |  |  | 2 |
+| Léo |  |  |  |  | 1 | 1 |  |  |  | X |  |  | 2 |
+| Freddy |  |  |  | 1 | 0 |  |  |  |  |  | X |  | 1 |
+| Alexandre |  |  | 0 | 0 |  |  |  |  |  |  |  | X | 0 |
 
 ## Resultados
 ### Rodada 1:
