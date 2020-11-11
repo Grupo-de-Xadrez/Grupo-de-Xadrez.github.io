@@ -1,4 +1,3 @@
-# Torneio de Xadrez
 ### Rodada atual:
 * Ribas vs Diogo = 
 * Vitor vs Felipe = 
