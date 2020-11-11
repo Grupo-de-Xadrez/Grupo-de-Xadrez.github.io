@@ -23,22 +23,7 @@
 * Pedro vs Alexandre = 
 * Renato vs Freddy = 
 
-## Tabelas
-
-| Pos | Nome | Pts | J | J P | V |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Milton | 2 | 2 | 2 | 2 |
-| 2 | Léo | 2 | 2 | 1 | 2 |
-| 3 | Ricardo | 2 | 2 | 0 | 2 |
-| 4 | Ribas | 1.5 | 2 | 1 | 1 |
-| 4 | Felipe | 1.5 | 2 | 1 | 1 |
-| 6 | Diogo | 1 | 2 | 1 | 1 |
-| 6 | Sílvio | 1 | 2 | 1 | 1 |
-| 6 | Freddy | 1 | 2 | 1 | 1 |
-| 9 | Vitor | 0 | 2 | 1 | 0 |
-| 9 | Pedro | 0 | 2 | 1 | 0 |
-| 9 | Renato | 0 | 2 | 1 | 0 |
-| 9 | Alexandre | 0 | 2 | 1 | 0 |
+## Tabela
 
 | Pos | Nome | Pts | J | J P | V |
 | --- | --- | --- | --- | --- | --- |
