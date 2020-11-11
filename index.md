@@ -23,7 +23,7 @@
 * Pedro vs Alexandre = 
 * Renato vs Freddy = 
 
-## Tabelas
+## Tabela
 
 | Pos | Nome | Pts | J | J P | V |
 | --- | --- | --- | --- | --- | --- |
@@ -40,6 +40,8 @@
 | 9 | Renato | 0 | 2 | 1 | 0 |
 | 9 | Alexandre | 0 | 2 | 1 | 0 |
 
+## Resultados
+
 | | RIB | VIT | FEL | DIO | Sí | PED | REN | MIL | RIC | Lé | FRE | ALE | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Ribas | X | 1 | 0.5 |  |  |  |  |  |  |  |  |  | 1.5 |
@@ -55,7 +57,6 @@
 | Freddy |  |  |  | 1 | 0 |  |  |  |  |  | X |  | 1 |
 | Alexandre |  |  | 0 | 0 |  |  |  |  |  |  |  | X | 0 |
 
-## Resultados
 ### Rodada 1:
 * Ribas vs Vitor = Brancas venceram.
 * Alexandre vs Felipe = Pretas venceram.
