@@ -8,11 +8,11 @@
 
 ### Rodada anterior:
 * Felipe `1/2 - 1/2` Ribas
-* Vitor `0   -   1` *Milton*
-* *Diogo*  `1   -   0`  Alexandre
-* *Sílvio*  `1   -   0`  Freddy
-* Pedro `0   -   1` *Léo*
-* *Ricardo*  `1   -   0`  Renato
+* Vitor `0   -   1` **Milton**
+* **Diogo**  `1   -   0`  Alexandre
+* **Sílvio**  `1   -   0`  Freddy
+* Pedro `0   -   1` **Léo**
+* **Ricardo**  `1   -   0`  Renato
 
 ### Rodada seguinte:
 * Sílvio     -     Ribas
@@ -57,20 +57,20 @@
 | Alexandre |  |  | 0 | 0 |  |  |  |  |  |  |  | :::::::: | 0 |
 
 ### Rodada 1:
-* *Ribas*  `1   -   0`  Vitor
-* Alexandre `0   -   1` *Felipe*
-* *Freddy*  `1   -   0`  Diogo
-* *Léo*  `1   -   0`  Sílvio
-* *Ricardo*  `1   -   0`  Pedro
-* Renato `0   -   1` *Milton*
+* **Ribas**  `1   -   0`  Vitor
+* Alexandre `0   -   1` **Felipe**
+* **Freddy**  `1   -   0`  Diogo
+* **Léo**  `1   -   0`  Sílvio
+* **Ricardo**  `1   -   0`  Pedro
+* Renato `0   -   1` **Milton**
 
 ### Rodada 2:
 * Felipe `1/2 - 1/2` Ribas
-* Vitor `0   -   1` *Milton*
-* *Diogo*  `1   -   0`  Alexandre
-* *Sílvio*  `1   -   0`  Freddy
-* Pedro `0   -   1` *Léo*
-* *Ricardo*  `1   -   0`  Renato
+* Vitor `0   -   1` **Milton**
+* **Diogo**  `1   -   0`  Alexandre
+* **Sílvio**  `1   -   0`  Freddy
+* Pedro `0   -   1` **Léo**
+* **Ricardo**  `1   -   0`  Renato
 
 ### Rodada 3:
 * Ribas     -     Diogo
