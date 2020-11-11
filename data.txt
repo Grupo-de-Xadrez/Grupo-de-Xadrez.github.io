@@ -26,7 +26,7 @@ B,H=b
 D,L=w
 E,K=w
 F,J=b
-I,G=
+I,G=w
 
 r:
 A,D=
