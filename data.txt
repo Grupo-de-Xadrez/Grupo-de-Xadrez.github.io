@@ -21,11 +21,11 @@ I,F=w
 G,H=b
 
 r:
-C,A=
-B,H=
-D,L=
-E,K=
-F,J=
+C,A=d
+B,H=b
+D,L=w
+E,K=w
+F,J=b
 I,G=
 
 r:
