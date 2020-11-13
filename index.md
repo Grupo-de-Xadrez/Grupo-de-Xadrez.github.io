@@ -1,20 +1,4 @@
 ### Rodada atual:
-* Ribas     -     Diogo
-* Vitor     -     Felipe
-* Alexandre     -     Sílvio
-* Freddy     -     Pedro
-* Léo     -     Renato
-* Milton     -     Ricardo
-
-### Rodada anterior:
-* Felipe `1/2 - 1/2` Ribas
-* Vitor `0   -   1` **Milton**
-* **Diogo**  `1   -   0`  Alexandre
-* **Sílvio**  `1   -   0`  Freddy
-* Pedro `0   -   1` **Léo**
-* **Ricardo**  `1   -   0`  Renato
-
-### Rodada seguinte:
 * Sílvio     -     Ribas
 * Diogo     -     Vitor
 * Ricardo     -     Felipe
@@ -22,39 +6,55 @@
 * Pedro     -     Alexandre
 * Renato     -     Freddy
 
+### Rodada anterior:
+* **Ribas**  `1   -   0`  Diogo
+* Vitor `0   -   1` **Felipe**
+* **Alexandre**  `1   -   0`  Sílvio
+* **Freddy**  `1   -   0`  Pedro
+* **Léo**  `1   -   0`  Renato
+* **Milton**  `1   -   0`  Ricardo
+
+### Rodada seguinte:
+* Ribas     -     Pedro
+* Vitor     -     Sílvio
+* Felipe     -     Diogo
+* Alexandre     -     Renato
+* Freddy     -     Milton
+* Léo     -     Ricardo
+
 ## Tabela
 
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | Milton | 2 | 2 | 2 | 2 |
-| 2 | Léo | 2 | 2 | 1 | 2 |
-| 3 | Ricardo | 2 | 2 | 0 | 2 |
-| 4 | Ribas | 1.5 | 2 | 1 | 1 |
-| 4 | Felipe | 1.5 | 2 | 1 | 1 |
-| 6 | Diogo | 1 | 2 | 1 | 1 |
-| 6 | Sílvio | 1 | 2 | 1 | 1 |
-| 6 | Freddy | 1 | 2 | 1 | 1 |
-| 9 | Vitor | 0 | 2 | 1 | 0 |
-| 9 | Pedro | 0 | 2 | 1 | 0 |
-| 9 | Renato | 0 | 2 | 1 | 0 |
-| 9 | Alexandre | 0 | 2 | 1 | 0 |
+| 1 | Milton | 3 | 3 | 2 | 3 |
+| 2 | Léo | 3 | 3 | 1 | 3 |
+| 3 | Felipe | 2.5 | 3 | 2 | 2 |
+| 4 | Ribas | 2.5 | 3 | 1 | 2 |
+| 5 | Ricardo | 2 | 3 | 1 | 2 |
+| 5 | Freddy | 2 | 3 | 1 | 2 |
+| 7 | Diogo | 1 | 3 | 2 | 1 |
+| 7 | Sílvio | 1 | 3 | 2 | 1 |
+| 9 | Alexandre | 1 | 3 | 1 | 1 |
+| 10 | Pedro | 0 | 3 | 2 | 0 |
+| 10 | Renato | 0 | 3 | 2 | 0 |
+| 12 | Vitor | 0 | 3 | 1 | 0 |
 
 ## Resultados
 
 | | RIB | VIT | FEL | DIO | SIL | PED | REN | MIL | RIC | LEO | FRE | ALE | Pts |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Ribas | :::::::: | 1 | 0.5 |  |  |  |  |  |  |  |  |  | 1.5 |
-| Vitor | 0 | :::::::: |  |  |  |  |  | 0 |  |  |  |  | 0 |
-| Felipe | 0.5 |  | :::::::: |  |  |  |  |  |  |  |  | 1 | 1.5 |
-| Diogo |  |  |  | :::::::: |  |  |  |  |  |  | 0 | 1 | 1 |
-| Sílvio |  |  |  |  | :::::::: |  |  |  |  | 0 | 1 |  | 1 |
-| Pedro |  |  |  |  |  | :::::::: |  |  | 0 | 0 |  |  | 0 |
-| Renato |  |  |  |  |  |  | :::::::: | 0 | 0 |  |  |  | 0 |
-| Milton |  | 1 |  |  |  |  | 1 | :::::::: |  |  |  |  | 2 |
-| Ricardo |  |  |  |  |  | 1 | 1 |  | :::::::: |  |  |  | 2 |
-| Léo |  |  |  |  | 1 | 1 |  |  |  | :::::::: |  |  | 2 |
-| Freddy |  |  |  | 1 | 0 |  |  |  |  |  | :::::::: |  | 1 |
-| Alexandre |  |  | 0 | 0 |  |  |  |  |  |  |  | :::::::: | 0 |
+| Ribas | :::::::: | 1 | 0.5 | 1 |  |  |  |  |  |  |  |  | 2.5 |
+| Vitor | 0 | :::::::: | 0 |  |  |  |  | 0 |  |  |  |  | 0 |
+| Felipe | 0.5 | 1 | :::::::: |  |  |  |  |  |  |  |  | 1 | 2.5 |
+| Diogo | 0 |  |  | :::::::: |  |  |  |  |  |  | 0 | 1 | 1 |
+| Sílvio |  |  |  |  | :::::::: |  |  |  |  | 0 | 1 | 0 | 1 |
+| Pedro |  |  |  |  |  | :::::::: |  |  | 0 | 0 | 0 |  | 0 |
+| Renato |  |  |  |  |  |  | :::::::: | 0 | 0 | 0 |  |  | 0 |
+| Milton |  | 1 |  |  |  |  | 1 | :::::::: | 1 |  |  |  | 3 |
+| Ricardo |  |  |  |  |  | 1 | 1 | 0 | :::::::: |  |  |  | 2 |
+| Léo |  |  |  |  | 1 | 1 | 1 |  |  | :::::::: |  |  | 3 |
+| Freddy |  |  |  | 1 | 0 | 1 |  |  |  |  | :::::::: |  | 2 |
+| Alexandre |  |  | 0 | 0 | 1 |  |  |  |  |  |  | :::::::: | 1 |
 
 ### Rodada 1:
 * **Ribas**  `1   -   0`  Vitor
@@ -73,12 +73,12 @@
 * **Ricardo**  `1   -   0`  Renato
 
 ### Rodada 3:
-* Ribas     -     Diogo
-* Vitor     -     Felipe
-* Alexandre     -     Sílvio
-* Freddy     -     Pedro
-* Léo     -     Renato
-* Milton     -     Ricardo
+* **Ribas**  `1   -   0`  Diogo
+* Vitor `0   -   1` **Felipe**
+* **Alexandre**  `1   -   0`  Sílvio
+* **Freddy**  `1   -   0`  Pedro
+* **Léo**  `1   -   0`  Renato
+* **Milton**  `1   -   0`  Ricardo
 
 ### Rodada 4:
 * Sílvio     -     Ribas
