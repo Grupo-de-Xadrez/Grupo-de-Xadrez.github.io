@@ -43,12 +43,12 @@ F,J=b
 I,G=w
 
 r:
-A,D=
-B,C=
-L,E=
-K,F=
-J,G=
-H,I=
+A,D=w
+B,C=b
+L,E=w
+K,F=w
+J,G=w
+H,I=w
 
 r:
 E,A=
