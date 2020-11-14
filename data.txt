@@ -60,11 +60,11 @@ G,K=
 
 r:
 A,F=
-B,E=
-C,D=
-L,G=
-K,H=
-J,I=
+B,E=w
+C,D=w
+L,G=d
+K,H=w
+J,I=b
 
 r:
 G,A=
