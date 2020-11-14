@@ -52,19 +52,19 @@ H,I=w
 
 r:
 E,A=
-D,B=
-I,C=
-H,J=
-F,L=
-G,K=
+D,B=w
+I,C=w
+H,J=d
+F,L=w
+G,K=b
 
 r:
 A,F=
-B,E=w
-C,D=w
-L,G=d
-K,H=w
-J,I=b
+B,E=
+C,D=
+L,G=
+K,H=
+J,I=
 
 r:
 G,A=
