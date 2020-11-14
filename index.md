@@ -16,45 +16,45 @@
 
 ### Rodada seguinte:
 * Ribas     -     Pedro
-* Vitor     -     Sílvio
-* Felipe     -     Diogo
-* Alexandre     -     Renato
-* Freddy     -     Milton
-* Léo     -     Ricardo
+* **Vitor**  `1   -   0`  Sílvio
+* **Felipe**  `1   -   0`  Diogo
+* Alexandre `1/2 - 1/2` Renato
+* **Freddy**  `1   -   0`  Milton
+* Léo `0   -   1` **Ricardo**
 
 ## Tabela
 
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | Milton | 3 | 3 | 2 | 3 |
-| 2 | Léo | 3 | 3 | 1 | 3 |
-| 3 | Felipe | 2.5 | 3 | 2 | 2 |
-| 4 | Ribas | 2.5 | 3 | 1 | 2 |
-| 5 | Ricardo | 2 | 3 | 1 | 2 |
-| 5 | Freddy | 2 | 3 | 1 | 2 |
-| 7 | Diogo | 1 | 3 | 2 | 1 |
-| 7 | Sílvio | 1 | 3 | 2 | 1 |
-| 9 | Alexandre | 1 | 3 | 1 | 1 |
-| 10 | Pedro | 0 | 3 | 2 | 0 |
-| 10 | Renato | 0 | 3 | 2 | 0 |
-| 12 | Vitor | 0 | 3 | 1 | 0 |
+| 1 | Felipe | 3.5 | 4 | 2 | 3 |
+| 2 | Milton | 3 | 4 | 3 | 3 |
+| 3 | Ricardo | 3 | 4 | 2 | 3 |
+| 4 | Léo | 3 | 4 | 1 | 3 |
+| 4 | Freddy | 3 | 4 | 1 | 3 |
+| 6 | Ribas | 2.5 | 3 | 1 | 2 |
+| 7 | Alexandre | 1.5 | 4 | 1 | 1 |
+| 8 | Diogo | 1 | 4 | 3 | 1 |
+| 8 | Sílvio | 1 | 4 | 3 | 1 |
+| 10 | Vitor | 1 | 4 | 1 | 1 |
+| 11 | Renato | 0.5 | 4 | 3 | 0 |
+| 12 | Pedro | 0 | 3 | 2 | 0 |
 
 ## Resultados
 
 | | RIB | VIT | FEL | DIO | SIL | PED | REN | MIL | RIC | LEO | FRE | ALE | Pts |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Ribas | :::::::: | 1 | 0.5 | 1 |  |  |  |  |  |  |  |  | 2.5 |
-| Vitor | 0 | :::::::: | 0 |  |  |  |  | 0 |  |  |  |  | 0 |
-| Felipe | 0.5 | 1 | :::::::: |  |  |  |  |  |  |  |  | 1 | 2.5 |
-| Diogo | 0 |  |  | :::::::: |  |  |  |  |  |  | 0 | 1 | 1 |
-| Sílvio |  |  |  |  | :::::::: |  |  |  |  | 0 | 1 | 0 | 1 |
+| Vitor | 0 | :::::::: | 0 |  | 1 |  |  | 0 |  |  |  |  | 1 |
+| Felipe | 0.5 | 1 | :::::::: | 1 |  |  |  |  |  |  |  | 1 | 3.5 |
+| Diogo | 0 |  | 0 | :::::::: |  |  |  |  |  |  | 0 | 1 | 1 |
+| Sílvio |  | 0 |  |  | :::::::: |  |  |  |  | 0 | 1 | 0 | 1 |
 | Pedro |  |  |  |  |  | :::::::: |  |  | 0 | 0 | 0 |  | 0 |
-| Renato |  |  |  |  |  |  | :::::::: | 0 | 0 | 0 |  |  | 0 |
-| Milton |  | 1 |  |  |  |  | 1 | :::::::: | 1 |  |  |  | 3 |
-| Ricardo |  |  |  |  |  | 1 | 1 | 0 | :::::::: |  |  |  | 2 |
-| Léo |  |  |  |  | 1 | 1 | 1 |  |  | :::::::: |  |  | 3 |
-| Freddy |  |  |  | 1 | 0 | 1 |  |  |  |  | :::::::: |  | 2 |
-| Alexandre |  |  | 0 | 0 | 1 |  |  |  |  |  |  | :::::::: | 1 |
+| Renato |  |  |  |  |  |  | :::::::: | 0 | 0 | 0 |  | 0.5 | 0.5 |
+| Milton |  | 1 |  |  |  |  | 1 | :::::::: | 1 |  | 0 |  | 3 |
+| Ricardo |  |  |  |  |  | 1 | 1 | 0 | :::::::: | 1 |  |  | 3 |
+| Léo |  |  |  |  | 1 | 1 | 1 |  | 0 | :::::::: |  |  | 3 |
+| Freddy |  |  |  | 1 | 0 | 1 |  | 1 |  |  | :::::::: |  | 3 |
+| Alexandre |  |  | 0 | 0 | 1 |  | 0.5 |  |  |  |  | :::::::: | 1.5 |
 
 ### Rodada 1:
 * **Ribas**  `1   -   0`  Vitor
@@ -90,11 +90,11 @@
 
 ### Rodada 5:
 * Ribas     -     Pedro
-* Vitor     -     Sílvio
-* Felipe     -     Diogo
-* Alexandre     -     Renato
-* Freddy     -     Milton
-* Léo     -     Ricardo
+* **Vitor**  `1   -   0`  Sílvio
+* **Felipe**  `1   -   0`  Diogo
+* Alexandre `1/2 - 1/2` Renato
+* **Freddy**  `1   -   0`  Milton
+* Léo `0   -   1` **Ricardo**
 
 ### Rodada 6:
 * Renato     -     Ribas
