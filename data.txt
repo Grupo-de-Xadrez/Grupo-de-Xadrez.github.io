@@ -3,7 +3,6 @@ A=Ribas
 B=Vitor
 C=Felipe
 D=Diogo
-E=Sílvio
 F=Pedro
 G=Renato
 H=Milton
@@ -17,7 +16,6 @@ A=RIB
 B=VIT
 C=FEL
 D=DIO
-E=SIL
 F=PED
 G=REN
 H=MIL
@@ -30,7 +28,6 @@ r:
 A,B=w
 L,C=b
 K,D=w
-J,E=w
 I,F=w
 G,H=b
 
@@ -38,20 +35,17 @@ r:
 C,A=d
 B,H=b
 D,L=w
-E,K=w
 F,J=b
 I,G=w
 
 r:
 A,D=w
 B,C=b
-L,E=w
 K,F=w
 J,G=w
 H,I=w
 
 r:
-E,A=
 D,B=w
 I,C=w
 H,J=d
@@ -60,7 +54,6 @@ G,K=b
 
 r:
 A,F=
-B,E=
 C,D=
 L,G=
 K,H=
@@ -69,7 +62,6 @@ J,I=
 r:
 G,A=
 F,B=
-E,C=
 D,J=
 H,L=
 I,K=
@@ -78,7 +70,6 @@ r:
 A,H=
 B,G=
 C,F=
-D,E=
 L,I=
 K,J=
 
@@ -87,7 +78,6 @@ I,A=
 B,K=
 G,C=
 F,D=
-H,E=
 J,L=
 
 r:
@@ -95,7 +85,6 @@ A,J=
 I,B=
 C,H=
 D,G=
-E,F=
 K,L=
 
 r:
@@ -104,12 +93,10 @@ L,B=
 J,C=
 H,D=
 G,F=
-E,I=
 
 r:
 A,L=
 J,B=
 C,K=
 D,I=
-G,E=
 F,H=
