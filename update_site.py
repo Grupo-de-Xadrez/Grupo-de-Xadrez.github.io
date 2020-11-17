@@ -1,6 +1,7 @@
 data = open('data.txt').read().split('\n')
 
 names = dict()
+abreviations = dict()
 rounds = list()
 
 analysing = None
@@ -13,6 +14,10 @@ for line in data:
     if analysing == 'n':
         if '=' in line:
             names[line.split('=')[0]] = line.split('=')[1]
+        continue
+    if analysing == 'a':
+        if '=' in line:
+            abreviations[line.split('=')[0]] = line.split('=')[1]
         continue
     if analysing == 'r':
         if '=' in line:
@@ -38,17 +43,31 @@ def getName(cod):
         return cod
     return names[cod]
 
-def toStrResult(cod):
-    if cod == 'w':
-        return 'Brancas venceram.'
-    if cod == 'd':
-        return 'Empatou.'
-    if cod == 'b':
-        return 'Pretas venceram.'
-    return ''
+def getAbbreviation(cod):
+    if abreviations[cod] == '':
+        return cod
+    return abreviations[cod]
+
+def toStrResult(game):
+    if game[1] == 'w':
+        return f'* **{getName(game[0][0])}**  `1   -   0`  {getName(game[0][1])}'
+    if game[1] == 'd':
+        return f'* {getName(game[0][0])} `1/2 - 1/2` {getName(game[0][1])}'
+    if game[1] == 'b':
+        return f'* {getName(game[0][0])} `0   -   1` **{getName(game[0][1])}**'
+    return f'* {getName(game[0][0])}     -     {getName(game[0][1])}'
+
+def toStrBye(r):
+    playersInBye = [names[player] for player in names.keys() if not any(map(lambda g: g[0][0] == player, r)) and not any(map(lambda g: g[0][1] == player, r))]
+
+    if len(playersInBye) == 0:
+        return ''
+
+    return '\n' + 'De folga: ' + ', '.join(playersInBye)
+
 
 def toStrRound(r):
-    return '\n'.join([f'* {getName(g[0][0])} vs {getName(g[0][1])} = {toStrResult(g[1])}' for g in r])
+    return '\n'.join([toStrResult(g) for g in r]) + toStrBye(r)
 
 def toStrStandings():
     points = {player: 0 for player in names.keys()}
@@ -79,7 +98,7 @@ def toStrStandings():
 
     tableStr += '| Pos | Nome | Pts | J | J P | V |'
     tableStr += '\n'
-    tableStr += '| --- | --- | --- | --- | --- | --- |'
+    tableStr += '| :---: | :--- | :---: | :---: | :---: | :---: |'
 
     lastI = None
     for i, entry in enumerate(table):
@@ -92,10 +111,66 @@ def toStrStandings():
 
     return tableStr
 
-page = ''
+def toStrCrossLine(cod):
+    lineStr = ''
 
-page += '# Torneio de Xadrez'
-page += '\n'
+    lineStr += f'| {getName(cod)} '
+
+    points = 0
+    for player in names.keys():
+        if player == cod:
+            lineStr += f'| :::::::: '
+            continue
+
+        for r in rounds:
+            for g in r:
+                if g[0][1] == cod and g[0][0] == player:
+                    if g[1] == 'w':
+                        result = '0'
+                    elif g[1] == 'd':
+                        result = '0.5'
+                        points += 0.5
+                    elif g[1] == 'b':
+                        result = '1'
+                        points += 1
+                    else:
+                        result = ''
+
+        # Feito duas vezes, para caso seja ida-volta, ele coloque na horizontal os resultados de brancas, senão (só ida), qualquer um.
+        for r in rounds:
+            for g in r:
+                if g[0][0] == cod and g[0][1] == player:
+                    if g[1] == 'w':
+                        result = '1'
+                        points += 1
+                    elif g[1] == 'd':
+                        result = '0.5'
+                        points += 0.5
+                    elif g[1] == 'b':
+                        result = '0'
+                    else:
+                        result = ''
+
+        lineStr += f'| {result} '
+
+    lineStr += f'| {points} '
+    lineStr += '|'
+
+    return lineStr
+
+def toStrCrossTable():
+    tableStr = ''
+
+    tableStr += '| | ' + ' | '.join([getAbbreviation(player) for player in names.keys()]) + ' | Pts |'
+    tableStr += '\n'
+    tableStr += '| :--- | ' + ' | '.join([':---:' for player in names.keys()]) + ' | :---: |'
+    tableStr += '\n'
+    tableStr += '\n'.join([toStrCrossLine(player) for player in names.keys()])
+
+    return tableStr
+
+
+page = ''
 
 if currentRound != None:
     page += '### Rodada atual:'
@@ -126,6 +201,10 @@ page += '\n'
 page += '\n'
 
 page += '## Resultados'
+page += '\n'
+page += '\n'
+page += toStrCrossTable()
+page += '\n'
 page += '\n'
 
 for i, r in enumerate(rounds):
