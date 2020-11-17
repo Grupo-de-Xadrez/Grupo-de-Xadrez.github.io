@@ -4,6 +4,7 @@
 * Alexandre     -     Renato
 * Freddy     -     Milton
 * Léo     -     Ricardo
+De folga: Vitor
 
 ### Rodada anterior:
 * **Diogo**  `1   -   0`  Vitor
@@ -11,6 +12,7 @@
 * Milton `1/2 - 1/2` Léo
 * **Pedro**  `1   -   0`  Alexandre
 * Renato `0   -   1` **Freddy**
+De folga: Ribas
 
 ### Rodada seguinte:
 * Renato     -     Ribas
@@ -18,6 +20,7 @@
 * Diogo     -     Léo
 * Milton     -     Alexandre
 * Ricardo     -     Freddy
+De folga: Felipe
 
 ## Tabela
 
@@ -57,6 +60,7 @@
 * **Freddy**  `1   -   0`  Diogo
 * **Ricardo**  `1   -   0`  Pedro
 * Renato `0   -   1` **Milton**
+De folga: Léo
 
 ### Rodada 2:
 * Felipe `1/2 - 1/2` Ribas
@@ -64,6 +68,7 @@
 * **Diogo**  `1   -   0`  Alexandre
 * Pedro `0   -   1` **Léo**
 * **Ricardo**  `1   -   0`  Renato
+De folga: Freddy
 
 ### Rodada 3:
 * **Ribas**  `1   -   0`  Diogo
@@ -71,6 +76,7 @@
 * **Freddy**  `1   -   0`  Pedro
 * **Léo**  `1   -   0`  Renato
 * **Milton**  `1   -   0`  Ricardo
+De folga: Alexandre
 
 ### Rodada 4:
 * **Diogo**  `1   -   0`  Vitor
@@ -78,6 +84,7 @@
 * Milton `1/2 - 1/2` Léo
 * **Pedro**  `1   -   0`  Alexandre
 * Renato `0   -   1` **Freddy**
+De folga: Ribas
 
 ### Rodada 5:
 * Ribas     -     Pedro
@@ -85,6 +92,7 @@
 * Alexandre     -     Renato
 * Freddy     -     Milton
 * Léo     -     Ricardo
+De folga: Vitor
 
 ### Rodada 6:
 * Renato     -     Ribas
@@ -92,6 +100,7 @@
 * Diogo     -     Léo
 * Milton     -     Alexandre
 * Ricardo     -     Freddy
+De folga: Felipe
 
 ### Rodada 7:
 * Ribas     -     Milton
@@ -99,6 +108,7 @@
 * Felipe     -     Pedro
 * Alexandre     -     Ricardo
 * Freddy     -     Léo
+De folga: Diogo
 
 ### Rodada 8:
 * Ricardo     -     Ribas
@@ -106,6 +116,7 @@
 * Renato     -     Felipe
 * Pedro     -     Diogo
 * Léo     -     Alexandre
+De folga: Milton
 
 ### Rodada 9:
 * Ribas     -     Léo
@@ -113,6 +124,7 @@
 * Felipe     -     Milton
 * Diogo     -     Renato
 * Freddy     -     Alexandre
+De folga: Pedro
 
 ### Rodada 10:
 * Freddy     -     Ribas
@@ -120,6 +132,7 @@
 * Léo     -     Felipe
 * Milton     -     Diogo
 * Renato     -     Pedro
+De folga: Ricardo
 
 ### Rodada 11:
 * Ribas     -     Alexandre
@@ -127,4 +140,5 @@
 * Felipe     -     Freddy
 * Diogo     -     Ricardo
 * Pedro     -     Milton
+De folga: Renato
 
