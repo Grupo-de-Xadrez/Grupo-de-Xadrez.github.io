@@ -53,10 +53,10 @@ F,L=w
 G,K=b
 
 r:
-A,F=
-C,D=
-L,G=
-K,H=
+A,F=w
+C,D=w
+L,G=b
+K,H=w
 J,I=
 
 r:
