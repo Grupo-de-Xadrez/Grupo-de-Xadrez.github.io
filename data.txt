@@ -57,7 +57,7 @@ A,F=w
 C,D=w
 L,G=b
 K,H=w
-J,I=
+J,I=w
 
 r:
 G,A=
