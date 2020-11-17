@@ -63,7 +63,7 @@ def toStrBye(r):
     if len(playersInBye) == 0:
         return ''
 
-    return '\n' + 'De folga: ' + ', '.join(playersInBye)
+    return '\n\n' + 'De folga: ' + ', '.join(playersInBye)
 
 
 def toStrRound(r):
