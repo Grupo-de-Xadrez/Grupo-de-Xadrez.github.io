@@ -1,22 +1,4 @@
 ### Rodada atual:
-* Renato `0   -   1` **Ribas**
-* Pedro     -     Vitor
-* Diogo     -     Léo
-* **Milton**  `1   -   0`  Alexandre
-* Ricardo `0   -   1` **Freddy**
-
-De folga: Felipe
-
-### Rodada anterior:
-* **Ribas**  `1   -   0`  Pedro
-* **Felipe**  `1   -   0`  Diogo
-* Alexandre `0   -   1` **Renato**
-* **Freddy**  `1   -   0`  Milton
-* **Léo**  `1   -   0`  Ricardo
-
-De folga: Vitor
-
-### Rodada seguinte:
 * Ribas     -     Milton
 * Vitor     -     Renato
 * Felipe     -     Pedro
@@ -25,35 +7,53 @@ De folga: Vitor
 
 De folga: Diogo
 
+### Rodada anterior:
+* Renato `0   -   1` **Ribas**
+* **Pedro**  `1   -   0`  Vitor
+* Diogo `0   -   1` **Léo**
+* **Milton**  `1   -   0`  Alexandre
+* Ricardo `0   -   1` **Freddy**
+
+De folga: Felipe
+
+### Rodada seguinte:
+* Ricardo     -     Ribas
+* Vitor     -     Freddy
+* Renato     -     Felipe
+* Pedro     -     Diogo
+* Léo     -     Alexandre
+
+De folga: Milton
+
 ## Tabela
 
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1 | Freddy | 5 | 5 | 2 | 5 |
-| 2 | Ribas | 4.5 | 5 | 2 | 4 |
-| 3 | Milton | 4.5 | 6 | 3 | 4 |
-| 4 | Léo | 3.5 | 4 | 2 | 3 |
+| 2 | Léo | 4.5 | 5 | 3 | 4 |
+| 3 | Ribas | 4.5 | 5 | 2 | 4 |
+| 4 | Milton | 4.5 | 6 | 3 | 4 |
 | 5 | Felipe | 3.5 | 5 | 3 | 3 |
 | 6 | Ricardo | 3 | 6 | 2 | 3 |
-| 7 | Diogo | 2 | 5 | 3 | 2 |
-| 8 | Pedro | 1 | 5 | 3 | 1 |
+| 7 | Diogo | 2 | 6 | 3 | 2 |
+| 7 | Pedro | 2 | 6 | 3 | 2 |
 | 9 | Renato | 1 | 6 | 3 | 1 |
-| 10 | Vitor | 0 | 4 | 2 | 0 |
-| 11 | Alexandre | 0 | 5 | 3 | 0 |
+| 10 | Vitor | 0 | 5 | 3 | 0 |
+| 10 | Alexandre | 0 | 5 | 3 | 0 |
 
 ## Resultados
 
 | | RIB | VIT | FEL | DIO | PED | REN | MIL | RIC | LEO | FRE | ALE | Pts |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Ribas | :::::::: | 1 | 0.5 | 1 | 1 | 1 |  |  |  |  |  | 4.5 |
-| Vitor | 0 | :::::::: | 0 | 0 |  |  | 0 |  |  |  |  | 0 |
+| Vitor | 0 | :::::::: | 0 | 0 | 0 |  | 0 |  |  |  |  | 0 |
 | Felipe | 0.5 | 1 | :::::::: | 1 |  |  |  | 0 |  |  | 1 | 3.5 |
-| Diogo | 0 | 1 | 0 | :::::::: |  |  |  |  |  | 0 | 1 | 2 |
-| Pedro | 0 |  |  |  | :::::::: |  |  | 0 | 0 | 0 | 1 | 1 |
+| Diogo | 0 | 1 | 0 | :::::::: |  |  |  |  | 0 | 0 | 1 | 2 |
+| Pedro | 0 | 1 |  |  | :::::::: |  |  | 0 | 0 | 0 | 1 | 2 |
 | Renato | 0 |  |  |  |  | :::::::: | 0 | 0 | 0 | 0 | 1 | 1 |
 | Milton |  | 1 |  |  |  | 1 | :::::::: | 1 | 0.5 | 0 | 1 | 4.5 |
 | Ricardo |  |  | 1 |  | 1 | 1 | 0 | :::::::: | 0 | 0 |  | 3 |
-| Léo |  |  |  |  | 1 | 1 | 0.5 | 1 | :::::::: |  |  | 3.5 |
+| Léo |  |  |  | 1 | 1 | 1 | 0.5 | 1 | :::::::: |  |  | 4.5 |
 | Freddy |  |  |  | 1 | 1 | 1 | 1 | 1 |  | :::::::: |  | 5 |
 | Alexandre |  |  | 0 | 0 | 0 | 0 | 0 |  |  |  | :::::::: | 0 |
 
@@ -104,8 +104,8 @@ De folga: Vitor
 
 ### Rodada 6:
 * Renato `0   -   1` **Ribas**
-* Pedro     -     Vitor
-* Diogo     -     Léo
+* **Pedro**  `1   -   0`  Vitor
+* Diogo `0   -   1` **Léo**
 * **Milton**  `1   -   0`  Alexandre
 * Ricardo `0   -   1` **Freddy**
 
