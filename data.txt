@@ -67,11 +67,11 @@ H,L=w
 I,K=b
 
 r:
-A,H=
+A,H=w
 B,G=
 C,F=
 L,I=
-K,J=
+K,J=b
 
 r:
 I,A=
