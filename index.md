@@ -1,9 +1,9 @@
 ### Rodada atual:
-* Ribas     -     Milton
+* **Ribas**  `1   -   0`  Milton
 * Vitor     -     Renato
 * Felipe     -     Pedro
 * Alexandre     -     Ricardo
-* Freddy     -     Léo
+* Freddy `0   -   1` **Léo**
 
 De folga: Diogo
 
@@ -29,10 +29,10 @@ De folga: Milton
 
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | Freddy | 5 | 5 | 2 | 5 |
-| 2 | Léo | 4.5 | 5 | 3 | 4 |
-| 3 | Ribas | 4.5 | 5 | 2 | 4 |
-| 4 | Milton | 4.5 | 6 | 3 | 4 |
+| 1 | Léo | 5.5 | 6 | 4 | 5 |
+| 2 | Ribas | 5.5 | 6 | 2 | 5 |
+| 3 | Freddy | 5 | 6 | 2 | 5 |
+| 4 | Milton | 4.5 | 7 | 4 | 4 |
 | 5 | Felipe | 3.5 | 5 | 3 | 3 |
 | 6 | Ricardo | 3 | 6 | 2 | 3 |
 | 7 | Diogo | 2 | 6 | 3 | 2 |
@@ -45,16 +45,16 @@ De folga: Milton
 
 | | RIB | VIT | FEL | DIO | PED | REN | MIL | RIC | LEO | FRE | ALE | Pts |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Ribas | :::::::: | 1 | 0.5 | 1 | 1 | 1 |  |  |  |  |  | 4.5 |
+| Ribas | :::::::: | 1 | 0.5 | 1 | 1 | 1 | 1 |  |  |  |  | 5.5 |
 | Vitor | 0 | :::::::: | 0 | 0 | 0 |  | 0 |  |  |  |  | 0 |
 | Felipe | 0.5 | 1 | :::::::: | 1 |  |  |  | 0 |  |  | 1 | 3.5 |
 | Diogo | 0 | 1 | 0 | :::::::: |  |  |  |  | 0 | 0 | 1 | 2 |
 | Pedro | 0 | 1 |  |  | :::::::: |  |  | 0 | 0 | 0 | 1 | 2 |
 | Renato | 0 |  |  |  |  | :::::::: | 0 | 0 | 0 | 0 | 1 | 1 |
-| Milton |  | 1 |  |  |  | 1 | :::::::: | 1 | 0.5 | 0 | 1 | 4.5 |
+| Milton | 0 | 1 |  |  |  | 1 | :::::::: | 1 | 0.5 | 0 | 1 | 4.5 |
 | Ricardo |  |  | 1 |  | 1 | 1 | 0 | :::::::: | 0 | 0 |  | 3 |
-| Léo |  |  |  | 1 | 1 | 1 | 0.5 | 1 | :::::::: |  |  | 4.5 |
-| Freddy |  |  |  | 1 | 1 | 1 | 1 | 1 |  | :::::::: |  | 5 |
+| Léo |  |  |  | 1 | 1 | 1 | 0.5 | 1 | :::::::: | 1 |  | 5.5 |
+| Freddy |  |  |  | 1 | 1 | 1 | 1 | 1 | 0 | :::::::: |  | 5 |
 | Alexandre |  |  | 0 | 0 | 0 | 0 | 0 |  |  |  | :::::::: | 0 |
 
 ### Rodada 1:
@@ -112,11 +112,11 @@ De folga: Vitor
 De folga: Felipe
 
 ### Rodada 7:
-* Ribas     -     Milton
+* **Ribas**  `1   -   0`  Milton
 * Vitor     -     Renato
 * Felipe     -     Pedro
 * Alexandre     -     Ricardo
-* Freddy     -     Léo
+* Freddy `0   -   1` **Léo**
 
 De folga: Diogo
 
