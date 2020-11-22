@@ -68,7 +68,7 @@ I,K=b
 
 r:
 A,H=w
-B,G=
+B,G=w
 C,F=
 L,I=
 K,J=b
