@@ -1,6 +1,6 @@
 ### Rodada atual:
 * **Ribas**  `1   -   0`  Milton
-* Vitor     -     Renato
+* **Vitor**  `1   -   0`  Renato
 * Felipe     -     Pedro
 * Alexandre     -     Ricardo
 * Freddy `0   -   1` **Léo**
@@ -37,20 +37,20 @@ De folga: Milton
 | 6 | Ricardo | 3 | 6 | 2 | 3 |
 | 7 | Diogo | 2 | 6 | 3 | 2 |
 | 7 | Pedro | 2 | 6 | 3 | 2 |
-| 9 | Renato | 1 | 6 | 3 | 1 |
-| 10 | Vitor | 0 | 5 | 3 | 0 |
-| 10 | Alexandre | 0 | 5 | 3 | 0 |
+| 9 | Vitor | 1 | 6 | 3 | 1 |
+| 10 | Renato | 1 | 7 | 4 | 1 |
+| 11 | Alexandre | 0 | 5 | 3 | 0 |
 
 ## Resultados
 
 | | RIB | VIT | FEL | DIO | PED | REN | MIL | RIC | LEO | FRE | ALE | Pts |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Ribas | :::::::: | 1 | 0.5 | 1 | 1 | 1 | 1 |  |  |  |  | 5.5 |
-| Vitor | 0 | :::::::: | 0 | 0 | 0 |  | 0 |  |  |  |  | 0 |
+| Vitor | 0 | :::::::: | 0 | 0 | 0 | 1 | 0 |  |  |  |  | 1 |
 | Felipe | 0.5 | 1 | :::::::: | 1 |  |  |  | 0 |  |  | 1 | 3.5 |
 | Diogo | 0 | 1 | 0 | :::::::: |  |  |  |  | 0 | 0 | 1 | 2 |
 | Pedro | 0 | 1 |  |  | :::::::: |  |  | 0 | 0 | 0 | 1 | 2 |
-| Renato | 0 |  |  |  |  | :::::::: | 0 | 0 | 0 | 0 | 1 | 1 |
+| Renato | 0 | 0 |  |  |  | :::::::: | 0 | 0 | 0 | 0 | 1 | 1 |
 | Milton | 0 | 1 |  |  |  | 1 | :::::::: | 1 | 0.5 | 0 | 1 | 4.5 |
 | Ricardo |  |  | 1 |  | 1 | 1 | 0 | :::::::: | 0 | 0 |  | 3 |
 | Léo |  |  |  | 1 | 1 | 1 | 0.5 | 1 | :::::::: | 1 |  | 5.5 |
@@ -113,7 +113,7 @@ De folga: Felipe
 
 ### Rodada 7:
 * **Ribas**  `1   -   0`  Milton
-* Vitor     -     Renato
+* **Vitor**  `1   -   0`  Renato
 * Felipe     -     Pedro
 * Alexandre     -     Ricardo
 * Freddy `0   -   1` **Léo**
