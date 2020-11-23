@@ -70,7 +70,7 @@ r:
 A,H=w
 B,G=w
 C,F=
-L,I=
+L,I=b
 K,J=b
 
 r:
