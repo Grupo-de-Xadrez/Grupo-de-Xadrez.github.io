@@ -69,7 +69,7 @@ I,K=b
 r:
 A,H=w
 B,G=w
-C,F=
+C,F=b
 L,I=b
 K,J=b
 
