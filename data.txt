@@ -75,7 +75,7 @@ K,J=b
 
 r:
 I,A=w
-B,K=
+B,K=b
 G,C=
 F,D=b
 J,L=w
