@@ -74,11 +74,11 @@ L,I=b
 K,J=b
 
 r:
-I,A=
+I,A=w
 B,K=
 G,C=
-F,D=
-J,L=
+F,D=b
+J,L=w
 
 r:
 A,J=
