@@ -1,6 +1,6 @@
 ### Rodada atual:
 * **Ricardo**  `1   -   0`  Ribas
-* Vitor     -     Freddy
+* Vitor `0   -   1` **Freddy**
 * Renato     -     Felipe
 * Pedro `0   -   1` **Diogo**
 * **Léo**  `1   -   0`  Alexandre
@@ -30,15 +30,15 @@ De folga: Pedro
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1 | Léo | 6.5 | 7 | 4 | 6 |
-| 2 | Ribas | 5.5 | 7 | 3 | 5 |
-| 3 | Freddy | 5 | 6 | 2 | 5 |
+| 2 | Freddy | 6 | 7 | 3 | 6 |
+| 3 | Ribas | 5.5 | 7 | 3 | 5 |
 | 4 | Ricardo | 5 | 8 | 3 | 5 |
 | 5 | Milton | 4.5 | 7 | 4 | 4 |
 | 6 | Felipe | 3.5 | 6 | 3 | 3 |
 | 7 | Diogo | 3 | 7 | 4 | 3 |
 | 8 | Pedro | 3 | 8 | 4 | 3 |
-| 9 | Vitor | 1 | 6 | 3 | 1 |
-| 10 | Renato | 1 | 7 | 4 | 1 |
+| 9 | Renato | 1 | 7 | 4 | 1 |
+| 10 | Vitor | 1 | 7 | 3 | 1 |
 | 11 | Alexandre | 0 | 7 | 4 | 0 |
 
 ## Resultados
@@ -46,7 +46,7 @@ De folga: Pedro
 | | RIB | VIT | FEL | DIO | PED | REN | MIL | RIC | LEO | FRE | ALE | Pts |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Ribas | :::::::: | 1 | 0.5 | 1 | 1 | 1 | 1 | 0 |  |  |  | 5.5 |
-| Vitor | 0 | :::::::: | 0 | 0 | 0 | 1 | 0 |  |  |  |  | 1 |
+| Vitor | 0 | :::::::: | 0 | 0 | 0 | 1 | 0 |  |  | 0 |  | 1 |
 | Felipe | 0.5 | 1 | :::::::: | 1 | 0 |  |  | 0 |  |  | 1 | 3.5 |
 | Diogo | 0 | 1 | 0 | :::::::: | 1 |  |  |  | 0 | 0 | 1 | 3 |
 | Pedro | 0 | 1 | 1 | 0 | :::::::: |  |  | 0 | 0 | 0 | 1 | 3 |
@@ -54,7 +54,7 @@ De folga: Pedro
 | Milton | 0 | 1 |  |  |  | 1 | :::::::: | 1 | 0.5 | 0 | 1 | 4.5 |
 | Ricardo | 1 |  | 1 |  | 1 | 1 | 0 | :::::::: | 0 | 0 | 1 | 5 |
 | Léo |  |  |  | 1 | 1 | 1 | 0.5 | 1 | :::::::: | 1 | 1 | 6.5 |
-| Freddy |  |  |  | 1 | 1 | 1 | 1 | 1 | 0 | :::::::: |  | 5 |
+| Freddy |  | 1 |  | 1 | 1 | 1 | 1 | 1 | 0 | :::::::: |  | 6 |
 | Alexandre |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | :::::::: | 0 |
 
 ### Rodada 1:
@@ -122,7 +122,7 @@ De folga: Diogo
 
 ### Rodada 8:
 * **Ricardo**  `1   -   0`  Ribas
-* Vitor     -     Freddy
+* Vitor `0   -   1` **Freddy**
 * Renato     -     Felipe
 * Pedro `0   -   1` **Diogo**
 * **Léo**  `1   -   0`  Alexandre
