@@ -81,11 +81,11 @@ F,D=b
 J,L=w
 
 r:
-A,J=
+A,J=b
 I,B=
-C,H=
+C,H=b
 D,G=
-K,L=
+K,L=w
 
 r:
 K,A=
