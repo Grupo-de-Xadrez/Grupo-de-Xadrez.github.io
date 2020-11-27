@@ -84,7 +84,7 @@ r:
 A,J=b
 I,B=
 C,H=b
-D,G=
+D,G=w
 K,L=w
 
 r:
