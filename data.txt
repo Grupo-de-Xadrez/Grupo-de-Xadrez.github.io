@@ -82,7 +82,7 @@ J,L=w
 
 r:
 A,J=b
-I,B=
+I,B=w
 C,H=b
 D,G=w
 K,L=w
