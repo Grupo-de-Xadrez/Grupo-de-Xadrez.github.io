@@ -1,5 +1,5 @@
 ### Rodada atual:
-* Freddy     -     Ribas
+* Freddy `0   -   1` **Ribas**
 * Alexandre     -     Vitor
 * Léo     -     Felipe
 * Milton     -     Diogo
@@ -30,9 +30,9 @@ De folga: Renato
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1 | Léo | 7.5 | 8 | 5 | 7 |
-| 2 | Freddy | 7 | 8 | 3 | 7 |
-| 3 | Milton | 5.5 | 8 | 5 | 5 |
-| 4 | Ribas | 5.5 | 8 | 3 | 5 |
+| 2 | Freddy | 7 | 9 | 3 | 7 |
+| 3 | Ribas | 6.5 | 9 | 4 | 6 |
+| 4 | Milton | 5.5 | 8 | 5 | 5 |
 | 5 | Ricardo | 5 | 9 | 4 | 5 |
 | 6 | Felipe | 4.5 | 8 | 4 | 4 |
 | 7 | Diogo | 4 | 8 | 4 | 4 |
@@ -45,7 +45,7 @@ De folga: Renato
 
 | | RIB | VIT | FEL | DIO | PED | REN | MIL | RIC | LEO | FRE | ALE | Pts |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Ribas | :::::::: | 1 | 0.5 | 1 | 1 | 1 | 1 | 0 | 0 |  |  | 5.5 |
+| Ribas | :::::::: | 1 | 0.5 | 1 | 1 | 1 | 1 | 0 | 0 | 1 |  | 6.5 |
 | Vitor | 0 | :::::::: | 0 | 0 | 0 | 1 | 0 | 1 |  | 0 |  | 2 |
 | Felipe | 0.5 | 1 | :::::::: | 1 | 0 | 1 | 0 | 0 |  |  | 1 | 4.5 |
 | Diogo | 0 | 1 | 0 | :::::::: | 1 | 1 |  |  | 0 | 0 | 1 | 4 |
@@ -54,7 +54,7 @@ De folga: Renato
 | Milton | 0 | 1 | 1 |  |  | 1 | :::::::: | 1 | 0.5 | 0 | 1 | 5.5 |
 | Ricardo | 1 | 0 | 1 |  | 1 | 1 | 0 | :::::::: | 0 | 0 | 1 | 5 |
 | Léo | 1 |  |  | 1 | 1 | 1 | 0.5 | 1 | :::::::: | 1 | 1 | 7.5 |
-| Freddy |  | 1 |  | 1 | 1 | 1 | 1 | 1 | 0 | :::::::: | 1 | 7 |
+| Freddy | 0 | 1 |  | 1 | 1 | 1 | 1 | 1 | 0 | :::::::: | 1 | 7 |
 | Alexandre |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | :::::::: | 0 |
 
 ### Rodada 1:
@@ -139,7 +139,7 @@ De folga: Milton
 De folga: Pedro
 
 ### Rodada 10:
-* Freddy     -     Ribas
+* Freddy `0   -   1` **Ribas**
 * Alexandre     -     Vitor
 * Léo     -     Felipe
 * Milton     -     Diogo
