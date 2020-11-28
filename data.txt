@@ -88,7 +88,7 @@ D,G=w
 K,L=w
 
 r:
-K,A=
+K,A=b
 L,B=
 J,C=
 H,D=
