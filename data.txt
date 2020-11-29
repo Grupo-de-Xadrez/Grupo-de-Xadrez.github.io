@@ -90,9 +90,9 @@ K,L=w
 r:
 K,A=b
 L,B=
-J,C=
-H,D=
-G,F=
+J,C=w
+H,D=w
+G,F=w
 
 r:
 A,L=
