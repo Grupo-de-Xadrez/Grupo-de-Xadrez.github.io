@@ -3,6 +3,7 @@ data = open('data.txt').read().split('\n')
 names = dict()
 abreviations = dict()
 rounds = list()
+playersSorted = list()
 
 analysing = None
 for line in data:
@@ -92,7 +93,7 @@ def toStrStandings():
             games[g[0][1]] += 1
             gamesAsBlack[g[0][1]] += 1
 
-    table = list(map(lambda player: (getName(player), points[player], games[player], gamesAsBlack[player], wins[player]), sorted(names.keys(), key = lambda player: (points[player], -games[player], gamesAsBlack[player], wins[player]), reverse=True)))
+    table = list(map(lambda player: (player, getName(player), points[player], games[player], gamesAsBlack[player], wins[player]), sorted(names.keys(), key = lambda player: (points[player], -games[player], gamesAsBlack[player], wins[player]), reverse=True)))
 
     tableStr = ''
 
@@ -102,12 +103,13 @@ def toStrStandings():
 
     lastI = None
     for i, entry in enumerate(table):
+        playersSorted.append(entry[0])
         tableStr += '\n'
-        if i == 0 or entry[1:] != table[i - 1][1:]:
-            tableStr += f'| {i + 1} | {" | ".join(map(str, entry))} |'
+        if i == 0 or entry[2:] != table[i - 1][1:]:
+            tableStr += f'| {i + 1} | {" | ".join(map(str, entry[1:]))} |'
             lastI = i
         else:
-            tableStr += f'| {lastI + 1} | {" | ".join(map(str, entry))} |'
+            tableStr += f'| {lastI + 1} | {" | ".join(map(str, entry[1:]))} |'
 
     return tableStr
 
@@ -117,7 +119,7 @@ def toStrCrossLine(cod):
     lineStr += f'| {getName(cod)} '
 
     points = 0
-    for player in names.keys():
+    for player in playersSorted:
         if player == cod:
             lineStr += f'| :::::::: '
             continue
@@ -161,11 +163,11 @@ def toStrCrossLine(cod):
 def toStrCrossTable():
     tableStr = ''
 
-    tableStr += '| | ' + ' | '.join([getAbbreviation(player) for player in names.keys()]) + ' | Pts |'
+    tableStr += '| | ' + ' | '.join([getAbbreviation(player) for player in playersSorted]) + ' | Pts |'
     tableStr += '\n'
-    tableStr += '| :--- | ' + ' | '.join([':---:' for player in names.keys()]) + ' | :---: |'
+    tableStr += '| :--- | ' + ' | '.join([':---:' for player in playersSorted]) + ' | :---: |'
     tableStr += '\n'
-    tableStr += '\n'.join([toStrCrossLine(player) for player in names.keys()])
+    tableStr += '\n'.join([toStrCrossLine(player) for player in playersSorted])
 
     return tableStr
 
