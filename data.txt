@@ -89,7 +89,7 @@ K,L=w
 
 r:
 K,A=b
-L,B=
+L,B=b
 J,C=w
 H,D=w
 G,F=w
