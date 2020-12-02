@@ -36,7 +36,7 @@ De folga: Léo
 | 5 | Ricardo | 6 | 10 | 5 | 6 |
 | 6 | Felipe | 4.5 | 10 | 5 | 4 |
 | 7 | Diogo | 4 | 10 | 5 | 4 |
-| 8 | Pedro | 4 | 10 | 5 | 4 |
+| 7 | Pedro | 4 | 10 | 5 | 4 |
 | 9 | Vitor | 3 | 9 | 4 | 3 |
 | 10 | Renato | 2 | 10 | 5 | 2 |
 | 11 | Alexandre | 0 | 10 | 6 | 0 |
