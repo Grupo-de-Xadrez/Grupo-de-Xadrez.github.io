@@ -95,11 +95,11 @@ H,D=w
 G,F=w
 
 r:
-A,L=
+A,L=w
 J,B=
-C,K=
-D,I=
-F,H=
+C,K=b
+D,I=b
+F,H=w
 
 r:
 B,A=
