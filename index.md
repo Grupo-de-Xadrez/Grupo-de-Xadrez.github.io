@@ -1,7 +1,7 @@
 ### Rodada atual:
 * Vitor     -     Ribas
 * Felipe     -     Alexandre
-* Diogo     -     Freddy
+* Diogo `0   -   1` **Freddy**
 * Pedro     -     Ricardo
 * Milton     -     Renato
 
@@ -30,31 +30,31 @@ De folga: Freddy
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1 | Léo | 9.5 | 10 | 5 | 9 |
-| 2 | Freddy | 8 | 10 | 4 | 8 |
+| 2 | Freddy | 9 | 11 | 5 | 9 |
 | 3 | Ribas | 7.5 | 10 | 4 | 7 |
 | 4 | Milton | 6.5 | 10 | 6 | 6 |
 | 5 | Ricardo | 6 | 10 | 5 | 6 |
 | 6 | Felipe | 4.5 | 10 | 5 | 4 |
-| 7 | Diogo | 4 | 10 | 5 | 4 |
 | 7 | Pedro | 4 | 10 | 5 | 4 |
+| 8 | Diogo | 4 | 11 | 5 | 4 |
 | 9 | Vitor | 3 | 10 | 5 | 3 |
 | 10 | Renato | 2 | 10 | 5 | 2 |
 | 11 | Alexandre | 0 | 10 | 6 | 0 |
 
 ## Resultados
 
-| | LEO | FRE | RIB | MIL | RIC | FEL | DIO | PED | VIT | REN | ALE | Pts |
+| | LEO | FRE | RIB | MIL | RIC | FEL | PED | DIO | VIT | REN | ALE | Pts |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Léo | :::::::: |  |  |  | 1 | 1 |  |  | 1 | 1 | 1 | 9.5 |
-| Freddy | 0 | :::::::: | 0 | 1 |  |  | 1 | 1 |  |  | 1 | 8 |
+| Freddy | 0 | :::::::: | 0 | 1 |  |  | 1 | 1 |  |  | 1 | 9 |
 | Ribas | 0 |  | :::::::: | 1 |  |  | 1 | 1 | 1 |  | 1 | 7.5 |
-| Milton | 0.5 |  |  | :::::::: | 1 |  | 1 |  |  |  | 1 | 6.5 |
-| Ricardo |  | 0 | 1 |  | :::::::: | 1 |  | 1 |  | 1 |  | 6 |
-| Felipe |  | 0 | 0.5 | 0 |  | :::::::: | 1 | 0 |  |  |  | 4.5 |
-| Diogo | 0 |  |  |  | 0 |  | :::::::: |  | 1 | 1 | 1 | 4 |
-| Pedro | 0 |  |  | 1 |  |  | 0 | :::::::: | 1 |  | 1 | 4 |
+| Milton | 0.5 |  |  | :::::::: | 1 |  |  | 1 |  |  | 1 | 6.5 |
+| Ricardo |  | 0 | 1 |  | :::::::: | 1 | 1 |  |  | 1 |  | 6 |
+| Felipe |  | 0 | 0.5 | 0 |  | :::::::: | 0 | 1 |  |  |  | 4.5 |
+| Pedro | 0 |  |  | 1 |  |  | :::::::: | 0 | 1 |  | 1 | 4 |
+| Diogo | 0 | 0 |  |  | 0 |  |  | :::::::: | 1 | 1 | 1 | 4 |
 | Vitor |  | 0 |  | 0 | 1 | 0 |  |  | :::::::: | 1 |  | 3 |
-| Renato |  | 0 | 0 | 0 |  | 0 |  | 1 |  | :::::::: |  | 2 |
+| Renato |  | 0 | 0 | 0 |  | 0 | 1 |  |  | :::::::: |  | 2 |
 | Alexandre |  |  |  |  | 0 | 0 |  |  | 0 | 0 | :::::::: | 0 |
 
 ### Rodada 1:
@@ -159,7 +159,7 @@ De folga: Renato
 ### Rodada 12:
 * Vitor     -     Ribas
 * Felipe     -     Alexandre
-* Diogo     -     Freddy
+* Diogo `0   -   1` **Freddy**
 * Pedro     -     Ricardo
 * Milton     -     Renato
 
