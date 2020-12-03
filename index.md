@@ -1,22 +1,4 @@
 ### Rodada atual:
-* **Ribas**  `1   -   0`  Alexandre
-* Léo     -     Vitor
-* Felipe `0   -   1` **Freddy**
-* Diogo `0   -   1` **Ricardo**
-* **Pedro**  `1   -   0`  Milton
-
-De folga: Renato
-
-### Rodada anterior:
-* Freddy `0   -   1` **Ribas**
-* Alexandre `0   -   1` **Vitor**
-* **Léo**  `1   -   0`  Felipe
-* **Milton**  `1   -   0`  Diogo
-* **Renato**  `1   -   0`  Pedro
-
-De folga: Ricardo
-
-### Rodada seguinte:
 * Vitor     -     Ribas
 * Felipe     -     Alexandre
 * Diogo     -     Freddy
@@ -25,11 +7,29 @@ De folga: Ricardo
 
 De folga: Léo
 
+### Rodada anterior:
+* **Ribas**  `1   -   0`  Alexandre
+* **Léo**  `1   -   0`  Vitor
+* Felipe `0   -   1` **Freddy**
+* Diogo `0   -   1` **Ricardo**
+* **Pedro**  `1   -   0`  Milton
+
+De folga: Renato
+
+### Rodada seguinte:
+* Ribas     -     Felipe
+* Milton     -     Vitor
+* Alexandre     -     Diogo
+* Léo     -     Pedro
+* Renato     -     Ricardo
+
+De folga: Freddy
+
 ## Tabela
 
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | Léo | 8.5 | 9 | 5 | 8 |
+| 1 | Léo | 9.5 | 10 | 5 | 9 |
 | 2 | Freddy | 8 | 10 | 4 | 8 |
 | 3 | Ribas | 7.5 | 10 | 4 | 7 |
 | 4 | Milton | 6.5 | 10 | 6 | 6 |
@@ -37,7 +37,7 @@ De folga: Léo
 | 6 | Felipe | 4.5 | 10 | 5 | 4 |
 | 7 | Diogo | 4 | 10 | 5 | 4 |
 | 7 | Pedro | 4 | 10 | 5 | 4 |
-| 9 | Vitor | 3 | 9 | 4 | 3 |
+| 9 | Vitor | 3 | 10 | 5 | 3 |
 | 10 | Renato | 2 | 10 | 5 | 2 |
 | 11 | Alexandre | 0 | 10 | 6 | 0 |
 
@@ -45,7 +45,7 @@ De folga: Léo
 
 | | LEO | FRE | RIB | MIL | RIC | FEL | DIO | PED | VIT | REN | ALE | Pts |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Léo | :::::::: |  |  |  | 1 | 1 |  |  |  | 1 | 1 | 8.5 |
+| Léo | :::::::: |  |  |  | 1 | 1 |  |  | 1 | 1 | 1 | 9.5 |
 | Freddy | 0 | :::::::: | 0 | 1 |  |  | 1 | 1 |  |  | 1 | 8 |
 | Ribas | 0 |  | :::::::: | 1 |  |  | 1 | 1 | 1 |  | 1 | 7.5 |
 | Milton | 0.5 |  |  | :::::::: | 1 |  | 1 |  |  |  | 1 | 6.5 |
@@ -149,7 +149,7 @@ De folga: Ricardo
 
 ### Rodada 11:
 * **Ribas**  `1   -   0`  Alexandre
-* Léo     -     Vitor
+* **Léo**  `1   -   0`  Vitor
 * Felipe `0   -   1` **Freddy**
 * Diogo `0   -   1` **Ricardo**
 * **Pedro**  `1   -   0`  Milton
