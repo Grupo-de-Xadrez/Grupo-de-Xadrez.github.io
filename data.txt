@@ -96,7 +96,7 @@ G,F=w
 
 r:
 A,L=w
-J,B=
+J,B=w
 C,K=b
 D,I=b
 F,H=w
