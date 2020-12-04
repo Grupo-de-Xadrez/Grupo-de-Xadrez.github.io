@@ -102,11 +102,11 @@ D,I=b
 F,H=w
 
 r:
-B,A=
-C,L=
+B,A=b
+C,L=w
 D,K=b
-F,I=
-H,G=
+F,I=w
+H,G=w
 
 r:
 A,C=
