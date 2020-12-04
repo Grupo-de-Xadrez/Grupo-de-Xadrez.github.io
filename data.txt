@@ -10,6 +10,7 @@ I=Ricardo
 J=Léo
 K=Freddy
 L=Alexandre
+M=Marcelo
 
 a:
 A=RIB
@@ -23,6 +24,7 @@ I=RIC
 J=LEO
 K=FRE
 L=ALE
+M=MAR
 
 r:
 A,B=w
@@ -107,6 +109,7 @@ C,L=w
 D,K=b
 F,I=w
 H,G=w
+M,J=
 
 r:
 A,C=
@@ -114,6 +117,7 @@ H,B=
 L,D=
 J,F=
 G,I=
+K,M=
 
 r:
 D,A=
@@ -121,6 +125,7 @@ C,B=
 F,K=
 G,J=
 I,H=
+M,L=
 
 r:
 B,D=
@@ -128,6 +133,7 @@ C,I=
 J,H=
 L,F=
 K,G=
+A,M=
 
 r:
 F,A=
@@ -135,6 +141,7 @@ D,C=
 G,L=
 H,K=
 I,J=
+M,B=
 
 r:
 A,G=
@@ -142,6 +149,7 @@ B,F=
 J,D=
 L,H=
 K,I=
+C,M=
 
 r:
 H,A=
@@ -149,6 +157,7 @@ G,B=
 F,C=
 I,L=
 J,K=
+M,D=
 
 r:
 A,I=
@@ -156,6 +165,7 @@ K,B=
 C,G=
 D,F=
 L,J=
+M,H=
 
 r:
 J,A=
@@ -163,6 +173,7 @@ I,B=
 H,C=
 G,D=
 L,K=
+F,M=
 
 r:
 A,K=
@@ -170,6 +181,7 @@ B,L=
 C,J=
 D,H=
 F,G=
+I,M=
 
 r:
 L,A=
@@ -177,3 +189,4 @@ B,J=
 K,C=
 I,D=
 H,F=
+M,G=
