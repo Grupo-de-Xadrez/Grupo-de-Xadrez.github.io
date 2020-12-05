@@ -109,7 +109,7 @@ C,L=w
 D,K=b
 F,I=w
 H,G=w
-M,J=
+M,J=d
 
 r:
 A,C=
