@@ -1,21 +1,4 @@
 ### Rodada atual:
-* Vitor `0   -   1` **Ribas**
-* **Felipe**  `1   -   0`  Alexandre
-* Diogo `0   -   1` **Freddy**
-* **Pedro**  `1   -   0`  Ricardo
-* **Milton**  `1   -   0`  Renato
-* Marcelo     -     Léo
-
-### Rodada anterior:
-* **Ribas**  `1   -   0`  Alexandre
-* **Léo**  `1   -   0`  Vitor
-* Felipe `0   -   1` **Freddy**
-* Diogo `0   -   1` **Ricardo**
-* **Pedro**  `1   -   0`  Milton
-
-De folga: Renato, Marcelo
-
-### Rodada seguinte:
 * Ribas     -     Felipe
 * Milton     -     Vitor
 * Alexandre     -     Diogo
@@ -23,13 +6,29 @@ De folga: Renato, Marcelo
 * Renato     -     Ricardo
 * Freddy     -     Marcelo
 
+### Rodada anterior:
+* Vitor `0   -   1` **Ribas**
+* **Felipe**  `1   -   0`  Alexandre
+* Diogo `0   -   1` **Freddy**
+* **Pedro**  `1   -   0`  Ricardo
+* **Milton**  `1   -   0`  Renato
+* Marcelo `1/2 - 1/2` Léo
+
+### Rodada seguinte:
+* Diogo     -     Ribas
+* Felipe     -     Vitor
+* Pedro     -     Freddy
+* Renato     -     Léo
+* Ricardo     -     Milton
+* Marcelo     -     Alexandre
+
 ## Tabelas
 
 ### Geral
 
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | Léo | 9.5 | 10 | 5 | 9 |
+| 1 | Léo | 10.0 | 11 | 6 | 9 |
 | 2 | Freddy | 9 | 11 | 5 | 9 |
 | 3 | Ribas | 8.5 | 11 | 5 | 8 |
 | 4 | Milton | 7.5 | 11 | 6 | 7 |
@@ -39,7 +38,7 @@ De folga: Renato, Marcelo
 | 8 | Diogo | 4 | 11 | 5 | 4 |
 | 9 | Vitor | 3 | 11 | 5 | 3 |
 | 10 | Renato | 2 | 11 | 6 | 2 |
-| 11 | Marcelo | 0 | 0 | 0 | 0 |
+| 11 | Marcelo | 0.5 | 1 | 0 | 0 |
 | 12 | Alexandre | 0 | 11 | 7 | 0 |
 
 ### Primeiro Turno
@@ -68,8 +67,8 @@ De folga: Renato, Marcelo
 | 3 | Felipe | 1 | 1 | 0 | 1 |
 | 3 | Pedro | 1 | 1 | 0 | 1 |
 | 3 | Milton | 1 | 1 | 0 | 1 |
-| 6 | Léo | 0 | 0 | 0 | 0 |
-| 6 | Marcelo | 0 | 0 | 0 | 0 |
+| 6 | Léo | 0.5 | 1 | 1 | 0 |
+| 7 | Marcelo | 0.5 | 1 | 0 | 0 |
 | 8 | Renato | 0 | 1 | 1 | 0 |
 | 8 | Ricardo | 0 | 1 | 1 | 0 |
 | 8 | Alexandre | 0 | 1 | 1 | 0 |
@@ -80,7 +79,7 @@ De folga: Renato, Marcelo
 
 | | LEO | FRE | RIB | MIL | RIC | FEL | PED | DIO | VIT | REN | MAR | ALE | Pts |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Léo | :::::::: |  |  |  | 1 | 1 |  |  | 1 | 1 |  | 1 | 9.5 |
+| Léo | :::::::: |  |  |  | 1 | 1 |  |  | 1 | 1 | 0.5 | 1 | 10.0 |
 | Freddy | 0 | :::::::: | 0 | 1 |  |  | 1 | 1 |  |  |  | 1 | 9 |
 | Ribas | 0 |  | :::::::: | 1 |  |  | 1 | 1 | 1 |  |  | 1 | 8.5 |
 | Milton | 0.5 |  |  | :::::::: | 1 |  |  | 1 |  | 1 |  | 1 | 7.5 |
@@ -90,7 +89,7 @@ De folga: Renato, Marcelo
 | Diogo | 0 | 0 |  |  | 0 |  |  | :::::::: | 1 | 1 |  | 1 | 4 |
 | Vitor |  | 0 | 0 | 0 | 1 | 0 |  |  | :::::::: | 1 |  |  | 3 |
 | Renato |  | 0 | 0 | 0 |  | 0 | 1 |  |  | :::::::: |  |  | 2 |
-| Marcelo |  |  |  |  |  |  |  |  |  |  | :::::::: |  | 0 |
+| Marcelo | 0.5 |  |  |  |  |  |  |  |  |  | :::::::: |  | 0.5 |
 | Alexandre |  |  |  |  | 0 | 0 |  |  | 0 | 0 |  | :::::::: | 0 |
 
 ### Rodada 1:
@@ -198,7 +197,7 @@ De folga: Renato, Marcelo
 * Diogo `0   -   1` **Freddy**
 * **Pedro**  `1   -   0`  Ricardo
 * **Milton**  `1   -   0`  Renato
-* Marcelo     -     Léo
+* Marcelo `1/2 - 1/2` Léo
 
 ### Rodada 13:
 * Ribas     -     Felipe
