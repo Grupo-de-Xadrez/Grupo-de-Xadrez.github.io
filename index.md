@@ -39,7 +39,8 @@ De folga: Renato, Marcelo
 | 8 | Diogo | 4 | 11 | 5 | 4 |
 | 9 | Vitor | 3 | 11 | 5 | 3 |
 | 10 | Renato | 2 | 11 | 6 | 2 |
-| 11 | Alexandre | 0 | 11 | 7 | 0 |
+| 11 | Marcelo | 0 | 0 | 0 | 0 |
+| 12 | Alexandre | 0 | 11 | 7 | 0 |
 
 ### Primeiro Turno
 
@@ -55,7 +56,8 @@ De folga: Renato, Marcelo
 | 7 | Pedro | 4 | 10 | 5 | 4 |
 | 9 | Vitor | 3 | 10 | 5 | 3 |
 | 10 | Renato | 2 | 10 | 5 | 2 |
-| 11 | Alexandre | 0 | 10 | 6 | 0 |
+| 11 | Marcelo | 0 | 0 | 0 | 0 |
+| 12 | Alexandre | 0 | 10 | 6 | 0 |
 
 ### Segundo Turno
 
