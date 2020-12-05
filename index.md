@@ -41,7 +41,7 @@ De folga: Renato, Marcelo
 | 10 | Renato | 2 | 11 | 6 | 2 |
 | 11 | Alexandre | 0 | 11 | 7 | 0 |
 
-## Primeiro Turno
+### Primeiro Turno
 
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
@@ -57,7 +57,7 @@ De folga: Renato, Marcelo
 | 10 | Renato | 2 | 10 | 5 | 2 |
 | 11 | Alexandre | 0 | 10 | 6 | 0 |
 
-## Segundo Turno
+### Segundo Turno
 
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
