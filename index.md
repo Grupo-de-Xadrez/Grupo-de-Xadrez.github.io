@@ -23,7 +23,9 @@ De folga: Renato, Marcelo
 * Renato     -     Ricardo
 * Freddy     -     Marcelo
 
-## Tabelas### Geral
+## Tabelas
+
+### Geral
 
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
