@@ -1,31 +1,29 @@
 ### Rodada atual:
-* Ribas     -     Felipe
-* Milton     -     Vitor
-* Alexandre     -     Diogo
-* Léo     -     Pedro
-* Renato     -     Ricardo
-
-De folga: Freddy
-
-### Rodada anterior:
 * Vitor `0   -   1` **Ribas**
 * **Felipe**  `1   -   0`  Alexandre
 * Diogo `0   -   1` **Freddy**
 * **Pedro**  `1   -   0`  Ricardo
 * **Milton**  `1   -   0`  Renato
+* Marcelo     -     Léo
 
-De folga: Léo
+### Rodada anterior:
+* **Ribas**  `1   -   0`  Alexandre
+* **Léo**  `1   -   0`  Vitor
+* Felipe `0   -   1` **Freddy**
+* Diogo `0   -   1` **Ricardo**
+* **Pedro**  `1   -   0`  Milton
+
+De folga: Renato, Marcelo
 
 ### Rodada seguinte:
-* Diogo     -     Ribas
-* Felipe     -     Vitor
-* Pedro     -     Freddy
-* Renato     -     Léo
-* Ricardo     -     Milton
+* Ribas     -     Felipe
+* Milton     -     Vitor
+* Alexandre     -     Diogo
+* Léo     -     Pedro
+* Renato     -     Ricardo
+* Freddy     -     Marcelo
 
-De folga: Alexandre
-
-## Tabela
+## Tabelas### Geral
 
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
@@ -41,21 +39,55 @@ De folga: Alexandre
 | 10 | Renato | 2 | 11 | 6 | 2 |
 | 11 | Alexandre | 0 | 11 | 7 | 0 |
 
+## Primeiro Turno
+
+| Pos | Nome | Pts | J | J P | V |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 1 | Léo | 9.5 | 10 | 5 | 9 |
+| 2 | Freddy | 8 | 10 | 4 | 8 |
+| 3 | Ribas | 7.5 | 10 | 4 | 7 |
+| 4 | Milton | 6.5 | 10 | 6 | 6 |
+| 5 | Ricardo | 6 | 10 | 5 | 6 |
+| 6 | Felipe | 4.5 | 10 | 5 | 4 |
+| 7 | Diogo | 4 | 10 | 5 | 4 |
+| 7 | Pedro | 4 | 10 | 5 | 4 |
+| 9 | Vitor | 3 | 10 | 5 | 3 |
+| 10 | Renato | 2 | 10 | 5 | 2 |
+| 11 | Alexandre | 0 | 10 | 6 | 0 |
+
+## Segundo Turno
+
+| Pos | Nome | Pts | J | J P | V |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 1 | Ribas | 1 | 1 | 1 | 1 |
+| 1 | Freddy | 1 | 1 | 1 | 1 |
+| 3 | Felipe | 1 | 1 | 0 | 1 |
+| 3 | Pedro | 1 | 1 | 0 | 1 |
+| 3 | Milton | 1 | 1 | 0 | 1 |
+| 6 | Léo | 0 | 0 | 0 | 0 |
+| 6 | Marcelo | 0 | 0 | 0 | 0 |
+| 8 | Renato | 0 | 1 | 1 | 0 |
+| 8 | Ricardo | 0 | 1 | 1 | 0 |
+| 8 | Alexandre | 0 | 1 | 1 | 0 |
+| 11 | Vitor | 0 | 1 | 0 | 0 |
+| 11 | Diogo | 0 | 1 | 0 | 0 |
+
 ## Resultados
 
-| | LEO | FRE | RIB | MIL | RIC | FEL | PED | DIO | VIT | REN | ALE | Pts |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Léo | :::::::: |  |  |  | 1 | 1 |  |  | 1 | 1 | 1 | 9.5 |
-| Freddy | 0 | :::::::: | 0 | 1 |  |  | 1 | 1 |  |  | 1 | 9 |
-| Ribas | 0 |  | :::::::: | 1 |  |  | 1 | 1 | 1 |  | 1 | 8.5 |
-| Milton | 0.5 |  |  | :::::::: | 1 |  |  | 1 |  | 1 | 1 | 7.5 |
-| Ricardo |  | 0 | 1 |  | :::::::: | 1 | 1 |  |  | 1 |  | 6 |
-| Felipe |  | 0 | 0.5 | 0 |  | :::::::: | 0 | 1 |  |  | 1 | 5.5 |
-| Pedro | 0 |  |  | 1 | 1 |  | :::::::: | 0 | 1 |  | 1 | 5 |
-| Diogo | 0 | 0 |  |  | 0 |  |  | :::::::: | 1 | 1 | 1 | 4 |
-| Vitor |  | 0 | 0 | 0 | 1 | 0 |  |  | :::::::: | 1 |  | 3 |
-| Renato |  | 0 | 0 | 0 |  | 0 | 1 |  |  | :::::::: |  | 2 |
-| Alexandre |  |  |  |  | 0 | 0 |  |  | 0 | 0 | :::::::: | 0 |
+| | LEO | FRE | RIB | MIL | RIC | FEL | PED | DIO | VIT | REN | MAR | ALE | Pts |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Léo | :::::::: |  |  |  | 1 | 1 |  |  | 1 | 1 |  | 1 | 9.5 |
+| Freddy | 0 | :::::::: | 0 | 1 |  |  | 1 | 1 |  |  |  | 1 | 9 |
+| Ribas | 0 |  | :::::::: | 1 |  |  | 1 | 1 | 1 |  |  | 1 | 8.5 |
+| Milton | 0.5 |  |  | :::::::: | 1 |  |  | 1 |  | 1 |  | 1 | 7.5 |
+| Ricardo |  | 0 | 1 |  | :::::::: | 1 | 1 |  |  | 1 |  |  | 6 |
+| Felipe |  | 0 | 0.5 | 0 |  | :::::::: | 0 | 1 |  |  |  | 1 | 5.5 |
+| Pedro | 0 |  |  | 1 | 1 |  | :::::::: | 0 | 1 |  |  | 1 | 5 |
+| Diogo | 0 | 0 |  |  | 0 |  |  | :::::::: | 1 | 1 |  | 1 | 4 |
+| Vitor |  | 0 | 0 | 0 | 1 | 0 |  |  | :::::::: | 1 |  |  | 3 |
+| Renato |  | 0 | 0 | 0 |  | 0 | 1 |  |  | :::::::: |  |  | 2 |
+| Marcelo |  |  |  |  |  |  |  |  |  |  | :::::::: |  | 0 |
+| Alexandre |  |  |  |  | 0 | 0 |  |  | 0 | 0 |  | :::::::: | 0 |
 
 ### Rodada 1:
 * **Ribas**  `1   -   0`  Vitor
@@ -64,7 +96,7 @@ De folga: Alexandre
 * **Ricardo**  `1   -   0`  Pedro
 * Renato `0   -   1` **Milton**
 
-De folga: Léo
+De folga: Léo, Marcelo
 
 ### Rodada 2:
 * Felipe `1/2 - 1/2` Ribas
@@ -73,7 +105,7 @@ De folga: Léo
 * Pedro `0   -   1` **Léo**
 * **Ricardo**  `1   -   0`  Renato
 
-De folga: Freddy
+De folga: Freddy, Marcelo
 
 ### Rodada 3:
 * **Ribas**  `1   -   0`  Diogo
@@ -82,7 +114,7 @@ De folga: Freddy
 * **Léo**  `1   -   0`  Renato
 * **Milton**  `1   -   0`  Ricardo
 
-De folga: Alexandre
+De folga: Alexandre, Marcelo
 
 ### Rodada 4:
 * **Diogo**  `1   -   0`  Vitor
@@ -91,7 +123,7 @@ De folga: Alexandre
 * **Pedro**  `1   -   0`  Alexandre
 * Renato `0   -   1` **Freddy**
 
-De folga: Ribas
+De folga: Ribas, Marcelo
 
 ### Rodada 5:
 * **Ribas**  `1   -   0`  Pedro
@@ -100,7 +132,7 @@ De folga: Ribas
 * **Freddy**  `1   -   0`  Milton
 * **Léo**  `1   -   0`  Ricardo
 
-De folga: Vitor
+De folga: Vitor, Marcelo
 
 ### Rodada 6:
 * Renato `0   -   1` **Ribas**
@@ -109,7 +141,7 @@ De folga: Vitor
 * **Milton**  `1   -   0`  Alexandre
 * Ricardo `0   -   1` **Freddy**
 
-De folga: Felipe
+De folga: Felipe, Marcelo
 
 ### Rodada 7:
 * **Ribas**  `1   -   0`  Milton
@@ -118,7 +150,7 @@ De folga: Felipe
 * Alexandre `0   -   1` **Ricardo**
 * Freddy `0   -   1` **Léo**
 
-De folga: Diogo
+De folga: Diogo, Marcelo
 
 ### Rodada 8:
 * **Ricardo**  `1   -   0`  Ribas
@@ -127,7 +159,7 @@ De folga: Diogo
 * Pedro `0   -   1` **Diogo**
 * **Léo**  `1   -   0`  Alexandre
 
-De folga: Milton
+De folga: Milton, Marcelo
 
 ### Rodada 9:
 * Ribas `0   -   1` **Léo**
@@ -136,7 +168,7 @@ De folga: Milton
 * **Diogo**  `1   -   0`  Renato
 * **Freddy**  `1   -   0`  Alexandre
 
-De folga: Pedro
+De folga: Pedro, Marcelo
 
 ### Rodada 10:
 * Freddy `0   -   1` **Ribas**
@@ -145,7 +177,7 @@ De folga: Pedro
 * **Milton**  `1   -   0`  Diogo
 * **Renato**  `1   -   0`  Pedro
 
-De folga: Ricardo
+De folga: Ricardo, Marcelo
 
 ### Rodada 11:
 * **Ribas**  `1   -   0`  Alexandre
@@ -154,7 +186,7 @@ De folga: Ricardo
 * Diogo `0   -   1` **Ricardo**
 * **Pedro**  `1   -   0`  Milton
 
-De folga: Renato
+De folga: Renato, Marcelo
 
 ### Rodada 12:
 * Vitor `0   -   1` **Ribas**
@@ -162,8 +194,7 @@ De folga: Renato
 * Diogo `0   -   1` **Freddy**
 * **Pedro**  `1   -   0`  Ricardo
 * **Milton**  `1   -   0`  Renato
-
-De folga: Léo
+* Marcelo     -     Léo
 
 ### Rodada 13:
 * Ribas     -     Felipe
@@ -171,8 +202,7 @@ De folga: Léo
 * Alexandre     -     Diogo
 * Léo     -     Pedro
 * Renato     -     Ricardo
-
-De folga: Freddy
+* Freddy     -     Marcelo
 
 ### Rodada 14:
 * Diogo     -     Ribas
@@ -180,8 +210,7 @@ De folga: Freddy
 * Pedro     -     Freddy
 * Renato     -     Léo
 * Ricardo     -     Milton
-
-De folga: Alexandre
+* Marcelo     -     Alexandre
 
 ### Rodada 15:
 * Vitor     -     Diogo
@@ -189,8 +218,7 @@ De folga: Alexandre
 * Léo     -     Milton
 * Alexandre     -     Pedro
 * Freddy     -     Renato
-
-De folga: Ribas
+* Ribas     -     Marcelo
 
 ### Rodada 16:
 * Pedro     -     Ribas
@@ -198,8 +226,7 @@ De folga: Ribas
 * Renato     -     Alexandre
 * Milton     -     Freddy
 * Ricardo     -     Léo
-
-De folga: Vitor
+* Marcelo     -     Vitor
 
 ### Rodada 17:
 * Ribas     -     Renato
@@ -207,8 +234,7 @@ De folga: Vitor
 * Léo     -     Diogo
 * Alexandre     -     Milton
 * Freddy     -     Ricardo
-
-De folga: Felipe
+* Felipe     -     Marcelo
 
 ### Rodada 18:
 * Milton     -     Ribas
@@ -216,8 +242,7 @@ De folga: Felipe
 * Pedro     -     Felipe
 * Ricardo     -     Alexandre
 * Léo     -     Freddy
-
-De folga: Diogo
+* Marcelo     -     Diogo
 
 ### Rodada 19:
 * Ribas     -     Ricardo
@@ -225,8 +250,7 @@ De folga: Diogo
 * Felipe     -     Renato
 * Diogo     -     Pedro
 * Alexandre     -     Léo
-
-De folga: Milton
+* Marcelo     -     Milton
 
 ### Rodada 20:
 * Léo     -     Ribas
@@ -234,8 +258,7 @@ De folga: Milton
 * Milton     -     Felipe
 * Renato     -     Diogo
 * Alexandre     -     Freddy
-
-De folga: Pedro
+* Pedro     -     Marcelo
 
 ### Rodada 21:
 * Ribas     -     Freddy
@@ -243,8 +266,7 @@ De folga: Pedro
 * Felipe     -     Léo
 * Diogo     -     Milton
 * Pedro     -     Renato
-
-De folga: Ricardo
+* Ricardo     -     Marcelo
 
 ### Rodada 22:
 * Alexandre     -     Ribas
@@ -252,6 +274,5 @@ De folga: Ricardo
 * Freddy     -     Felipe
 * Ricardo     -     Diogo
 * Milton     -     Pedro
-
-De folga: Renato
+* Marcelo     -     Renato
 
