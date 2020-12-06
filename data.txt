@@ -114,7 +114,7 @@ M,J=d
 r:
 A,C=w
 H,B=w
-L,D=
+L,D=b
 J,F=d
 G,I=
 K,M=b
