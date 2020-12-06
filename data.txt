@@ -112,10 +112,10 @@ H,G=w
 M,J=d
 
 r:
-A,C=
-H,B=
+A,C=w
+H,B=w
 L,D=
-J,F=
+J,F=d
 G,I=
 K,M=b
 
