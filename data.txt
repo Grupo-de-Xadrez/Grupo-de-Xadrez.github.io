@@ -120,7 +120,7 @@ G,I=b
 K,M=b
 
 r:
-D,A=
+D,A=b
 C,B=
 F,K=
 G,J=
