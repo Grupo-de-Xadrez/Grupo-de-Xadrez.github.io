@@ -123,9 +123,9 @@ r:
 D,A=b
 C,B=
 F,K=b
-G,J=
-I,H=
-M,L=
+G,J=b
+I,H=b
+M,L=w
 
 r:
 B,D=
