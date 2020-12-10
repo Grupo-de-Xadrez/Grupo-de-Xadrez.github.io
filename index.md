@@ -1,26 +1,26 @@
 ### Rodada atual:
-* Diogo `0   -   1` **Ribas**
-* Felipe     -     Vitor
-* Pedro `0   -   1` **Freddy**
-* Renato `0   -   1` **Léo**
-* Ricardo `0   -   1` **Milton**
-* **Marcelo**  `1   -   0`  Alexandre
-
-### Rodada anterior:
-* **Ribas**  `1   -   0`  Felipe
-* **Milton**  `1   -   0`  Vitor
-* Alexandre `0   -   1` **Diogo**
-* Léo `1/2 - 1/2` Pedro
-* Renato `0   -   1` **Ricardo**
-* Freddy `0   -   1` **Marcelo**
-
-### Rodada seguinte:
 * Vitor     -     Diogo
 * Felipe     -     Ricardo
 * Léo     -     Milton
 * Alexandre     -     Pedro
 * Freddy     -     Renato
 * Ribas     -     Marcelo
+
+### Rodada anterior:
+* Diogo `0   -   1` **Ribas**
+* **Felipe**  `1   -   0`  Vitor
+* Pedro `0   -   1` **Freddy**
+* Renato `0   -   1` **Léo**
+* Ricardo `0   -   1` **Milton**
+* **Marcelo**  `1   -   0`  Alexandre
+
+### Rodada seguinte:
+* Pedro     -     Ribas
+* Diogo     -     Felipe
+* Renato     -     Alexandre
+* Milton     -     Freddy
+* Ricardo     -     Léo
+* Marcelo     -     Vitor
 
 ## Tabelas
 
@@ -33,10 +33,10 @@
 | 3 | Freddy | 10 | 13 | 6 | 10 |
 | 4 | Milton | 9.5 | 13 | 7 | 9 |
 | 5 | Ricardo | 7 | 13 | 7 | 7 |
-| 6 | Felipe | 5.5 | 12 | 6 | 5 |
+| 6 | Felipe | 6.5 | 13 | 6 | 6 |
 | 7 | Pedro | 5.5 | 13 | 6 | 5 |
 | 8 | Diogo | 5 | 13 | 6 | 5 |
-| 9 | Vitor | 3 | 12 | 6 | 3 |
+| 9 | Vitor | 3 | 13 | 7 | 3 |
 | 10 | Marcelo | 2.5 | 3 | 1 | 2 |
 | 11 | Renato | 2 | 13 | 6 | 2 |
 | 12 | Alexandre | 0 | 13 | 8 | 0 |
@@ -67,12 +67,12 @@
 | 3 | Marcelo | 2.5 | 3 | 1 | 2 |
 | 4 | Freddy | 2 | 3 | 2 | 2 |
 | 5 | Léo | 2 | 3 | 2 | 1 |
-| 6 | Pedro | 1.5 | 3 | 1 | 1 |
-| 7 | Felipe | 1 | 2 | 1 | 1 |
+| 6 | Felipe | 2 | 3 | 1 | 2 |
+| 7 | Pedro | 1.5 | 3 | 1 | 1 |
 | 8 | Ricardo | 1 | 3 | 2 | 1 |
 | 9 | Diogo | 1 | 3 | 1 | 1 |
-| 10 | Vitor | 0 | 2 | 1 | 0 |
-| 11 | Alexandre | 0 | 3 | 2 | 0 |
+| 10 | Vitor | 0 | 3 | 2 | 0 |
+| 10 | Alexandre | 0 | 3 | 2 | 0 |
 | 12 | Renato | 0 | 3 | 1 | 0 |
 
 ## Resultados
@@ -84,7 +84,7 @@
 | Freddy | 0 | 0 | :::::::: | 1 |  |  | 1 | 1 |  | 0 |  | 1 | 10 |
 | Milton | 0.5 |  |  | :::::::: | 1 |  |  | 1 | 1 |  | 1 | 1 | 9.5 |
 | Ricardo |  | 1 | 0 | 0 | :::::::: | 1 | 1 |  |  |  | 1 |  | 7 |
-| Felipe |  | 0.5 | 0 | 0 |  | :::::::: | 0 | 1 |  |  |  | 1 | 5.5 |
+| Felipe |  | 0.5 | 0 | 0 |  | :::::::: | 0 | 1 | 1 |  |  | 1 | 6.5 |
 | Pedro | 0 |  | 0 | 1 | 1 |  | :::::::: | 0 | 1 |  |  | 1 | 5.5 |
 | Diogo | 0 | 0 | 0 |  | 0 |  |  | :::::::: | 1 |  | 1 | 1 | 5 |
 | Vitor |  | 0 | 0 | 0 | 1 | 0 |  |  | :::::::: |  | 1 |  | 3 |
@@ -209,7 +209,7 @@ De folga: Renato, Marcelo
 
 ### Rodada 14:
 * Diogo `0   -   1` **Ribas**
-* Felipe     -     Vitor
+* **Felipe**  `1   -   0`  Vitor
 * Pedro `0   -   1` **Freddy**
 * Renato `0   -   1` **Léo**
 * Ricardo `0   -   1` **Milton**
