@@ -121,7 +121,7 @@ K,M=b
 
 r:
 D,A=b
-C,B=
+C,B=w
 F,K=b
 G,J=b
 I,H=b
