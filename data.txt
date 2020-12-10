@@ -130,7 +130,7 @@ M,L=w
 r:
 B,D=
 C,I=
-J,H=
+J,H=w
 L,F=b
 K,G=w
 A,M=
