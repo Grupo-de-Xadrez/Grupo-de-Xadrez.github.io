@@ -131,8 +131,8 @@ r:
 B,D=
 C,I=
 J,H=
-L,F=
-K,G=
+L,F=b
+K,G=w
 A,M=
 
 r:
