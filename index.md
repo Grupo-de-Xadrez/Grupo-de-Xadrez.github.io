@@ -1,7 +1,7 @@
 ### Rodada atual:
 * Vitor     -     Diogo
 * Felipe     -     Ricardo
-* Léo     -     Milton
+* **Léo**  `1   -   0`  Milton
 * Alexandre `0   -   1` **Pedro**
 * **Freddy**  `1   -   0`  Renato
 * Ribas     -     Marcelo
@@ -28,10 +28,10 @@
 
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | Léo | 11.5 | 13 | 7 | 10 |
+| 1 | Léo | 12.5 | 14 | 7 | 11 |
 | 2 | Freddy | 11 | 14 | 6 | 11 |
 | 3 | Ribas | 10.5 | 13 | 6 | 10 |
-| 4 | Milton | 9.5 | 13 | 7 | 9 |
+| 4 | Milton | 9.5 | 14 | 8 | 9 |
 | 5 | Ricardo | 7 | 13 | 7 | 7 |
 | 6 | Felipe | 6.5 | 13 | 6 | 6 |
 | 7 | Pedro | 6.5 | 14 | 7 | 6 |
@@ -63,11 +63,11 @@
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1 | Ribas | 3 | 3 | 2 | 3 |
-| 2 | Milton | 3 | 3 | 1 | 3 |
-| 3 | Freddy | 3 | 4 | 2 | 3 |
-| 4 | Marcelo | 2.5 | 3 | 1 | 2 |
-| 5 | Pedro | 2.5 | 4 | 2 | 2 |
-| 6 | Léo | 2 | 3 | 2 | 1 |
+| 2 | Milton | 3 | 4 | 2 | 3 |
+| 2 | Freddy | 3 | 4 | 2 | 3 |
+| 4 | Léo | 3 | 4 | 2 | 2 |
+| 5 | Marcelo | 2.5 | 3 | 1 | 2 |
+| 6 | Pedro | 2.5 | 4 | 2 | 2 |
 | 7 | Felipe | 2 | 3 | 1 | 2 |
 | 8 | Ricardo | 1 | 3 | 2 | 1 |
 | 9 | Diogo | 1 | 3 | 1 | 1 |
@@ -79,7 +79,7 @@
 
 | | LEO | FRE | RIB | MIL | RIC | FEL | PED | DIO | VIT | MAR | REN | ALE | Pts |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Léo | :::::::: |  |  |  | 1 | 1 | 0.5 |  | 1 | 0.5 | 1 | 1 | 11.5 |
+| Léo | :::::::: |  |  | 1 | 1 | 1 | 0.5 |  | 1 | 0.5 | 1 | 1 | 12.5 |
 | Freddy | 0 | :::::::: | 0 | 1 |  |  | 1 | 1 |  | 0 | 1 | 1 | 11 |
 | Ribas | 0 |  | :::::::: | 1 |  | 1 | 1 | 1 | 1 |  |  | 1 | 10.5 |
 | Milton | 0.5 |  |  | :::::::: | 1 |  |  | 1 | 1 |  | 1 | 1 | 9.5 |
@@ -218,7 +218,7 @@ De folga: Renato, Marcelo
 ### Rodada 15:
 * Vitor     -     Diogo
 * Felipe     -     Ricardo
-* Léo     -     Milton
+* **Léo**  `1   -   0`  Milton
 * Alexandre `0   -   1` **Pedro**
 * **Freddy**  `1   -   0`  Renato
 * Ribas     -     Marcelo
