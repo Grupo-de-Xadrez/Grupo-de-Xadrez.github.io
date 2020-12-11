@@ -133,7 +133,7 @@ C,I=
 J,H=w
 L,F=b
 K,G=w
-A,M=
+A,M=b
 
 r:
 F,A=
