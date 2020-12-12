@@ -136,7 +136,7 @@ K,G=w
 A,M=b
 
 r:
-F,A=
+F,A=w
 D,C=
 G,L=
 H,K=
