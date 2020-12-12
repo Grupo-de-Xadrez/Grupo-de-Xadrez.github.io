@@ -138,7 +138,7 @@ A,M=b
 r:
 F,A=w
 D,C=b
-G,L=
+G,L=d
 H,K=
 I,J=
 M,B=
