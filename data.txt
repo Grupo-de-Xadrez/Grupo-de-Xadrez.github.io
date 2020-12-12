@@ -128,8 +128,8 @@ I,H=b
 M,L=w
 
 r:
-B,D=
-C,I=
+B,D=w
+C,I=b
 J,H=w
 L,F=b
 K,G=w
