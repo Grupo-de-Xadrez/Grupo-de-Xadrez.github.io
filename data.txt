@@ -140,7 +140,7 @@ F,A=w
 D,C=b
 G,L=d
 H,K=b
-I,J=
+I,J=d
 M,B=w
 
 r:
