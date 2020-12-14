@@ -3,7 +3,7 @@
 * Vitor     -     Pedro
 * Léo     -     Diogo
 * Alexandre     -     Milton
-* Freddy     -     Ricardo
+* **Freddy**  `1   -   0`  Ricardo
 * Felipe     -     Marcelo
 
 ### Rodada anterior:
@@ -29,10 +29,10 @@
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1 | Léo | 13 | 15 | 8 | 11 |
-| 2 | Freddy | 12 | 15 | 7 | 12 |
+| 2 | Freddy | 13 | 16 | 7 | 13 |
 | 3 | Ribas | 10.5 | 15 | 7 | 10 |
 | 4 | Milton | 9.5 | 15 | 8 | 9 |
-| 5 | Ricardo | 8.5 | 15 | 8 | 8 |
+| 5 | Ricardo | 8.5 | 16 | 9 | 8 |
 | 6 | Felipe | 7.5 | 15 | 7 | 7 |
 | 6 | Pedro | 7.5 | 15 | 7 | 7 |
 | 8 | Diogo | 5 | 15 | 7 | 5 |
@@ -62,14 +62,14 @@
 
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | Marcelo | 4.5 | 5 | 2 | 4 |
-| 2 | Freddy | 4 | 5 | 3 | 4 |
+| 1 | Freddy | 5 | 6 | 3 | 5 |
+| 2 | Marcelo | 4.5 | 5 | 2 | 4 |
 | 3 | Léo | 3.5 | 5 | 3 | 2 |
 | 4 | Pedro | 3.5 | 5 | 2 | 3 |
 | 5 | Ribas | 3 | 5 | 3 | 3 |
 | 6 | Felipe | 3 | 5 | 2 | 3 |
 | 6 | Milton | 3 | 5 | 2 | 3 |
-| 8 | Ricardo | 2.5 | 5 | 3 | 2 |
+| 8 | Ricardo | 2.5 | 6 | 4 | 2 |
 | 9 | Vitor | 1 | 5 | 3 | 1 |
 | 10 | Diogo | 1 | 5 | 2 | 1 |
 | 11 | Alexandre | 0.5 | 5 | 3 | 0 |
@@ -80,7 +80,7 @@
 | | LEO | FRE | RIB | MIL | RIC | FEL | PED | DIO | MAR | VIT | REN | ALE | Pts |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Léo | :::::::: |  |  | 1 | 1 | 1 | 0.5 |  | 0.5 | 1 | 1 | 1 | 13.0 |
-| Freddy | 0 | :::::::: | 0 | 1 |  |  | 1 | 1 | 0 |  | 1 | 1 | 12 |
+| Freddy | 0 | :::::::: | 0 | 1 | 1 |  | 1 | 1 | 0 |  | 1 | 1 | 13 |
 | Ribas | 0 |  | :::::::: | 1 |  | 1 | 1 | 1 | 0 | 1 |  | 1 | 10.5 |
 | Milton | 0.5 | 0 |  | :::::::: | 1 |  |  | 1 |  | 1 | 1 | 1 | 9.5 |
 | Ricardo | 0.5 | 0 | 1 | 0 | :::::::: | 1 | 1 |  |  |  | 1 |  | 8.5 |
@@ -236,7 +236,7 @@ De folga: Renato, Marcelo
 * Vitor     -     Pedro
 * Léo     -     Diogo
 * Alexandre     -     Milton
-* Freddy     -     Ricardo
+* **Freddy**  `1   -   0`  Ricardo
 * Felipe     -     Marcelo
 
 ### Rodada 18:
