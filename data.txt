@@ -147,7 +147,7 @@ r:
 A,G=
 B,F=b
 J,D=w
-L,H=
+L,H=b
 K,I=w
 C,M=b
 
