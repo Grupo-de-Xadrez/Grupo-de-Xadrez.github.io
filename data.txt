@@ -145,11 +145,11 @@ M,B=w
 
 r:
 A,G=
-B,F=
-J,D=
+B,F=b
+J,D=w
 L,H=
 K,I=w
-C,M=
+C,M=b
 
 r:
 H,A=
