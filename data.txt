@@ -144,7 +144,7 @@ I,J=d
 M,B=w
 
 r:
-A,G=
+A,G=w
 B,F=b
 J,D=w
 L,H=b
