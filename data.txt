@@ -154,7 +154,7 @@ C,M=b
 r:
 H,A=w
 G,B=
-F,C=
+F,C=w
 I,L=
 J,K=d
 M,D=w
