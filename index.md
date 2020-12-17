@@ -1,6 +1,6 @@
 ### Rodada atual:
 * **Milton**  `1   -   0`  Ribas
-* Renato     -     Vitor
+* **Renato**  `1   -   0`  Vitor
 * **Pedro**  `1   -   0`  Felipe
 * Ricardo     -     Alexandre
 * Léo `1/2 - 1/2` Freddy
@@ -37,8 +37,8 @@
 | 7 | Felipe | 7.5 | 17 | 8 | 7 |
 | 8 | Marcelo | 6.5 | 7 | 3 | 6 |
 | 9 | Diogo | 5 | 17 | 9 | 5 |
-| 10 | Vitor | 4 | 16 | 8 | 4 |
-| 11 | Renato | 2.5 | 16 | 8 | 2 |
+| 10 | Vitor | 4 | 17 | 9 | 4 |
+| 11 | Renato | 3.5 | 17 | 8 | 3 |
 | 12 | Alexandre | 0.5 | 16 | 9 | 0 |
 
 ### Primeiro Turno
@@ -70,10 +70,10 @@
 | 6 | Ribas | 4 | 7 | 4 | 4 |
 | 7 | Felipe | 3 | 7 | 3 | 3 |
 | 8 | Ricardo | 2.5 | 6 | 4 | 2 |
-| 9 | Vitor | 1 | 6 | 3 | 1 |
+| 9 | Renato | 1.5 | 7 | 3 | 1 |
+| 10 | Vitor | 1 | 7 | 4 | 1 |
 | 10 | Diogo | 1 | 7 | 4 | 1 |
-| 11 | Renato | 0.5 | 6 | 3 | 0 |
-| 11 | Alexandre | 0.5 | 6 | 3 | 0 |
+| 12 | Alexandre | 0.5 | 6 | 3 | 0 |
 
 ## Resultados
 
@@ -89,7 +89,7 @@
 | Marcelo | 0.5 | 1 |  | 1 |  |  | 1 | :::::::: | 1 | 1 |  | 1 | 6.5 |
 | Diogo | 0 | 0 |  | 0 |  | 0 | 0 | 0 | :::::::: | 1 | 1 | 1 | 5 |
 | Vitor |  | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | :::::::: | 1 |  | 4 |
-| Renato | 0 | 0 | 0 | 0 | 1 | 0 | 0 |  |  |  | :::::::: | 0.5 | 2.5 |
+| Renato | 0 | 0 | 0 | 0 | 1 | 0 | 0 |  |  | 1 | :::::::: | 0.5 | 3.5 |
 | Alexandre |  |  | 0 |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 | :::::::: | 0.5 |
 
 ### Rodada 1:
@@ -241,7 +241,7 @@ De folga: Renato, Marcelo
 
 ### Rodada 18:
 * **Milton**  `1   -   0`  Ribas
-* Renato     -     Vitor
+* **Renato**  `1   -   0`  Vitor
 * **Pedro**  `1   -   0`  Felipe
 * Ricardo     -     Alexandre
 * Léo `1/2 - 1/2` Freddy
