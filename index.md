@@ -1,26 +1,26 @@
 ### Rodada atual:
-* **Milton**  `1   -   0`  Ribas
-* **Renato**  `1   -   0`  Vitor
-* **Pedro**  `1   -   0`  Felipe
-* Ricardo     -     Alexandre
-* Léo `1/2 - 1/2` Freddy
-* **Marcelo**  `1   -   0`  Diogo
-
-### Rodada anterior:
-* **Ribas**  `1   -   0`  Renato
-* Vitor `0   -   1` **Pedro**
-* **Léo**  `1   -   0`  Diogo
-* Alexandre `0   -   1` **Milton**
-* **Freddy**  `1   -   0`  Ricardo
-* Felipe `0   -   1` **Marcelo**
-
-### Rodada seguinte:
 * Ribas     -     Ricardo
 * Freddy     -     Vitor
 * Felipe     -     Renato
 * Diogo     -     Pedro
 * Alexandre     -     Léo
 * Marcelo     -     Milton
+
+### Rodada anterior:
+* **Milton**  `1   -   0`  Ribas
+* **Renato**  `1   -   0`  Vitor
+* **Pedro**  `1   -   0`  Felipe
+* **Ricardo**  `1   -   0`  Alexandre
+* Léo `1/2 - 1/2` Freddy
+* **Marcelo**  `1   -   0`  Diogo
+
+### Rodada seguinte:
+* Léo     -     Ribas
+* Ricardo     -     Vitor
+* Milton     -     Felipe
+* Renato     -     Diogo
+* Alexandre     -     Freddy
+* Pedro     -     Marcelo
 
 ## Tabelas
 
@@ -32,14 +32,14 @@
 | 2 | Freddy | 13.5 | 17 | 8 | 13 |
 | 3 | Milton | 11.5 | 17 | 9 | 11 |
 | 4 | Ribas | 11.5 | 17 | 8 | 11 |
-| 5 | Pedro | 9.5 | 17 | 8 | 9 |
-| 6 | Ricardo | 8.5 | 16 | 9 | 8 |
+| 5 | Ricardo | 9.5 | 17 | 9 | 9 |
+| 6 | Pedro | 9.5 | 17 | 8 | 9 |
 | 7 | Felipe | 7.5 | 17 | 8 | 7 |
 | 8 | Marcelo | 6.5 | 7 | 3 | 6 |
 | 9 | Diogo | 5 | 17 | 9 | 5 |
 | 10 | Vitor | 4 | 17 | 9 | 4 |
 | 11 | Renato | 3.5 | 17 | 8 | 3 |
-| 12 | Alexandre | 0.5 | 16 | 9 | 0 |
+| 12 | Alexandre | 0.5 | 17 | 10 | 0 |
 
 ### Primeiro Turno
 
@@ -68,28 +68,28 @@
 | 4 | Milton | 5 | 7 | 3 | 5 |
 | 5 | Léo | 5 | 7 | 3 | 3 |
 | 6 | Ribas | 4 | 7 | 4 | 4 |
-| 7 | Felipe | 3 | 7 | 3 | 3 |
-| 8 | Ricardo | 2.5 | 6 | 4 | 2 |
+| 7 | Ricardo | 3.5 | 7 | 4 | 3 |
+| 8 | Felipe | 3 | 7 | 3 | 3 |
 | 9 | Renato | 1.5 | 7 | 3 | 1 |
 | 10 | Vitor | 1 | 7 | 4 | 1 |
 | 10 | Diogo | 1 | 7 | 4 | 1 |
-| 12 | Alexandre | 0.5 | 6 | 3 | 0 |
+| 12 | Alexandre | 0.5 | 7 | 4 | 0 |
 
 ## Resultados
 
-| | LEO | FRE | MIL | RIB | PED | RIC | FEL | MAR | DIO | VIT | REN | ALE | Pts |
+| | LEO | FRE | MIL | RIB | RIC | PED | FEL | MAR | DIO | VIT | REN | ALE | Pts |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Léo | :::::::: | 0.5 | 1 |  | 0.5 | 1 | 1 | 0.5 | 1 | 1 | 1 | 1 | 14.5 |
+| Léo | :::::::: | 0.5 | 1 |  | 1 | 0.5 | 1 | 0.5 | 1 | 1 | 1 | 1 | 14.5 |
 | Freddy | 0 | :::::::: | 1 | 0 | 1 | 1 |  | 0 | 1 |  | 1 | 1 | 13.5 |
-| Milton | 0.5 | 0 | :::::::: | 1 |  | 1 |  |  | 1 | 1 | 1 | 1 | 11.5 |
-| Ribas | 0 |  | 1 | :::::::: | 1 |  | 1 | 0 | 1 | 1 | 1 | 1 | 11.5 |
-| Pedro | 0 | 0 | 1 | 1 | :::::::: | 1 | 1 |  | 0 | 1 |  | 1 | 9.5 |
-| Ricardo | 0.5 | 0 | 0 | 1 | 1 | :::::::: | 1 |  |  |  | 1 |  | 8.5 |
+| Milton | 0.5 | 0 | :::::::: | 1 | 1 |  |  |  | 1 | 1 | 1 | 1 | 11.5 |
+| Ribas | 0 |  | 1 | :::::::: |  | 1 | 1 | 0 | 1 | 1 | 1 | 1 | 11.5 |
+| Ricardo | 0.5 | 0 | 0 | 1 | :::::::: | 1 | 1 |  |  |  | 1 | 1 | 9.5 |
+| Pedro | 0 | 0 | 1 | 1 | 1 | :::::::: | 1 |  | 0 | 1 |  | 1 | 9.5 |
 | Felipe |  | 0 | 0 | 0.5 | 0 | 0 | :::::::: | 0 | 1 | 1 |  | 1 | 7.5 |
 | Marcelo | 0.5 | 1 |  | 1 |  |  | 1 | :::::::: | 1 | 1 |  | 1 | 6.5 |
-| Diogo | 0 | 0 |  | 0 |  | 0 | 0 | 0 | :::::::: | 1 | 1 | 1 | 5 |
-| Vitor |  | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | :::::::: | 1 |  | 4 |
-| Renato | 0 | 0 | 0 | 0 | 1 | 0 | 0 |  |  | 1 | :::::::: | 0.5 | 3.5 |
+| Diogo | 0 | 0 |  | 0 | 0 |  | 0 | 0 | :::::::: | 1 | 1 | 1 | 5 |
+| Vitor |  | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | :::::::: | 1 |  | 4 |
+| Renato | 0 | 0 | 0 | 0 | 0 | 1 | 0 |  |  | 1 | :::::::: | 0.5 | 3.5 |
 | Alexandre |  |  | 0 |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 | :::::::: | 0.5 |
 
 ### Rodada 1:
@@ -243,7 +243,7 @@ De folga: Renato, Marcelo
 * **Milton**  `1   -   0`  Ribas
 * **Renato**  `1   -   0`  Vitor
 * **Pedro**  `1   -   0`  Felipe
-* Ricardo     -     Alexandre
+* **Ricardo**  `1   -   0`  Alexandre
 * Léo `1/2 - 1/2` Freddy
 * **Marcelo**  `1   -   0`  Diogo
 
