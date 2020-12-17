@@ -152,12 +152,12 @@ K,I=w
 C,M=b
 
 r:
-H,A=
+H,A=w
 G,B=
 F,C=
 I,L=
 J,K=d
-M,D=
+M,D=w
 
 r:
 A,I=
