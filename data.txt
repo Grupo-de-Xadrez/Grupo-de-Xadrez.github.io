@@ -161,11 +161,11 @@ M,D=w
 
 r:
 A,I=
-K,B=
+K,B=w
 C,G=
 D,F=
 L,J=
-M,H=
+M,H=w
 
 r:
 J,A=
