@@ -162,7 +162,7 @@ M,D=w
 r:
 A,I=
 K,B=w
-C,G=
+C,G=d
 D,F=
 L,J=
 M,H=w
