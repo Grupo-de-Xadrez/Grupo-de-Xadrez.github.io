@@ -164,7 +164,7 @@ A,I=b
 K,B=w
 C,G=d
 D,F=
-L,J=
+L,J=b
 M,H=w
 
 r:
