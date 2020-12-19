@@ -160,7 +160,7 @@ J,K=d
 M,D=w
 
 r:
-A,I=
+A,I=b
 K,B=w
 C,G=d
 D,F=
