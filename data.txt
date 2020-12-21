@@ -170,7 +170,7 @@ M,H=w
 r:
 J,A=w
 I,B=
-H,C=
+H,C=w
 G,D=
 L,K=b
 F,M=b
