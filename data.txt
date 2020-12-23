@@ -176,12 +176,12 @@ L,K=b
 F,M=b
 
 r:
-A,K=
+A,K=b
 B,L=
 C,J=
 D,H=
 F,G=
-I,M=
+I,M=b
 
 r:
 L,A=
