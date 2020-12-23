@@ -169,7 +169,7 @@ M,H=w
 
 r:
 J,A=w
-I,B=
+I,B=w
 H,C=w
 G,D=d
 L,K=b
