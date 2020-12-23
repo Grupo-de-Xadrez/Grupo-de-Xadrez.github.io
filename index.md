@@ -1,26 +1,26 @@
 ### Rodada atual:
-* **Léo**  `1   -   0`  Ribas
-* Ricardo     -     Vitor
-* **Milton**  `1   -   0`  Felipe
-* Renato `1/2 - 1/2` Diogo
-* Alexandre `0   -   1` **Freddy**
-* Pedro `0   -   1` **Marcelo**
-
-### Rodada anterior:
-* Ribas `0   -   1` **Ricardo**
-* **Freddy**  `1   -   0`  Vitor
-* Felipe `1/2 - 1/2` Renato
-* **Diogo**  `1   -   0`  Pedro
-* Alexandre `0   -   1` **Léo**
-* **Marcelo**  `1   -   0`  Milton
-
-### Rodada seguinte:
 * Ribas     -     Freddy
 * Vitor     -     Alexandre
 * Felipe     -     Léo
 * Diogo     -     Milton
 * Pedro     -     Renato
 * Ricardo     -     Marcelo
+
+### Rodada anterior:
+* **Léo**  `1   -   0`  Ribas
+* **Ricardo**  `1   -   0`  Vitor
+* **Milton**  `1   -   0`  Felipe
+* Renato `1/2 - 1/2` Diogo
+* Alexandre `0   -   1` **Freddy**
+* Pedro `0   -   1` **Marcelo**
+
+### Rodada seguinte:
+* Alexandre     -     Ribas
+* Vitor     -     Léo
+* Freddy     -     Felipe
+* Ricardo     -     Diogo
+* Milton     -     Pedro
+* Marcelo     -     Renato
 
 ## Tabelas
 
@@ -31,14 +31,14 @@
 | 1 | Léo | 16.5 | 19 | 9 | 14 |
 | 2 | Freddy | 15.5 | 19 | 9 | 15 |
 | 3 | Milton | 12.5 | 19 | 10 | 12 |
-| 4 | Ribas | 11.5 | 19 | 9 | 11 |
-| 5 | Ricardo | 10.5 | 18 | 10 | 10 |
+| 4 | Ricardo | 11.5 | 19 | 10 | 11 |
+| 5 | Ribas | 11.5 | 19 | 9 | 11 |
 | 6 | Pedro | 9.5 | 19 | 9 | 9 |
 | 7 | Marcelo | 8.5 | 9 | 4 | 8 |
 | 8 | Felipe | 8 | 19 | 9 | 7 |
 | 9 | Diogo | 6.5 | 19 | 10 | 6 |
 | 10 | Renato | 4.5 | 19 | 9 | 3 |
-| 11 | Vitor | 4 | 18 | 10 | 4 |
+| 11 | Vitor | 4 | 19 | 11 | 4 |
 | 12 | Alexandre | 0.5 | 19 | 10 | 0 |
 
 ### Primeiro Turno
@@ -66,31 +66,31 @@
 | 2 | Freddy | 7.5 | 9 | 5 | 7 |
 | 3 | Léo | 7 | 9 | 4 | 5 |
 | 4 | Milton | 6 | 9 | 4 | 6 |
-| 5 | Pedro | 5.5 | 9 | 4 | 5 |
-| 6 | Ricardo | 4.5 | 8 | 5 | 4 |
+| 5 | Ricardo | 5.5 | 9 | 5 | 5 |
+| 6 | Pedro | 5.5 | 9 | 4 | 5 |
 | 7 | Ribas | 4 | 9 | 5 | 4 |
 | 8 | Felipe | 3.5 | 9 | 4 | 3 |
 | 9 | Diogo | 2.5 | 9 | 5 | 2 |
 | 10 | Renato | 2.5 | 9 | 4 | 1 |
-| 11 | Vitor | 1 | 8 | 5 | 1 |
+| 11 | Vitor | 1 | 9 | 6 | 1 |
 | 12 | Alexandre | 0.5 | 9 | 4 | 0 |
 
 ## Resultados
 
-| | LEO | FRE | MIL | RIB | RIC | PED | MAR | FEL | DIO | REN | VIT | ALE | Pts |
+| | LEO | FRE | MIL | RIC | RIB | PED | MAR | FEL | DIO | REN | VIT | ALE | Pts |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Léo | :::::::: | 0.5 | 1 | 1 | 1 | 0.5 | 0.5 | 1 | 1 | 1 | 1 | 1 | 16.5 |
-| Freddy | 0 | :::::::: | 1 | 0 | 1 | 1 | 0 |  | 1 | 1 | 1 | 1 | 15.5 |
+| Freddy | 0 | :::::::: | 1 | 1 | 0 | 1 | 0 |  | 1 | 1 | 1 | 1 | 15.5 |
 | Milton | 0.5 | 0 | :::::::: | 1 | 1 |  | 0 | 1 | 1 | 1 | 1 | 1 | 12.5 |
-| Ribas | 0 |  | 1 | :::::::: | 0 | 1 | 0 | 1 | 1 | 1 | 1 | 1 | 11.5 |
-| Ricardo | 0.5 | 0 | 0 | 1 | :::::::: | 1 |  | 1 |  | 1 |  | 1 | 10.5 |
+| Ricardo | 0.5 | 0 | 0 | :::::::: | 1 | 1 |  | 1 |  | 1 | 1 | 1 | 11.5 |
+| Ribas | 0 |  | 1 | 0 | :::::::: | 1 | 0 | 1 | 1 | 1 | 1 | 1 | 11.5 |
 | Pedro | 0 | 0 | 1 | 1 | 1 | :::::::: | 0 | 1 | 0 |  | 1 | 1 | 9.5 |
-| Marcelo | 0.5 | 1 | 1 | 1 |  | 1 | :::::::: | 1 | 1 |  | 1 | 1 | 8.5 |
-| Felipe |  | 0 | 0 | 0.5 | 0 | 0 | 0 | :::::::: | 1 | 0.5 | 1 | 1 | 8.0 |
+| Marcelo | 0.5 | 1 | 1 |  | 1 | 1 | :::::::: | 1 | 1 |  | 1 | 1 | 8.5 |
+| Felipe |  | 0 | 0 | 0 | 0.5 | 0 | 0 | :::::::: | 1 | 0.5 | 1 | 1 | 8.0 |
 | Diogo | 0 | 0 |  | 0 | 0 | 1 | 0 | 0 | :::::::: | 1 | 1 | 1 | 6.5 |
 | Renato | 0 | 0 | 0 | 0 | 0 | 1 |  | 0 | 0.5 | :::::::: | 1 | 0.5 | 4.5 |
-| Vitor |  | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 1 | :::::::: |  | 4 |
-| Alexandre | 0 | 0 | 0 |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 | :::::::: | 0.5 |
+| Vitor |  | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 1 | :::::::: |  | 4 |
+| Alexandre | 0 | 0 | 0 | 0 |  | 0 | 0 | 0 | 0 | 0 | 0 | :::::::: | 0.5 |
 
 ### Rodada 1:
 * **Ribas**  `1   -   0`  Vitor
@@ -257,7 +257,7 @@ De folga: Renato, Marcelo
 
 ### Rodada 20:
 * **Léo**  `1   -   0`  Ribas
-* Ricardo     -     Vitor
+* **Ricardo**  `1   -   0`  Vitor
 * **Milton**  `1   -   0`  Felipe
 * Renato `1/2 - 1/2` Diogo
 * Alexandre `0   -   1` **Freddy**
