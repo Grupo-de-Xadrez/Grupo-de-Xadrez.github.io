@@ -179,7 +179,7 @@ r:
 A,K=b
 B,L=
 C,J=b
-D,H=
+D,H=b
 F,G=
 I,M=b
 
