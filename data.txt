@@ -180,7 +180,7 @@ A,K=b
 B,L=
 C,J=b
 D,H=b
-F,G=
+F,G=b
 I,M=b
 
 r:
