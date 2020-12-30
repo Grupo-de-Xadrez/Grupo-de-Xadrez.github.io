@@ -177,7 +177,7 @@ F,M=b
 
 r:
 A,K=b
-B,L=
+B,L=w
 C,J=b
 D,H=b
 F,G=b
