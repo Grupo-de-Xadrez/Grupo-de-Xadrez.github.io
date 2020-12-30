@@ -184,9 +184,9 @@ F,G=b
 I,M=b
 
 r:
-L,A=
+L,A=b
 B,J=
 K,C=
-I,D=
+I,D=w
 H,F=
 M,G=
