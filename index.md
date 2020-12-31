@@ -1,7 +1,7 @@
 ### Rodada atual:
 * Alexandre `0   -   1` **Ribas**
 * Vitor     -     Léo
-* Freddy     -     Felipe
+* **Freddy**  `1   -   0`  Felipe
 * **Ricardo**  `1   -   0`  Diogo
 * Milton     -     Pedro
 * Marcelo     -     Renato
@@ -21,13 +21,13 @@
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1 | Léo | 17.5 | 20 | 10 | 15 |
-| 2 | Freddy | 16.5 | 20 | 10 | 16 |
+| 2 | Freddy | 17.5 | 21 | 10 | 17 |
 | 3 | Milton | 13.5 | 20 | 11 | 13 |
 | 4 | Ribas | 12.5 | 21 | 10 | 12 |
 | 4 | Ricardo | 12.5 | 21 | 10 | 12 |
 | 6 | Marcelo | 9.5 | 10 | 5 | 9 |
 | 7 | Pedro | 9.5 | 20 | 9 | 9 |
-| 8 | Felipe | 8 | 20 | 9 | 7 |
+| 8 | Felipe | 8 | 21 | 10 | 7 |
 | 9 | Diogo | 6.5 | 21 | 11 | 6 |
 | 10 | Renato | 5.5 | 20 | 10 | 4 |
 | 11 | Vitor | 5 | 20 | 11 | 5 |
@@ -55,14 +55,14 @@
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1 | Marcelo | 9.5 | 10 | 5 | 9 |
-| 2 | Freddy | 8.5 | 10 | 6 | 8 |
+| 2 | Freddy | 9.5 | 11 | 6 | 9 |
 | 3 | Léo | 8 | 10 | 5 | 6 |
 | 4 | Milton | 7 | 10 | 5 | 7 |
 | 5 | Ricardo | 6.5 | 11 | 5 | 6 |
 | 6 | Pedro | 5.5 | 10 | 4 | 5 |
 | 7 | Ribas | 5 | 11 | 6 | 5 |
 | 8 | Renato | 3.5 | 10 | 5 | 2 |
-| 9 | Felipe | 3.5 | 10 | 4 | 3 |
+| 9 | Felipe | 3.5 | 11 | 5 | 3 |
 | 10 | Diogo | 2.5 | 11 | 6 | 2 |
 | 11 | Vitor | 2 | 10 | 6 | 2 |
 | 12 | Alexandre | 0.5 | 11 | 5 | 0 |
@@ -72,7 +72,7 @@
 | | LEO | FRE | MIL | RIB | RIC | MAR | PED | FEL | DIO | REN | VIT | ALE | Pts |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Léo | :::::::: | 0.5 | 1 | 1 | 1 | 0.5 | 0.5 | 1 | 1 | 1 | 1 | 1 | 17.5 |
-| Freddy | 0 | :::::::: | 1 | 0 | 1 | 0 | 1 |  | 1 | 1 | 1 | 1 | 16.5 |
+| Freddy | 0 | :::::::: | 1 | 0 | 1 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 17.5 |
 | Milton | 0.5 | 0 | :::::::: | 1 | 1 | 0 |  | 1 | 1 | 1 | 1 | 1 | 13.5 |
 | Ribas | 0 | 0 | 1 | :::::::: | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 12.5 |
 | Ricardo | 0.5 | 0 | 0 | 1 | :::::::: | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 12.5 |
@@ -266,7 +266,7 @@ De folga: Renato, Marcelo
 ### Rodada 22:
 * Alexandre `0   -   1` **Ribas**
 * Vitor     -     Léo
-* Freddy     -     Felipe
+* **Freddy**  `1   -   0`  Felipe
 * **Ricardo**  `1   -   0`  Diogo
 * Milton     -     Pedro
 * Marcelo     -     Renato
