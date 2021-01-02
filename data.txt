@@ -188,5 +188,5 @@ L,A=b
 B,J=
 K,C=w
 I,D=w
-H,F=
+H,F=w
 M,G=
