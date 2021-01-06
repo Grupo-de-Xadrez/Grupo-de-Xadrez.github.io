@@ -185,7 +185,7 @@ I,M=b
 
 r:
 L,A=b
-B,J=
+B,J=b
 K,C=w
 I,D=w
 H,F=w
