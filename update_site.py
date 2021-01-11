@@ -64,8 +64,8 @@ def toStrResult(game, ritmo):
         return f'* {getName(game[0][(ritmo + 0) % 2])} *({ratings[ritmo][game[0][(ritmo + 0) % 2]]})* `0   -   1` **{getName(game[0][(ritmo + 1) % 2])}** *({ratings[ritmo][game[0][(ritmo + 1) % 2]]})*'
     return f'* {getName(game[0][(ritmo + 0) % 2])} *({ratings[ritmo][game[0][(ritmo + 0) % 2]]})*     -     {getName(game[0][(ritmo + 1) % 2])} *({ratings[ritmo][game[0][(ritmo + 1) % 2]]})*'
 
-def toStrBye(r):
-    playersInBye = [names[player] for player in names.keys() if not any(map(lambda g: g[0][0] == player, r)) and not any(map(lambda g: g[0][1] == player, r))]
+def toStrBye(r, ritmo):
+    playersInBye = [f'{names[player]} ({ratings[ritmo][player]})' for player in names.keys() if not any(map(lambda g: g[0][0] == player, r)) and not any(map(lambda g: g[0][1] == player, r))]
 
     if len(playersInBye) == 0:
         return ''
@@ -73,7 +73,7 @@ def toStrBye(r):
     return '\n\n' + 'De folga: ' + ', '.join(playersInBye)
 
 def toStrRound(r, ritmo):
-    return '\n'.join([toStrResult(g, ritmo) for g in r]) + toStrBye(r)
+    return '\n'.join([toStrResult(g, ritmo) for g in r]) + toStrBye(r, ritmo)
 
 def toStrStandings(ritmo):
     points = {player: 0 for player in names.keys()}

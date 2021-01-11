@@ -25,7 +25,7 @@
 * Ricardo *(1767)*     -     Ribas *(1646)*
 * Milton *(1858)*     -     Diogo *(1237)*
 
-De folga: Felipe
+De folga: Felipe (1555)
 
 #### Blitz:
 
@@ -36,7 +36,7 @@ De folga: Felipe
 * Ribas *(1500)*     -     Ricardo *(1582)*
 * Diogo *(1503)*     -     Milton *(1500)*
 
-De folga: Felipe
+De folga: Felipe (1387)
 
 ### Rodada seguinte:
 
@@ -49,7 +49,7 @@ De folga: Felipe
 * Alexandre *(1155)*     -     Diogo *(1237)*
 * Milton *(1858)*     -     Felipe *(1555)*
 
-De folga: Ricardo
+De folga: Ricardo (1767)
 
 #### Blitz:
 
@@ -60,7 +60,7 @@ De folga: Ricardo
 * Diogo *(1503)*     -     Alexandre *(1197)*
 * Felipe *(1387)*     -     Milton *(1500)*
 
-De folga: Ricardo
+De folga: Ricardo (1582)
 
 ## Tabelas
 
@@ -149,7 +149,7 @@ De folga: Ricardo
 * Ricardo *(1767)*     -     Ribas *(1646)*
 * Milton *(1858)*     -     Diogo *(1237)*
 
-De folga: Felipe
+De folga: Felipe (1555)
 
 #### Blitz:
 
@@ -160,7 +160,7 @@ De folga: Felipe
 * Ribas *(1500)*     -     Ricardo *(1582)*
 * Diogo *(1503)*     -     Milton *(1500)*
 
-De folga: Felipe
+De folga: Felipe (1387)
 
 ### Rodada 2:
 
@@ -173,7 +173,7 @@ De folga: Felipe
 * Alexandre *(1155)*     -     Diogo *(1237)*
 * Milton *(1858)*     -     Felipe *(1555)*
 
-De folga: Ricardo
+De folga: Ricardo (1767)
 
 #### Blitz:
 
@@ -184,7 +184,7 @@ De folga: Ricardo
 * Diogo *(1503)*     -     Alexandre *(1197)*
 * Felipe *(1387)*     -     Milton *(1500)*
 
-De folga: Ricardo
+De folga: Ricardo (1582)
 
 ### Rodada 3:
 
@@ -197,7 +197,7 @@ De folga: Ricardo
 * Felipe *(1555)*     -     Alexandre *(1155)*
 * Ricardo *(1767)*     -     Milton *(1858)*
 
-De folga: Léo
+De folga: Léo (1902)
 
 #### Blitz:
 
@@ -208,7 +208,7 @@ De folga: Léo
 * Alexandre *(1197)*     -     Felipe *(1387)*
 * Milton *(1500)*     -     Ricardo *(1582)*
 
-De folga: Léo
+De folga: Léo (1856)
 
 ### Rodada 4:
 
@@ -221,7 +221,7 @@ De folga: Léo
 * Milton *(1858)*     -     Léo *(1902)*
 * Alexandre *(1155)*     -     Ricardo *(1767)*
 
-De folga: Pedro
+De folga: Pedro (1199)
 
 #### Blitz:
 
@@ -232,7 +232,7 @@ De folga: Pedro
 * Léo *(1856)*     -     Milton *(1500)*
 * Ricardo *(1582)*     -     Alexandre *(1197)*
 
-De folga: Pedro
+De folga: Pedro (1775)
 
 ### Rodada 5:
 
@@ -245,7 +245,7 @@ De folga: Pedro
 * Ricardo *(1767)*     -     Marcelo *(2093)*
 * Alexandre *(1155)*     -     Léo *(1902)*
 
-De folga: Freddy
+De folga: Freddy (1878)
 
 #### Blitz:
 
@@ -256,7 +256,7 @@ De folga: Freddy
 * Marcelo *(1500)*     -     Ricardo *(1582)*
 * Léo *(1856)*     -     Alexandre *(1197)*
 
-De folga: Freddy
+De folga: Freddy (1792)
 
 ### Rodada 6:
 
@@ -269,7 +269,7 @@ De folga: Freddy
 * Pedro *(1199)*     -     Alexandre *(1155)*
 * Léo *(1902)*     -     Marcelo *(2093)*
 
-De folga: Ribas
+De folga: Ribas (1646)
 
 #### Blitz:
 
@@ -280,7 +280,7 @@ De folga: Ribas
 * Alexandre *(1197)*     -     Pedro *(1775)*
 * Marcelo *(1500)*     -     Léo *(1856)*
 
-De folga: Ribas
+De folga: Ribas (1500)
 
 ### Rodada 7:
 
@@ -293,7 +293,7 @@ De folga: Ribas
 * Léo *(1902)*     -     Renato *(1268)*
 * Marcelo *(2093)*     -     Pedro *(1199)*
 
-De folga: Vitor
+De folga: Vitor (1294)
 
 #### Blitz:
 
@@ -304,7 +304,7 @@ De folga: Vitor
 * Renato *(1500)*     -     Léo *(1856)*
 * Pedro *(1775)*     -     Marcelo *(1500)*
 
-De folga: Vitor
+De folga: Vitor (1079)
 
 ### Rodada 8:
 
@@ -317,7 +317,7 @@ De folga: Vitor
 * Marcelo *(2093)*     -     Freddy *(1878)*
 * Pedro *(1199)*     -     Renato *(1268)*
 
-De folga: Milton
+De folga: Milton (1858)
 
 #### Blitz:
 
@@ -328,7 +328,7 @@ De folga: Milton
 * Freddy *(1792)*     -     Marcelo *(1500)*
 * Renato *(1500)*     -     Pedro *(1775)*
 
-De folga: Milton
+De folga: Milton (1500)
 
 ### Rodada 9:
 
@@ -341,7 +341,7 @@ De folga: Milton
 * Júlio *(1677)*     -     Pedro *(1199)*
 * Renato *(1268)*     -     Freddy *(1878)*
 
-De folga: Alexandre
+De folga: Alexandre (1155)
 
 #### Blitz:
 
@@ -352,7 +352,7 @@ De folga: Alexandre
 * Pedro *(1775)*     -     Júlio *(1385)*
 * Freddy *(1792)*     -     Renato *(1500)*
 
-De folga: Alexandre
+De folga: Alexandre (1197)
 
 ### Rodada 10:
 
@@ -365,7 +365,7 @@ De folga: Alexandre
 * Ribas *(1646)*     -     Renato *(1268)*
 * Freddy *(1878)*     -     Júlio *(1677)*
 
-De folga: Marcelo
+De folga: Marcelo (2093)
 
 #### Blitz:
 
@@ -376,7 +376,7 @@ De folga: Marcelo
 * Renato *(1500)*     -     Ribas *(1500)*
 * Júlio *(1385)*     -     Freddy *(1792)*
 
-De folga: Marcelo
+De folga: Marcelo (1500)
 
 ### Rodada 11:
 
@@ -389,7 +389,7 @@ De folga: Marcelo
 * Diogo *(1237)*     -     Freddy *(1878)*
 * Júlio *(1677)*     -     Ribas *(1646)*
 
-De folga: Renato
+De folga: Renato (1268)
 
 #### Blitz:
 
@@ -400,7 +400,7 @@ De folga: Renato
 * Freddy *(1792)*     -     Diogo *(1503)*
 * Ribas *(1500)*     -     Júlio *(1385)*
 
-De folga: Renato
+De folga: Renato (1500)
 
 ### Rodada 12:
 
@@ -413,7 +413,7 @@ De folga: Renato
 * Freddy *(1878)*     -     Felipe *(1555)*
 * Ribas *(1646)*     -     Diogo *(1237)*
 
-De folga: Júlio
+De folga: Júlio (1677)
 
 #### Blitz:
 
@@ -424,7 +424,7 @@ De folga: Júlio
 * Felipe *(1387)*     -     Freddy *(1792)*
 * Diogo *(1503)*     -     Ribas *(1500)*
 
-De folga: Júlio
+De folga: Júlio (1385)
 
 ### Rodada 13:
 
@@ -437,7 +437,7 @@ De folga: Júlio
 * Milton *(1858)*     -     Júlio *(1677)*
 * Felipe *(1555)*     -     Ribas *(1646)*
 
-De folga: Diogo
+De folga: Diogo (1237)
 
 #### Blitz:
 
@@ -448,7 +448,7 @@ De folga: Diogo
 * Júlio *(1385)*     -     Milton *(1500)*
 * Ribas *(1500)*     -     Felipe *(1387)*
 
-De folga: Diogo
+De folga: Diogo (1503)
 
 ### Rodada 14:
 
@@ -461,7 +461,7 @@ De folga: Diogo
 * Ribas *(1646)*     -     Ricardo *(1767)*
 * Diogo *(1237)*     -     Milton *(1858)*
 
-De folga: Felipe
+De folga: Felipe (1555)
 
 #### Blitz:
 
@@ -472,7 +472,7 @@ De folga: Felipe
 * Ricardo *(1582)*     -     Ribas *(1500)*
 * Milton *(1500)*     -     Diogo *(1503)*
 
-De folga: Felipe
+De folga: Felipe (1387)
 
 ### Rodada 15:
 
@@ -485,7 +485,7 @@ De folga: Felipe
 * Diogo *(1237)*     -     Alexandre *(1155)*
 * Felipe *(1555)*     -     Milton *(1858)*
 
-De folga: Ricardo
+De folga: Ricardo (1767)
 
 #### Blitz:
 
@@ -496,7 +496,7 @@ De folga: Ricardo
 * Alexandre *(1197)*     -     Diogo *(1503)*
 * Milton *(1500)*     -     Felipe *(1387)*
 
-De folga: Ricardo
+De folga: Ricardo (1582)
 
 ### Rodada 16:
 
@@ -509,7 +509,7 @@ De folga: Ricardo
 * Alexandre *(1155)*     -     Felipe *(1555)*
 * Milton *(1858)*     -     Ricardo *(1767)*
 
-De folga: Léo
+De folga: Léo (1902)
 
 #### Blitz:
 
@@ -520,7 +520,7 @@ De folga: Léo
 * Felipe *(1387)*     -     Alexandre *(1197)*
 * Ricardo *(1582)*     -     Milton *(1500)*
 
-De folga: Léo
+De folga: Léo (1856)
 
 ### Rodada 17:
 
@@ -533,7 +533,7 @@ De folga: Léo
 * Léo *(1902)*     -     Milton *(1858)*
 * Ricardo *(1767)*     -     Alexandre *(1155)*
 
-De folga: Pedro
+De folga: Pedro (1199)
 
 #### Blitz:
 
@@ -544,7 +544,7 @@ De folga: Pedro
 * Milton *(1500)*     -     Léo *(1856)*
 * Alexandre *(1197)*     -     Ricardo *(1582)*
 
-De folga: Pedro
+De folga: Pedro (1775)
 
 ### Rodada 18:
 
@@ -557,7 +557,7 @@ De folga: Pedro
 * Marcelo *(2093)*     -     Ricardo *(1767)*
 * Léo *(1902)*     -     Alexandre *(1155)*
 
-De folga: Freddy
+De folga: Freddy (1878)
 
 #### Blitz:
 
@@ -568,7 +568,7 @@ De folga: Freddy
 * Ricardo *(1582)*     -     Marcelo *(1500)*
 * Alexandre *(1197)*     -     Léo *(1856)*
 
-De folga: Freddy
+De folga: Freddy (1792)
 
 ### Rodada 19:
 
@@ -581,7 +581,7 @@ De folga: Freddy
 * Alexandre *(1155)*     -     Pedro *(1199)*
 * Marcelo *(2093)*     -     Léo *(1902)*
 
-De folga: Ribas
+De folga: Ribas (1646)
 
 #### Blitz:
 
@@ -592,7 +592,7 @@ De folga: Ribas
 * Pedro *(1775)*     -     Alexandre *(1197)*
 * Léo *(1856)*     -     Marcelo *(1500)*
 
-De folga: Ribas
+De folga: Ribas (1500)
 
 ### Rodada 20:
 
@@ -605,7 +605,7 @@ De folga: Ribas
 * Renato *(1268)*     -     Léo *(1902)*
 * Pedro *(1199)*     -     Marcelo *(2093)*
 
-De folga: Vitor
+De folga: Vitor (1294)
 
 #### Blitz:
 
@@ -616,7 +616,7 @@ De folga: Vitor
 * Léo *(1856)*     -     Renato *(1500)*
 * Marcelo *(1500)*     -     Pedro *(1775)*
 
-De folga: Vitor
+De folga: Vitor (1079)
 
 ### Rodada 21:
 
@@ -629,7 +629,7 @@ De folga: Vitor
 * Freddy *(1878)*     -     Marcelo *(2093)*
 * Renato *(1268)*     -     Pedro *(1199)*
 
-De folga: Milton
+De folga: Milton (1858)
 
 #### Blitz:
 
@@ -640,7 +640,7 @@ De folga: Milton
 * Marcelo *(1500)*     -     Freddy *(1792)*
 * Pedro *(1775)*     -     Renato *(1500)*
 
-De folga: Milton
+De folga: Milton (1500)
 
 ### Rodada 22:
 
@@ -653,7 +653,7 @@ De folga: Milton
 * Pedro *(1199)*     -     Júlio *(1677)*
 * Freddy *(1878)*     -     Renato *(1268)*
 
-De folga: Alexandre
+De folga: Alexandre (1155)
 
 #### Blitz:
 
@@ -664,7 +664,7 @@ De folga: Alexandre
 * Júlio *(1385)*     -     Pedro *(1775)*
 * Renato *(1500)*     -     Freddy *(1792)*
 
-De folga: Alexandre
+De folga: Alexandre (1197)
 
 ### Rodada 23:
 
@@ -677,7 +677,7 @@ De folga: Alexandre
 * Renato *(1268)*     -     Ribas *(1646)*
 * Júlio *(1677)*     -     Freddy *(1878)*
 
-De folga: Marcelo
+De folga: Marcelo (2093)
 
 #### Blitz:
 
@@ -688,7 +688,7 @@ De folga: Marcelo
 * Ribas *(1500)*     -     Renato *(1500)*
 * Freddy *(1792)*     -     Júlio *(1385)*
 
-De folga: Marcelo
+De folga: Marcelo (1500)
 
 ### Rodada 24:
 
@@ -701,7 +701,7 @@ De folga: Marcelo
 * Freddy *(1878)*     -     Diogo *(1237)*
 * Ribas *(1646)*     -     Júlio *(1677)*
 
-De folga: Renato
+De folga: Renato (1268)
 
 #### Blitz:
 
@@ -712,7 +712,7 @@ De folga: Renato
 * Diogo *(1503)*     -     Freddy *(1792)*
 * Júlio *(1385)*     -     Ribas *(1500)*
 
-De folga: Renato
+De folga: Renato (1500)
 
 ### Rodada 25:
 
@@ -725,7 +725,7 @@ De folga: Renato
 * Felipe *(1555)*     -     Freddy *(1878)*
 * Diogo *(1237)*     -     Ribas *(1646)*
 
-De folga: Júlio
+De folga: Júlio (1677)
 
 #### Blitz:
 
@@ -736,7 +736,7 @@ De folga: Júlio
 * Freddy *(1792)*     -     Felipe *(1387)*
 * Ribas *(1500)*     -     Diogo *(1503)*
 
-De folga: Júlio
+De folga: Júlio (1385)
 
 ### Rodada 26:
 
@@ -749,7 +749,7 @@ De folga: Júlio
 * Júlio *(1677)*     -     Milton *(1858)*
 * Ribas *(1646)*     -     Felipe *(1555)*
 
-De folga: Diogo
+De folga: Diogo (1237)
 
 #### Blitz:
 
@@ -760,5 +760,5 @@ De folga: Diogo
 * Milton *(1500)*     -     Júlio *(1385)*
 * Felipe *(1387)*     -     Ribas *(1500)*
 
-De folga: Diogo
+De folga: Diogo (1503)
 
