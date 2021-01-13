@@ -12,7 +12,7 @@ def main():
     rounds = list()
     playersSorted = (list(), list())
     ratings = (dict(), dict())
-    inverse = {'w': 'b', 'd': 'd', 'b': 'w'}
+    inverse = {'w': 'b', 'd': 'd', 'b': 'w', '': ''}
 
     analysing = None
     for line in data:
