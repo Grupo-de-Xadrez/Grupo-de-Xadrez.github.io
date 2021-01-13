@@ -180,7 +180,7 @@ def main():
         return tableStr
 
     def toStrParticipant(cod):
-        return f'* {abreviations[cod]}: **{names[cod]}**, a.k.a. `@{nicknames[cod]}` *(Rapid: {ratings[0][cod]}, Blitz: {ratings[1][cod]})*'
+        return f'* {abreviations[cod]}: **{names[cod]}**, a.k.a. `[https://www.lichess.org/@/{nicknames[cod]}](@{nicknames[cod]})` *(Rapid: {ratings[0][cod]}, Blitz: {ratings[1][cod]})*'
 
     def toStrParticipants():
         return '\n'.join([toStrParticipant(cod) for cod in names.keys()])
