@@ -1,0 +1,208 @@
+H x A
+I x B
+J x C
+K x D
+E x L
+F x M
+G x  
+
+A x I
+H x J
+B x K
+C x L
+D x M
+  x E
+F x G
+
+A x J
+K x I
+L x H
+M x B
+C x  
+G x D
+E x F
+
+A x K
+L x J
+I x M
+  x H
+B x G
+F x C
+D x E
+
+L x A
+M x K
+J x  
+I x G
+H x F
+E x B
+D x C
+
+M x A
+  x L
+G x K
+J x F
+I x E
+H x D
+C x B
+
+A x  
+M x G
+L x F
+K x E
+J x D
+C x I
+B x H
+
+G x A
+  x F
+E x M
+D x L
+K x C
+B x J
+H x I
+
+F x A
+G x E
+  x D
+C x M
+B x L
+K x H
+I x J
+
+E x A
+D x F
+C x G
+B x  
+M x H
+L x I
+J x K
+
+A x D
+E x C
+F x B
+H x G
+  x I
+M x J
+K x L
+
+A x C
+D x B
+H x E
+F x I
+J x G
+K x  
+L x M
+
+A x B
+C x H
+I x D
+E x J
+F x K
+G x L
+  x M
+
+A x H
+B x I
+C x J
+D x K
+L x E
+M x F
+  x G
+
+I x A
+J x H
+K x B
+L x C
+M x D
+E x  
+G x F
+
+J x A
+I x K
+H x L
+B x M
+  x C
+D x G
+F x E
+
+K x A
+J x L
+M x I
+H x  
+G x B
+C x F
+E x D
+
+A x L
+K x M
+  x J
+G x I
+F x H
+B x E
+C x D
+
+A x M
+L x  
+K x G
+F x J
+E x I
+D x H
+B x C
+
+  x A
+G x M
+F x L
+E x K
+D x J
+I x C
+H x B
+
+A x G
+F x  
+M x E
+L x D
+C x K
+J x B
+I x H
+
+A x F
+E x G
+D x  
+M x C
+L x B
+H x K
+J x I
+
+A x E
+F x D
+G x C
+  x B
+H x M
+I x L
+K x J
+
+D x A
+C x E
+B x F
+G x H
+I x  
+J x M
+L x K
+
+C x A
+B x D
+E x H
+I x F
+G x J
+  x K
+M x L
+
+B x A
+H x C
+D x I
+J x E
+K x F
+L x G
+M x  
+
