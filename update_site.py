@@ -12,6 +12,7 @@ def main():
     rounds = list()
     playersSorted = (list(), list())
     ratings = (dict(), dict())
+    inverse = {'w': 'b', 'd': 'd', 'b': 'w'}
 
     analysing = None
     for line in data:
@@ -34,7 +35,7 @@ def main():
             continue
         if analysing == 'r':
             if '=' in line:
-                rounds[-1].append(((line.split('=')[0].split(',')[0], line.split('=')[0].split(',')[1]), (line.split('=')[1].split(',')[0], line.split('=')[1].split(',')[1])))
+                rounds[-1].append(((line.split('=')[0].split(',')[0], line.split('=')[0].split(',')[1]), (line.split('=')[1].split(',')[0], inverse[line.split('=')[1].split(',')[1]])))
 
     lastRound = None
     currentRound = None
@@ -180,7 +181,7 @@ def main():
         return tableStr
 
     def toStrParticipant(cod):
-        return f'* {abreviations[cod]}: **{names[cod]}**, a.k.a. `[@{nicknames[cod]}](https://www.lichess.org/@/{nicknames[cod]})` *(Rapid: {ratings[0][cod]}, Blitz: {ratings[1][cod]})*'
+        return f'* {abreviations[cod]}: **{names[cod]}**, a.k.a. [@{nicknames[cod]}](https://www.lichess.org/@/{nicknames[cod]}) *(Rapid: {ratings[0][cod]}, Blitz: {ratings[1][cod]})*'
 
     def toStrParticipants():
         return '\n'.join([toStrParticipant(cod) for cod in names.keys()])
