@@ -1,18 +1,18 @@
 ## Participantes:
 
-* ALE: **Alexandre**, a.k.a. `[@AHCA](https://www.lichess.org/@/AHCA)` *(Rapid: 1155, Blitz: 1197)*
-* DIO: **Diogo**, a.k.a. `[@diogo98](https://www.lichess.org/@/diogo98)` *(Rapid: 1237, Blitz: 1503)*
-* FEL: **Felipe**, a.k.a. `[@Fgcotta](https://www.lichess.org/@/Fgcotta)` *(Rapid: 1555, Blitz: 1380)*
-* FRE: **Freddy**, a.k.a. `[@PlixMax](https://www.lichess.org/@/PlixMax)` *(Rapid: 1878, Blitz: 1770)*
-* JUL: **Júlio**, a.k.a. `[@juliopinheiro](https://www.lichess.org/@/juliopinheiro)` *(Rapid: 1677, Blitz: 1388)*
-* LEO: **Léo**, a.k.a. `[@killer9](https://www.lichess.org/@/killer9)` *(Rapid: 1902, Blitz: 1856)*
-* MAR: **Marcelo**, a.k.a. `[@mkvieira](https://www.lichess.org/@/mkvieira)` *(Rapid: 2093, Blitz: 1500)*
-* MIL: **Milton**, a.k.a. `[@milton1960](https://www.lichess.org/@/milton1960)` *(Rapid: 1878, Blitz: 1500)*
-* PED: **Pedro**, a.k.a. `[@Phoenix20201](https://www.lichess.org/@/Phoenix20201)` *(Rapid: 1197, Blitz: 1382)*
-* REN: **Renato**, a.k.a. `[@Padilha20](https://www.lichess.org/@/Padilha20)` *(Rapid: 1280, Blitz: 1178)*
-* RIC: **Ricardo**, a.k.a. `[@r-k-k](https://www.lichess.org/@/r-k-k)` *(Rapid: 1767, Blitz: 1582)*
-* RIB: **Ribas**, a.k.a. `[@Rpribas](https://www.lichess.org/@/Rpribas)` *(Rapid: 1646, Blitz: 1500)*
-* VIT: **Vitor**, a.k.a. `[@VitorStahlhoefer](https://www.lichess.org/@/VitorStahlhoefer)` *(Rapid: 1302, Blitz: 1184)*
+* ALE: **Alexandre**, a.k.a. [@AHCA](https://www.lichess.org/@/AHCA) *(Rapid: 1155, Blitz: 1197)*
+* DIO: **Diogo**, a.k.a. [@diogo98](https://www.lichess.org/@/diogo98) *(Rapid: 1237, Blitz: 1503)*
+* FEL: **Felipe**, a.k.a. [@Fgcotta](https://www.lichess.org/@/Fgcotta) *(Rapid: 1555, Blitz: 1380)*
+* FRE: **Freddy**, a.k.a. [@PlixMax](https://www.lichess.org/@/PlixMax) *(Rapid: 1878, Blitz: 1770)*
+* JUL: **Júlio**, a.k.a. [@juliopinheiro](https://www.lichess.org/@/juliopinheiro) *(Rapid: 1677, Blitz: 1388)*
+* LEO: **Léo**, a.k.a. [@killer9](https://www.lichess.org/@/killer9) *(Rapid: 1902, Blitz: 1856)*
+* MAR: **Marcelo**, a.k.a. [@mkvieira](https://www.lichess.org/@/mkvieira) *(Rapid: 2093, Blitz: 1500)*
+* MIL: **Milton**, a.k.a. [@milton1960](https://www.lichess.org/@/milton1960) *(Rapid: 1878, Blitz: 1500)*
+* PED: **Pedro**, a.k.a. [@Phoenix20201](https://www.lichess.org/@/Phoenix20201) *(Rapid: 1197, Blitz: 1382)*
+* REN: **Renato**, a.k.a. [@Padilha20](https://www.lichess.org/@/Padilha20) *(Rapid: 1280, Blitz: 1178)*
+* RIC: **Ricardo**, a.k.a. [@r-k-k](https://www.lichess.org/@/r-k-k) *(Rapid: 1767, Blitz: 1582)*
+* RIB: **Ribas**, a.k.a. [@Rpribas](https://www.lichess.org/@/Rpribas) *(Rapid: 1646, Blitz: 1500)*
+* VIT: **Vitor**, a.k.a. [@VitorStahlhoefer](https://www.lichess.org/@/VitorStahlhoefer) *(Rapid: 1302, Blitz: 1184)*
 
 ### Rodada atual:
 
