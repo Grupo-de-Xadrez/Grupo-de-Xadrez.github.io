@@ -10,6 +10,8 @@ def main():
     abreviations = dict()
     nicknames = dict()
     rounds = list()
+    links = list()
+    openings = list()
     playersSorted = (list(), list())
     ratings = (dict(), dict())
     p = 1
@@ -20,6 +22,8 @@ def main():
             analysing = line[:-1]
             if analysing == 'r':
                 rounds.append([[] for _ in range(p)])
+                links.append([[] for _ in range(p)])
+                openings.append([[] for _ in range(p)])
             continue
         if analysing == 'p':
             if '=' in line:
@@ -41,6 +45,8 @@ def main():
             if '=' in line:
                 for i in range(p):
                     rounds[-1][i].append(((line.split('=')[0].split(',')[(i + 0) % 2], line.split('=')[0].split(',')[(i + 1) % 2]), line.split('=')[1].split(',')[i]))
+                    openings[-1][i].append('')
+                    links[-1][i].append('')
 
     lastRound = None
     currentRound = None
@@ -84,8 +90,8 @@ def main():
 
         return '\n\n' + 'De folga: ' + ', '.join(playersInBye)
 
-    def toStrRound(r, ritmo):
-        return '\n'.join([toStrResult(g, ritmo) for g in r[ritmo]]) + toStrBye(r, ritmo)
+    def toStrRound(i, ritmo):
+        return '\n'.join([toStrResult(g, ritmo) + openings[i][ritmo][j] + links[i][ritmo][j] for j, g in enumerate(rounds[i][ritmo])]) + toStrBye(r, ritmo)
 
     def toStrStandings(ritmo):
         points = {player: 0 for player in names.keys()}
@@ -202,6 +208,18 @@ def main():
         except:
             ratings[1][cod] = '-'
 
+    parser = {'black': 'b', None: 'd', 'white': 'w'}
+
+    for i, r in enumerate(rounds):
+        for ritmo in range(len(r)):
+            for j, g in enumerate(r[ritmo]):
+                if g[1] not in ['w', 'd', 'b', '']:
+                    game = lichess.api.game(g[1])
+                    links[i][ritmo][j] = f' [Link](https://www.lichess.org/{g[1]}).'
+                    openings[i][ritmo][j] = f', {game["opening"]["eco"]} - {game["opening"]["name"]}'
+                    rounds[i][ritmo][j] = (g[0], parser[game.get('winner', None)])
+                    pass
+
     page = ''
 
     page += '***`Torneio todos-contra-todos, entre 13 participantes, com partidas 15+5 e 5+4.`***.'
@@ -221,13 +239,13 @@ def main():
         page += '#### Rapid:'
         page += '\n'
         page += '\n'
-        page += toStrRound(rounds[currentRound], 0)
+        page += toStrRound(currentRound, 0)
         page += '\n'
         page += '\n'
         page += '#### Blitz:'
         page += '\n'
         page += '\n'
-        page += toStrRound(rounds[currentRound], 1)
+        page += toStrRound(currentRound, 1)
         page += '\n'
         page += '\n'
 
@@ -238,13 +256,13 @@ def main():
         page += '#### Rapid:'
         page += '\n'
         page += '\n'
-        page += toStrRound(rounds[lastRound], 0)
+        page += toStrRound(lastRound, 0)
         page += '\n'
         page += '\n'
         page += '#### Blitz:'
         page += '\n'
         page += '\n'
-        page += toStrRound(rounds[lastRound], 1)
+        page += toStrRound(lastRound, 1)
         page += '\n'
         page += '\n'
 
@@ -255,13 +273,13 @@ def main():
         page += '#### Rapid:'
         page += '\n'
         page += '\n'
-        page += toStrRound(rounds[nextRound], 0)
+        page += toStrRound(nextRound, 0)
         page += '\n'
         page += '\n'
         page += '#### Blitz:'
         page += '\n'
         page += '\n'
-        page += toStrRound(rounds[nextRound], 1)
+        page += toStrRound(nextRound, 1)
         page += '\n'
         page += '\n'
 
@@ -306,13 +324,13 @@ def main():
         page += '#### Rapid:'
         page += '\n'
         page += '\n'
-        page += toStrRound(r, 0)
+        page += toStrRound(i, 0)
         page += '\n'
         page += '\n'
         page += '#### Blitz:'
         page += '\n'
         page += '\n'
-        page += toStrRound(r, 1)
+        page += toStrRound(i, 1)
         page += '\n'
         page += '\n'
 

@@ -1,4 +1,4 @@
-***`Torneio todos-contra-todos, entre 13 participantes, com partidas 15+5 e 5+4.`***
+***`Torneio todos-contra-todos, entre 13 participantes, com partidas 15+5 e 5+4.`***.
 
 ## Participantes:
 
@@ -22,23 +22,23 @@
 
 * Pedro *(1179)*     -     Vitor *(1302)*
 * Renato *(1280)*     -     Marcelo *(2093)*
-* Freddy *(1857)*     -     Léo *(1927)*
+* Freddy *(1857)* `0   -   1` **Léo** *(1927)*, A84 - Dutch Defense: Classical Variation [Link](https://www.lichess.org/jErAgptw).
 * Júlio *(1677)*     -     Alexandre *(1155)*
-* Ricardo *(1780)*     -     Ribas *(1635)*
-* Milton *(1884)*     -     Diogo *(1237)*
+* Ricardo *(1780)* `1/2 - 1/2` Ribas *(1635)*, B23 - Sicilian Defense: Closed, Traditional [Link](https://www.lichess.org/LTYw2mFX).
+* **Milton** *(1884)* `1   -   0`  Diogo *(1237)*, C26 - Vienna Game: Stanley Variation [Link](https://www.lichess.org/Q7BaIb8v).
 
-De folga: Felipe (1555)
+De folga: Diogo (1237)
 
 #### Blitz:
 
 * Vitor *(1167)*     -     Pedro *(1382)*
 * Marcelo *(1500)*     -     Renato *(1178)*
-* Léo *(1856)*     -     Freddy *(1788)*
+* **Léo** *(1856)* `1   -   0`  Freddy *(1788)*, A45 - Trompowsky Attack [Link](https://www.lichess.org/EdwQe0e0).
 * Alexandre *(1197)*     -     Júlio *(1350)*
-* Ribas *(1500)*     -     Ricardo *(1582)*
-* Diogo *(1503)*     -     Milton *(1500)*
+* Ribas *(1500)* `0   -   1` **Ricardo** *(1582)*, C34 - King's Gambit Accepted: Becker Defense [Link](https://www.lichess.org/ocUpBa5T).
+* **Diogo** *(1503)* `1   -   0`  Milton *(1500)*, D04 - Queen's Pawn Game: Colle System [Link](https://www.lichess.org/9E2gILyV).
 
-De folga: Felipe (1380)
+De folga: Diogo (1503)
 
 ### Rodada seguinte:
 
@@ -51,7 +51,7 @@ De folga: Felipe (1380)
 * Alexandre *(1155)*     -     Diogo *(1237)*
 * Milton *(1884)*     -     Felipe *(1555)*
 
-De folga: Ricardo (1780)
+De folga: Diogo (1237)
 
 #### Blitz:
 
@@ -62,7 +62,7 @@ De folga: Ricardo (1780)
 * Diogo *(1503)*     -     Alexandre *(1197)*
 * Felipe *(1380)*     -     Milton *(1500)*
 
-De folga: Ricardo (1582)
+De folga: Diogo (1503)
 
 ## Tabelas
 
@@ -70,75 +70,75 @@ De folga: Ricardo (1582)
 
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | Alexandre (1155) | 0 | 0 | 0 | 0 |
-| 1 | Diogo (1237) | 0 | 0 | 0 | 0 |
-| 1 | Felipe (1555) | 0 | 0 | 0 | 0 |
-| 1 | Freddy (1857) | 0 | 0 | 0 | 0 |
-| 1 | Júlio (1677) | 0 | 0 | 0 | 0 |
-| 1 | Léo (1927) | 0 | 0 | 0 | 0 |
-| 1 | Marcelo (2093) | 0 | 0 | 0 | 0 |
-| 1 | Milton (1884) | 0 | 0 | 0 | 0 |
-| 1 | Pedro (1179) | 0 | 0 | 0 | 0 |
-| 1 | Renato (1280) | 0 | 0 | 0 | 0 |
-| 1 | Ricardo (1780) | 0 | 0 | 0 | 0 |
-| 1 | Ribas (1635) | 0 | 0 | 0 | 0 |
-| 1 | Vitor (1302) | 0 | 0 | 0 | 0 |
+| 1 | Léo (1927) | 1 | 1 | 1 | 1 |
+| 2 | Milton (1884) | 1 | 1 | 0 | 1 |
+| 3 | Ribas (1635) | 0.5 | 1 | 1 | 0 |
+| 4 | Ricardo (1780) | 0.5 | 1 | 0 | 0 |
+| 5 | Alexandre (1155) | 0 | 0 | 0 | 0 |
+| 5 | Felipe (1555) | 0 | 0 | 0 | 0 |
+| 5 | Júlio (1677) | 0 | 0 | 0 | 0 |
+| 5 | Marcelo (2093) | 0 | 0 | 0 | 0 |
+| 5 | Pedro (1179) | 0 | 0 | 0 | 0 |
+| 5 | Renato (1280) | 0 | 0 | 0 | 0 |
+| 5 | Vitor (1302) | 0 | 0 | 0 | 0 |
+| 12 | Diogo (1237) | 0 | 1 | 1 | 0 |
+| 13 | Freddy (1857) | 0 | 1 | 0 | 0 |
 
 #### Blitz
 
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | Alexandre (1197) | 0 | 0 | 0 | 0 |
-| 1 | Diogo (1503) | 0 | 0 | 0 | 0 |
-| 1 | Felipe (1380) | 0 | 0 | 0 | 0 |
-| 1 | Freddy (1788) | 0 | 0 | 0 | 0 |
-| 1 | Júlio (1350) | 0 | 0 | 0 | 0 |
-| 1 | Léo (1856) | 0 | 0 | 0 | 0 |
-| 1 | Marcelo (1500) | 0 | 0 | 0 | 0 |
-| 1 | Milton (1500) | 0 | 0 | 0 | 0 |
-| 1 | Pedro (1382) | 0 | 0 | 0 | 0 |
-| 1 | Renato (1178) | 0 | 0 | 0 | 0 |
-| 1 | Ricardo (1582) | 0 | 0 | 0 | 0 |
-| 1 | Ribas (1500) | 0 | 0 | 0 | 0 |
-| 1 | Vitor (1167) | 0 | 0 | 0 | 0 |
+| 1 | Ricardo (1582) | 1 | 1 | 1 | 1 |
+| 2 | Diogo (1503) | 1 | 1 | 0 | 1 |
+| 2 | Léo (1856) | 1 | 1 | 0 | 1 |
+| 4 | Alexandre (1197) | 0 | 0 | 0 | 0 |
+| 4 | Felipe (1380) | 0 | 0 | 0 | 0 |
+| 4 | Júlio (1350) | 0 | 0 | 0 | 0 |
+| 4 | Marcelo (1500) | 0 | 0 | 0 | 0 |
+| 4 | Pedro (1382) | 0 | 0 | 0 | 0 |
+| 4 | Renato (1178) | 0 | 0 | 0 | 0 |
+| 4 | Vitor (1167) | 0 | 0 | 0 | 0 |
+| 11 | Freddy (1788) | 0 | 1 | 1 | 0 |
+| 11 | Milton (1500) | 0 | 1 | 1 | 0 |
+| 13 | Ribas (1500) | 0 | 1 | 0 | 0 |
 
 ## Resultados
 
 #### Rapid:
 
-| | ALE | DIO | FEL | FRE | JUL | LEO | MAR | MIL | PED | REN | RIC | RIB | VIT |
+| | LEO | MIL | RIB | RIC | ALE | FEL | JUL | MAR | PED | REN | VIT | DIO | FRE |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **ALE** | :::::::: |  |  |  |  |  |  |  |  |  |  |  |  |
-| **DIO** |  | :::::::: |  |  |  |  |  |  |  |  |  |  |  |
-| **FEL** |  |  | :::::::: |  |  |  |  |  |  |  |  |  |  |
-| **FRE** |  |  |  | :::::::: |  |  |  |  |  |  |  |  |  |
-| **JUL** |  |  |  |  | :::::::: |  |  |  |  |  |  |  |  |
-| **LEO** |  |  |  |  |  | :::::::: |  |  |  |  |  |  |  |
-| **MAR** |  |  |  |  |  |  | :::::::: |  |  |  |  |  |  |
-| **MIL** |  |  |  |  |  |  |  | :::::::: |  |  |  |  |  |
+| **LEO** | :::::::: |  |  |  |  |  |  |  |  |  |  |  |  |
+| **MIL** |  | :::::::: |  |  |  |  |  |  |  |  |  | 1 |  |
+| **RIB** |  |  | :::::::: |  |  |  |  |  |  |  |  |  |  |
+| **RIC** |  |  | 0.5 | :::::::: |  |  |  |  |  |  |  |  |  |
+| **ALE** |  |  |  |  | :::::::: |  |  |  |  |  |  |  |  |
+| **FEL** |  |  |  |  |  | :::::::: |  |  |  |  |  |  |  |
+| **JUL** |  |  |  |  |  |  | :::::::: |  |  |  |  |  |  |
+| **MAR** |  |  |  |  |  |  |  | :::::::: |  |  |  |  |  |
 | **PED** |  |  |  |  |  |  |  |  | :::::::: |  |  |  |  |
 | **REN** |  |  |  |  |  |  |  |  |  | :::::::: |  |  |  |
-| **RIC** |  |  |  |  |  |  |  |  |  |  | :::::::: |  |  |
-| **RIB** |  |  |  |  |  |  |  |  |  |  |  | :::::::: |  |
-| **VIT** |  |  |  |  |  |  |  |  |  |  |  |  | :::::::: |
+| **VIT** |  |  |  |  |  |  |  |  |  |  | :::::::: |  |  |
+| **DIO** |  |  |  |  |  |  |  |  |  |  |  | :::::::: |  |
+| **FRE** | 0 |  |  |  |  |  |  |  |  |  |  |  | :::::::: |
 
 #### Blitz:
 
-| | ALE | DIO | FEL | FRE | JUL | LEO | MAR | MIL | PED | REN | RIC | RIB | VIT |
+| | RIC | DIO | LEO | ALE | FEL | JUL | MAR | PED | REN | VIT | FRE | MIL | RIB |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **ALE** | :::::::: |  |  |  |  |  |  |  |  |  |  |  |  |
-| **DIO** |  | :::::::: |  |  |  |  |  |  |  |  |  |  |  |
-| **FEL** |  |  | :::::::: |  |  |  |  |  |  |  |  |  |  |
-| **FRE** |  |  |  | :::::::: |  |  |  |  |  |  |  |  |  |
-| **JUL** |  |  |  |  | :::::::: |  |  |  |  |  |  |  |  |
-| **LEO** |  |  |  |  |  | :::::::: |  |  |  |  |  |  |  |
+| **RIC** | :::::::: |  |  |  |  |  |  |  |  |  |  |  |  |
+| **DIO** |  | :::::::: |  |  |  |  |  |  |  |  |  | 1 |  |
+| **LEO** |  |  | :::::::: |  |  |  |  |  |  |  | 1 |  |  |
+| **ALE** |  |  |  | :::::::: |  |  |  |  |  |  |  |  |  |
+| **FEL** |  |  |  |  | :::::::: |  |  |  |  |  |  |  |  |
+| **JUL** |  |  |  |  |  | :::::::: |  |  |  |  |  |  |  |
 | **MAR** |  |  |  |  |  |  | :::::::: |  |  |  |  |  |  |
-| **MIL** |  |  |  |  |  |  |  | :::::::: |  |  |  |  |  |
-| **PED** |  |  |  |  |  |  |  |  | :::::::: |  |  |  |  |
-| **REN** |  |  |  |  |  |  |  |  |  | :::::::: |  |  |  |
-| **RIC** |  |  |  |  |  |  |  |  |  |  | :::::::: |  |  |
-| **RIB** |  |  |  |  |  |  |  |  |  |  |  | :::::::: |  |
-| **VIT** |  |  |  |  |  |  |  |  |  |  |  |  | :::::::: |
+| **PED** |  |  |  |  |  |  |  | :::::::: |  |  |  |  |  |
+| **REN** |  |  |  |  |  |  |  |  | :::::::: |  |  |  |  |
+| **VIT** |  |  |  |  |  |  |  |  |  | :::::::: |  |  |  |
+| **FRE** |  |  |  |  |  |  |  |  |  |  | :::::::: |  |  |
+| **MIL** |  |  |  |  |  |  |  |  |  |  |  | :::::::: |  |
+| **RIB** | 0 |  |  |  |  |  |  |  |  |  |  |  | :::::::: |
 
 ### Rodada 1:
 
@@ -146,10 +146,10 @@ De folga: Ricardo (1582)
 
 * Pedro *(1179)*     -     Vitor *(1302)*
 * Renato *(1280)*     -     Marcelo *(2093)*
-* Freddy *(1857)*     -     Léo *(1927)*
+* Freddy *(1857)* `0   -   1` **Léo** *(1927)*, A84 - Dutch Defense: Classical Variation [Link](https://www.lichess.org/jErAgptw).
 * Júlio *(1677)*     -     Alexandre *(1155)*
-* Ricardo *(1780)*     -     Ribas *(1635)*
-* Milton *(1884)*     -     Diogo *(1237)*
+* Ricardo *(1780)* `1/2 - 1/2` Ribas *(1635)*, B23 - Sicilian Defense: Closed, Traditional [Link](https://www.lichess.org/LTYw2mFX).
+* **Milton** *(1884)* `1   -   0`  Diogo *(1237)*, C26 - Vienna Game: Stanley Variation [Link](https://www.lichess.org/Q7BaIb8v).
 
 De folga: Felipe (1555)
 
@@ -157,10 +157,10 @@ De folga: Felipe (1555)
 
 * Vitor *(1167)*     -     Pedro *(1382)*
 * Marcelo *(1500)*     -     Renato *(1178)*
-* Léo *(1856)*     -     Freddy *(1788)*
+* **Léo** *(1856)* `1   -   0`  Freddy *(1788)*, A45 - Trompowsky Attack [Link](https://www.lichess.org/EdwQe0e0).
 * Alexandre *(1197)*     -     Júlio *(1350)*
-* Ribas *(1500)*     -     Ricardo *(1582)*
-* Diogo *(1503)*     -     Milton *(1500)*
+* Ribas *(1500)* `0   -   1` **Ricardo** *(1582)*, C34 - King's Gambit Accepted: Becker Defense [Link](https://www.lichess.org/ocUpBa5T).
+* **Diogo** *(1503)* `1   -   0`  Milton *(1500)*, D04 - Queen's Pawn Game: Colle System [Link](https://www.lichess.org/9E2gILyV).
 
 De folga: Felipe (1380)
 
