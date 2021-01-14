@@ -4,7 +4,7 @@ import lichess.api
 def main():
     projectFolder = pathlib.Path(__file__).parent.absolute()
 
-    data = open(f'{projectFolder}/data.txt').read().split('\n')
+    data = open(f'{projectFolder}/data.txt', encoding='utf-8').read().split('\n')
 
     names = dict()
     abreviations = dict()
@@ -118,7 +118,7 @@ def main():
 
         playersSorted[ritmo].extend(sorted(names.keys(), key = lambda player: (points[player], -games[player], gamesAsBlack[player], wins[player]), reverse=True))
 
-        table = list(map(lambda player: (getName(player) + f' ({ratings[ritmo][player]})', points[player] / 2 if points[player] % 2 == 1 else points[player] // 2, games[player], gamesAsBlack[player], wins[player]), playersSorted[ritmo]))
+        table = list(map(lambda player: (getName(player) + f' ({ratings[ritmo][player]})', f'{points[player] // 2}' + f'\u00bd' if points[player] % 2 == 1 else f'', games[player], gamesAsBlack[player], wins[player]), playersSorted[ritmo]))
 
         tableStr = ''
 
@@ -155,7 +155,7 @@ def main():
                         if g[1] == 'w':
                             result = '0'
                         elif g[1] == 'd':
-                            result = '0.5'
+                            result = '\u00bd'
                         elif g[1] == 'b':
                             result = '1'
                         else:
@@ -168,7 +168,7 @@ def main():
                         if g[1] == 'w':
                             result = '1'
                         elif g[1] == 'd':
-                            result = '0.5'
+                            result = '\u00bd'
                         elif g[1] == 'b':
                             result = '0'
                         else:
