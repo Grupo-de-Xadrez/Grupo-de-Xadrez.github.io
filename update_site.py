@@ -118,7 +118,7 @@ def main():
 
         playersSorted[ritmo].extend(sorted(names.keys(), key = lambda player: (points[player], -games[player], gamesAsBlack[player], wins[player]), reverse=True))
 
-        table = list(map(lambda player: (getName(player) + f' ({ratings[ritmo][player]})', f'{points[player] // 2}' + f'\u00bd' if points[player] % 2 == 1 else f'', games[player], gamesAsBlack[player], wins[player]), playersSorted[ritmo]))
+        table = list(map(lambda player: (getName(player) + f' ({ratings[ritmo][player]})', f'{points[player] // 2}' + (f'\u00bd' if points[player] % 2 == 1 else f''), games[player], gamesAsBlack[player], wins[player]), playersSorted[ritmo]))
 
         tableStr = ''
 
