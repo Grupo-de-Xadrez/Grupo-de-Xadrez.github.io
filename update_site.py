@@ -53,7 +53,7 @@ def main():
     nextRound = None
 
     for i, r in enumerate(rounds):
-        if any(['' in g[1] for g in r]):
+        if any([any([g[1] == '' for g in x]) for x in r]):
             currentRound = i
             if i > 0:
                 lastRound = i-1
