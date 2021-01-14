@@ -91,7 +91,7 @@ def main():
         return '\n\n' + 'De folga: ' + ', '.join(playersInBye)
 
     def toStrRound(i, ritmo):
-        return '\n'.join([toStrResult(g, ritmo) + openings[i][ritmo][j] + links[i][ritmo][j] for j, g in enumerate(rounds[i][ritmo])]) + toStrBye(r, ritmo)
+        return '\n'.join([toStrResult(g, ritmo) + links[i][ritmo][j] + openings[i][ritmo][j] for j, g in enumerate(rounds[i][ritmo])]) + toStrBye(r, ritmo)
 
     def toStrStandings(ritmo):
         points = {player: 0 for player in names.keys()}
@@ -215,8 +215,8 @@ def main():
             for j, g in enumerate(r[ritmo]):
                 if g[1] not in ['w', 'd', 'b', '']:
                     game = lichess.api.game(g[1])
-                    links[i][ritmo][j] = f' [Link](https://www.lichess.org/{g[1]}).'
-                    openings[i][ritmo][j] = f', *`{game["opening"]["eco"]} - {game["opening"]["name"]}`*'
+                    links[i][ritmo][j] = f'\n**>** [Link](https://www.lichess.org/{g[1]})'
+                    openings[i][ritmo][j] = f', *{game["opening"]["eco"]} - {game["opening"]["name"]}*.'
                     rounds[i][ritmo][j] = (g[0], parser[game.get('winner', None)])
                     pass
 
