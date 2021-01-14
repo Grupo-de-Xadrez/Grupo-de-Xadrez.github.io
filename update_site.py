@@ -222,7 +222,7 @@ def main():
 
     page = ''
 
-    page += '***`Torneio todos-contra-todos, entre 13 participantes, com partidas 15+5 e 5+4.`***.'
+    page += '***`Torneio todos-contra-todos, entre 13 participantes, com partidas 15+5 e 5+4.`***'
     page += '\n'
     page += '\n'
     page += '## Participantes:'
