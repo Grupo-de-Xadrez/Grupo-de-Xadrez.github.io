@@ -12,14 +12,18 @@ def main():
     rounds = list()
     playersSorted = (list(), list())
     ratings = (dict(), dict())
-    inverse = {'w': 'b', 'd': 'd', 'b': 'w', '': ''}
+    p = 1
 
     analysing = None
     for line in data:
         if line.endswith(':'):
             analysing = line[:-1]
             if analysing == 'r':
-                rounds.append(list())
+                rounds.append([[] for _ in range(p)])
+            continue
+        if analysing == 'p':
+            if '=' in line:
+                p = int(line.split('=')[1])
             continue
         if analysing == 'n':
             if '=' in line:
@@ -35,7 +39,8 @@ def main():
             continue
         if analysing == 'r':
             if '=' in line:
-                rounds[-1].append(((line.split('=')[0].split(',')[0], line.split('=')[0].split(',')[1]), (line.split('=')[1].split(',')[0], inverse[line.split('=')[1].split(',')[1]])))
+                for i in range(p):
+                    rounds[-1][i].append(((line.split('=')[0].split(',')[(i + 0) % 2], line.split('=')[0].split(',')[(i + 1) % 2]), line.split('=')[1].split(',')[i]))
 
     lastRound = None
     currentRound = None
@@ -63,16 +68,16 @@ def main():
         return abreviations[cod]
 
     def toStrResult(game, ritmo):
-        if game[1][ritmo] == 'w':
-            return f'* **{getName(game[0][(ritmo + 0) % 2])}** *({ratings[ritmo][game[0][(ritmo + 0) % 2]]})* `1   -   0`  {getName(game[0][(ritmo + 1) % 2])} *({ratings[ritmo][game[0][(ritmo + 1) % 2]]})*'
-        if game[1][ritmo] == 'd':
-            return f'* {getName(game[0][(ritmo + 0) % 2])} *({ratings[ritmo][game[0][(ritmo + 0) % 2]]})* `1/2 - 1/2` {getName(game[0][(ritmo + 1) % 2])} *({ratings[ritmo][game[0][(ritmo + 1) % 2]]})*'
-        if game[1][ritmo] == 'b':
-            return f'* {getName(game[0][(ritmo + 0) % 2])} *({ratings[ritmo][game[0][(ritmo + 0) % 2]]})* `0   -   1` **{getName(game[0][(ritmo + 1) % 2])}** *({ratings[ritmo][game[0][(ritmo + 1) % 2]]})*'
-        return f'* {getName(game[0][(ritmo + 0) % 2])} *({ratings[ritmo][game[0][(ritmo + 0) % 2]]})*     -     {getName(game[0][(ritmo + 1) % 2])} *({ratings[ritmo][game[0][(ritmo + 1) % 2]]})*'
+        if game[1] == 'w':
+            return f'* **{getName(game[0][0])}** *({ratings[ritmo][game[0][0]]})* `1   -   0`  {getName(game[0][1])} *({ratings[ritmo][game[0][1]]})*'
+        if game[1] == 'd':
+            return f'* {getName(game[0][0])} *({ratings[ritmo][game[0][0]]})* `1/2 - 1/2` {getName(game[0][1])} *({ratings[ritmo][game[0][1]]})*'
+        if game[1] == 'b':
+            return f'* {getName(game[0][0])} *({ratings[ritmo][game[0][0]]})* `0   -   1` **{getName(game[0][1])}** *({ratings[ritmo][game[0][1]]})*'
+        return f'* {getName(game[0][0])} *({ratings[ritmo][game[0][0]]})*     -     {getName(game[0][1])} *({ratings[ritmo][game[0][1]]})*'
 
     def toStrBye(r, ritmo):
-        playersInBye = [f'{names[player]} ({ratings[ritmo][player]})' for player in names.keys() if not any(map(lambda g: g[0][0] == player, r)) and not any(map(lambda g: g[0][1] == player, r))]
+        playersInBye = [f'{names[player]} ({ratings[ritmo][player]})' for player in names.keys() if not any(map(lambda g: g[0][0] == player, r[ritmo])) and not any(map(lambda g: g[0][1] == player, r[ritmo]))]
 
         if len(playersInBye) == 0:
             return ''
@@ -80,7 +85,7 @@ def main():
         return '\n\n' + 'De folga: ' + ', '.join(playersInBye)
 
     def toStrRound(r, ritmo):
-        return '\n'.join([toStrResult(g, ritmo) for g in r]) + toStrBye(r, ritmo)
+        return '\n'.join([toStrResult(g, ritmo) for g in r[ritmo]]) + toStrBye(r, ritmo)
 
     def toStrStandings(ritmo):
         points = {player: 0 for player in names.keys()}
@@ -89,14 +94,14 @@ def main():
         wins = {player: 0 for player in names.keys()}
 
         for r in rounds:
-            for g in r:
-                if g[1][ritmo] == 'w':
+            for g in r[ritmo]:
+                if g[1] == 'w':
                     points[g[0][0]] += 2
                     wins[g[0][0]] += 1
-                elif g[1][ritmo] == 'd':
+                elif g[1] == 'd':
                     points[g[0][0]] += 1
                     points[g[0][1]] += 1
-                elif g[1][ritmo] == 'b':
+                elif g[1] == 'b':
                     points[g[0][1]] += 2
                     wins[g[0][1]] += 1
                 else:
@@ -139,26 +144,26 @@ def main():
             result = '-'
 
             for r in rounds:
-                for g in r:
+                for g in r[ritmo]:
                     if g[0][1] == cod and g[0][0] == player:
-                        if g[1][ritmo] == 'w':
+                        if g[1] == 'w':
                             result = '0'
-                        elif g[1][ritmo] == 'd':
+                        elif g[1] == 'd':
                             result = '0.5'
-                        elif g[1][ritmo] == 'b':
+                        elif g[1] == 'b':
                             result = '1'
                         else:
                             result = ''
 
             # Feito duas vezes, para caso seja ida-volta, ele coloque na horizontal os resultados de brancas, senão (só ida), qualquer um.
             for r in rounds:
-                for g in r:
+                for g in r[ritmo]:
                     if g[0][0] == cod and g[0][1] == player:
-                        if g[1][ritmo] == 'w':
+                        if g[1] == 'w':
                             result = '1'
-                        elif g[1][ritmo] == 'd':
+                        elif g[1] == 'd':
                             result = '0.5'
-                        elif g[1][ritmo] == 'b':
+                        elif g[1] == 'b':
                             result = '0'
                         else:
                             result = ''
@@ -199,6 +204,9 @@ def main():
 
     page = ''
 
+    page += '***`Torneio todos-contra-todos, entre 13 participantes, com partidas 15+5 e 5+4.`***.'
+    page += '\n'
+    page += '\n'
     page += '## Participantes:'
     page += '\n'
     page += '\n'
