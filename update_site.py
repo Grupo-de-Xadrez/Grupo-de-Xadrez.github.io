@@ -215,7 +215,7 @@ def main():
             for j, g in enumerate(r[ritmo]):
                 if g[1] not in ['w', 'd', 'b', '']:
                     game = lichess.api.game(g[1])
-                    links[i][ritmo][j] = f'\n**>** [Link](https://www.lichess.org/{g[1]})'
+                    links[i][ritmo][j] = f'\n\n**>** [Link](https://www.lichess.org/{g[1]})'
                     openings[i][ritmo][j] = f', *{game["opening"]["eco"]} - {game["opening"]["name"]}*.'
                     rounds[i][ritmo][j] = (g[0], parser[game.get('winner', None)])
                     pass

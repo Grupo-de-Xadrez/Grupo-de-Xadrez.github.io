@@ -23,11 +23,14 @@
 * Pedro *(1179)*     -     Vitor *(1302)*
 * Renato *(1280)*     -     Marcelo *(2093)*
 * Freddy *(1857)* `0   -   1` **Léo *(1927)***
+
 **>** [Link](https://www.lichess.org/jErAgptw), *A84 - Dutch Defense: Classical Variation*.
 * Júlio *(1677)*     -     Alexandre *(1155)*
 * Ricardo *(1780)* `1/2 - 1/2` Ribas *(1635)*
+
 **>** [Link](https://www.lichess.org/LTYw2mFX), *B23 - Sicilian Defense: Closed, Traditional*.
 * **Milton *(1884)*** `1   -   0`  Diogo *(1237)*
+
 **>** [Link](https://www.lichess.org/Q7BaIb8v), *C26 - Vienna Game: Stanley Variation*.
 
 De folga: Diogo (1237)
@@ -37,11 +40,14 @@ De folga: Diogo (1237)
 * Vitor *(1167)*     -     Pedro *(1382)*
 * Marcelo *(1500)*     -     Renato *(1178)*
 * **Léo *(1856)*** `1   -   0`  Freddy *(1788)*
+
 **>** [Link](https://www.lichess.org/EdwQe0e0), *A45 - Trompowsky Attack*.
 * Alexandre *(1197)*     -     Júlio *(1350)*
 * Ribas *(1500)* `0   -   1` **Ricardo *(1582)***
+
 **>** [Link](https://www.lichess.org/ocUpBa5T), *C34 - King's Gambit Accepted: Becker Defense*.
 * **Diogo *(1503)*** `1   -   0`  Milton *(1500)*
+
 **>** [Link](https://www.lichess.org/9E2gILyV), *D04 - Queen's Pawn Game: Colle System*.
 
 De folga: Diogo (1503)
@@ -153,11 +159,14 @@ De folga: Diogo (1503)
 * Pedro *(1179)*     -     Vitor *(1302)*
 * Renato *(1280)*     -     Marcelo *(2093)*
 * Freddy *(1857)* `0   -   1` **Léo *(1927)***
+
 **>** [Link](https://www.lichess.org/jErAgptw), *A84 - Dutch Defense: Classical Variation*.
 * Júlio *(1677)*     -     Alexandre *(1155)*
 * Ricardo *(1780)* `1/2 - 1/2` Ribas *(1635)*
+
 **>** [Link](https://www.lichess.org/LTYw2mFX), *B23 - Sicilian Defense: Closed, Traditional*.
 * **Milton *(1884)*** `1   -   0`  Diogo *(1237)*
+
 **>** [Link](https://www.lichess.org/Q7BaIb8v), *C26 - Vienna Game: Stanley Variation*.
 
 De folga: Felipe (1555)
@@ -167,11 +176,14 @@ De folga: Felipe (1555)
 * Vitor *(1167)*     -     Pedro *(1382)*
 * Marcelo *(1500)*     -     Renato *(1178)*
 * **Léo *(1856)*** `1   -   0`  Freddy *(1788)*
+
 **>** [Link](https://www.lichess.org/EdwQe0e0), *A45 - Trompowsky Attack*.
 * Alexandre *(1197)*     -     Júlio *(1350)*
 * Ribas *(1500)* `0   -   1` **Ricardo *(1582)***
+
 **>** [Link](https://www.lichess.org/ocUpBa5T), *C34 - King's Gambit Accepted: Becker Defense*.
 * **Diogo *(1503)*** `1   -   0`  Milton *(1500)*
+
 **>** [Link](https://www.lichess.org/9E2gILyV), *D04 - Queen's Pawn Game: Colle System*.
 
 De folga: Felipe (1380)
