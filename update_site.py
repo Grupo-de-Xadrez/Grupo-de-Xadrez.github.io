@@ -46,7 +46,7 @@ def main():
                 for i in range(p):
                     rounds[-1][i].append(((line.split('=')[0].split(',')[(i + 0) % 2], line.split('=')[0].split(',')[(i + 1) % 2]), line.split('=')[1].split(',')[i]))
                     openings[-1][i].append('')
-                    links[-1][i].append('\n###### *Pendente.*')
+                    links[-1][i].append('\n\n **>** *Pendente.*')
 
     lastRound = None
     currentRound = None
@@ -75,12 +75,12 @@ def main():
 
     def toStrResult(game, ritmo):
         if game[1] == 'w':
-            return f'**>** **{getName(game[0][0])} *({ratings[ritmo][game[0][0]]})*** `1   -   0`  {getName(game[0][1])} *({ratings[ritmo][game[0][1]]})*'
+            return f'* **{getName(game[0][0])} *({ratings[ritmo][game[0][0]]})*** `1   -   0`  {getName(game[0][1])} *({ratings[ritmo][game[0][1]]})*'
         if game[1] == 'd':
-            return f'**>** {getName(game[0][0])} *({ratings[ritmo][game[0][0]]})* `1/2 - 1/2` {getName(game[0][1])} *({ratings[ritmo][game[0][1]]})*'
+            return f'* {getName(game[0][0])} *({ratings[ritmo][game[0][0]]})* `1/2 - 1/2` {getName(game[0][1])} *({ratings[ritmo][game[0][1]]})*'
         if game[1] == 'b':
-            return f'**>** {getName(game[0][0])} *({ratings[ritmo][game[0][0]]})* `0   -   1` **{getName(game[0][1])} *({ratings[ritmo][game[0][1]]})***'
-        return f'**>** {getName(game[0][0])} *({ratings[ritmo][game[0][0]]})*     -     {getName(game[0][1])} *({ratings[ritmo][game[0][1]]})*'
+            return f'* {getName(game[0][0])} *({ratings[ritmo][game[0][0]]})* `0   -   1` **{getName(game[0][1])} *({ratings[ritmo][game[0][1]]})***'
+        return f'* {getName(game[0][0])} *({ratings[ritmo][game[0][0]]})*     -     {getName(game[0][1])} *({ratings[ritmo][game[0][1]]})*'
 
     def toStrBye(r, ritmo):
         playersInBye = [f'{names[player]} ({ratings[ritmo][player]})' for player in names.keys() if not any(map(lambda g: g[0][0] == player, r[ritmo])) and not any(map(lambda g: g[0][1] == player, r[ritmo]))]
@@ -215,7 +215,7 @@ def main():
             for j, g in enumerate(r[ritmo]):
                 if g[1] not in ['w', 'd', 'b', '']:
                     game = lichess.api.game(g[1])
-                    links[i][ritmo][j] = f'\n###### [Link](https://www.lichess.org/{g[1]})'
+                    links[i][ritmo][j] = f'\n\n**>** [Link](https://www.lichess.org/{g[1]})'
                     openings[i][ritmo][j] = f', *{game["opening"]["eco"]} - {game["opening"]["name"]}*.'
                     rounds[i][ritmo][j] = (g[0], parser[game.get('winner', None)])
                     pass
