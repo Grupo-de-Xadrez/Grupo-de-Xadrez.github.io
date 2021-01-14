@@ -75,11 +75,11 @@ def main():
 
     def toStrResult(game, ritmo):
         if game[1] == 'w':
-            return f'* **{getName(game[0][0])}** *({ratings[ritmo][game[0][0]]})* `1   -   0`  {getName(game[0][1])} *({ratings[ritmo][game[0][1]]})*'
+            return f'* **{getName(game[0][0])} *({ratings[ritmo][game[0][0]]})*** `1   -   0`  {getName(game[0][1])} *({ratings[ritmo][game[0][1]]})*'
         if game[1] == 'd':
             return f'* {getName(game[0][0])} *({ratings[ritmo][game[0][0]]})* `1/2 - 1/2` {getName(game[0][1])} *({ratings[ritmo][game[0][1]]})*'
         if game[1] == 'b':
-            return f'* {getName(game[0][0])} *({ratings[ritmo][game[0][0]]})* `0   -   1` **{getName(game[0][1])}** *({ratings[ritmo][game[0][1]]})*'
+            return f'* {getName(game[0][0])} *({ratings[ritmo][game[0][0]]})* `0   -   1` **{getName(game[0][1])} *({ratings[ritmo][game[0][1]]})***'
         return f'* {getName(game[0][0])} *({ratings[ritmo][game[0][0]]})*     -     {getName(game[0][1])} *({ratings[ritmo][game[0][1]]})*'
 
     def toStrBye(r, ritmo):
@@ -216,7 +216,7 @@ def main():
                 if g[1] not in ['w', 'd', 'b', '']:
                     game = lichess.api.game(g[1])
                     links[i][ritmo][j] = f' [Link](https://www.lichess.org/{g[1]}).'
-                    openings[i][ritmo][j] = f', {game["opening"]["eco"]} - {game["opening"]["name"]}'
+                    openings[i][ritmo][j] = f', *`{game["opening"]["eco"]} - {game["opening"]["name"]}`*'
                     rounds[i][ritmo][j] = (g[0], parser[game.get('winner', None)])
                     pass
 
