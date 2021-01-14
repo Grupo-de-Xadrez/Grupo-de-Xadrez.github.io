@@ -22,7 +22,7 @@
 
 * Pedro *(1179)*     -     Vitor *(1302)*
 
- **>** *Pendente.*
+ **>** 
 * Renato *(1280)* `0   -   1` **Marcelo *(2096)***
 
 **>** [Link](https://www.lichess.org/88IwjQLc), *D00 - Queen's Pawn Game: Mason Attack*.
@@ -31,7 +31,7 @@
 **>** [Link](https://www.lichess.org/jErAgptw), *A84 - Dutch Defense: Classical Variation*.
 * Júlio *(1677)*     -     Alexandre *(1155)*
 
- **>** *Pendente.*
+ **>** 
 * Ricardo *(1780)* `1/2 - 1/2` Ribas *(1635)*
 
 **>** [Link](https://www.lichess.org/LTYw2mFX), *B23 - Sicilian Defense: Closed, Traditional*.
@@ -45,7 +45,7 @@ De folga: Diogo (1237)
 
 * Vitor *(1167)*     -     Pedro *(1382)*
 
- **>** *Pendente.*
+ **>** 
 * **Marcelo *(1619)*** `1   -   0`  Renato *(1139)*
 
 **>** [Link](https://www.lichess.org/9SCbnWsf), *D00 - Queen's Pawn Game: Chigorin Variation*.
@@ -54,7 +54,7 @@ De folga: Diogo (1237)
 **>** [Link](https://www.lichess.org/EdwQe0e0), *A45 - Trompowsky Attack*.
 * Alexandre *(1197)*     -     Júlio *(1350)*
 
- **>** *Pendente.*
+ **>** 
 * Ribas *(1500)* `0   -   1` **Ricardo *(1582)***
 
 **>** [Link](https://www.lichess.org/ocUpBa5T), *C34 - King's Gambit Accepted: Becker Defense*.
@@ -70,22 +70,22 @@ De folga: Diogo (1503)
 
 * Vitor *(1302)*     -     Renato *(1280)*
 
- **>** *Pendente.*
+ **>** 
 * Pedro *(1179)*     -     Freddy *(1857)*
 
- **>** *Pendente.*
+ **>** 
 * Marcelo *(2096)*     -     Júlio *(1677)*
 
- **>** *Pendente.*
+ **>** 
 * Léo *(1927)*     -     Ribas *(1635)*
 
- **>** *Pendente.*
+ **>** 
 * Alexandre *(1155)*     -     Diogo *(1237)*
 
- **>** *Pendente.*
+ **>** 
 * Milton *(1884)*     -     Felipe *(1555)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Diogo (1237)
 
@@ -93,22 +93,22 @@ De folga: Diogo (1237)
 
 * Renato *(1139)*     -     Vitor *(1167)*
 
- **>** *Pendente.*
+ **>** 
 * Freddy *(1788)*     -     Pedro *(1382)*
 
- **>** *Pendente.*
+ **>** 
 * Júlio *(1350)*     -     Marcelo *(1619)*
 
- **>** *Pendente.*
+ **>** 
 * Ribas *(1500)*     -     Léo *(1856)*
 
- **>** *Pendente.*
+ **>** 
 * Diogo *(1503)*     -     Alexandre *(1197)*
 
- **>** *Pendente.*
+ **>** 
 * Felipe *(1380)*     -     Milton *(1500)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Diogo (1503)
 
@@ -194,7 +194,7 @@ De folga: Diogo (1503)
 
 * Pedro *(1179)*     -     Vitor *(1302)*
 
- **>** *Pendente.*
+ **>** 
 * Renato *(1280)* `0   -   1` **Marcelo *(2096)***
 
 **>** [Link](https://www.lichess.org/88IwjQLc), *D00 - Queen's Pawn Game: Mason Attack*.
@@ -203,7 +203,7 @@ De folga: Diogo (1503)
 **>** [Link](https://www.lichess.org/jErAgptw), *A84 - Dutch Defense: Classical Variation*.
 * Júlio *(1677)*     -     Alexandre *(1155)*
 
- **>** *Pendente.*
+ **>** 
 * Ricardo *(1780)* `1/2 - 1/2` Ribas *(1635)*
 
 **>** [Link](https://www.lichess.org/LTYw2mFX), *B23 - Sicilian Defense: Closed, Traditional*.
@@ -217,7 +217,7 @@ De folga: Felipe (1555)
 
 * Vitor *(1167)*     -     Pedro *(1382)*
 
- **>** *Pendente.*
+ **>** 
 * **Marcelo *(1619)*** `1   -   0`  Renato *(1139)*
 
 **>** [Link](https://www.lichess.org/9SCbnWsf), *D00 - Queen's Pawn Game: Chigorin Variation*.
@@ -226,7 +226,7 @@ De folga: Felipe (1555)
 **>** [Link](https://www.lichess.org/EdwQe0e0), *A45 - Trompowsky Attack*.
 * Alexandre *(1197)*     -     Júlio *(1350)*
 
- **>** *Pendente.*
+ **>** 
 * Ribas *(1500)* `0   -   1` **Ricardo *(1582)***
 
 **>** [Link](https://www.lichess.org/ocUpBa5T), *C34 - King's Gambit Accepted: Becker Defense*.
@@ -242,22 +242,22 @@ De folga: Felipe (1380)
 
 * Vitor *(1302)*     -     Renato *(1280)*
 
- **>** *Pendente.*
+ **>** 
 * Pedro *(1179)*     -     Freddy *(1857)*
 
- **>** *Pendente.*
+ **>** 
 * Marcelo *(2096)*     -     Júlio *(1677)*
 
- **>** *Pendente.*
+ **>** 
 * Léo *(1927)*     -     Ribas *(1635)*
 
- **>** *Pendente.*
+ **>** 
 * Alexandre *(1155)*     -     Diogo *(1237)*
 
- **>** *Pendente.*
+ **>** 
 * Milton *(1884)*     -     Felipe *(1555)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Ricardo (1780)
 
@@ -265,22 +265,22 @@ De folga: Ricardo (1780)
 
 * Renato *(1139)*     -     Vitor *(1167)*
 
- **>** *Pendente.*
+ **>** 
 * Freddy *(1788)*     -     Pedro *(1382)*
 
- **>** *Pendente.*
+ **>** 
 * Júlio *(1350)*     -     Marcelo *(1619)*
 
- **>** *Pendente.*
+ **>** 
 * Ribas *(1500)*     -     Léo *(1856)*
 
- **>** *Pendente.*
+ **>** 
 * Diogo *(1503)*     -     Alexandre *(1197)*
 
- **>** *Pendente.*
+ **>** 
 * Felipe *(1380)*     -     Milton *(1500)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Ricardo (1582)
 
@@ -290,22 +290,22 @@ De folga: Ricardo (1582)
 
 * Vitor *(1302)*     -     Freddy *(1857)*
 
- **>** *Pendente.*
+ **>** 
 * Júlio *(1677)*     -     Renato *(1280)*
 
- **>** *Pendente.*
+ **>** 
 * Ribas *(1635)*     -     Pedro *(1179)*
 
- **>** *Pendente.*
+ **>** 
 * Diogo *(1237)*     -     Marcelo *(2096)*
 
- **>** *Pendente.*
+ **>** 
 * Felipe *(1555)*     -     Alexandre *(1155)*
 
- **>** *Pendente.*
+ **>** 
 * Ricardo *(1780)*     -     Milton *(1884)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Léo (1927)
 
@@ -313,22 +313,22 @@ De folga: Léo (1927)
 
 * Freddy *(1788)*     -     Vitor *(1167)*
 
- **>** *Pendente.*
+ **>** 
 * Renato *(1139)*     -     Júlio *(1350)*
 
- **>** *Pendente.*
+ **>** 
 * Pedro *(1382)*     -     Ribas *(1500)*
 
- **>** *Pendente.*
+ **>** 
 * Marcelo *(1619)*     -     Diogo *(1503)*
 
- **>** *Pendente.*
+ **>** 
 * Alexandre *(1197)*     -     Felipe *(1380)*
 
- **>** *Pendente.*
+ **>** 
 * Milton *(1500)*     -     Ricardo *(1582)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Léo (1856)
 
@@ -338,22 +338,22 @@ De folga: Léo (1856)
 
 * Vitor *(1302)*     -     Júlio *(1677)*
 
- **>** *Pendente.*
+ **>** 
 * Ribas *(1635)*     -     Freddy *(1857)*
 
- **>** *Pendente.*
+ **>** 
 * Renato *(1280)*     -     Diogo *(1237)*
 
- **>** *Pendente.*
+ **>** 
 * Marcelo *(2096)*     -     Felipe *(1555)*
 
- **>** *Pendente.*
+ **>** 
 * Milton *(1884)*     -     Léo *(1927)*
 
- **>** *Pendente.*
+ **>** 
 * Alexandre *(1155)*     -     Ricardo *(1780)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Pedro (1179)
 
@@ -361,22 +361,22 @@ De folga: Pedro (1179)
 
 * Júlio *(1350)*     -     Vitor *(1167)*
 
- **>** *Pendente.*
+ **>** 
 * Freddy *(1788)*     -     Ribas *(1500)*
 
- **>** *Pendente.*
+ **>** 
 * Diogo *(1503)*     -     Renato *(1139)*
 
- **>** *Pendente.*
+ **>** 
 * Felipe *(1380)*     -     Marcelo *(1619)*
 
- **>** *Pendente.*
+ **>** 
 * Léo *(1856)*     -     Milton *(1500)*
 
- **>** *Pendente.*
+ **>** 
 * Ricardo *(1582)*     -     Alexandre *(1197)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Pedro (1382)
 
@@ -386,22 +386,22 @@ De folga: Pedro (1382)
 
 * Ribas *(1635)*     -     Vitor *(1302)*
 
- **>** *Pendente.*
+ **>** 
 * Diogo *(1237)*     -     Júlio *(1677)*
 
- **>** *Pendente.*
+ **>** 
 * Renato *(1280)*     -     Felipe *(1555)*
 
- **>** *Pendente.*
+ **>** 
 * Pedro *(1179)*     -     Milton *(1884)*
 
- **>** *Pendente.*
+ **>** 
 * Ricardo *(1780)*     -     Marcelo *(2096)*
 
- **>** *Pendente.*
+ **>** 
 * Alexandre *(1155)*     -     Léo *(1927)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Freddy (1857)
 
@@ -409,22 +409,22 @@ De folga: Freddy (1857)
 
 * Vitor *(1167)*     -     Ribas *(1500)*
 
- **>** *Pendente.*
+ **>** 
 * Júlio *(1350)*     -     Diogo *(1503)*
 
- **>** *Pendente.*
+ **>** 
 * Felipe *(1380)*     -     Renato *(1139)*
 
- **>** *Pendente.*
+ **>** 
 * Milton *(1500)*     -     Pedro *(1382)*
 
- **>** *Pendente.*
+ **>** 
 * Marcelo *(1619)*     -     Ricardo *(1582)*
 
- **>** *Pendente.*
+ **>** 
 * Léo *(1856)*     -     Alexandre *(1197)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Freddy (1788)
 
@@ -434,22 +434,22 @@ De folga: Freddy (1788)
 
 * Diogo *(1237)*     -     Vitor *(1302)*
 
- **>** *Pendente.*
+ **>** 
 * Felipe *(1555)*     -     Júlio *(1677)*
 
- **>** *Pendente.*
+ **>** 
 * Freddy *(1857)*     -     Milton *(1884)*
 
- **>** *Pendente.*
+ **>** 
 * Renato *(1280)*     -     Ricardo *(1780)*
 
- **>** *Pendente.*
+ **>** 
 * Pedro *(1179)*     -     Alexandre *(1155)*
 
- **>** *Pendente.*
+ **>** 
 * Léo *(1927)*     -     Marcelo *(2096)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Ribas (1635)
 
@@ -457,22 +457,22 @@ De folga: Ribas (1635)
 
 * Vitor *(1167)*     -     Diogo *(1503)*
 
- **>** *Pendente.*
+ **>** 
 * Júlio *(1350)*     -     Felipe *(1380)*
 
- **>** *Pendente.*
+ **>** 
 * Milton *(1500)*     -     Freddy *(1788)*
 
- **>** *Pendente.*
+ **>** 
 * Ricardo *(1582)*     -     Renato *(1139)*
 
- **>** *Pendente.*
+ **>** 
 * Alexandre *(1197)*     -     Pedro *(1382)*
 
- **>** *Pendente.*
+ **>** 
 * Marcelo *(1619)*     -     Léo *(1856)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Ribas (1500)
 
@@ -482,22 +482,22 @@ De folga: Ribas (1500)
 
 * Diogo *(1237)*     -     Felipe *(1555)*
 
- **>** *Pendente.*
+ **>** 
 * Ribas *(1635)*     -     Milton *(1884)*
 
- **>** *Pendente.*
+ **>** 
 * Júlio *(1677)*     -     Ricardo *(1780)*
 
- **>** *Pendente.*
+ **>** 
 * Freddy *(1857)*     -     Alexandre *(1155)*
 
- **>** *Pendente.*
+ **>** 
 * Léo *(1927)*     -     Renato *(1280)*
 
- **>** *Pendente.*
+ **>** 
 * Marcelo *(2096)*     -     Pedro *(1179)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Vitor (1302)
 
@@ -505,22 +505,22 @@ De folga: Vitor (1302)
 
 * Felipe *(1380)*     -     Diogo *(1503)*
 
- **>** *Pendente.*
+ **>** 
 * Milton *(1500)*     -     Ribas *(1500)*
 
- **>** *Pendente.*
+ **>** 
 * Ricardo *(1582)*     -     Júlio *(1350)*
 
- **>** *Pendente.*
+ **>** 
 * Alexandre *(1197)*     -     Freddy *(1788)*
 
- **>** *Pendente.*
+ **>** 
 * Renato *(1139)*     -     Léo *(1856)*
 
- **>** *Pendente.*
+ **>** 
 * Pedro *(1382)*     -     Marcelo *(1619)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Vitor (1167)
 
@@ -530,22 +530,22 @@ De folga: Vitor (1167)
 
 * Felipe *(1555)*     -     Vitor *(1302)*
 
- **>** *Pendente.*
+ **>** 
 * Ricardo *(1780)*     -     Diogo *(1237)*
 
- **>** *Pendente.*
+ **>** 
 * Alexandre *(1155)*     -     Ribas *(1635)*
 
- **>** *Pendente.*
+ **>** 
 * Júlio *(1677)*     -     Léo *(1927)*
 
- **>** *Pendente.*
+ **>** 
 * Marcelo *(2096)*     -     Freddy *(1857)*
 
- **>** *Pendente.*
+ **>** 
 * Pedro *(1179)*     -     Renato *(1280)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Milton (1884)
 
@@ -553,22 +553,22 @@ De folga: Milton (1884)
 
 * Vitor *(1167)*     -     Felipe *(1380)*
 
- **>** *Pendente.*
+ **>** 
 * Diogo *(1503)*     -     Ricardo *(1582)*
 
- **>** *Pendente.*
+ **>** 
 * Ribas *(1500)*     -     Alexandre *(1197)*
 
- **>** *Pendente.*
+ **>** 
 * Léo *(1856)*     -     Júlio *(1350)*
 
- **>** *Pendente.*
+ **>** 
 * Freddy *(1788)*     -     Marcelo *(1619)*
 
- **>** *Pendente.*
+ **>** 
 * Renato *(1139)*     -     Pedro *(1382)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Milton (1500)
 
@@ -578,22 +578,22 @@ De folga: Milton (1500)
 
 * Milton *(1884)*     -     Vitor *(1302)*
 
- **>** *Pendente.*
+ **>** 
 * Felipe *(1555)*     -     Ricardo *(1780)*
 
- **>** *Pendente.*
+ **>** 
 * Léo *(1927)*     -     Diogo *(1237)*
 
- **>** *Pendente.*
+ **>** 
 * Marcelo *(2096)*     -     Ribas *(1635)*
 
- **>** *Pendente.*
+ **>** 
 * Júlio *(1677)*     -     Pedro *(1179)*
 
- **>** *Pendente.*
+ **>** 
 * Renato *(1280)*     -     Freddy *(1857)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Alexandre (1155)
 
@@ -601,22 +601,22 @@ De folga: Alexandre (1155)
 
 * Vitor *(1167)*     -     Milton *(1500)*
 
- **>** *Pendente.*
+ **>** 
 * Ricardo *(1582)*     -     Felipe *(1380)*
 
- **>** *Pendente.*
+ **>** 
 * Diogo *(1503)*     -     Léo *(1856)*
 
- **>** *Pendente.*
+ **>** 
 * Ribas *(1500)*     -     Marcelo *(1619)*
 
- **>** *Pendente.*
+ **>** 
 * Pedro *(1382)*     -     Júlio *(1350)*
 
- **>** *Pendente.*
+ **>** 
 * Freddy *(1788)*     -     Renato *(1139)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Alexandre (1197)
 
@@ -626,22 +626,22 @@ De folga: Alexandre (1197)
 
 * Ricardo *(1780)*     -     Vitor *(1302)*
 
- **>** *Pendente.*
+ **>** 
 * Alexandre *(1155)*     -     Milton *(1884)*
 
- **>** *Pendente.*
+ **>** 
 * Léo *(1927)*     -     Felipe *(1555)*
 
- **>** *Pendente.*
+ **>** 
 * Diogo *(1237)*     -     Pedro *(1179)*
 
- **>** *Pendente.*
+ **>** 
 * Ribas *(1635)*     -     Renato *(1280)*
 
- **>** *Pendente.*
+ **>** 
 * Freddy *(1857)*     -     Júlio *(1677)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Marcelo (2096)
 
@@ -649,22 +649,22 @@ De folga: Marcelo (2096)
 
 * Vitor *(1167)*     -     Ricardo *(1582)*
 
- **>** *Pendente.*
+ **>** 
 * Milton *(1500)*     -     Alexandre *(1197)*
 
- **>** *Pendente.*
+ **>** 
 * Felipe *(1380)*     -     Léo *(1856)*
 
- **>** *Pendente.*
+ **>** 
 * Pedro *(1382)*     -     Diogo *(1503)*
 
- **>** *Pendente.*
+ **>** 
 * Renato *(1139)*     -     Ribas *(1500)*
 
- **>** *Pendente.*
+ **>** 
 * Júlio *(1350)*     -     Freddy *(1788)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Marcelo (1619)
 
@@ -674,22 +674,22 @@ De folga: Marcelo (1619)
 
 * Vitor *(1302)*     -     Alexandre *(1155)*
 
- **>** *Pendente.*
+ **>** 
 * Ricardo *(1780)*     -     Léo *(1927)*
 
- **>** *Pendente.*
+ **>** 
 * Milton *(1884)*     -     Marcelo *(2096)*
 
- **>** *Pendente.*
+ **>** 
 * Pedro *(1179)*     -     Felipe *(1555)*
 
- **>** *Pendente.*
+ **>** 
 * Diogo *(1237)*     -     Freddy *(1857)*
 
- **>** *Pendente.*
+ **>** 
 * Júlio *(1677)*     -     Ribas *(1635)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Renato (1280)
 
@@ -697,22 +697,22 @@ De folga: Renato (1280)
 
 * Alexandre *(1197)*     -     Vitor *(1167)*
 
- **>** *Pendente.*
+ **>** 
 * Léo *(1856)*     -     Ricardo *(1582)*
 
- **>** *Pendente.*
+ **>** 
 * Marcelo *(1619)*     -     Milton *(1500)*
 
- **>** *Pendente.*
+ **>** 
 * Felipe *(1380)*     -     Pedro *(1382)*
 
- **>** *Pendente.*
+ **>** 
 * Freddy *(1788)*     -     Diogo *(1503)*
 
- **>** *Pendente.*
+ **>** 
 * Ribas *(1500)*     -     Júlio *(1350)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Renato (1139)
 
@@ -722,22 +722,22 @@ De folga: Renato (1139)
 
 * Vitor *(1302)*     -     Léo *(1927)*
 
- **>** *Pendente.*
+ **>** 
 * Alexandre *(1155)*     -     Marcelo *(2096)*
 
- **>** *Pendente.*
+ **>** 
 * Pedro *(1179)*     -     Ricardo *(1780)*
 
- **>** *Pendente.*
+ **>** 
 * Milton *(1884)*     -     Renato *(1280)*
 
- **>** *Pendente.*
+ **>** 
 * Freddy *(1857)*     -     Felipe *(1555)*
 
- **>** *Pendente.*
+ **>** 
 * Ribas *(1635)*     -     Diogo *(1237)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Júlio (1677)
 
@@ -745,22 +745,22 @@ De folga: Júlio (1677)
 
 * Léo *(1856)*     -     Vitor *(1167)*
 
- **>** *Pendente.*
+ **>** 
 * Marcelo *(1619)*     -     Alexandre *(1197)*
 
- **>** *Pendente.*
+ **>** 
 * Ricardo *(1582)*     -     Pedro *(1382)*
 
- **>** *Pendente.*
+ **>** 
 * Renato *(1139)*     -     Milton *(1500)*
 
- **>** *Pendente.*
+ **>** 
 * Felipe *(1380)*     -     Freddy *(1788)*
 
- **>** *Pendente.*
+ **>** 
 * Diogo *(1503)*     -     Ribas *(1500)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Júlio (1350)
 
@@ -770,22 +770,22 @@ De folga: Júlio (1350)
 
 * Vitor *(1302)*     -     Marcelo *(2096)*
 
- **>** *Pendente.*
+ **>** 
 * Léo *(1927)*     -     Pedro *(1179)*
 
- **>** *Pendente.*
+ **>** 
 * Renato *(1280)*     -     Alexandre *(1155)*
 
- **>** *Pendente.*
+ **>** 
 * Ricardo *(1780)*     -     Freddy *(1857)*
 
- **>** *Pendente.*
+ **>** 
 * Milton *(1884)*     -     Júlio *(1677)*
 
- **>** *Pendente.*
+ **>** 
 * Felipe *(1555)*     -     Ribas *(1635)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Diogo (1237)
 
@@ -793,22 +793,22 @@ De folga: Diogo (1237)
 
 * Marcelo *(1619)*     -     Vitor *(1167)*
 
- **>** *Pendente.*
+ **>** 
 * Pedro *(1382)*     -     Léo *(1856)*
 
- **>** *Pendente.*
+ **>** 
 * Alexandre *(1197)*     -     Renato *(1139)*
 
- **>** *Pendente.*
+ **>** 
 * Freddy *(1788)*     -     Ricardo *(1582)*
 
- **>** *Pendente.*
+ **>** 
 * Júlio *(1350)*     -     Milton *(1500)*
 
- **>** *Pendente.*
+ **>** 
 * Ribas *(1500)*     -     Felipe *(1380)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Diogo (1503)
 
@@ -818,22 +818,22 @@ De folga: Diogo (1503)
 
 * Vitor *(1302)*     -     Pedro *(1179)*
 
- **>** *Pendente.*
+ **>** 
 * Marcelo *(2096)*     -     Renato *(1280)*
 
- **>** *Pendente.*
+ **>** 
 * Léo *(1927)*     -     Freddy *(1857)*
 
- **>** *Pendente.*
+ **>** 
 * Alexandre *(1155)*     -     Júlio *(1677)*
 
- **>** *Pendente.*
+ **>** 
 * Ribas *(1635)*     -     Ricardo *(1780)*
 
- **>** *Pendente.*
+ **>** 
 * Diogo *(1237)*     -     Milton *(1884)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Felipe (1555)
 
@@ -841,22 +841,22 @@ De folga: Felipe (1555)
 
 * Pedro *(1382)*     -     Vitor *(1167)*
 
- **>** *Pendente.*
+ **>** 
 * Renato *(1139)*     -     Marcelo *(1619)*
 
- **>** *Pendente.*
+ **>** 
 * Freddy *(1788)*     -     Léo *(1856)*
 
- **>** *Pendente.*
+ **>** 
 * Júlio *(1350)*     -     Alexandre *(1197)*
 
- **>** *Pendente.*
+ **>** 
 * Ricardo *(1582)*     -     Ribas *(1500)*
 
- **>** *Pendente.*
+ **>** 
 * Milton *(1500)*     -     Diogo *(1503)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Felipe (1380)
 
@@ -866,22 +866,22 @@ De folga: Felipe (1380)
 
 * Renato *(1280)*     -     Vitor *(1302)*
 
- **>** *Pendente.*
+ **>** 
 * Freddy *(1857)*     -     Pedro *(1179)*
 
- **>** *Pendente.*
+ **>** 
 * Júlio *(1677)*     -     Marcelo *(2096)*
 
- **>** *Pendente.*
+ **>** 
 * Ribas *(1635)*     -     Léo *(1927)*
 
- **>** *Pendente.*
+ **>** 
 * Diogo *(1237)*     -     Alexandre *(1155)*
 
- **>** *Pendente.*
+ **>** 
 * Felipe *(1555)*     -     Milton *(1884)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Ricardo (1780)
 
@@ -889,22 +889,22 @@ De folga: Ricardo (1780)
 
 * Vitor *(1167)*     -     Renato *(1139)*
 
- **>** *Pendente.*
+ **>** 
 * Pedro *(1382)*     -     Freddy *(1788)*
 
- **>** *Pendente.*
+ **>** 
 * Marcelo *(1619)*     -     Júlio *(1350)*
 
- **>** *Pendente.*
+ **>** 
 * Léo *(1856)*     -     Ribas *(1500)*
 
- **>** *Pendente.*
+ **>** 
 * Alexandre *(1197)*     -     Diogo *(1503)*
 
- **>** *Pendente.*
+ **>** 
 * Milton *(1500)*     -     Felipe *(1380)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Ricardo (1582)
 
@@ -914,22 +914,22 @@ De folga: Ricardo (1582)
 
 * Freddy *(1857)*     -     Vitor *(1302)*
 
- **>** *Pendente.*
+ **>** 
 * Renato *(1280)*     -     Júlio *(1677)*
 
- **>** *Pendente.*
+ **>** 
 * Pedro *(1179)*     -     Ribas *(1635)*
 
- **>** *Pendente.*
+ **>** 
 * Marcelo *(2096)*     -     Diogo *(1237)*
 
- **>** *Pendente.*
+ **>** 
 * Alexandre *(1155)*     -     Felipe *(1555)*
 
- **>** *Pendente.*
+ **>** 
 * Milton *(1884)*     -     Ricardo *(1780)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Léo (1927)
 
@@ -937,22 +937,22 @@ De folga: Léo (1927)
 
 * Vitor *(1167)*     -     Freddy *(1788)*
 
- **>** *Pendente.*
+ **>** 
 * Júlio *(1350)*     -     Renato *(1139)*
 
- **>** *Pendente.*
+ **>** 
 * Ribas *(1500)*     -     Pedro *(1382)*
 
- **>** *Pendente.*
+ **>** 
 * Diogo *(1503)*     -     Marcelo *(1619)*
 
- **>** *Pendente.*
+ **>** 
 * Felipe *(1380)*     -     Alexandre *(1197)*
 
- **>** *Pendente.*
+ **>** 
 * Ricardo *(1582)*     -     Milton *(1500)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Léo (1856)
 
@@ -962,22 +962,22 @@ De folga: Léo (1856)
 
 * Júlio *(1677)*     -     Vitor *(1302)*
 
- **>** *Pendente.*
+ **>** 
 * Freddy *(1857)*     -     Ribas *(1635)*
 
- **>** *Pendente.*
+ **>** 
 * Diogo *(1237)*     -     Renato *(1280)*
 
- **>** *Pendente.*
+ **>** 
 * Felipe *(1555)*     -     Marcelo *(2096)*
 
- **>** *Pendente.*
+ **>** 
 * Léo *(1927)*     -     Milton *(1884)*
 
- **>** *Pendente.*
+ **>** 
 * Ricardo *(1780)*     -     Alexandre *(1155)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Pedro (1179)
 
@@ -985,22 +985,22 @@ De folga: Pedro (1179)
 
 * Vitor *(1167)*     -     Júlio *(1350)*
 
- **>** *Pendente.*
+ **>** 
 * Ribas *(1500)*     -     Freddy *(1788)*
 
- **>** *Pendente.*
+ **>** 
 * Renato *(1139)*     -     Diogo *(1503)*
 
- **>** *Pendente.*
+ **>** 
 * Marcelo *(1619)*     -     Felipe *(1380)*
 
- **>** *Pendente.*
+ **>** 
 * Milton *(1500)*     -     Léo *(1856)*
 
- **>** *Pendente.*
+ **>** 
 * Alexandre *(1197)*     -     Ricardo *(1582)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Pedro (1382)
 
@@ -1010,22 +1010,22 @@ De folga: Pedro (1382)
 
 * Vitor *(1302)*     -     Ribas *(1635)*
 
- **>** *Pendente.*
+ **>** 
 * Júlio *(1677)*     -     Diogo *(1237)*
 
- **>** *Pendente.*
+ **>** 
 * Felipe *(1555)*     -     Renato *(1280)*
 
- **>** *Pendente.*
+ **>** 
 * Milton *(1884)*     -     Pedro *(1179)*
 
- **>** *Pendente.*
+ **>** 
 * Marcelo *(2096)*     -     Ricardo *(1780)*
 
- **>** *Pendente.*
+ **>** 
 * Léo *(1927)*     -     Alexandre *(1155)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Freddy (1857)
 
@@ -1033,22 +1033,22 @@ De folga: Freddy (1857)
 
 * Ribas *(1500)*     -     Vitor *(1167)*
 
- **>** *Pendente.*
+ **>** 
 * Diogo *(1503)*     -     Júlio *(1350)*
 
- **>** *Pendente.*
+ **>** 
 * Renato *(1139)*     -     Felipe *(1380)*
 
- **>** *Pendente.*
+ **>** 
 * Pedro *(1382)*     -     Milton *(1500)*
 
- **>** *Pendente.*
+ **>** 
 * Ricardo *(1582)*     -     Marcelo *(1619)*
 
- **>** *Pendente.*
+ **>** 
 * Alexandre *(1197)*     -     Léo *(1856)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Freddy (1788)
 
@@ -1058,22 +1058,22 @@ De folga: Freddy (1788)
 
 * Vitor *(1302)*     -     Diogo *(1237)*
 
- **>** *Pendente.*
+ **>** 
 * Júlio *(1677)*     -     Felipe *(1555)*
 
- **>** *Pendente.*
+ **>** 
 * Milton *(1884)*     -     Freddy *(1857)*
 
- **>** *Pendente.*
+ **>** 
 * Ricardo *(1780)*     -     Renato *(1280)*
 
- **>** *Pendente.*
+ **>** 
 * Alexandre *(1155)*     -     Pedro *(1179)*
 
- **>** *Pendente.*
+ **>** 
 * Marcelo *(2096)*     -     Léo *(1927)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Ribas (1635)
 
@@ -1081,22 +1081,22 @@ De folga: Ribas (1635)
 
 * Diogo *(1503)*     -     Vitor *(1167)*
 
- **>** *Pendente.*
+ **>** 
 * Felipe *(1380)*     -     Júlio *(1350)*
 
- **>** *Pendente.*
+ **>** 
 * Freddy *(1788)*     -     Milton *(1500)*
 
- **>** *Pendente.*
+ **>** 
 * Renato *(1139)*     -     Ricardo *(1582)*
 
- **>** *Pendente.*
+ **>** 
 * Pedro *(1382)*     -     Alexandre *(1197)*
 
- **>** *Pendente.*
+ **>** 
 * Léo *(1856)*     -     Marcelo *(1619)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Ribas (1500)
 
@@ -1106,22 +1106,22 @@ De folga: Ribas (1500)
 
 * Felipe *(1555)*     -     Diogo *(1237)*
 
- **>** *Pendente.*
+ **>** 
 * Milton *(1884)*     -     Ribas *(1635)*
 
- **>** *Pendente.*
+ **>** 
 * Ricardo *(1780)*     -     Júlio *(1677)*
 
- **>** *Pendente.*
+ **>** 
 * Alexandre *(1155)*     -     Freddy *(1857)*
 
- **>** *Pendente.*
+ **>** 
 * Renato *(1280)*     -     Léo *(1927)*
 
- **>** *Pendente.*
+ **>** 
 * Pedro *(1179)*     -     Marcelo *(2096)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Vitor (1302)
 
@@ -1129,22 +1129,22 @@ De folga: Vitor (1302)
 
 * Diogo *(1503)*     -     Felipe *(1380)*
 
- **>** *Pendente.*
+ **>** 
 * Ribas *(1500)*     -     Milton *(1500)*
 
- **>** *Pendente.*
+ **>** 
 * Júlio *(1350)*     -     Ricardo *(1582)*
 
- **>** *Pendente.*
+ **>** 
 * Freddy *(1788)*     -     Alexandre *(1197)*
 
- **>** *Pendente.*
+ **>** 
 * Léo *(1856)*     -     Renato *(1139)*
 
- **>** *Pendente.*
+ **>** 
 * Marcelo *(1619)*     -     Pedro *(1382)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Vitor (1167)
 
@@ -1154,22 +1154,22 @@ De folga: Vitor (1167)
 
 * Vitor *(1302)*     -     Felipe *(1555)*
 
- **>** *Pendente.*
+ **>** 
 * Diogo *(1237)*     -     Ricardo *(1780)*
 
- **>** *Pendente.*
+ **>** 
 * Ribas *(1635)*     -     Alexandre *(1155)*
 
- **>** *Pendente.*
+ **>** 
 * Léo *(1927)*     -     Júlio *(1677)*
 
- **>** *Pendente.*
+ **>** 
 * Freddy *(1857)*     -     Marcelo *(2096)*
 
- **>** *Pendente.*
+ **>** 
 * Renato *(1280)*     -     Pedro *(1179)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Milton (1884)
 
@@ -1177,22 +1177,22 @@ De folga: Milton (1884)
 
 * Felipe *(1380)*     -     Vitor *(1167)*
 
- **>** *Pendente.*
+ **>** 
 * Ricardo *(1582)*     -     Diogo *(1503)*
 
- **>** *Pendente.*
+ **>** 
 * Alexandre *(1197)*     -     Ribas *(1500)*
 
- **>** *Pendente.*
+ **>** 
 * Júlio *(1350)*     -     Léo *(1856)*
 
- **>** *Pendente.*
+ **>** 
 * Marcelo *(1619)*     -     Freddy *(1788)*
 
- **>** *Pendente.*
+ **>** 
 * Pedro *(1382)*     -     Renato *(1139)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Milton (1500)
 
@@ -1202,22 +1202,22 @@ De folga: Milton (1500)
 
 * Vitor *(1302)*     -     Milton *(1884)*
 
- **>** *Pendente.*
+ **>** 
 * Ricardo *(1780)*     -     Felipe *(1555)*
 
- **>** *Pendente.*
+ **>** 
 * Diogo *(1237)*     -     Léo *(1927)*
 
- **>** *Pendente.*
+ **>** 
 * Ribas *(1635)*     -     Marcelo *(2096)*
 
- **>** *Pendente.*
+ **>** 
 * Pedro *(1179)*     -     Júlio *(1677)*
 
- **>** *Pendente.*
+ **>** 
 * Freddy *(1857)*     -     Renato *(1280)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Alexandre (1155)
 
@@ -1225,22 +1225,22 @@ De folga: Alexandre (1155)
 
 * Milton *(1500)*     -     Vitor *(1167)*
 
- **>** *Pendente.*
+ **>** 
 * Felipe *(1380)*     -     Ricardo *(1582)*
 
- **>** *Pendente.*
+ **>** 
 * Léo *(1856)*     -     Diogo *(1503)*
 
- **>** *Pendente.*
+ **>** 
 * Marcelo *(1619)*     -     Ribas *(1500)*
 
- **>** *Pendente.*
+ **>** 
 * Júlio *(1350)*     -     Pedro *(1382)*
 
- **>** *Pendente.*
+ **>** 
 * Renato *(1139)*     -     Freddy *(1788)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Alexandre (1197)
 
@@ -1250,22 +1250,22 @@ De folga: Alexandre (1197)
 
 * Vitor *(1302)*     -     Ricardo *(1780)*
 
- **>** *Pendente.*
+ **>** 
 * Milton *(1884)*     -     Alexandre *(1155)*
 
- **>** *Pendente.*
+ **>** 
 * Felipe *(1555)*     -     Léo *(1927)*
 
- **>** *Pendente.*
+ **>** 
 * Pedro *(1179)*     -     Diogo *(1237)*
 
- **>** *Pendente.*
+ **>** 
 * Renato *(1280)*     -     Ribas *(1635)*
 
- **>** *Pendente.*
+ **>** 
 * Júlio *(1677)*     -     Freddy *(1857)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Marcelo (2096)
 
@@ -1273,22 +1273,22 @@ De folga: Marcelo (2096)
 
 * Ricardo *(1582)*     -     Vitor *(1167)*
 
- **>** *Pendente.*
+ **>** 
 * Alexandre *(1197)*     -     Milton *(1500)*
 
- **>** *Pendente.*
+ **>** 
 * Léo *(1856)*     -     Felipe *(1380)*
 
- **>** *Pendente.*
+ **>** 
 * Diogo *(1503)*     -     Pedro *(1382)*
 
- **>** *Pendente.*
+ **>** 
 * Ribas *(1500)*     -     Renato *(1139)*
 
- **>** *Pendente.*
+ **>** 
 * Freddy *(1788)*     -     Júlio *(1350)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Marcelo (1619)
 
@@ -1298,22 +1298,22 @@ De folga: Marcelo (1619)
 
 * Alexandre *(1155)*     -     Vitor *(1302)*
 
- **>** *Pendente.*
+ **>** 
 * Léo *(1927)*     -     Ricardo *(1780)*
 
- **>** *Pendente.*
+ **>** 
 * Marcelo *(2096)*     -     Milton *(1884)*
 
- **>** *Pendente.*
+ **>** 
 * Felipe *(1555)*     -     Pedro *(1179)*
 
- **>** *Pendente.*
+ **>** 
 * Freddy *(1857)*     -     Diogo *(1237)*
 
- **>** *Pendente.*
+ **>** 
 * Ribas *(1635)*     -     Júlio *(1677)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Renato (1280)
 
@@ -1321,22 +1321,22 @@ De folga: Renato (1280)
 
 * Vitor *(1167)*     -     Alexandre *(1197)*
 
- **>** *Pendente.*
+ **>** 
 * Ricardo *(1582)*     -     Léo *(1856)*
 
- **>** *Pendente.*
+ **>** 
 * Milton *(1500)*     -     Marcelo *(1619)*
 
- **>** *Pendente.*
+ **>** 
 * Pedro *(1382)*     -     Felipe *(1380)*
 
- **>** *Pendente.*
+ **>** 
 * Diogo *(1503)*     -     Freddy *(1788)*
 
- **>** *Pendente.*
+ **>** 
 * Júlio *(1350)*     -     Ribas *(1500)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Renato (1139)
 
@@ -1346,22 +1346,22 @@ De folga: Renato (1139)
 
 * Léo *(1927)*     -     Vitor *(1302)*
 
- **>** *Pendente.*
+ **>** 
 * Marcelo *(2096)*     -     Alexandre *(1155)*
 
- **>** *Pendente.*
+ **>** 
 * Ricardo *(1780)*     -     Pedro *(1179)*
 
- **>** *Pendente.*
+ **>** 
 * Renato *(1280)*     -     Milton *(1884)*
 
- **>** *Pendente.*
+ **>** 
 * Felipe *(1555)*     -     Freddy *(1857)*
 
- **>** *Pendente.*
+ **>** 
 * Diogo *(1237)*     -     Ribas *(1635)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Júlio (1677)
 
@@ -1369,22 +1369,22 @@ De folga: Júlio (1677)
 
 * Vitor *(1167)*     -     Léo *(1856)*
 
- **>** *Pendente.*
+ **>** 
 * Alexandre *(1197)*     -     Marcelo *(1619)*
 
- **>** *Pendente.*
+ **>** 
 * Pedro *(1382)*     -     Ricardo *(1582)*
 
- **>** *Pendente.*
+ **>** 
 * Milton *(1500)*     -     Renato *(1139)*
 
- **>** *Pendente.*
+ **>** 
 * Freddy *(1788)*     -     Felipe *(1380)*
 
- **>** *Pendente.*
+ **>** 
 * Ribas *(1500)*     -     Diogo *(1503)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Júlio (1350)
 
@@ -1394,22 +1394,22 @@ De folga: Júlio (1350)
 
 * Marcelo *(2096)*     -     Vitor *(1302)*
 
- **>** *Pendente.*
+ **>** 
 * Pedro *(1179)*     -     Léo *(1927)*
 
- **>** *Pendente.*
+ **>** 
 * Alexandre *(1155)*     -     Renato *(1280)*
 
- **>** *Pendente.*
+ **>** 
 * Freddy *(1857)*     -     Ricardo *(1780)*
 
- **>** *Pendente.*
+ **>** 
 * Júlio *(1677)*     -     Milton *(1884)*
 
- **>** *Pendente.*
+ **>** 
 * Ribas *(1635)*     -     Felipe *(1555)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Diogo (1237)
 
@@ -1417,22 +1417,22 @@ De folga: Diogo (1237)
 
 * Vitor *(1167)*     -     Marcelo *(1619)*
 
- **>** *Pendente.*
+ **>** 
 * Léo *(1856)*     -     Pedro *(1382)*
 
- **>** *Pendente.*
+ **>** 
 * Renato *(1139)*     -     Alexandre *(1197)*
 
- **>** *Pendente.*
+ **>** 
 * Ricardo *(1582)*     -     Freddy *(1788)*
 
- **>** *Pendente.*
+ **>** 
 * Milton *(1500)*     -     Júlio *(1350)*
 
- **>** *Pendente.*
+ **>** 
 * Felipe *(1380)*     -     Ribas *(1500)*
 
- **>** *Pendente.*
+ **>** 
 
 De folga: Diogo (1503)
 
