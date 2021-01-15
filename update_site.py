@@ -91,7 +91,7 @@ def main():
         return '\n\n' + 'De folga: ' + ', '.join(playersInBye)
 
     def toStrRound(i, ritmo):
-        return '\n'.join([toStrResult(g, ritmo) + links[i][ritmo][j] + openings[i][ritmo][j] for j, g in enumerate(rounds[i][ritmo])]) + toStrBye(r, ritmo)
+        return '\n'.join([toStrResult(g, ritmo) + links[i][ritmo][j] + openings[i][ritmo][j] for j, g in enumerate(rounds[i][ritmo])]) + toStrBye(rounds[i], ritmo)
 
     def toStrStandings(ritmo):
         points = {player: 0 for player in names.keys()}

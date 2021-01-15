@@ -39,7 +39,7 @@
 
  **>** 
 
-De folga: Diogo (1237)
+De folga: Ricardo (1780)
 
 #### Blitz:
 
@@ -62,7 +62,7 @@ De folga: Diogo (1237)
 
  **>** 
 
-De folga: Diogo (1503)
+De folga: Ricardo (1582)
 
 ### Rodada anterior:
 
@@ -87,7 +87,7 @@ De folga: Diogo (1503)
 
 **>** [Link](https://www.lichess.org/Q7BaIb8v), *C26 - Vienna Game: Stanley Variation*.
 
-De folga: Diogo (1237)
+De folga: Felipe (1555)
 
 #### Blitz:
 
@@ -110,7 +110,7 @@ De folga: Diogo (1237)
 
 **>** [Link](https://www.lichess.org/9E2gILyV), *D04 - Queen's Pawn Game: Colle System*.
 
-De folga: Diogo (1503)
+De folga: Felipe (1371)
 
 ### Rodada seguinte:
 
@@ -135,7 +135,7 @@ De folga: Diogo (1503)
 
  **>** 
 
-De folga: Diogo (1237)
+De folga: Léo (1927)
 
 #### Blitz:
 
@@ -158,7 +158,7 @@ De folga: Diogo (1237)
 
  **>** 
 
-De folga: Diogo (1503)
+De folga: Léo (1856)
 
 ## Tabelas
 
