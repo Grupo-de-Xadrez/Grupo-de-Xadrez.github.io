@@ -47,7 +47,7 @@ L=RIB
 A=VIT
 
 r:
-H,A=V2sxuQDq,Z4XgGxLN
+H,A=V2sxuQDq,
 I,B=88IwjQLc,9SCbnWsf
 J,C=jErAgptw,EdwQe0e0
 K,D=SMPemRrp,r9QMmITh
