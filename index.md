@@ -20,6 +20,54 @@
 
 #### Rapid:
 
+* Pedro *(1184)* `0   -   1` **Vitor *(1302)***
+
+**>** [Link](https://www.lichess.org/V2sxuQDq), *D00 - Queen's Pawn Game*.
+* Renato *(1280)* `0   -   1` **Marcelo *(2096)***
+
+**>** [Link](https://www.lichess.org/88IwjQLc), *D00 - Queen's Pawn Game: Mason Attack*.
+* Freddy *(1857)* `0   -   1` **Léo *(1927)***
+
+**>** [Link](https://www.lichess.org/jErAgptw), *A84 - Dutch Defense: Classical Variation*.
+* **Júlio *(1677)*** `1   -   0`  Alexandre *(1155)*
+
+**>** [Link](https://www.lichess.org/SMPemRrp), *D00 - Queen's Pawn Game: Mason Variation*.
+* Ricardo *(1780)* `½ - ½` Ribas *(1635)*
+
+**>** [Link](https://www.lichess.org/LTYw2mFX), *B23 - Sicilian Defense: Closed, Traditional*.
+* **Milton *(1886)*** `1   -   0`  Diogo *(1237)*
+
+**>** [Link](https://www.lichess.org/Q7BaIb8v), *C26 - Vienna Game: Stanley Variation*.
+
+De folga: Diogo (1237)
+
+#### Blitz:
+
+* Vitor *(1123)*     -     Pedro *(1382)*
+
+ **>** 
+* **Marcelo *(1619)*** `1   -   0`  Renato *(1139)*
+
+**>** [Link](https://www.lichess.org/9SCbnWsf), *D00 - Queen's Pawn Game: Chigorin Variation*.
+* **Léo *(1856)*** `1   -   0`  Freddy *(1788)*
+
+**>** [Link](https://www.lichess.org/EdwQe0e0), *A45 - Trompowsky Attack*.
+* Alexandre *(1197)* `0   -   1` **Júlio *(1439)***
+
+**>** [Link](https://www.lichess.org/r9QMmITh), *D00 - Queen's Pawn Game*.
+* Ribas *(1500)* `0   -   1` **Ricardo *(1582)***
+
+**>** [Link](https://www.lichess.org/ocUpBa5T), *C34 - King's Gambit Accepted: Becker Defense*.
+* **Diogo *(1503)*** `1   -   0`  Milton *(1500)*
+
+**>** [Link](https://www.lichess.org/9E2gILyV), *D04 - Queen's Pawn Game: Colle System*.
+
+De folga: Diogo (1503)
+
+### Rodada seguinte:
+
+#### Rapid:
+
 * Vitor *(1302)*     -     Renato *(1280)*
 
  **>** 
@@ -64,102 +112,6 @@ De folga: Diogo (1237)
 
 De folga: Diogo (1503)
 
-### Rodada anterior:
-
-#### Rapid:
-
-* Pedro *(1184)* `0   -   1` **Vitor *(1302)***
-
-**>** [Link](https://www.lichess.org/V2sxuQDq), *D00 - Queen's Pawn Game*.
-* Renato *(1280)* `0   -   1` **Marcelo *(2096)***
-
-**>** [Link](https://www.lichess.org/88IwjQLc), *D00 - Queen's Pawn Game: Mason Attack*.
-* Freddy *(1857)* `0   -   1` **Léo *(1927)***
-
-**>** [Link](https://www.lichess.org/jErAgptw), *A84 - Dutch Defense: Classical Variation*.
-* **Júlio *(1677)*** `1   -   0`  Alexandre *(1155)*
-
-**>** [Link](https://www.lichess.org/SMPemRrp), *D00 - Queen's Pawn Game: Mason Variation*.
-* Ricardo *(1780)* `½ - ½` Ribas *(1635)*
-
-**>** [Link](https://www.lichess.org/LTYw2mFX), *B23 - Sicilian Defense: Closed, Traditional*.
-* **Milton *(1886)*** `1   -   0`  Diogo *(1237)*
-
-**>** [Link](https://www.lichess.org/Q7BaIb8v), *C26 - Vienna Game: Stanley Variation*.
-
-De folga: Diogo (1237)
-
-#### Blitz:
-
-* **Pedro *(1382)*** `1   -   0`  Vitor *(1123)* `INVERTIDO`
-
-**>** [Link](https://www.lichess.org/Z4XgGxLN), *D00 - Queen's Pawn Game*.
-* **Marcelo *(1619)*** `1   -   0`  Renato *(1139)*
-
-**>** [Link](https://www.lichess.org/9SCbnWsf), *D00 - Queen's Pawn Game: Chigorin Variation*.
-* **Léo *(1856)*** `1   -   0`  Freddy *(1788)*
-
-**>** [Link](https://www.lichess.org/EdwQe0e0), *A45 - Trompowsky Attack*.
-* Alexandre *(1197)* `0   -   1` **Júlio *(1439)***
-
-**>** [Link](https://www.lichess.org/r9QMmITh), *D00 - Queen's Pawn Game*.
-* Ribas *(1500)* `0   -   1` **Ricardo *(1582)***
-
-**>** [Link](https://www.lichess.org/ocUpBa5T), *C34 - King's Gambit Accepted: Becker Defense*.
-* **Diogo *(1503)*** `1   -   0`  Milton *(1500)*
-
-**>** [Link](https://www.lichess.org/9E2gILyV), *D04 - Queen's Pawn Game: Colle System*.
-
-De folga: Diogo (1503)
-
-### Rodada seguinte:
-
-#### Rapid:
-
-* Vitor *(1302)*     -     Freddy *(1857)*
-
- **>** 
-* Júlio *(1677)*     -     Renato *(1280)*
-
- **>** 
-* Ribas *(1635)*     -     Pedro *(1184)*
-
- **>** 
-* Diogo *(1237)*     -     Marcelo *(2096)*
-
- **>** 
-* Felipe *(1555)*     -     Alexandre *(1155)*
-
- **>** 
-* Ricardo *(1780)*     -     Milton *(1886)*
-
- **>** 
-
-De folga: Diogo (1237)
-
-#### Blitz:
-
-* Freddy *(1788)*     -     Vitor *(1123)*
-
- **>** 
-* Renato *(1139)*     -     Júlio *(1439)*
-
- **>** 
-* Pedro *(1382)*     -     Ribas *(1500)*
-
- **>** 
-* Marcelo *(1619)*     -     Diogo *(1503)*
-
- **>** 
-* Alexandre *(1197)*     -     Felipe *(1371)*
-
- **>** 
-* Milton *(1500)*     -     Ricardo *(1582)*
-
- **>** 
-
-De folga: Diogo (1503)
-
 ## Tabelas
 
 #### Rapid
@@ -189,12 +141,12 @@ De folga: Diogo (1503)
 | 3 | Diogo (1503) | 1 | 1 | 0 | 1 |
 | 3 | Léo (1856) | 1 | 1 | 0 | 1 |
 | 3 | Marcelo (1619) | 1 | 1 | 0 | 1 |
-| 3 | Pedro (1382) | 1 | 1 | 0 | 1 |
-| 7 | Felipe (1371) | 0 | 0 | 0 | 0 |
-| 8 | Freddy (1788) | 0 | 1 | 1 | 0 |
-| 8 | Milton (1500) | 0 | 1 | 1 | 0 |
-| 8 | Renato (1139) | 0 | 1 | 1 | 0 |
-| 8 | Vitor (1123) | 0 | 1 | 1 | 0 |
+| 6 | Felipe (1371) | 0 | 0 | 0 | 0 |
+| 6 | Pedro (1382) | 0 | 0 | 0 | 0 |
+| 6 | Vitor (1123) | 0 | 0 | 0 | 0 |
+| 9 | Freddy (1788) | 0 | 1 | 1 | 0 |
+| 9 | Milton (1500) | 0 | 1 | 1 | 0 |
+| 9 | Renato (1139) | 0 | 1 | 1 | 0 |
 | 12 | Alexandre (1197) | 0 | 1 | 0 | 0 |
 | 12 | Ribas (1500) | 0 | 1 | 0 | 0 |
 
@@ -220,19 +172,19 @@ De folga: Diogo (1503)
 
 #### Blitz:
 
-| | JUL | RIC | DIO | LEO | MAR | PED | FEL | FRE | MIL | REN | VIT | ALE | RIB |
+| | JUL | RIC | DIO | LEO | MAR | FEL | PED | VIT | FRE | MIL | REN | ALE | RIB |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **JUL** | :::::::: |  |  |  |  |  |  |  |  |  |  |  |  |
 | **RIC** |  | :::::::: |  |  |  |  |  |  |  |  |  |  |  |
-| **DIO** |  |  | :::::::: |  |  |  |  |  | 1 |  |  |  |  |
-| **LEO** |  |  |  | :::::::: |  |  |  | 1 |  |  |  |  |  |
-| **MAR** |  |  |  |  | :::::::: |  |  |  |  | 1 |  |  |  |
-| **PED** |  |  |  |  |  | :::::::: |  |  |  |  |  |  |  |
-| **FEL** |  |  |  |  |  |  | :::::::: |  |  |  |  |  |  |
-| **FRE** |  |  |  |  |  |  |  | :::::::: |  |  |  |  |  |
-| **MIL** |  |  |  |  |  |  |  |  | :::::::: |  |  |  |  |
-| **REN** |  |  |  |  |  |  |  |  |  | :::::::: |  |  |  |
-| **VIT** |  |  |  |  |  |  |  |  |  |  | :::::::: |  |  |
+| **DIO** |  |  | :::::::: |  |  |  |  |  |  | 1 |  |  |  |
+| **LEO** |  |  |  | :::::::: |  |  |  |  | 1 |  |  |  |  |
+| **MAR** |  |  |  |  | :::::::: |  |  |  |  |  | 1 |  |  |
+| **FEL** |  |  |  |  |  | :::::::: |  |  |  |  |  |  |  |
+| **PED** |  |  |  |  |  |  | :::::::: |  |  |  |  |  |  |
+| **VIT** |  |  |  |  |  |  |  | :::::::: |  |  |  |  |  |
+| **FRE** |  |  |  |  |  |  |  |  | :::::::: |  |  |  |  |
+| **MIL** |  |  |  |  |  |  |  |  |  | :::::::: |  |  |  |
+| **REN** |  |  |  |  |  |  |  |  |  |  | :::::::: |  |  |
 | **ALE** | 0 |  |  |  |  |  |  |  |  |  |  | :::::::: |  |
 | **RIB** |  | 0 |  |  |  |  |  |  |  |  |  |  | :::::::: |
 
@@ -263,9 +215,9 @@ De folga: Felipe (1555)
 
 #### Blitz:
 
-* **Pedro *(1382)*** `1   -   0`  Vitor *(1123)* `INVERTIDO`
+* Vitor *(1123)*     -     Pedro *(1382)*
 
-**>** [Link](https://www.lichess.org/Z4XgGxLN), *D00 - Queen's Pawn Game*.
+ **>** 
 * **Marcelo *(1619)*** `1   -   0`  Renato *(1139)*
 
 **>** [Link](https://www.lichess.org/9SCbnWsf), *D00 - Queen's Pawn Game: Chigorin Variation*.
