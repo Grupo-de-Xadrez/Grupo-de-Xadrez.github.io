@@ -29,9 +29,9 @@
 * Freddy *(1857)* `0   -   1` **Léo *(1927)***
 
 **>** [Link](https://www.lichess.org/jErAgptw), *A84 - Dutch Defense: Classical Variation*.
-* Júlio *(1677)*     -     Alexandre *(1155)*
+* **Júlio *(1677)*** `1   -   0`  Alexandre *(1155)*
 
- **>** 
+**>** [Link](https://www.lichess.org/SMPemRrp), *D00 - Queen's Pawn Game: Mason Variation*.
 * Ricardo *(1780)* `½ - ½` Ribas *(1635)*
 
 **>** [Link](https://www.lichess.org/LTYw2mFX), *B23 - Sicilian Defense: Closed, Traditional*.
@@ -52,9 +52,9 @@ De folga: Diogo (1237)
 * **Léo *(1856)*** `1   -   0`  Freddy *(1788)*
 
 **>** [Link](https://www.lichess.org/EdwQe0e0), *A45 - Trompowsky Attack*.
-* Alexandre *(1197)*     -     Júlio *(1439)*
+* Alexandre *(1197)* `0   -   1` **Júlio *(1439)***
 
- **>** 
+**>** [Link](https://www.lichess.org/r9QMmITh), *D00 - Queen's Pawn Game*.
 * Ribas *(1500)* `0   -   1` **Ricardo *(1582)***
 
 **>** [Link](https://www.lichess.org/ocUpBa5T), *C34 - King's Gambit Accepted: Becker Defense*.
@@ -120,15 +120,15 @@ De folga: Diogo (1503)
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1 | Léo (1927) | 1 | 1 | 1 | 1 |
 | 1 | Marcelo (2096) | 1 | 1 | 1 | 1 |
+| 3 | Júlio (1677) | 1 | 1 | 0 | 1 |
 | 3 | Milton (1886) | 1 | 1 | 0 | 1 |
-| 4 | Ribas (1635) | 0½ | 1 | 1 | 0 |
-| 5 | Ricardo (1780) | 0½ | 1 | 0 | 0 |
-| 6 | Alexandre (1155) | 0 | 0 | 0 | 0 |
-| 6 | Felipe (1555) | 0 | 0 | 0 | 0 |
-| 6 | Júlio (1677) | 0 | 0 | 0 | 0 |
-| 6 | Pedro (1188) | 0 | 0 | 0 | 0 |
-| 6 | Vitor (1302) | 0 | 0 | 0 | 0 |
-| 11 | Diogo (1237) | 0 | 1 | 1 | 0 |
+| 5 | Ribas (1635) | 0½ | 1 | 1 | 0 |
+| 6 | Ricardo (1780) | 0½ | 1 | 0 | 0 |
+| 7 | Felipe (1555) | 0 | 0 | 0 | 0 |
+| 7 | Pedro (1188) | 0 | 0 | 0 | 0 |
+| 7 | Vitor (1302) | 0 | 0 | 0 | 0 |
+| 10 | Alexandre (1155) | 0 | 1 | 1 | 0 |
+| 10 | Diogo (1237) | 0 | 1 | 1 | 0 |
 | 12 | Freddy (1857) | 0 | 1 | 0 | 0 |
 | 12 | Renato (1280) | 0 | 1 | 0 | 0 |
 
@@ -136,57 +136,57 @@ De folga: Diogo (1503)
 
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
+| 1 | Júlio (1439) | 1 | 1 | 1 | 1 |
 | 1 | Ricardo (1582) | 1 | 1 | 1 | 1 |
-| 2 | Diogo (1503) | 1 | 1 | 0 | 1 |
-| 2 | Léo (1856) | 1 | 1 | 0 | 1 |
-| 2 | Marcelo (1619) | 1 | 1 | 0 | 1 |
-| 5 | Alexandre (1197) | 0 | 0 | 0 | 0 |
-| 5 | Felipe (1371) | 0 | 0 | 0 | 0 |
-| 5 | Júlio (1439) | 0 | 0 | 0 | 0 |
-| 5 | Pedro (1382) | 0 | 0 | 0 | 0 |
-| 5 | Vitor (1151) | 0 | 0 | 0 | 0 |
-| 10 | Freddy (1788) | 0 | 1 | 1 | 0 |
-| 10 | Milton (1500) | 0 | 1 | 1 | 0 |
-| 10 | Renato (1139) | 0 | 1 | 1 | 0 |
-| 13 | Ribas (1500) | 0 | 1 | 0 | 0 |
+| 3 | Diogo (1503) | 1 | 1 | 0 | 1 |
+| 3 | Léo (1856) | 1 | 1 | 0 | 1 |
+| 3 | Marcelo (1619) | 1 | 1 | 0 | 1 |
+| 6 | Felipe (1371) | 0 | 0 | 0 | 0 |
+| 6 | Pedro (1382) | 0 | 0 | 0 | 0 |
+| 6 | Vitor (1151) | 0 | 0 | 0 | 0 |
+| 9 | Freddy (1788) | 0 | 1 | 1 | 0 |
+| 9 | Milton (1500) | 0 | 1 | 1 | 0 |
+| 9 | Renato (1139) | 0 | 1 | 1 | 0 |
+| 12 | Alexandre (1197) | 0 | 1 | 0 | 0 |
+| 12 | Ribas (1500) | 0 | 1 | 0 | 0 |
 
 ## Resultados
 
 #### Rapid:
 
-| | LEO | MAR | MIL | RIB | RIC | ALE | FEL | JUL | PED | VIT | DIO | FRE | REN |
+| | LEO | MAR | JUL | MIL | RIB | RIC | FEL | PED | VIT | ALE | DIO | FRE | REN |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **LEO** | :::::::: |  |  |  |  |  |  |  |  |  |  |  |  |
 | **MAR** |  | :::::::: |  |  |  |  |  |  |  |  |  |  |  |
-| **MIL** |  |  | :::::::: |  |  |  |  |  |  |  | 1 |  |  |
-| **RIB** |  |  |  | :::::::: |  |  |  |  |  |  |  |  |  |
-| **RIC** |  |  |  | ½ | :::::::: |  |  |  |  |  |  |  |  |
-| **ALE** |  |  |  |  |  | :::::::: |  |  |  |  |  |  |  |
+| **JUL** |  |  | :::::::: |  |  |  |  |  |  | 1 |  |  |  |
+| **MIL** |  |  |  | :::::::: |  |  |  |  |  |  | 1 |  |  |
+| **RIB** |  |  |  |  | :::::::: |  |  |  |  |  |  |  |  |
+| **RIC** |  |  |  |  | ½ | :::::::: |  |  |  |  |  |  |  |
 | **FEL** |  |  |  |  |  |  | :::::::: |  |  |  |  |  |  |
-| **JUL** |  |  |  |  |  |  |  | :::::::: |  |  |  |  |  |
-| **PED** |  |  |  |  |  |  |  |  | :::::::: |  |  |  |  |
-| **VIT** |  |  |  |  |  |  |  |  |  | :::::::: |  |  |  |
+| **PED** |  |  |  |  |  |  |  | :::::::: |  |  |  |  |  |
+| **VIT** |  |  |  |  |  |  |  |  | :::::::: |  |  |  |  |
+| **ALE** |  |  |  |  |  |  |  |  |  | :::::::: |  |  |  |
 | **DIO** |  |  |  |  |  |  |  |  |  |  | :::::::: |  |  |
 | **FRE** | 0 |  |  |  |  |  |  |  |  |  |  | :::::::: |  |
 | **REN** |  | 0 |  |  |  |  |  |  |  |  |  |  | :::::::: |
 
 #### Blitz:
 
-| | RIC | DIO | LEO | MAR | ALE | FEL | JUL | PED | VIT | FRE | MIL | REN | RIB |
+| | JUL | RIC | DIO | LEO | MAR | FEL | PED | VIT | FRE | MIL | REN | ALE | RIB |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **RIC** | :::::::: |  |  |  |  |  |  |  |  |  |  |  |  |
-| **DIO** |  | :::::::: |  |  |  |  |  |  |  |  | 1 |  |  |
-| **LEO** |  |  | :::::::: |  |  |  |  |  |  | 1 |  |  |  |
-| **MAR** |  |  |  | :::::::: |  |  |  |  |  |  |  | 1 |  |
-| **ALE** |  |  |  |  | :::::::: |  |  |  |  |  |  |  |  |
+| **JUL** | :::::::: |  |  |  |  |  |  |  |  |  |  |  |  |
+| **RIC** |  | :::::::: |  |  |  |  |  |  |  |  |  |  |  |
+| **DIO** |  |  | :::::::: |  |  |  |  |  |  | 1 |  |  |  |
+| **LEO** |  |  |  | :::::::: |  |  |  |  | 1 |  |  |  |  |
+| **MAR** |  |  |  |  | :::::::: |  |  |  |  |  | 1 |  |  |
 | **FEL** |  |  |  |  |  | :::::::: |  |  |  |  |  |  |  |
-| **JUL** |  |  |  |  |  |  | :::::::: |  |  |  |  |  |  |
-| **PED** |  |  |  |  |  |  |  | :::::::: |  |  |  |  |  |
-| **VIT** |  |  |  |  |  |  |  |  | :::::::: |  |  |  |  |
-| **FRE** |  |  |  |  |  |  |  |  |  | :::::::: |  |  |  |
-| **MIL** |  |  |  |  |  |  |  |  |  |  | :::::::: |  |  |
-| **REN** |  |  |  |  |  |  |  |  |  |  |  | :::::::: |  |
-| **RIB** | 0 |  |  |  |  |  |  |  |  |  |  |  | :::::::: |
+| **PED** |  |  |  |  |  |  | :::::::: |  |  |  |  |  |  |
+| **VIT** |  |  |  |  |  |  |  | :::::::: |  |  |  |  |  |
+| **FRE** |  |  |  |  |  |  |  |  | :::::::: |  |  |  |  |
+| **MIL** |  |  |  |  |  |  |  |  |  | :::::::: |  |  |  |
+| **REN** |  |  |  |  |  |  |  |  |  |  | :::::::: |  |  |
+| **ALE** | 0 |  |  |  |  |  |  |  |  |  |  | :::::::: |  |
+| **RIB** |  | 0 |  |  |  |  |  |  |  |  |  |  | :::::::: |
 
 ### Rodada 1:
 
@@ -201,9 +201,9 @@ De folga: Diogo (1503)
 * Freddy *(1857)* `0   -   1` **Léo *(1927)***
 
 **>** [Link](https://www.lichess.org/jErAgptw), *A84 - Dutch Defense: Classical Variation*.
-* Júlio *(1677)*     -     Alexandre *(1155)*
+* **Júlio *(1677)*** `1   -   0`  Alexandre *(1155)*
 
- **>** 
+**>** [Link](https://www.lichess.org/SMPemRrp), *D00 - Queen's Pawn Game: Mason Variation*.
 * Ricardo *(1780)* `½ - ½` Ribas *(1635)*
 
 **>** [Link](https://www.lichess.org/LTYw2mFX), *B23 - Sicilian Defense: Closed, Traditional*.
@@ -224,9 +224,9 @@ De folga: Felipe (1555)
 * **Léo *(1856)*** `1   -   0`  Freddy *(1788)*
 
 **>** [Link](https://www.lichess.org/EdwQe0e0), *A45 - Trompowsky Attack*.
-* Alexandre *(1197)*     -     Júlio *(1439)*
+* Alexandre *(1197)* `0   -   1` **Júlio *(1439)***
 
- **>** 
+**>** [Link](https://www.lichess.org/r9QMmITh), *D00 - Queen's Pawn Game*.
 * Ribas *(1500)* `0   -   1` **Ricardo *(1582)***
 
 **>** [Link](https://www.lichess.org/ocUpBa5T), *C34 - King's Gambit Accepted: Becker Defense*.
