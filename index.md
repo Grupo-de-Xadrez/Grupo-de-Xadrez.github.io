@@ -39,7 +39,7 @@
 
 **>** [Link](https://www.lichess.org/Q7BaIb8v), *C26 - Vienna Game: Stanley Variation*.
 
-De folga: Felipe (1555)
+De folga: Diogo (1237)
 
 #### Blitz:
 
@@ -62,7 +62,7 @@ De folga: Felipe (1555)
 
 **>** [Link](https://www.lichess.org/9E2gILyV), *D04 - Queen's Pawn Game: Colle System*.
 
-De folga: Felipe (1371)
+De folga: Diogo (1503)
 
 ### Rodada seguinte:
 
