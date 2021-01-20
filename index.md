@@ -14,7 +14,7 @@
 * REN: **Renato**, a.k.a. [@Padilha20](https://www.lichess.org/@/Padilha20) *(Rapid: 1260, Blitz: 1019)*
 * RIC: **Ricardo**, a.k.a. [@r-k-k](https://www.lichess.org/@/r-k-k) *(Rapid: 1780, Blitz: 1582)*
 * RIB: **Ribas**, a.k.a. [@Rpribas](https://www.lichess.org/@/Rpribas) *(Rapid: 1635, Blitz: 1500)*
-* VIT: **Vitor**, a.k.a. [@VitorStahlhoefer](https://www.lichess.org/@/VitorStahlhoefer) *(Rapid: 1303, Blitz: 1130)*
+* VIT: **Vitor**, a.k.a. [@VitorStahlhoefer](https://www.lichess.org/@/VitorStahlhoefer) *(Rapid: 1303, Blitz: 1124)*
 
 ### Rodada atual:
 
@@ -23,18 +23,18 @@
 * Vitor *(1303)*     -     Freddy *(1881)*
 
  **>** 
-* Júlio *(1677)*     -     Renato *(1260)*
+* **Júlio *(1677)*** `1   -   0`  Renato *(1260)*
 
- **>** 
+**>** [Link](https://www.lichess.org/UoTKilWT), *D00 - Queen's Pawn Game: Mason Variation*.
 * **Ribas *(1635)*** `1   -   0`  Pedro *(1192)*
 
 **>** [Link](https://www.lichess.org/rwRiLi0u), *C30 - King's Gambit*.
 * Diogo *(1237)*     -     Marcelo *(2099)*
 
  **>** 
-* Felipe *(1555)*     -     Alexandre *(1155)*
+* **Felipe *(1555)*** `1   -   0`  Alexandre *(1155)*
 
- **>** 
+**>** [Link](https://www.lichess.org/AjfNFS7V), *C23 - Bishop's Opening*.
 * **Ricardo *(1780)*** `1   -   0`  Milton *(1913)*
 
 **>** [Link](https://www.lichess.org/ONIds6vg), *B30 - Sicilian Defense: Old Sicilian*.
@@ -43,21 +43,21 @@ De folga: Léo (1927)
 
 #### Blitz:
 
-* Freddy *(1774)*     -     Vitor *(1130)*
+* Freddy *(1774)*     -     Vitor *(1124)*
 
  **>** 
-* Renato *(1019)*     -     Júlio *(1441)*
+* Renato *(1019)* `0   -   1` **Júlio *(1441)***
 
- **>** 
+**>** [Link](https://www.lichess.org/sGYNFcf4), *D00 - Queen's Pawn Game*.
 * Pedro *(1368)* `0   -   1` **Ribas *(1500)***
 
 **>** [Link](https://www.lichess.org/XPb1HyYk), *D00 - Queen's Pawn Game*.
 * Marcelo *(1760)*     -     Diogo *(1455)*
 
  **>** 
-* Alexandre *(1197)*     -     Felipe *(1371)*
+* Alexandre *(1197)* `0   -   1` **Felipe *(1371)***
 
- **>** 
+**>** [Link](https://www.lichess.org/Ph54JBSv), *D00 - Queen's Pawn Game*.
 * Milton *(1500)* `0   -   1` **Ricardo *(1582)***
 
 **>** [Link](https://www.lichess.org/fWgQh4gz), *C23 - Bishop's Opening*.
@@ -91,7 +91,7 @@ De folga: Ricardo (1780)
 
 #### Blitz:
 
-* **Vitor *(1130)*** `1   -   0`  Renato *(1019)* `INVERTIDO`
+* **Vitor *(1124)*** `1   -   0`  Renato *(1019)* `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/8D1HswlL), *C20 - Center Game*.
 * **Freddy *(1774)*** `1   -   0`  Pedro *(1368)*
@@ -139,7 +139,7 @@ De folga: Pedro (1192)
 
 #### Blitz:
 
-* Júlio *(1441)*     -     Vitor *(1130)*
+* Júlio *(1441)*     -     Vitor *(1124)*
 
  **>** 
 * Freddy *(1774)*     -     Ribas *(1500)*
@@ -166,18 +166,18 @@ De folga: Pedro (1368)
 
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | Júlio (1677) | 2 | 2 | 1 | 2 |
-| 1 | Léo (1927) | 2 | 2 | 1 | 2 |
-| 3 | Ricardo (1780) | 1½ | 2 | 0 | 1 |
-| 4 | Ribas (1635) | 1½ | 3 | 2 | 1 |
-| 5 | Felipe (1555) | 1 | 1 | 1 | 1 |
+| 1 | Júlio (1677) | 3 | 3 | 1 | 3 |
+| 2 | Felipe (1555) | 2 | 2 | 1 | 2 |
+| 2 | Léo (1927) | 2 | 2 | 1 | 2 |
+| 4 | Ricardo (1780) | 1½ | 2 | 0 | 1 |
+| 5 | Ribas (1635) | 1½ | 3 | 2 | 1 |
 | 6 | Vitor (1303) | 1 | 2 | 2 | 1 |
 | 7 | Freddy (1881) | 1 | 2 | 1 | 1 |
 | 7 | Marcelo (2099) | 1 | 2 | 1 | 1 |
-| 9 | Renato (1260) | 1 | 2 | 0 | 1 |
-| 10 | Milton (1913) | 1 | 3 | 1 | 1 |
+| 9 | Milton (1913) | 1 | 3 | 1 | 1 |
+| 9 | Renato (1260) | 1 | 3 | 1 | 1 |
 | 11 | Diogo (1237) | 0½ | 2 | 2 | 0 |
-| 12 | Alexandre (1155) | 0½ | 2 | 1 | 0 |
+| 12 | Alexandre (1155) | 0½ | 3 | 2 | 0 |
 | 13 | Pedro (1192) | 0 | 3 | 1 | 0 |
 
 #### Blitz
@@ -187,54 +187,54 @@ De folga: Pedro (1368)
 | 1 | Ricardo (1582) | 2 | 2 | 2 | 2 |
 | 2 | Léo (1856) | 2 | 2 | 1 | 2 |
 | 2 | Marcelo (1760) | 2 | 2 | 1 | 2 |
-| 4 | Diogo (1455) | 1½ | 2 | 0 | 1 |
-| 5 | Freddy (1774) | 1 | 2 | 1 | 1 |
-| 5 | Júlio (1441) | 1 | 2 | 1 | 1 |
-| 5 | Vitor (1130) | 1 | 2 | 1 | 1 |
-| 8 | Milton (1500) | 1 | 3 | 2 | 1 |
-| 9 | Pedro (1368) | 1 | 3 | 1 | 1 |
-| 9 | Ribas (1500) | 1 | 3 | 1 | 1 |
-| 11 | Alexandre (1197) | 0½ | 2 | 1 | 0 |
-| 12 | Felipe (1371) | 0 | 1 | 0 | 0 |
-| 13 | Renato (1019) | 0 | 2 | 2 | 0 |
+| 4 | Júlio (1441) | 2 | 3 | 2 | 2 |
+| 5 | Diogo (1455) | 1½ | 2 | 0 | 1 |
+| 6 | Felipe (1371) | 1 | 2 | 1 | 1 |
+| 6 | Freddy (1774) | 1 | 2 | 1 | 1 |
+| 6 | Vitor (1124) | 1 | 2 | 1 | 1 |
+| 9 | Milton (1500) | 1 | 3 | 2 | 1 |
+| 10 | Pedro (1368) | 1 | 3 | 1 | 1 |
+| 10 | Ribas (1500) | 1 | 3 | 1 | 1 |
+| 12 | Alexandre (1197) | 0½ | 3 | 1 | 0 |
+| 13 | Renato (1019) | 0 | 3 | 2 | 0 |
 
 ## Resultados
 
 #### Rapid:
 
-| | JUL | LEO | RIC | RIB | FEL | VIT | FRE | MAR | REN | MIL | DIO | ALE | PED |
+| | JUL | FEL | LEO | RIC | RIB | VIT | FRE | MAR | MIL | REN | DIO | ALE | PED |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **JUL** | :::::::: |  |  |  |  |  |  |  |  |  |  | 1 |  |
-| **LEO** |  | :::::::: |  | 1 |  |  |  |  |  |  |  |  |  |
-| **RIC** |  |  | :::::::: | ½ |  |  |  |  |  | 1 |  |  |  |
-| **RIB** |  |  |  | :::::::: |  |  |  |  |  |  |  |  | 1 |
-| **FEL** |  |  |  |  | :::::::: |  |  |  |  |  |  |  |  |
+| **JUL** | :::::::: |  |  |  |  |  |  |  |  | 1 |  | 1 |  |
+| **FEL** |  | :::::::: |  |  |  |  |  |  |  |  |  | 1 |  |
+| **LEO** |  |  | :::::::: |  | 1 |  |  |  |  |  |  |  |  |
+| **RIC** |  |  |  | :::::::: | ½ |  |  |  | 1 |  |  |  |  |
+| **RIB** |  |  |  |  | :::::::: |  |  |  |  |  |  |  | 1 |
 | **VIT** |  |  |  |  |  | :::::::: |  |  |  |  |  |  |  |
-| **FRE** |  | 0 |  |  |  |  | :::::::: |  |  |  |  |  |  |
+| **FRE** |  |  | 0 |  |  |  | :::::::: |  |  |  |  |  |  |
 | **MAR** | 0 |  |  |  |  |  |  | :::::::: |  |  |  |  |  |
-| **REN** |  |  |  |  |  |  |  | 0 | :::::::: |  |  |  |  |
-| **MIL** |  |  |  |  | 0 |  |  |  |  | :::::::: | 1 |  |  |
+| **MIL** |  | 0 |  |  |  |  |  |  | :::::::: |  | 1 |  |  |
+| **REN** |  |  |  |  |  |  |  | 0 |  | :::::::: |  |  |  |
 | **DIO** |  |  |  |  |  |  |  |  |  |  | :::::::: |  |  |
 | **ALE** |  |  |  |  |  |  |  |  |  |  | ½ | :::::::: |  |
 | **PED** |  |  |  |  |  | 0 | 0 |  |  |  |  |  | :::::::: |
 
 #### Blitz:
 
-| | RIC | LEO | MAR | DIO | FRE | JUL | VIT | MIL | PED | RIB | ALE | FEL | REN |
+| | RIC | LEO | MAR | JUL | DIO | FEL | FRE | VIT | MIL | PED | RIB | ALE | REN |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **RIC** | :::::::: |  |  |  |  |  |  |  |  |  |  |  |  |
-| **LEO** |  | :::::::: |  |  | 1 |  |  |  |  |  |  |  |  |
+| **LEO** |  | :::::::: |  |  |  |  | 1 |  |  |  |  |  |  |
 | **MAR** |  |  | :::::::: |  |  |  |  |  |  |  |  |  | 1 |
-| **DIO** |  |  |  | :::::::: |  |  |  | 1 |  |  | ½ |  |  |
-| **FRE** |  |  |  |  | :::::::: |  |  |  | 1 |  |  |  |  |
-| **JUL** |  |  | 0 |  |  | :::::::: |  |  |  |  |  |  |  |
-| **VIT** |  |  |  |  |  |  | :::::::: |  |  |  |  |  |  |
-| **MIL** | 0 |  |  |  |  |  |  | :::::::: |  |  |  |  |  |
-| **PED** |  |  |  |  |  |  |  |  | :::::::: | 0 |  |  |  |
-| **RIB** | 0 | 0 |  |  |  |  |  |  |  | :::::::: |  |  |  |
-| **ALE** |  |  |  |  |  | 0 |  |  |  |  | :::::::: |  |  |
-| **FEL** |  |  |  |  |  |  |  | 0 |  |  |  | :::::::: |  |
-| **REN** |  |  |  |  |  |  |  |  |  |  |  |  | :::::::: |
+| **JUL** |  |  | 0 | :::::::: |  |  |  |  |  |  |  |  |  |
+| **DIO** |  |  |  |  | :::::::: |  |  |  | 1 |  |  | ½ |  |
+| **FEL** |  |  |  |  |  | :::::::: |  |  | 0 |  |  |  |  |
+| **FRE** |  |  |  |  |  |  | :::::::: |  |  | 1 |  |  |  |
+| **VIT** |  |  |  |  |  |  |  | :::::::: |  |  |  |  |  |
+| **MIL** | 0 |  |  |  |  |  |  |  | :::::::: |  |  |  |  |
+| **PED** |  |  |  |  |  |  |  |  |  | :::::::: | 0 |  |  |
+| **RIB** | 0 | 0 |  |  |  |  |  |  |  |  | :::::::: |  |  |
+| **ALE** |  |  |  | 0 |  | 0 |  |  |  |  |  | :::::::: |  |
+| **REN** |  |  |  | 0 |  |  |  |  |  |  |  |  | :::::::: |
 
 ### Rodada 1:
 
@@ -263,7 +263,7 @@ De folga: Felipe (1555)
 
 #### Blitz:
 
-* **Pedro *(1368)*** `1   -   0`  Vitor *(1130)* `INVERTIDO`
+* **Pedro *(1368)*** `1   -   0`  Vitor *(1124)* `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/Z4XgGxLN), *D00 - Queen's Pawn Game*.
 * **Marcelo *(1760)*** `1   -   0`  Renato *(1019)*
@@ -311,7 +311,7 @@ De folga: Ricardo (1780)
 
 #### Blitz:
 
-* **Vitor *(1130)*** `1   -   0`  Renato *(1019)* `INVERTIDO`
+* **Vitor *(1124)*** `1   -   0`  Renato *(1019)* `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/8D1HswlL), *C20 - Center Game*.
 * **Freddy *(1774)*** `1   -   0`  Pedro *(1368)*
@@ -339,18 +339,18 @@ De folga: Ricardo (1582)
 * Vitor *(1303)*     -     Freddy *(1881)*
 
  **>** 
-* Júlio *(1677)*     -     Renato *(1260)*
+* **Júlio *(1677)*** `1   -   0`  Renato *(1260)*
 
- **>** 
+**>** [Link](https://www.lichess.org/UoTKilWT), *D00 - Queen's Pawn Game: Mason Variation*.
 * **Ribas *(1635)*** `1   -   0`  Pedro *(1192)*
 
 **>** [Link](https://www.lichess.org/rwRiLi0u), *C30 - King's Gambit*.
 * Diogo *(1237)*     -     Marcelo *(2099)*
 
  **>** 
-* Felipe *(1555)*     -     Alexandre *(1155)*
+* **Felipe *(1555)*** `1   -   0`  Alexandre *(1155)*
 
- **>** 
+**>** [Link](https://www.lichess.org/AjfNFS7V), *C23 - Bishop's Opening*.
 * **Ricardo *(1780)*** `1   -   0`  Milton *(1913)*
 
 **>** [Link](https://www.lichess.org/ONIds6vg), *B30 - Sicilian Defense: Old Sicilian*.
@@ -359,21 +359,21 @@ De folga: Léo (1927)
 
 #### Blitz:
 
-* Freddy *(1774)*     -     Vitor *(1130)*
+* Freddy *(1774)*     -     Vitor *(1124)*
 
  **>** 
-* Renato *(1019)*     -     Júlio *(1441)*
+* Renato *(1019)* `0   -   1` **Júlio *(1441)***
 
- **>** 
+**>** [Link](https://www.lichess.org/sGYNFcf4), *D00 - Queen's Pawn Game*.
 * Pedro *(1368)* `0   -   1` **Ribas *(1500)***
 
 **>** [Link](https://www.lichess.org/XPb1HyYk), *D00 - Queen's Pawn Game*.
 * Marcelo *(1760)*     -     Diogo *(1455)*
 
  **>** 
-* Alexandre *(1197)*     -     Felipe *(1371)*
+* Alexandre *(1197)* `0   -   1` **Felipe *(1371)***
 
- **>** 
+**>** [Link](https://www.lichess.org/Ph54JBSv), *D00 - Queen's Pawn Game*.
 * Milton *(1500)* `0   -   1` **Ricardo *(1582)***
 
 **>** [Link](https://www.lichess.org/fWgQh4gz), *C23 - Bishop's Opening*.
@@ -407,7 +407,7 @@ De folga: Pedro (1192)
 
 #### Blitz:
 
-* Júlio *(1441)*     -     Vitor *(1130)*
+* Júlio *(1441)*     -     Vitor *(1124)*
 
  **>** 
 * Freddy *(1774)*     -     Ribas *(1500)*
@@ -455,7 +455,7 @@ De folga: Freddy (1881)
 
 #### Blitz:
 
-* Vitor *(1130)*     -     Ribas *(1500)*
+* Vitor *(1124)*     -     Ribas *(1500)*
 
  **>** 
 * Júlio *(1441)*     -     Diogo *(1455)*
@@ -503,7 +503,7 @@ De folga: Ribas (1635)
 
 #### Blitz:
 
-* Vitor *(1130)*     -     Diogo *(1455)*
+* Vitor *(1124)*     -     Diogo *(1455)*
 
  **>** 
 * Júlio *(1441)*     -     Felipe *(1371)*
@@ -570,7 +570,7 @@ De folga: Vitor (1303)
 
  **>** 
 
-De folga: Vitor (1130)
+De folga: Vitor (1124)
 
 ### Rodada 8:
 
@@ -599,7 +599,7 @@ De folga: Milton (1913)
 
 #### Blitz:
 
-* Vitor *(1130)*     -     Felipe *(1371)*
+* Vitor *(1124)*     -     Felipe *(1371)*
 
  **>** 
 * Diogo *(1455)*     -     Ricardo *(1582)*
@@ -647,7 +647,7 @@ De folga: Alexandre (1155)
 
 #### Blitz:
 
-* Vitor *(1130)*     -     Milton *(1500)*
+* Vitor *(1124)*     -     Milton *(1500)*
 
  **>** 
 * Ricardo *(1582)*     -     Felipe *(1371)*
@@ -695,7 +695,7 @@ De folga: Marcelo (2099)
 
 #### Blitz:
 
-* Vitor *(1130)*     -     Ricardo *(1582)*
+* Vitor *(1124)*     -     Ricardo *(1582)*
 
  **>** 
 * Milton *(1500)*     -     Alexandre *(1197)*
@@ -743,7 +743,7 @@ De folga: Renato (1260)
 
 #### Blitz:
 
-* Alexandre *(1197)*     -     Vitor *(1130)*
+* Alexandre *(1197)*     -     Vitor *(1124)*
 
  **>** 
 * Léo *(1856)*     -     Ricardo *(1582)*
@@ -791,7 +791,7 @@ De folga: Júlio (1677)
 
 #### Blitz:
 
-* Léo *(1856)*     -     Vitor *(1130)*
+* Léo *(1856)*     -     Vitor *(1124)*
 
  **>** 
 * Marcelo *(1760)*     -     Alexandre *(1197)*
@@ -839,7 +839,7 @@ De folga: Diogo (1237)
 
 #### Blitz:
 
-* Marcelo *(1760)*     -     Vitor *(1130)*
+* Marcelo *(1760)*     -     Vitor *(1124)*
 
  **>** 
 * Pedro *(1368)*     -     Léo *(1856)*
@@ -887,7 +887,7 @@ De folga: Felipe (1555)
 
 #### Blitz:
 
-* Pedro *(1368)*     -     Vitor *(1130)*
+* Pedro *(1368)*     -     Vitor *(1124)*
 
  **>** 
 * Renato *(1019)*     -     Marcelo *(1760)*
@@ -935,7 +935,7 @@ De folga: Ricardo (1780)
 
 #### Blitz:
 
-* Vitor *(1130)*     -     Renato *(1019)*
+* Vitor *(1124)*     -     Renato *(1019)*
 
  **>** 
 * Pedro *(1368)*     -     Freddy *(1774)*
@@ -983,7 +983,7 @@ De folga: Léo (1927)
 
 #### Blitz:
 
-* Vitor *(1130)*     -     Freddy *(1774)*
+* Vitor *(1124)*     -     Freddy *(1774)*
 
  **>** 
 * Júlio *(1441)*     -     Renato *(1019)*
@@ -1031,7 +1031,7 @@ De folga: Pedro (1192)
 
 #### Blitz:
 
-* Vitor *(1130)*     -     Júlio *(1441)*
+* Vitor *(1124)*     -     Júlio *(1441)*
 
  **>** 
 * Ribas *(1500)*     -     Freddy *(1774)*
@@ -1079,7 +1079,7 @@ De folga: Freddy (1881)
 
 #### Blitz:
 
-* Ribas *(1500)*     -     Vitor *(1130)*
+* Ribas *(1500)*     -     Vitor *(1124)*
 
  **>** 
 * Diogo *(1455)*     -     Júlio *(1441)*
@@ -1127,7 +1127,7 @@ De folga: Ribas (1635)
 
 #### Blitz:
 
-* Diogo *(1455)*     -     Vitor *(1130)*
+* Diogo *(1455)*     -     Vitor *(1124)*
 
  **>** 
 * Felipe *(1371)*     -     Júlio *(1441)*
@@ -1194,7 +1194,7 @@ De folga: Vitor (1303)
 
  **>** 
 
-De folga: Vitor (1130)
+De folga: Vitor (1124)
 
 ### Rodada 21:
 
@@ -1223,7 +1223,7 @@ De folga: Milton (1913)
 
 #### Blitz:
 
-* Felipe *(1371)*     -     Vitor *(1130)*
+* Felipe *(1371)*     -     Vitor *(1124)*
 
  **>** 
 * Ricardo *(1582)*     -     Diogo *(1455)*
@@ -1271,7 +1271,7 @@ De folga: Alexandre (1155)
 
 #### Blitz:
 
-* Milton *(1500)*     -     Vitor *(1130)*
+* Milton *(1500)*     -     Vitor *(1124)*
 
  **>** 
 * Felipe *(1371)*     -     Ricardo *(1582)*
@@ -1319,7 +1319,7 @@ De folga: Marcelo (2099)
 
 #### Blitz:
 
-* Ricardo *(1582)*     -     Vitor *(1130)*
+* Ricardo *(1582)*     -     Vitor *(1124)*
 
  **>** 
 * Alexandre *(1197)*     -     Milton *(1500)*
@@ -1367,7 +1367,7 @@ De folga: Renato (1260)
 
 #### Blitz:
 
-* Vitor *(1130)*     -     Alexandre *(1197)*
+* Vitor *(1124)*     -     Alexandre *(1197)*
 
  **>** 
 * Ricardo *(1582)*     -     Léo *(1856)*
@@ -1415,7 +1415,7 @@ De folga: Júlio (1677)
 
 #### Blitz:
 
-* Vitor *(1130)*     -     Léo *(1856)*
+* Vitor *(1124)*     -     Léo *(1856)*
 
  **>** 
 * Alexandre *(1197)*     -     Marcelo *(1760)*
@@ -1463,7 +1463,7 @@ De folga: Diogo (1237)
 
 #### Blitz:
 
-* Vitor *(1130)*     -     Marcelo *(1760)*
+* Vitor *(1124)*     -     Marcelo *(1760)*
 
  **>** 
 * Léo *(1856)*     -     Pedro *(1368)*
