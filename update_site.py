@@ -320,21 +320,25 @@ def main():
     page += '\n'
 
     for i, r in enumerate(rounds):
-        page += f'### Rodada {i + 1}:'
-        page += '\n'
-        page += '\n'
-        page += '#### Rapid:'
-        page += '\n'
-        page += '\n'
-        page += toStrRound(i, 0)
-        page += '\n'
-        page += '\n'
-        page += '#### Blitz:'
-        page += '\n'
-        page += '\n'
-        page += toStrRound(i, 1)
-        page += '\n'
-        page += '\n'
+        subpage = f'### Rodada {i + 1}:'
+        subpage += '\n'
+        subpage += '\n'
+        subpage += '#### Rapid:'
+        subpage += '\n'
+        subpage += '\n'
+        subpage += toStrRound(i, 0)
+        subpage += '\n'
+        subpage += '\n'
+        subpage += '#### Blitz:'
+        subpage += '\n'
+        subpage += '\n'
+        subpage += toStrRound(i, 1)
+        subpage += '\n'
+        subpage += '\n'
+
+        page += subpage
+
+        open(f'{projectFolder}/rodadas/{i+1}.md', 'w', encoding='utf-8').write(subpage)
 
     open(f'{projectFolder}/index.md', 'w', encoding='utf-8').write(page)
 
