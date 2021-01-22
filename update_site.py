@@ -1,5 +1,6 @@
 import pathlib
 import lichess.api
+import os
 
 def main():
     projectFolder = pathlib.Path(__file__).parent.absolute()
@@ -338,7 +339,13 @@ def main():
 
         page += subpage
 
-        open(f'{projectFolder}/rodadas/{i+1}.md', 'w', encoding='utf-8').write(subpage)
+        if not os.path.exists(f'{projectFolder}/rodadas/'):
+            os.mkdir(f'{projectFolder}/rodadas/')
+
+        if not os.path.exists(f'{projectFolder}/rodadas/{i+1}/'):
+            os.mkdir(f'{projectFolder}/rodadas/{i+1}/')
+
+        open(f'{projectFolder}/rodadas/{i+1}/index.md', 'w', encoding='utf-8').write(subpage)
 
     open(f'{projectFolder}/index.md', 'w', encoding='utf-8').write(page)
 
