@@ -4,7 +4,7 @@
 
 * ALE: **Alexandre**, a.k.a. [@AHCA](https://www.lichess.org/@/AHCA) *(Rapid: 1155, Blitz: 1197)*
 * DIO: **Diogo**, a.k.a. [@diogo98](https://www.lichess.org/@/diogo98) *(Rapid: 1237, Blitz: 1455)*
-* FEL: **Felipe**, a.k.a. [@Fgcotta](https://www.lichess.org/@/Fgcotta) *(Rapid: 1555, Blitz: 1371)*
+* FEL: **Felipe**, a.k.a. [@Fgcotta](https://www.lichess.org/@/Fgcotta) *(Rapid: 1555, Blitz: 1380)*
 * FRE: **Freddy**, a.k.a. [@PlixMax](https://www.lichess.org/@/PlixMax) *(Rapid: 1881, Blitz: 1766)*
 * JUL: **Júlio**, a.k.a. [@juliopinheiro](https://www.lichess.org/@/juliopinheiro) *(Rapid: 1677, Blitz: 1441)*
 * LEO: **Léo**, a.k.a. [@killer9](https://www.lichess.org/@/killer9) *(Rapid: 1927, Blitz: 1856)*
@@ -52,7 +52,7 @@ De folga: Pedro (1185)
 * Diogo *(1455)*     -     Renato *(939)*
 
  **>** 
-* Felipe *(1371)*     -     Marcelo *(1760)*
+* Felipe *(1380)*     -     Marcelo *(1760)*
 
  **>** 
 * Léo *(1856)*     -     Milton *(1500)*
@@ -103,7 +103,7 @@ De folga: Léo (1927)
 * **Marcelo *(1760)*** `1   -   0`  Diogo *(1455)*
 
 **>** [Link](https://www.lichess.org/5TFXe391), *C16 - French Defense: Winawer Variation, Advance Variation*.
-* Alexandre *(1197)* `0   -   1` **Felipe *(1371)***
+* Alexandre *(1197)* `0   -   1` **Felipe *(1380)***
 
 **>** [Link](https://www.lichess.org/Ph54JBSv), *D00 - Queen's Pawn Game*.
 * Milton *(1500)* `0   -   1` **Ricardo *(1582)***
@@ -145,7 +145,7 @@ De folga: Freddy (1881)
 * Júlio *(1441)*     -     Diogo *(1455)*
 
  **>** 
-* Felipe *(1371)*     -     Renato *(939)*
+* Felipe *(1380)*     -     Renato *(939)*
 
  **>** 
 * Milton *(1500)*     -     Pedro *(1368)*
@@ -190,7 +190,7 @@ De folga: Freddy (1766)
 | 4 | Júlio (1441) | 2 | 3 | 2 | 2 |
 | 5 | Freddy (1766) | 2 | 3 | 1 | 2 |
 | 6 | Diogo (1455) | 1½ | 3 | 1 | 1 |
-| 7 | Felipe (1371) | 1 | 2 | 1 | 1 |
+| 7 | Felipe (1380) | 1 | 2 | 1 | 1 |
 | 8 | Milton (1500) | 1 | 3 | 2 | 1 |
 | 8 | Vitor (1113) | 1 | 3 | 2 | 1 |
 | 10 | Pedro (1368) | 1 | 3 | 1 | 1 |
@@ -282,7 +282,7 @@ De folga: Felipe (1555)
 
 **>** [Link](https://www.lichess.org/9E2gILyV), *D04 - Queen's Pawn Game: Colle System*.
 
-De folga: Felipe (1371)
+De folga: Felipe (1380)
 
 ### Rodada 2:
 
@@ -326,7 +326,7 @@ De folga: Ricardo (1780)
 * Diogo *(1455)* `½ - ½` Alexandre *(1197)*
 
 **>** [Link](https://www.lichess.org/JLLAkhLx), *C41 - Philidor Defense*.
-* Felipe *(1371)* `0   -   1` **Milton *(1500)***
+* Felipe *(1380)* `0   -   1` **Milton *(1500)***
 
 **>** [Link](https://www.lichess.org/DJGNYvmh), *B20 - Sicilian Defense: Bowdler Attack*.
 
@@ -371,7 +371,7 @@ De folga: Léo (1927)
 * **Marcelo *(1760)*** `1   -   0`  Diogo *(1455)*
 
 **>** [Link](https://www.lichess.org/5TFXe391), *C16 - French Defense: Winawer Variation, Advance Variation*.
-* Alexandre *(1197)* `0   -   1` **Felipe *(1371)***
+* Alexandre *(1197)* `0   -   1` **Felipe *(1380)***
 
 **>** [Link](https://www.lichess.org/Ph54JBSv), *D00 - Queen's Pawn Game*.
 * Milton *(1500)* `0   -   1` **Ricardo *(1582)***
@@ -416,7 +416,7 @@ De folga: Pedro (1185)
 * Diogo *(1455)*     -     Renato *(939)*
 
  **>** 
-* Felipe *(1371)*     -     Marcelo *(1760)*
+* Felipe *(1380)*     -     Marcelo *(1760)*
 
  **>** 
 * Léo *(1856)*     -     Milton *(1500)*
@@ -461,7 +461,7 @@ De folga: Freddy (1881)
 * Júlio *(1441)*     -     Diogo *(1455)*
 
  **>** 
-* Felipe *(1371)*     -     Renato *(939)*
+* Felipe *(1380)*     -     Renato *(939)*
 
  **>** 
 * Milton *(1500)*     -     Pedro *(1368)*
@@ -506,7 +506,7 @@ De folga: Ribas (1635)
 * Vitor *(1113)*     -     Diogo *(1455)*
 
  **>** 
-* Júlio *(1441)*     -     Felipe *(1371)*
+* Júlio *(1441)*     -     Felipe *(1380)*
 
  **>** 
 * Milton *(1500)*     -     Freddy *(1766)*
@@ -551,7 +551,7 @@ De folga: Vitor (1302)
 
 #### Blitz:
 
-* Felipe *(1371)*     -     Diogo *(1455)*
+* Felipe *(1380)*     -     Diogo *(1455)*
 
  **>** 
 * Milton *(1500)*     -     Ribas *(1500)*
@@ -599,7 +599,7 @@ De folga: Milton (1917)
 
 #### Blitz:
 
-* Vitor *(1113)*     -     Felipe *(1371)*
+* Vitor *(1113)*     -     Felipe *(1380)*
 
  **>** 
 * Diogo *(1455)*     -     Ricardo *(1582)*
@@ -650,7 +650,7 @@ De folga: Alexandre (1155)
 * Vitor *(1113)*     -     Milton *(1500)*
 
  **>** 
-* Ricardo *(1582)*     -     Felipe *(1371)*
+* Ricardo *(1582)*     -     Felipe *(1380)*
 
  **>** 
 * Diogo *(1455)*     -     Léo *(1856)*
@@ -701,7 +701,7 @@ De folga: Marcelo (2099)
 * Milton *(1500)*     -     Alexandre *(1197)*
 
  **>** 
-* Felipe *(1371)*     -     Léo *(1856)*
+* Felipe *(1380)*     -     Léo *(1856)*
 
  **>** 
 * Pedro *(1368)*     -     Diogo *(1455)*
@@ -752,7 +752,7 @@ De folga: Renato (1270)
 * Marcelo *(1760)*     -     Milton *(1500)*
 
  **>** 
-* Felipe *(1371)*     -     Pedro *(1368)*
+* Felipe *(1380)*     -     Pedro *(1368)*
 
  **>** 
 * Freddy *(1766)*     -     Diogo *(1455)*
@@ -803,7 +803,7 @@ De folga: Júlio (1677)
 * Renato *(939)*     -     Milton *(1500)*
 
  **>** 
-* Felipe *(1371)*     -     Freddy *(1766)*
+* Felipe *(1380)*     -     Freddy *(1766)*
 
  **>** 
 * Diogo *(1455)*     -     Ribas *(1500)*
@@ -854,7 +854,7 @@ De folga: Diogo (1237)
 * Júlio *(1441)*     -     Milton *(1500)*
 
  **>** 
-* Ribas *(1500)*     -     Felipe *(1371)*
+* Ribas *(1500)*     -     Felipe *(1380)*
 
  **>** 
 
@@ -906,7 +906,7 @@ De folga: Felipe (1555)
 
  **>** 
 
-De folga: Felipe (1371)
+De folga: Felipe (1380)
 
 ### Rodada 15:
 
@@ -950,7 +950,7 @@ De folga: Ricardo (1780)
 * Alexandre *(1197)*     -     Diogo *(1455)*
 
  **>** 
-* Milton *(1500)*     -     Felipe *(1371)*
+* Milton *(1500)*     -     Felipe *(1380)*
 
  **>** 
 
@@ -995,7 +995,7 @@ De folga: Léo (1927)
 * Diogo *(1455)*     -     Marcelo *(1760)*
 
  **>** 
-* Felipe *(1371)*     -     Alexandre *(1197)*
+* Felipe *(1380)*     -     Alexandre *(1197)*
 
  **>** 
 * Ricardo *(1582)*     -     Milton *(1500)*
@@ -1040,7 +1040,7 @@ De folga: Pedro (1185)
 * Renato *(939)*     -     Diogo *(1455)*
 
  **>** 
-* Marcelo *(1760)*     -     Felipe *(1371)*
+* Marcelo *(1760)*     -     Felipe *(1380)*
 
  **>** 
 * Milton *(1500)*     -     Léo *(1856)*
@@ -1085,7 +1085,7 @@ De folga: Freddy (1881)
 * Diogo *(1455)*     -     Júlio *(1441)*
 
  **>** 
-* Renato *(939)*     -     Felipe *(1371)*
+* Renato *(939)*     -     Felipe *(1380)*
 
  **>** 
 * Pedro *(1368)*     -     Milton *(1500)*
@@ -1130,7 +1130,7 @@ De folga: Ribas (1635)
 * Diogo *(1455)*     -     Vitor *(1113)*
 
  **>** 
-* Felipe *(1371)*     -     Júlio *(1441)*
+* Felipe *(1380)*     -     Júlio *(1441)*
 
  **>** 
 * Freddy *(1766)*     -     Milton *(1500)*
@@ -1175,7 +1175,7 @@ De folga: Vitor (1302)
 
 #### Blitz:
 
-* Diogo *(1455)*     -     Felipe *(1371)*
+* Diogo *(1455)*     -     Felipe *(1380)*
 
  **>** 
 * Ribas *(1500)*     -     Milton *(1500)*
@@ -1223,7 +1223,7 @@ De folga: Milton (1917)
 
 #### Blitz:
 
-* Felipe *(1371)*     -     Vitor *(1113)*
+* Felipe *(1380)*     -     Vitor *(1113)*
 
  **>** 
 * Ricardo *(1582)*     -     Diogo *(1455)*
@@ -1274,7 +1274,7 @@ De folga: Alexandre (1155)
 * Milton *(1500)*     -     Vitor *(1113)*
 
  **>** 
-* Felipe *(1371)*     -     Ricardo *(1582)*
+* Felipe *(1380)*     -     Ricardo *(1582)*
 
  **>** 
 * Léo *(1856)*     -     Diogo *(1455)*
@@ -1325,7 +1325,7 @@ De folga: Marcelo (2099)
 * Alexandre *(1197)*     -     Milton *(1500)*
 
  **>** 
-* Léo *(1856)*     -     Felipe *(1371)*
+* Léo *(1856)*     -     Felipe *(1380)*
 
  **>** 
 * Diogo *(1455)*     -     Pedro *(1368)*
@@ -1376,7 +1376,7 @@ De folga: Renato (1270)
 * Milton *(1500)*     -     Marcelo *(1760)*
 
  **>** 
-* Pedro *(1368)*     -     Felipe *(1371)*
+* Pedro *(1368)*     -     Felipe *(1380)*
 
  **>** 
 * Diogo *(1455)*     -     Freddy *(1766)*
@@ -1427,7 +1427,7 @@ De folga: Júlio (1677)
 * Milton *(1500)*     -     Renato *(939)*
 
  **>** 
-* Freddy *(1766)*     -     Felipe *(1371)*
+* Freddy *(1766)*     -     Felipe *(1380)*
 
  **>** 
 * Ribas *(1500)*     -     Diogo *(1455)*
@@ -1478,7 +1478,7 @@ De folga: Diogo (1237)
 * Milton *(1500)*     -     Júlio *(1441)*
 
  **>** 
-* Felipe *(1371)*     -     Ribas *(1500)*
+* Felipe *(1380)*     -     Ribas *(1500)*
 
  **>** 
 
