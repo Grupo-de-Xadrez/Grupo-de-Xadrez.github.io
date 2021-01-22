@@ -20,102 +20,6 @@
 
 #### Rapid:
 
-* Vitor *(1302)* `0   -   1` **Freddy *(1881)***
-
-**>** [Link](https://www.lichess.org/mPoMdB5X), *C00 - French Defense: Queen's Knight*.
-* **Júlio *(1677)*** `1   -   0`  Renato *(1270)*
-
-**>** [Link](https://www.lichess.org/UoTKilWT), *D00 - Queen's Pawn Game: Mason Variation*.
-* **Ribas *(1635)*** `1   -   0`  Pedro *(1185)*
-
-**>** [Link](https://www.lichess.org/rwRiLi0u), *C30 - King's Gambit*.
-* Diogo *(1237)*     -     Marcelo *(2099)*
-
- **>** 
-* **Felipe *(1555)*** `1   -   0`  Alexandre *(1155)*
-
-**>** [Link](https://www.lichess.org/AjfNFS7V), *C23 - Bishop's Opening*.
-* **Ricardo *(1780)*** `1   -   0`  Milton *(1917)*
-
-**>** [Link](https://www.lichess.org/ONIds6vg), *B30 - Sicilian Defense: Old Sicilian*.
-
-De folga: Léo (1927)
-
-#### Blitz:
-
-* **Freddy *(1766)*** `1   -   0`  Vitor *(1113)*
-
-**>** [Link](https://www.lichess.org/2NkAyca4), *D20 - Queen's Gambit Accepted: Old Variation*.
-* Renato *(939)* `0   -   1` **Júlio *(1441)***
-
-**>** [Link](https://www.lichess.org/sGYNFcf4), *D00 - Queen's Pawn Game*.
-* Pedro *(1368)* `0   -   1` **Ribas *(1500)***
-
-**>** [Link](https://www.lichess.org/XPb1HyYk), *D00 - Queen's Pawn Game*.
-* Marcelo *(1760)*     -     Diogo *(1455)*
-
- **>** 
-* Alexandre *(1197)* `0   -   1` **Felipe *(1371)***
-
-**>** [Link](https://www.lichess.org/Ph54JBSv), *D00 - Queen's Pawn Game*.
-* Milton *(1500)* `0   -   1` **Ricardo *(1582)***
-
-**>** [Link](https://www.lichess.org/fWgQh4gz), *C23 - Bishop's Opening*.
-
-De folga: Léo (1856)
-
-### Rodada anterior:
-
-#### Rapid:
-
-* **Renato *(1270)*** `1   -   0`  Vitor *(1302)* `INVERTIDO`
-
-**>** [Link](https://www.lichess.org/uoeqKY9M), *C20 - English Opening: The Whale*.
-* Pedro *(1185)* `0   -   1` **Freddy *(1881)***
-
-**>** [Link](https://www.lichess.org/7lTkPhIV), *D00 - Queen's Pawn Game*.
-* Marcelo *(2099)* `0   -   1` **Júlio *(1677)***
-
-**>** [Link](https://www.lichess.org/t9BXx170), *C55 - Italian Game: Two Knights Defense, Modern Bishop's Opening*.
-* **Léo *(1927)*** `1   -   0`  Ribas *(1635)*
-
-**>** [Link](https://www.lichess.org/MpK0U206), *D20 - Queen's Gambit Accepted: Accelerated Mannheim Variation*.
-* Alexandre *(1155)* `½ - ½` Diogo *(1237)*
-
-**>** [Link](https://www.lichess.org/H9GhqhfH), *D00 - Queen's Pawn Game*.
-* Milton *(1917)* `0   -   1` **Felipe *(1555)***
-
-**>** [Link](https://www.lichess.org/dVbOLTNR), *C26 - Vienna Game: Stanley Variation*.
-
-De folga: Ricardo (1780)
-
-#### Blitz:
-
-* **Vitor *(1113)*** `1   -   0`  Renato *(939)* `INVERTIDO`
-
-**>** [Link](https://www.lichess.org/8D1HswlL), *C20 - Center Game*.
-* **Freddy *(1766)*** `1   -   0`  Pedro *(1368)*
-
-**>** [Link](https://www.lichess.org/3GCiQUZb), *D20 - Queen's Gambit Accepted: Old Variation*.
-* Júlio *(1441)* `0   -   1` **Marcelo *(1760)***
-
-**>** [Link](https://www.lichess.org/bLg3vsmi), *A48 - London System*.
-* Ribas *(1500)* `0   -   1` **Léo *(1856)***
-
-**>** [Link](https://www.lichess.org/2aruQaIu), *B06 - Modern Defense: Three Pawns Attack*.
-* Diogo *(1455)* `½ - ½` Alexandre *(1197)*
-
-**>** [Link](https://www.lichess.org/JLLAkhLx), *C41 - Philidor Defense*.
-* Felipe *(1371)* `0   -   1` **Milton *(1500)***
-
-**>** [Link](https://www.lichess.org/DJGNYvmh), *B20 - Sicilian Defense: Bowdler Attack*.
-
-De folga: Ricardo (1582)
-
-### Rodada seguinte:
-
-#### Rapid:
-
 * Vitor *(1302)*     -     Júlio *(1677)*
 
  **>** 
@@ -160,6 +64,102 @@ De folga: Pedro (1185)
 
 De folga: Pedro (1368)
 
+### Rodada anterior:
+
+#### Rapid:
+
+* Vitor *(1302)* `0   -   1` **Freddy *(1881)***
+
+**>** [Link](https://www.lichess.org/mPoMdB5X), *C00 - French Defense: Queen's Knight*.
+* **Júlio *(1677)*** `1   -   0`  Renato *(1270)*
+
+**>** [Link](https://www.lichess.org/UoTKilWT), *D00 - Queen's Pawn Game: Mason Variation*.
+* **Ribas *(1635)*** `1   -   0`  Pedro *(1185)*
+
+**>** [Link](https://www.lichess.org/rwRiLi0u), *C30 - King's Gambit*.
+* Diogo *(1237)* `0   -   1` **Marcelo *(2099)***
+
+**>** [Link](https://www.lichess.org/iTEYyYuH), *A06 - Zukertort Opening: Tennison Gambit*.
+* **Felipe *(1555)*** `1   -   0`  Alexandre *(1155)*
+
+**>** [Link](https://www.lichess.org/AjfNFS7V), *C23 - Bishop's Opening*.
+* **Ricardo *(1780)*** `1   -   0`  Milton *(1917)*
+
+**>** [Link](https://www.lichess.org/ONIds6vg), *B30 - Sicilian Defense: Old Sicilian*.
+
+De folga: Léo (1927)
+
+#### Blitz:
+
+* **Freddy *(1766)*** `1   -   0`  Vitor *(1113)*
+
+**>** [Link](https://www.lichess.org/2NkAyca4), *D20 - Queen's Gambit Accepted: Old Variation*.
+* Renato *(939)* `0   -   1` **Júlio *(1441)***
+
+**>** [Link](https://www.lichess.org/sGYNFcf4), *D00 - Queen's Pawn Game*.
+* Pedro *(1368)* `0   -   1` **Ribas *(1500)***
+
+**>** [Link](https://www.lichess.org/XPb1HyYk), *D00 - Queen's Pawn Game*.
+* **Marcelo *(1760)*** `1   -   0`  Diogo *(1455)*
+
+**>** [Link](https://www.lichess.org/5TFXe391), *C16 - French Defense: Winawer Variation, Advance Variation*.
+* Alexandre *(1197)* `0   -   1` **Felipe *(1371)***
+
+**>** [Link](https://www.lichess.org/Ph54JBSv), *D00 - Queen's Pawn Game*.
+* Milton *(1500)* `0   -   1` **Ricardo *(1582)***
+
+**>** [Link](https://www.lichess.org/fWgQh4gz), *C23 - Bishop's Opening*.
+
+De folga: Léo (1856)
+
+### Rodada seguinte:
+
+#### Rapid:
+
+* Ribas *(1635)*     -     Vitor *(1302)*
+
+ **>** 
+* Diogo *(1237)*     -     Júlio *(1677)*
+
+ **>** 
+* Renato *(1270)*     -     Felipe *(1555)*
+
+ **>** 
+* Pedro *(1185)*     -     Milton *(1917)*
+
+ **>** 
+* Ricardo *(1780)*     -     Marcelo *(2099)*
+
+ **>** 
+* Alexandre *(1155)*     -     Léo *(1927)*
+
+ **>** 
+
+De folga: Freddy (1881)
+
+#### Blitz:
+
+* Vitor *(1113)*     -     Ribas *(1500)*
+
+ **>** 
+* Júlio *(1441)*     -     Diogo *(1455)*
+
+ **>** 
+* Felipe *(1371)*     -     Renato *(939)*
+
+ **>** 
+* Milton *(1500)*     -     Pedro *(1368)*
+
+ **>** 
+* Marcelo *(1760)*     -     Ricardo *(1582)*
+
+ **>** 
+* Léo *(1856)*     -     Alexandre *(1197)*
+
+ **>** 
+
+De folga: Freddy (1766)
+
 ## Tabelas
 
 #### Rapid
@@ -170,26 +170,26 @@ De folga: Pedro (1368)
 | 2 | Felipe (1555) | 2 | 2 | 1 | 2 |
 | 2 | Léo (1927) | 2 | 2 | 1 | 2 |
 | 4 | Freddy (1881) | 2 | 3 | 2 | 2 |
-| 5 | Ricardo (1780) | 1½ | 2 | 0 | 1 |
-| 6 | Ribas (1635) | 1½ | 3 | 2 | 1 |
-| 7 | Marcelo (2099) | 1 | 2 | 1 | 1 |
+| 4 | Marcelo (2099) | 2 | 3 | 2 | 2 |
+| 6 | Ricardo (1780) | 1½ | 2 | 0 | 1 |
+| 7 | Ribas (1635) | 1½ | 3 | 2 | 1 |
 | 8 | Vitor (1302) | 1 | 3 | 2 | 1 |
 | 9 | Milton (1917) | 1 | 3 | 1 | 1 |
 | 9 | Renato (1270) | 1 | 3 | 1 | 1 |
-| 11 | Diogo (1237) | 0½ | 2 | 2 | 0 |
-| 12 | Alexandre (1155) | 0½ | 3 | 2 | 0 |
+| 11 | Alexandre (1155) | 0½ | 3 | 2 | 0 |
+| 11 | Diogo (1237) | 0½ | 3 | 2 | 0 |
 | 13 | Pedro (1185) | 0 | 3 | 1 | 0 |
 
 #### Blitz
 
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | Ricardo (1582) | 2 | 2 | 2 | 2 |
-| 2 | Léo (1856) | 2 | 2 | 1 | 2 |
-| 2 | Marcelo (1760) | 2 | 2 | 1 | 2 |
+| 1 | Marcelo (1760) | 3 | 3 | 1 | 3 |
+| 2 | Ricardo (1582) | 2 | 2 | 2 | 2 |
+| 3 | Léo (1856) | 2 | 2 | 1 | 2 |
 | 4 | Júlio (1441) | 2 | 3 | 2 | 2 |
 | 5 | Freddy (1766) | 2 | 3 | 1 | 2 |
-| 6 | Diogo (1455) | 1½ | 2 | 0 | 1 |
+| 6 | Diogo (1455) | 1½ | 3 | 1 | 1 |
 | 7 | Felipe (1371) | 1 | 2 | 1 | 1 |
 | 8 | Milton (1500) | 1 | 3 | 2 | 1 |
 | 8 | Vitor (1113) | 1 | 3 | 2 | 1 |
@@ -202,37 +202,37 @@ De folga: Pedro (1368)
 
 #### Rapid:
 
-| | JUL | FEL | LEO | FRE | RIC | RIB | MAR | VIT | MIL | REN | DIO | ALE | PED |
+| | JUL | FEL | LEO | FRE | MAR | RIC | RIB | VIT | MIL | REN | ALE | DIO | PED |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **JUL** | :::::::: |  |  |  |  |  |  |  |  | 1 |  | 1 |  |
-| **FEL** |  | :::::::: |  |  |  |  |  |  |  |  |  | 1 |  |
-| **LEO** |  |  | :::::::: |  |  | 1 |  |  |  |  |  |  |  |
+| **JUL** | :::::::: |  |  |  |  |  |  |  |  | 1 | 1 |  |  |
+| **FEL** |  | :::::::: |  |  |  |  |  |  |  |  | 1 |  |  |
+| **LEO** |  |  | :::::::: |  |  |  | 1 |  |  |  |  |  |  |
 | **FRE** |  |  | 0 | :::::::: |  |  |  |  |  |  |  |  |  |
-| **RIC** |  |  |  |  | :::::::: | ½ |  |  | 1 |  |  |  |  |
-| **RIB** |  |  |  |  |  | :::::::: |  |  |  |  |  |  | 1 |
-| **MAR** | 0 |  |  |  |  |  | :::::::: |  |  |  |  |  |  |
+| **MAR** | 0 |  |  |  | :::::::: |  |  |  |  |  |  |  |  |
+| **RIC** |  |  |  |  |  | :::::::: | ½ |  | 1 |  |  |  |  |
+| **RIB** |  |  |  |  |  |  | :::::::: |  |  |  |  |  | 1 |
 | **VIT** |  |  |  | 0 |  |  |  | :::::::: |  |  |  |  |  |
-| **MIL** |  | 0 |  |  |  |  |  |  | :::::::: |  | 1 |  |  |
-| **REN** |  |  |  |  |  |  | 0 |  |  | :::::::: |  |  |  |
-| **DIO** |  |  |  |  |  |  |  |  |  |  | :::::::: |  |  |
-| **ALE** |  |  |  |  |  |  |  |  |  |  | ½ | :::::::: |  |
+| **MIL** |  | 0 |  |  |  |  |  |  | :::::::: |  |  | 1 |  |
+| **REN** |  |  |  |  | 0 |  |  |  |  | :::::::: |  |  |  |
+| **ALE** |  |  |  |  |  |  |  |  |  |  | :::::::: | ½ |  |
+| **DIO** |  |  |  |  | 0 |  |  |  |  |  |  | :::::::: |  |
 | **PED** |  |  |  | 0 |  |  |  | 0 |  |  |  |  | :::::::: |
 
 #### Blitz:
 
-| | RIC | LEO | MAR | JUL | FRE | DIO | FEL | MIL | VIT | PED | RIB | ALE | REN |
+| | MAR | RIC | LEO | JUL | FRE | DIO | FEL | MIL | VIT | PED | RIB | ALE | REN |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **RIC** | :::::::: |  |  |  |  |  |  |  |  |  |  |  |  |
-| **LEO** |  | :::::::: |  |  | 1 |  |  |  |  |  |  |  |  |
-| **MAR** |  |  | :::::::: |  |  |  |  |  |  |  |  |  | 1 |
-| **JUL** |  |  | 0 | :::::::: |  |  |  |  |  |  |  |  |  |
+| **MAR** | :::::::: |  |  |  |  | 1 |  |  |  |  |  |  | 1 |
+| **RIC** |  | :::::::: |  |  |  |  |  |  |  |  |  |  |  |
+| **LEO** |  |  | :::::::: |  | 1 |  |  |  |  |  |  |  |  |
+| **JUL** | 0 |  |  | :::::::: |  |  |  |  |  |  |  |  |  |
 | **FRE** |  |  |  |  | :::::::: |  |  |  | 1 | 1 |  |  |  |
 | **DIO** |  |  |  |  |  | :::::::: |  | 1 |  |  |  | ½ |  |
 | **FEL** |  |  |  |  |  |  | :::::::: | 0 |  |  |  |  |  |
-| **MIL** | 0 |  |  |  |  |  |  | :::::::: |  |  |  |  |  |
+| **MIL** |  | 0 |  |  |  |  |  | :::::::: |  |  |  |  |  |
 | **VIT** |  |  |  |  |  |  |  |  | :::::::: |  |  |  |  |
 | **PED** |  |  |  |  |  |  |  |  |  | :::::::: | 0 |  |  |
-| **RIB** | 0 | 0 |  |  |  |  |  |  |  |  | :::::::: |  |  |
+| **RIB** |  | 0 | 0 |  |  |  |  |  |  |  | :::::::: |  |  |
 | **ALE** |  |  |  | 0 |  |  | 0 |  |  |  |  | :::::::: |  |
 | **REN** |  |  |  | 0 |  |  |  |  |  |  |  |  | :::::::: |
 
@@ -345,9 +345,9 @@ De folga: Ricardo (1582)
 * **Ribas *(1635)*** `1   -   0`  Pedro *(1185)*
 
 **>** [Link](https://www.lichess.org/rwRiLi0u), *C30 - King's Gambit*.
-* Diogo *(1237)*     -     Marcelo *(2099)*
+* Diogo *(1237)* `0   -   1` **Marcelo *(2099)***
 
- **>** 
+**>** [Link](https://www.lichess.org/iTEYyYuH), *A06 - Zukertort Opening: Tennison Gambit*.
 * **Felipe *(1555)*** `1   -   0`  Alexandre *(1155)*
 
 **>** [Link](https://www.lichess.org/AjfNFS7V), *C23 - Bishop's Opening*.
@@ -368,9 +368,9 @@ De folga: Léo (1927)
 * Pedro *(1368)* `0   -   1` **Ribas *(1500)***
 
 **>** [Link](https://www.lichess.org/XPb1HyYk), *D00 - Queen's Pawn Game*.
-* Marcelo *(1760)*     -     Diogo *(1455)*
+* **Marcelo *(1760)*** `1   -   0`  Diogo *(1455)*
 
- **>** 
+**>** [Link](https://www.lichess.org/5TFXe391), *C16 - French Defense: Winawer Variation, Advance Variation*.
 * Alexandre *(1197)* `0   -   1` **Felipe *(1371)***
 
 **>** [Link](https://www.lichess.org/Ph54JBSv), *D00 - Queen's Pawn Game*.
