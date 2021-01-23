@@ -18,13 +18,13 @@
 
 ## Rodadas:
 
-* [Rodada atual](https://grupo-de-xadrez.github.io/rodadas/4/index)
+* [Rodada atual](https://grupo-de-xadrez.github.io/rodadas/4)
 
-* [Rodada anterior](https://grupo-de-xadrez.github.io/rodadas/3/index)
+* [Rodada anterior](https://grupo-de-xadrez.github.io/rodadas/3)
 
-* [Rodada seguinte](https://grupo-de-xadrez.github.io/rodadas/5/index)
+* [Rodada seguinte](https://grupo-de-xadrez.github.io/rodadas/5)
 
-* [Lista completa](https://grupo-de-xadrez.github.io/rodadas/index)
+* [Lista completa](https://grupo-de-xadrez.github.io/rodadas)
 
 ## Tabelas
 
