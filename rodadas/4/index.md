@@ -31,7 +31,7 @@ De folga: Pedro (1180)
 * Freddy *(1788)*     -     Ribas *(1500)*
 
  **>** 
-* Diogo *(1455)* `0   -   1` **Renato *(958)***
+* Diogo *(1455)* `0   -   1` **Renato *(970)***
 
 **>** [Link](https://www.lichess.org/AJWXTn79), *C40 - King's Pawn Game: Damiano Defense*.
 * Felipe *(1378)* `0   -   1` **Marcelo *(1798)***

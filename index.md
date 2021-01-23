@@ -11,7 +11,7 @@
 * MAR: **Marcelo**, a.k.a. [@mkvieira](https://www.lichess.org/@/mkvieira) *(Rapid: 2113, Blitz: 1798)*
 * MIL: **Milton**, a.k.a. [@milton1960](https://www.lichess.org/@/milton1960) *(Rapid: 1917, Blitz: 1500)*
 * PED: **Pedro**, a.k.a. [@Phoenix20201](https://www.lichess.org/@/Phoenix20201) *(Rapid: 1180, Blitz: 1368)*
-* REN: **Renato**, a.k.a. [@Padilha20](https://www.lichess.org/@/Padilha20) *(Rapid: 1277, Blitz: 958)*
+* REN: **Renato**, a.k.a. [@Padilha20](https://www.lichess.org/@/Padilha20) *(Rapid: 1277, Blitz: 970)*
 * RIC: **Ricardo**, a.k.a. [@r-k-k](https://www.lichess.org/@/r-k-k) *(Rapid: 1780, Blitz: 1582)*
 * RIB: **Ribas**, a.k.a. [@Rpribas](https://www.lichess.org/@/Rpribas) *(Rapid: 1635, Blitz: 1500)*
 * VIT: **Vitor**, a.k.a. [@VitorStahlhoefer](https://www.lichess.org/@/VitorStahlhoefer) *(Rapid: 1302, Blitz: 1120)*
@@ -61,7 +61,7 @@
 | 8 | Pedro (1368) | 1 | 3 | 1 | 1 |
 | 8 | Ribas (1500) | 1 | 3 | 1 | 1 |
 | 11 | Milton (1500) | 1 | 4 | 3 | 1 |
-| 11 | Renato (958) | 1 | 4 | 3 | 1 |
+| 11 | Renato (970) | 1 | 4 | 3 | 1 |
 | 13 | Alexandre (1197) | 0½ | 3 | 1 | 0 |
 
 ## Resultados
