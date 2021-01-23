@@ -235,56 +235,28 @@ def main():
     page += '\n'
     page += '\n'
 
+    page += '## Rodadas:'
+    page += '\n'
+    page += '\n'
+
     if currentRound != None:
-        page += '### Rodada atual:'
-        page += '\n'
-        page += '\n'
-        page += '#### Rapid:'
-        page += '\n'
-        page += '\n'
-        page += toStrRound(currentRound, 0)
-        page += '\n'
-        page += '\n'
-        page += '#### Blitz:'
-        page += '\n'
-        page += '\n'
-        page += toStrRound(currentRound, 1)
+        page += f'* [Rodada atual](https://grupo-de-xadrez.github.io/rodadas/{currentRound+1}/index)'
         page += '\n'
         page += '\n'
 
     if lastRound != None:
-        page += '### Rodada anterior:'
-        page += '\n'
-        page += '\n'
-        page += '#### Rapid:'
-        page += '\n'
-        page += '\n'
-        page += toStrRound(lastRound, 0)
-        page += '\n'
-        page += '\n'
-        page += '#### Blitz:'
-        page += '\n'
-        page += '\n'
-        page += toStrRound(lastRound, 1)
+        page += f'* [Rodada anterior](https://grupo-de-xadrez.github.io/rodadas/{lastRound+1}/index)'
         page += '\n'
         page += '\n'
 
     if nextRound != None:
-        page += '### Rodada seguinte:'
+        page += f'* [Rodada seguinte](https://grupo-de-xadrez.github.io/rodadas/{nextRound+1}/index)'
         page += '\n'
         page += '\n'
-        page += '#### Rapid:'
-        page += '\n'
-        page += '\n'
-        page += toStrRound(nextRound, 0)
-        page += '\n'
-        page += '\n'
-        page += '#### Blitz:'
-        page += '\n'
-        page += '\n'
-        page += toStrRound(nextRound, 1)
-        page += '\n'
-        page += '\n'
+
+    page += f'* [Lista completa](https://grupo-de-xadrez.github.io/rodadas/index)'
+    page += '\n'
+    page += '\n'
 
     page += '## Tabelas'
     page += '\n'
@@ -320,34 +292,44 @@ def main():
     page += '\n'
     page += '\n'
 
+    open(f'{projectFolder}/index.md', 'w', encoding='utf-8').write(page)
+
+    if not os.path.exists(f'{projectFolder}/rodadas/'):
+        os.mkdir(f'{projectFolder}/rodadas/')
+
+    subpage = ''
+    subpage += '## Rodadas:'
+    subpage += '\n'
+    subpage += '\n'
+
     for i, r in enumerate(rounds):
-        subpage = f'### Rodada {i + 1}:'
-        subpage += '\n'
-        subpage += '\n'
-        subpage += '#### Rapid:'
-        subpage += '\n'
-        subpage += '\n'
-        subpage += toStrRound(i, 0)
-        subpage += '\n'
-        subpage += '\n'
-        subpage += '#### Blitz:'
-        subpage += '\n'
-        subpage += '\n'
-        subpage += toStrRound(i, 1)
-        subpage += '\n'
-        subpage += '\n'
-
-        page += subpage
-
-        if not os.path.exists(f'{projectFolder}/rodadas/'):
-            os.mkdir(f'{projectFolder}/rodadas/')
+        subsubpage = ''
+        subsubpage += f'### Rodada {i + 1}:'
+        subsubpage += '\n'
+        subsubpage += '\n'
+        subsubpage += '#### Rapid:'
+        subsubpage += '\n'
+        subsubpage += '\n'
+        subsubpage += toStrRound(i, 0)
+        subsubpage += '\n'
+        subsubpage += '\n'
+        subsubpage += '#### Blitz:'
+        subsubpage += '\n'
+        subsubpage += '\n'
+        subsubpage += toStrRound(i, 1)
+        subsubpage += '\n'
+        subsubpage += '\n'
 
         if not os.path.exists(f'{projectFolder}/rodadas/{i+1}/'):
             os.mkdir(f'{projectFolder}/rodadas/{i+1}/')
 
-        open(f'{projectFolder}/rodadas/{i+1}/index.md', 'w', encoding='utf-8').write(subpage)
+        open(f'{projectFolder}/rodadas/{i+1}/index.md', 'w', encoding='utf-8').write(subsubpage)
 
-    open(f'{projectFolder}/index.md', 'w', encoding='utf-8').write(page)
+        subpage += f'* [Rodada {i + 1}](https://grupo-de-xadrez.github.io/rodadas/{i+1}/index)'
+        subpage += '\n'
+        subpage += '\n'
+
+    open(f'{projectFolder}/rodadas/index.md', 'w', encoding='utf-8').write(subpage)
 
 if __name__ == '__main__':
     main()

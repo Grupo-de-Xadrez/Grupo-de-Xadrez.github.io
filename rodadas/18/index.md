@@ -8,10 +8,10 @@
 * Júlio *(1677)*     -     Diogo *(1237)*
 
  **>** 
-* Felipe *(1552)*     -     Renato *(1270)*
+* Felipe *(1552)*     -     Renato *(1277)*
 
  **>** 
-* Milton *(1917)*     -     Pedro *(1185)*
+* Milton *(1917)*     -     Pedro *(1180)*
 
  **>** 
 * Marcelo *(2113)*     -     Ricardo *(1780)*
@@ -28,10 +28,10 @@ De folga: Freddy (1881)
 * Ribas *(1500)*     -     Vitor *(1120)*
 
  **>** 
-* Diogo *(1455)*     -     Júlio *(1441)*
+* Diogo *(1455)*     -     Júlio *(1445)*
 
  **>** 
-* Renato *(939)*     -     Felipe *(1378)*
+* Renato *(958)*     -     Felipe *(1378)*
 
  **>** 
 * Pedro *(1368)*     -     Milton *(1500)*
@@ -44,5 +44,5 @@ De folga: Freddy (1881)
 
  **>** 
 
-De folga: Freddy (1760)
+De folga: Freddy (1775)
 

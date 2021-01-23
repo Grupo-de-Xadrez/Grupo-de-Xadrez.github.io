@@ -8,7 +8,7 @@
 * Ribas *(1635)*     -     Freddy *(1881)*
 
  **>** 
-* Renato *(1270)*     -     Diogo *(1237)*
+* Renato *(1277)*     -     Diogo *(1237)*
 
  **>** 
 * Marcelo *(2113)*     -     Felipe *(1552)*
@@ -21,17 +21,17 @@
 
  **>** 
 
-De folga: Pedro (1185)
+De folga: Pedro (1180)
 
 #### Blitz:
 
-* Júlio *(1441)*     -     Vitor *(1120)*
+* Júlio *(1445)*     -     Vitor *(1120)*
 
  **>** 
-* Freddy *(1760)*     -     Ribas *(1500)*
+* Freddy *(1775)*     -     Ribas *(1500)*
 
  **>** 
-* Diogo *(1455)*     -     Renato *(939)*
+* Diogo *(1455)*     -     Renato *(958)*
 
  **>** 
 * Felipe *(1378)*     -     Marcelo *(1798)*

@@ -17,7 +17,7 @@
 * Marcelo *(2113)*     -     Freddy *(1881)*
 
  **>** 
-* Pedro *(1185)*     -     Renato *(1270)*
+* Pedro *(1180)*     -     Renato *(1277)*
 
  **>** 
 
@@ -34,13 +34,13 @@ De folga: Milton (1917)
 * Ribas *(1500)*     -     Alexandre *(1197)*
 
  **>** 
-* Léo *(1856)*     -     Júlio *(1441)*
+* Léo *(1856)*     -     Júlio *(1445)*
 
  **>** 
-* Freddy *(1760)*     -     Marcelo *(1798)*
+* Freddy *(1775)*     -     Marcelo *(1798)*
 
  **>** 
-* Renato *(939)*     -     Pedro *(1368)*
+* Renato *(958)*     -     Pedro *(1368)*
 
  **>** 
 
