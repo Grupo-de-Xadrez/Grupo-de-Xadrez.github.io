@@ -240,21 +240,21 @@ def main():
     page += '\n'
 
     if currentRound != None:
-        page += f'* [Rodada atual](https://grupo-de-xadrez.github.io/rodadas/{currentRound+1}/index)'
+        page += f'* [Rodada atual](https://grupo-de-xadrez.github.io/rodadas/{currentRound+1})'
         page += '\n'
         page += '\n'
 
     if lastRound != None:
-        page += f'* [Rodada anterior](https://grupo-de-xadrez.github.io/rodadas/{lastRound+1}/index)'
+        page += f'* [Rodada anterior](https://grupo-de-xadrez.github.io/rodadas/{lastRound+1})'
         page += '\n'
         page += '\n'
 
     if nextRound != None:
-        page += f'* [Rodada seguinte](https://grupo-de-xadrez.github.io/rodadas/{nextRound+1}/index)'
+        page += f'* [Rodada seguinte](https://grupo-de-xadrez.github.io/rodadas/{nextRound+1})'
         page += '\n'
         page += '\n'
 
-    page += f'* [Lista completa](https://grupo-de-xadrez.github.io/rodadas/index)'
+    page += f'* [Lista completa](https://grupo-de-xadrez.github.io/rodadas)'
     page += '\n'
     page += '\n'
 
@@ -325,7 +325,7 @@ def main():
 
         open(f'{projectFolder}/rodadas/{i+1}/index.md', 'w', encoding='utf-8').write(subsubpage)
 
-        subpage += f'* [Rodada {i + 1}](https://grupo-de-xadrez.github.io/rodadas/{i+1}/index)'
+        subpage += f'* [Rodada {i + 1}](https://grupo-de-xadrez.github.io/rodadas/{i+1})'
         subpage += '\n'
         subpage += '\n'
 
