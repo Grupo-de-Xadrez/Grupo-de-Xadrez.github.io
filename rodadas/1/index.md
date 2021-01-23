@@ -34,7 +34,7 @@ De folga: Felipe (1552)
 * **Léo *(1856)*** `1   -   0`  Freddy *(1783)*
 
 **>** [Link](https://www.lichess.org/EdwQe0e0), *A45 - Trompowsky Attack*.
-* Alexandre *(1197)* `0   -   1` **Júlio *(1457)***
+* Alexandre *(1197)* `0   -   1` **Júlio *(1445)***
 
 **>** [Link](https://www.lichess.org/r9QMmITh), *D00 - Queen's Pawn Game*.
 * Ribas *(1500)* `0   -   1` **Ricardo *(1582)***

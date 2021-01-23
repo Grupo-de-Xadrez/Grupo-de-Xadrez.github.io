@@ -31,7 +31,7 @@ De folga: Ricardo (1780)
 * Pedro *(1368)*     -     Freddy *(1783)*
 
  **>** 
-* Marcelo *(1798)*     -     Júlio *(1457)*
+* Marcelo *(1798)*     -     Júlio *(1445)*
 
  **>** 
 * Léo *(1856)*     -     Ribas *(1500)*
