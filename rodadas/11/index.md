@@ -8,7 +8,7 @@
 * Ricardo *(1780)*     -     Léo *(1927)*
 
  **>** 
-* Milton *(1917)*     -     Marcelo *(2113)*
+* Milton *(1924)*     -     Marcelo *(2113)*
 
  **>** 
 * Pedro *(1180)*     -     Felipe *(1552)*

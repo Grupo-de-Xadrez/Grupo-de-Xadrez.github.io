@@ -14,7 +14,7 @@
 * Ricardo *(1780)*     -     Freddy *(1881)*
 
  **>** 
-* Milton *(1917)*     -     Júlio *(1677)*
+* Milton *(1924)*     -     Júlio *(1677)*
 
  **>** 
 * Felipe *(1552)*     -     Ribas *(1635)*

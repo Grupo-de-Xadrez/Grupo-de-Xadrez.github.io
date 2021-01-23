@@ -5,7 +5,7 @@
 * Felipe *(1552)*     -     Diogo *(1237)*
 
  **>** 
-* Milton *(1917)*     -     Ribas *(1635)*
+* Milton *(1924)*     -     Ribas *(1635)*
 
  **>** 
 * Ricardo *(1780)*     -     Júlio *(1677)*
