@@ -5,19 +5,19 @@
 * **Renato *(1277)*** `1   -   0`  Vitor *(1302)* `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/uoeqKY9M), *C20 - English Opening: The Whale*.
-* Pedro *(1180)* `0   -   1` **Freddy *(1881)***
+* Pedro *(1180)* `0   -   1` **Freddy *(1886)***
 
 **>** [Link](https://www.lichess.org/7lTkPhIV), *D00 - Queen's Pawn Game*.
 * Marcelo *(2113)* `0   -   1` **Júlio *(1677)***
 
 **>** [Link](https://www.lichess.org/t9BXx170), *C55 - Italian Game: Two Knights Defense, Modern Bishop's Opening*.
-* **Léo *(1927)*** `1   -   0`  Ribas *(1635)*
+* **Léo *(1927)*** `1   -   0`  Ribas *(1623)*
 
 **>** [Link](https://www.lichess.org/MpK0U206), *D20 - Queen's Gambit Accepted: Accelerated Mannheim Variation*.
 * Alexandre *(1155)* `½ - ½` Diogo *(1237)*
 
 **>** [Link](https://www.lichess.org/H9GhqhfH), *D00 - Queen's Pawn Game*.
-* Milton *(1924)* `0   -   1` **Felipe *(1552)***
+* Milton *(1917)* `0   -   1` **Felipe *(1552)***
 
 **>** [Link](https://www.lichess.org/dVbOLTNR), *C26 - Vienna Game: Stanley Variation*.
 

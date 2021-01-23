@@ -2,13 +2,13 @@
 
 #### Rapid:
 
-* Vitor *(1302)* `0   -   1` **Freddy *(1881)***
+* Vitor *(1302)* `0   -   1` **Freddy *(1886)***
 
 **>** [Link](https://www.lichess.org/mPoMdB5X), *C00 - French Defense: Queen's Knight*.
 * **Júlio *(1677)*** `1   -   0`  Renato *(1277)*
 
 **>** [Link](https://www.lichess.org/UoTKilWT), *D00 - Queen's Pawn Game: Mason Variation*.
-* **Ribas *(1635)*** `1   -   0`  Pedro *(1180)*
+* **Ribas *(1623)*** `1   -   0`  Pedro *(1180)*
 
 **>** [Link](https://www.lichess.org/rwRiLi0u), *C30 - King's Gambit*.
 * Diogo *(1237)* `0   -   1` **Marcelo *(2113)***
@@ -17,7 +17,7 @@
 * **Felipe *(1552)*** `1   -   0`  Alexandre *(1155)*
 
 **>** [Link](https://www.lichess.org/AjfNFS7V), *C23 - Bishop's Opening*.
-* **Ricardo *(1780)*** `1   -   0`  Milton *(1924)*
+* **Ricardo *(1780)*** `1   -   0`  Milton *(1917)*
 
 **>** [Link](https://www.lichess.org/ONIds6vg), *B30 - Sicilian Defense: Old Sicilian*.
 

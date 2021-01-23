@@ -8,20 +8,20 @@
 * Ricardo *(1780)*     -     Diogo *(1237)*
 
  **>** 
-* Alexandre *(1155)*     -     Ribas *(1635)*
+* Alexandre *(1155)*     -     Ribas *(1623)*
 
  **>** 
 * Júlio *(1677)*     -     Léo *(1927)*
 
  **>** 
-* Marcelo *(2113)*     -     Freddy *(1881)*
+* Marcelo *(2113)*     -     Freddy *(1886)*
 
  **>** 
 * Pedro *(1180)*     -     Renato *(1277)*
 
  **>** 
 
-De folga: Milton (1924)
+De folga: Milton (1917)
 
 #### Blitz:
 

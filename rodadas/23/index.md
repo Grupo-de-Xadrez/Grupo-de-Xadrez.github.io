@@ -5,7 +5,7 @@
 * Vitor *(1302)*     -     Ricardo *(1780)*
 
  **>** 
-* Milton *(1924)*     -     Alexandre *(1155)*
+* Milton *(1917)*     -     Alexandre *(1155)*
 
  **>** 
 * Felipe *(1552)*     -     Léo *(1927)*
@@ -14,10 +14,10 @@
 * Pedro *(1180)*     -     Diogo *(1237)*
 
  **>** 
-* Renato *(1277)*     -     Ribas *(1635)*
+* Renato *(1277)*     -     Ribas *(1623)*
 
  **>** 
-* Júlio *(1677)*     -     Freddy *(1881)*
+* Júlio *(1677)*     -     Freddy *(1886)*
 
  **>** 
 

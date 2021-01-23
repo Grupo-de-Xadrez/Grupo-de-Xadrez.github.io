@@ -5,7 +5,7 @@
 * Vitor *(1302)*     -     Júlio *(1677)*
 
  **>** 
-* Ribas *(1635)*     -     Freddy *(1881)*
+* Ribas *(1623)*     -     Freddy *(1886)*
 
  **>** 
 * Renato *(1277)* `0   -   1` **Diogo *(1237)***
@@ -14,7 +14,7 @@
 * **Marcelo *(2113)*** `1   -   0`  Felipe *(1552)*
 
 **>** [Link](https://www.lichess.org/dWGd6c2o), *C41 - Philidor Defense*.
-* Milton *(1924)* `0   -   1` **Léo *(1927)***
+* Milton *(1917)* `0   -   1` **Léo *(1927)***
 
 **>** [Link](https://www.lichess.org/zjBo3xbv), *C00 - French Defense*.
 * Alexandre *(1155)*     -     Ricardo *(1780)*

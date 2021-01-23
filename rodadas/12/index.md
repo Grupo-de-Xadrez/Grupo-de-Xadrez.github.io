@@ -11,13 +11,13 @@
 * Pedro *(1180)*     -     Ricardo *(1780)*
 
  **>** 
-* Milton *(1924)*     -     Renato *(1277)*
+* Milton *(1917)*     -     Renato *(1277)*
 
  **>** 
-* Freddy *(1881)*     -     Felipe *(1552)*
+* Freddy *(1886)*     -     Felipe *(1552)*
 
  **>** 
-* Ribas *(1635)*     -     Diogo *(1237)*
+* Ribas *(1623)*     -     Diogo *(1237)*
 
  **>** 
 

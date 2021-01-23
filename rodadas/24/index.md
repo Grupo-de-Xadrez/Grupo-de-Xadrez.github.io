@@ -8,16 +8,16 @@
 * Léo *(1927)*     -     Ricardo *(1780)*
 
  **>** 
-* Marcelo *(2113)*     -     Milton *(1924)*
+* Marcelo *(2113)*     -     Milton *(1917)*
 
  **>** 
 * Felipe *(1552)*     -     Pedro *(1180)*
 
  **>** 
-* Freddy *(1881)*     -     Diogo *(1237)*
+* Freddy *(1886)*     -     Diogo *(1237)*
 
  **>** 
-* Ribas *(1635)*     -     Júlio *(1677)*
+* Ribas *(1623)*     -     Júlio *(1677)*
 
  **>** 
 

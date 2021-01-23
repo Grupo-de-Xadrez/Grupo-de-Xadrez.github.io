@@ -8,16 +8,16 @@
 * Renato *(1277)* `0   -   1` **Marcelo *(2113)***
 
 **>** [Link](https://www.lichess.org/88IwjQLc), *D00 - Queen's Pawn Game: Mason Attack*.
-* Freddy *(1881)* `0   -   1` **Léo *(1927)***
+* Freddy *(1886)* `0   -   1` **Léo *(1927)***
 
 **>** [Link](https://www.lichess.org/jErAgptw), *A84 - Dutch Defense: Classical Variation*.
 * **Júlio *(1677)*** `1   -   0`  Alexandre *(1155)*
 
 **>** [Link](https://www.lichess.org/SMPemRrp), *D00 - Queen's Pawn Game: Mason Variation*.
-* Ricardo *(1780)* `½ - ½` Ribas *(1635)*
+* Ricardo *(1780)* `½ - ½` Ribas *(1623)*
 
 **>** [Link](https://www.lichess.org/LTYw2mFX), *B23 - Sicilian Defense: Closed, Traditional*.
-* **Milton *(1924)*** `1   -   0`  Diogo *(1237)*
+* **Milton *(1917)*** `1   -   0`  Diogo *(1237)*
 
 **>** [Link](https://www.lichess.org/Q7BaIb8v), *C26 - Vienna Game: Stanley Variation*.
 

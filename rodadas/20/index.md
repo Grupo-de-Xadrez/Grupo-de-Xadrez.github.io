@@ -5,13 +5,13 @@
 * Felipe *(1552)*     -     Diogo *(1237)*
 
  **>** 
-* Milton *(1924)*     -     Ribas *(1635)*
+* Milton *(1917)*     -     Ribas *(1623)*
 
  **>** 
 * Ricardo *(1780)*     -     Júlio *(1677)*
 
  **>** 
-* Alexandre *(1155)*     -     Freddy *(1881)*
+* Alexandre *(1155)*     -     Freddy *(1886)*
 
  **>** 
 * Renato *(1277)*     -     Léo *(1927)*

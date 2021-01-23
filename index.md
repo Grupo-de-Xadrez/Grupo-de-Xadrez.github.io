@@ -5,15 +5,15 @@
 * ALE: **Alexandre**, a.k.a. [@AHCA](https://www.lichess.org/@/AHCA) *(Rapid: 1155, Blitz: 1197)*
 * DIO: **Diogo**, a.k.a. [@diogo98](https://www.lichess.org/@/diogo98) *(Rapid: 1237, Blitz: 1455)*
 * FEL: **Felipe**, a.k.a. [@Fgcotta](https://www.lichess.org/@/Fgcotta) *(Rapid: 1552, Blitz: 1378)*
-* FRE: **Freddy**, a.k.a. [@PlixMax](https://www.lichess.org/@/PlixMax) *(Rapid: 1881, Blitz: 1774)*
+* FRE: **Freddy**, a.k.a. [@PlixMax](https://www.lichess.org/@/PlixMax) *(Rapid: 1886, Blitz: 1774)*
 * JUL: **Júlio**, a.k.a. [@juliopinheiro](https://www.lichess.org/@/juliopinheiro) *(Rapid: 1677, Blitz: 1453)*
 * LEO: **Léo**, a.k.a. [@killer9](https://www.lichess.org/@/killer9) *(Rapid: 1927, Blitz: 1856)*
 * MAR: **Marcelo**, a.k.a. [@mkvieira](https://www.lichess.org/@/mkvieira) *(Rapid: 2113, Blitz: 1798)*
-* MIL: **Milton**, a.k.a. [@milton1960](https://www.lichess.org/@/milton1960) *(Rapid: 1924, Blitz: 1500)*
+* MIL: **Milton**, a.k.a. [@milton1960](https://www.lichess.org/@/milton1960) *(Rapid: 1917, Blitz: 1500)*
 * PED: **Pedro**, a.k.a. [@Phoenix20201](https://www.lichess.org/@/Phoenix20201) *(Rapid: 1180, Blitz: 1368)*
 * REN: **Renato**, a.k.a. [@Padilha20](https://www.lichess.org/@/Padilha20) *(Rapid: 1277, Blitz: 970)*
 * RIC: **Ricardo**, a.k.a. [@r-k-k](https://www.lichess.org/@/r-k-k) *(Rapid: 1780, Blitz: 1582)*
-* RIB: **Ribas**, a.k.a. [@Rpribas](https://www.lichess.org/@/Rpribas) *(Rapid: 1635, Blitz: 1500)*
+* RIB: **Ribas**, a.k.a. [@Rpribas](https://www.lichess.org/@/Rpribas) *(Rapid: 1623, Blitz: 1500)*
 * VIT: **Vitor**, a.k.a. [@VitorStahlhoefer](https://www.lichess.org/@/VitorStahlhoefer) *(Rapid: 1302, Blitz: 1120)*
 
 ## Rodadas:
@@ -36,12 +36,12 @@
 | 2 | Júlio (1677) | 3 | 3 | 1 | 3 |
 | 3 | Marcelo (2113) | 3 | 4 | 2 | 3 |
 | 4 | Felipe (1552) | 2 | 3 | 2 | 2 |
-| 4 | Freddy (1881) | 2 | 3 | 2 | 2 |
+| 4 | Freddy (1886) | 2 | 3 | 2 | 2 |
 | 6 | Ricardo (1780) | 1½ | 2 | 0 | 1 |
-| 7 | Ribas (1635) | 1½ | 3 | 2 | 1 |
+| 7 | Ribas (1623) | 1½ | 3 | 2 | 1 |
 | 8 | Diogo (1237) | 1½ | 4 | 3 | 1 |
 | 9 | Vitor (1302) | 1 | 3 | 2 | 1 |
-| 10 | Milton (1924) | 1 | 4 | 1 | 1 |
+| 10 | Milton (1917) | 1 | 4 | 1 | 1 |
 | 10 | Renato (1277) | 1 | 4 | 1 | 1 |
 | 12 | Alexandre (1155) | 0½ | 3 | 2 | 0 |
 | 13 | Pedro (1180) | 0 | 3 | 1 | 0 |
