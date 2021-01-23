@@ -28,7 +28,7 @@ De folga: Léo (1927)
 * **Freddy *(1783)*** `1   -   0`  Vitor *(1120)*
 
 **>** [Link](https://www.lichess.org/2NkAyca4), *D20 - Queen's Gambit Accepted: Old Variation*.
-* Renato *(970)* `0   -   1` **Júlio *(1445)***
+* Renato *(970)* `0   -   1` **Júlio *(1453)***
 
 **>** [Link](https://www.lichess.org/sGYNFcf4), *D00 - Queen's Pawn Game*.
 * Pedro *(1368)* `0   -   1` **Ribas *(1500)***

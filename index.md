@@ -6,7 +6,7 @@
 * DIO: **Diogo**, a.k.a. [@diogo98](https://www.lichess.org/@/diogo98) *(Rapid: 1237, Blitz: 1455)*
 * FEL: **Felipe**, a.k.a. [@Fgcotta](https://www.lichess.org/@/Fgcotta) *(Rapid: 1552, Blitz: 1378)*
 * FRE: **Freddy**, a.k.a. [@PlixMax](https://www.lichess.org/@/PlixMax) *(Rapid: 1881, Blitz: 1783)*
-* JUL: **Júlio**, a.k.a. [@juliopinheiro](https://www.lichess.org/@/juliopinheiro) *(Rapid: 1677, Blitz: 1445)*
+* JUL: **Júlio**, a.k.a. [@juliopinheiro](https://www.lichess.org/@/juliopinheiro) *(Rapid: 1677, Blitz: 1453)*
 * LEO: **Léo**, a.k.a. [@killer9](https://www.lichess.org/@/killer9) *(Rapid: 1927, Blitz: 1856)*
 * MAR: **Marcelo**, a.k.a. [@mkvieira](https://www.lichess.org/@/mkvieira) *(Rapid: 2113, Blitz: 1798)*
 * MIL: **Milton**, a.k.a. [@milton1960](https://www.lichess.org/@/milton1960) *(Rapid: 1917, Blitz: 1500)*
@@ -53,7 +53,7 @@
 | 1 | Marcelo (1798) | 4 | 4 | 2 | 4 |
 | 2 | Léo (1856) | 3 | 3 | 1 | 3 |
 | 3 | Ricardo (1582) | 2 | 2 | 2 | 2 |
-| 4 | Júlio (1445) | 2 | 3 | 2 | 2 |
+| 4 | Júlio (1453) | 2 | 3 | 2 | 2 |
 | 5 | Freddy (1783) | 2 | 3 | 1 | 2 |
 | 6 | Diogo (1455) | 1½ | 4 | 1 | 1 |
 | 7 | Vitor (1120) | 1 | 3 | 2 | 1 |
