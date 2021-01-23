@@ -34,7 +34,7 @@ De folga: Vitor (1302)
 * Ricardo *(1582)*     -     Júlio *(1457)*
 
  **>** 
-* Alexandre *(1197)*     -     Freddy *(1788)*
+* Alexandre *(1197)*     -     Freddy *(1783)*
 
  **>** 
 * Renato *(970)*     -     Léo *(1856)*

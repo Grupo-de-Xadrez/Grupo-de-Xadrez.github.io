@@ -37,7 +37,7 @@ De folga: Renato (1277)
 * Pedro *(1368)*     -     Felipe *(1378)*
 
  **>** 
-* Diogo *(1455)*     -     Freddy *(1788)*
+* Diogo *(1455)*     -     Freddy *(1783)*
 
  **>** 
 * Júlio *(1457)*     -     Ribas *(1500)*

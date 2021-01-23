@@ -37,7 +37,7 @@ De folga: Milton (1917)
 * Léo *(1856)*     -     Júlio *(1457)*
 
  **>** 
-* Freddy *(1788)*     -     Marcelo *(1798)*
+* Freddy *(1783)*     -     Marcelo *(1798)*
 
  **>** 
 * Renato *(970)*     -     Pedro *(1368)*
