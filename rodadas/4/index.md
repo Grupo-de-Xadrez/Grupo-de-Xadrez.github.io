@@ -28,7 +28,7 @@ De folga: Pedro (1180)
 * Júlio *(1453)*     -     Vitor *(1120)*
 
  **>** 
-* Freddy *(1759)* `0   -   1` **Ribas *(2055)***
+* Freddy *(1766)* `0   -   1` **Ribas *(2055)***
 
 **>** [Link](https://www.lichess.org/HRkvmdFA), *D06 - Queen's Gambit Declined: Marshall Defense*.
 * Diogo *(1455)* `0   -   1` **Renato *(970)***
