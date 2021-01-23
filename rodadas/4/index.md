@@ -11,9 +11,9 @@
 * Renato *(1277)*     -     Diogo *(1237)*
 
  **>** 
-* Marcelo *(2113)*     -     Felipe *(1552)*
+* **Marcelo *(2113)*** `1   -   0`  Felipe *(1552)*
 
- **>** 
+**>** [Link](https://www.lichess.org/dWGd6c2o), *C41 - Philidor Defense*.
 * Milton *(1917)*     -     Léo *(1927)*
 
  **>** 
@@ -34,9 +34,9 @@ De folga: Pedro (1180)
 * Diogo *(1455)*     -     Renato *(958)*
 
  **>** 
-* Felipe *(1378)*     -     Marcelo *(1798)*
+* Felipe *(1378)* `0   -   1` **Marcelo *(1798)***
 
- **>** 
+**>** [Link](https://www.lichess.org/wULx6CqR), *C02 - French Defense: Advance Variation*.
 * Léo *(1856)*     -     Milton *(1500)*
 
  **>** 
