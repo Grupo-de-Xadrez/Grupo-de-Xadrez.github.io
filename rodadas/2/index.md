@@ -31,7 +31,7 @@ De folga: Ricardo (1780)
 * **Freddy *(1788)*** `1   -   0`  Pedro *(1368)*
 
 **>** [Link](https://www.lichess.org/3GCiQUZb), *D20 - Queen's Gambit Accepted: Old Variation*.
-* Júlio *(1445)* `0   -   1` **Marcelo *(1798)***
+* Júlio *(1457)* `0   -   1` **Marcelo *(1798)***
 
 **>** [Link](https://www.lichess.org/bLg3vsmi), *A48 - London System*.
 * Ribas *(1500)* `0   -   1` **Léo *(1856)***
