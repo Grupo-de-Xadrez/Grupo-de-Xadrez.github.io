@@ -5,9 +5,9 @@
 * Vitor *(1302)*     -     Júlio *(1677)*
 
  **>** 
-* Ribas *(1623)*     -     Freddy *(1886)*
+* Ribas *(1623)* `0   -   1` **Freddy *(1886)***
 
- **>** 
+**>** [Link](https://www.lichess.org/cdRVlh4r), *C00 - French Defense: Knight Variation*.
 * Renato *(1277)* `0   -   1` **Diogo *(1237)***
 
 **>** [Link](https://www.lichess.org/7bYFbRah), *D00 - Queen's Pawn Game*.
@@ -28,9 +28,9 @@ De folga: Pedro (1180)
 * Júlio *(1453)*     -     Vitor *(1120)*
 
  **>** 
-* Freddy *(1769)*     -     Ribas *(2055)*
+* Freddy *(1769)* `0   -   1` **Ribas *(2055)***
 
- **>** 
+**>** [Link](https://www.lichess.org/HRkvmdFA), *D06 - Queen's Gambit Declined: Marshall Defense*.
 * Diogo *(1455)* `0   -   1` **Renato *(970)***
 
 **>** [Link](https://www.lichess.org/AJWXTn79), *C40 - King's Pawn Game: Damiano Defense*.
