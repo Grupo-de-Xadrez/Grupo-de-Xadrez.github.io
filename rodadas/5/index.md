@@ -44,5 +44,5 @@ De folga: Freddy (1881)
 
  **>** 
 
-De folga: Freddy (1771)
+De folga: Freddy (1774)
 
