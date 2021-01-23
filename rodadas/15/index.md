@@ -28,13 +28,13 @@ De folga: Ricardo (1780)
 * Vitor *(1120)*     -     Renato *(970)*
 
  **>** 
-* Pedro *(1368)*     -     Freddy *(1774)*
+* Pedro *(1368)*     -     Freddy *(1769)*
 
  **>** 
 * Marcelo *(1798)*     -     Júlio *(1453)*
 
  **>** 
-* Léo *(1856)*     -     Ribas *(1500)*
+* Léo *(1856)*     -     Ribas *(2055)*
 
  **>** 
 * Alexandre *(1197)*     -     Diogo *(1455)*

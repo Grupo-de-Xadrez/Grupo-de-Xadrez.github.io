@@ -31,13 +31,13 @@ De folga: Felipe (1552)
 * **Marcelo *(1798)*** `1   -   0`  Renato *(970)*
 
 **>** [Link](https://www.lichess.org/9SCbnWsf), *D00 - Queen's Pawn Game: Chigorin Variation*.
-* **Léo *(1856)*** `1   -   0`  Freddy *(1774)*
+* **Léo *(1856)*** `1   -   0`  Freddy *(1769)*
 
 **>** [Link](https://www.lichess.org/EdwQe0e0), *A45 - Trompowsky Attack*.
 * Alexandre *(1197)* `0   -   1` **Júlio *(1453)***
 
 **>** [Link](https://www.lichess.org/r9QMmITh), *D00 - Queen's Pawn Game*.
-* Ribas *(1500)* `0   -   1` **Ricardo *(1582)***
+* Ribas *(2055)* `0   -   1` **Ricardo *(1582)***
 
 **>** [Link](https://www.lichess.org/ocUpBa5T), *C34 - King's Gambit Accepted: Becker Defense*.
 * **Diogo *(1455)*** `1   -   0`  Milton *(1500)*

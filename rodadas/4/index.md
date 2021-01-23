@@ -28,7 +28,7 @@ De folga: Pedro (1180)
 * Júlio *(1453)*     -     Vitor *(1120)*
 
  **>** 
-* Freddy *(1774)*     -     Ribas *(1500)*
+* Freddy *(1769)*     -     Ribas *(2055)*
 
  **>** 
 * Diogo *(1455)* `0   -   1` **Renato *(970)***

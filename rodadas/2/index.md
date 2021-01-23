@@ -28,13 +28,13 @@ De folga: Ricardo (1780)
 * **Vitor *(1120)*** `1   -   0`  Renato *(970)* `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/8D1HswlL), *C20 - Center Game*.
-* **Freddy *(1774)*** `1   -   0`  Pedro *(1368)*
+* **Freddy *(1769)*** `1   -   0`  Pedro *(1368)*
 
 **>** [Link](https://www.lichess.org/3GCiQUZb), *D20 - Queen's Gambit Accepted: Old Variation*.
 * Júlio *(1453)* `0   -   1` **Marcelo *(1798)***
 
 **>** [Link](https://www.lichess.org/bLg3vsmi), *A48 - London System*.
-* Ribas *(1500)* `0   -   1` **Léo *(1856)***
+* Ribas *(2055)* `0   -   1` **Léo *(1856)***
 
 **>** [Link](https://www.lichess.org/2aruQaIu), *B06 - Modern Defense: Three Pawns Attack*.
 * Diogo *(1455)* `½ - ½` Alexandre *(1197)*

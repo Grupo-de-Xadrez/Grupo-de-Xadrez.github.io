@@ -5,7 +5,7 @@
 * ALE: **Alexandre**, a.k.a. [@AHCA](https://www.lichess.org/@/AHCA) *(Rapid: 1155, Blitz: 1197)*
 * DIO: **Diogo**, a.k.a. [@diogo98](https://www.lichess.org/@/diogo98) *(Rapid: 1237, Blitz: 1455)*
 * FEL: **Felipe**, a.k.a. [@Fgcotta](https://www.lichess.org/@/Fgcotta) *(Rapid: 1552, Blitz: 1378)*
-* FRE: **Freddy**, a.k.a. [@PlixMax](https://www.lichess.org/@/PlixMax) *(Rapid: 1886, Blitz: 1774)*
+* FRE: **Freddy**, a.k.a. [@PlixMax](https://www.lichess.org/@/PlixMax) *(Rapid: 1886, Blitz: 1769)*
 * JUL: **Júlio**, a.k.a. [@juliopinheiro](https://www.lichess.org/@/juliopinheiro) *(Rapid: 1677, Blitz: 1453)*
 * LEO: **Léo**, a.k.a. [@killer9](https://www.lichess.org/@/killer9) *(Rapid: 1927, Blitz: 1856)*
 * MAR: **Marcelo**, a.k.a. [@mkvieira](https://www.lichess.org/@/mkvieira) *(Rapid: 2113, Blitz: 1798)*
@@ -13,7 +13,7 @@
 * PED: **Pedro**, a.k.a. [@Phoenix20201](https://www.lichess.org/@/Phoenix20201) *(Rapid: 1180, Blitz: 1368)*
 * REN: **Renato**, a.k.a. [@Padilha20](https://www.lichess.org/@/Padilha20) *(Rapid: 1277, Blitz: 970)*
 * RIC: **Ricardo**, a.k.a. [@r-k-k](https://www.lichess.org/@/r-k-k) *(Rapid: 1780, Blitz: 1582)*
-* RIB: **Ribas**, a.k.a. [@Rpribas](https://www.lichess.org/@/Rpribas) *(Rapid: 1623, Blitz: 1500)*
+* RIB: **Ribas**, a.k.a. [@Rpribas](https://www.lichess.org/@/Rpribas) *(Rapid: 1623, Blitz: 2055)*
 * VIT: **Vitor**, a.k.a. [@VitorStahlhoefer](https://www.lichess.org/@/VitorStahlhoefer) *(Rapid: 1302, Blitz: 1120)*
 
 ## Rodadas:
@@ -54,12 +54,12 @@
 | 2 | Léo (1856) | 3 | 3 | 1 | 3 |
 | 3 | Ricardo (1582) | 2 | 2 | 2 | 2 |
 | 4 | Júlio (1453) | 2 | 3 | 2 | 2 |
-| 5 | Freddy (1774) | 2 | 3 | 1 | 2 |
+| 5 | Freddy (1769) | 2 | 3 | 1 | 2 |
 | 6 | Diogo (1455) | 1½ | 4 | 1 | 1 |
 | 7 | Vitor (1120) | 1 | 3 | 2 | 1 |
 | 8 | Felipe (1378) | 1 | 3 | 1 | 1 |
 | 8 | Pedro (1368) | 1 | 3 | 1 | 1 |
-| 8 | Ribas (1500) | 1 | 3 | 1 | 1 |
+| 8 | Ribas (2055) | 1 | 3 | 1 | 1 |
 | 11 | Milton (1500) | 1 | 4 | 3 | 1 |
 | 11 | Renato (970) | 1 | 4 | 3 | 1 |
 | 13 | Alexandre (1197) | 0½ | 3 | 1 | 0 |
