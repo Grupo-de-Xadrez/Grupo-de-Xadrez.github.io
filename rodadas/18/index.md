@@ -8,10 +8,10 @@
 * Júlio *(1677)*     -     Diogo *(1237)*
 
  **>** 
-* Felipe *(1552)*     -     Renato *(1256)*
+* Felipe *(1552)*     -     Renato *(1264)*
 
  **>** 
-* Milton *(1917)*     -     Pedro *(1210)*
+* Milton *(1917)*     -     Pedro *(1204)*
 
  **>** 
 * Marcelo *(2113)*     -     Ricardo *(1780)*

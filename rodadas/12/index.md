@@ -8,10 +8,10 @@
 * Alexandre *(1155)*     -     Marcelo *(2113)*
 
  **>** 
-* Pedro *(1210)*     -     Ricardo *(1780)*
+* Pedro *(1204)*     -     Ricardo *(1780)*
 
  **>** 
-* Milton *(1917)*     -     Renato *(1256)*
+* Milton *(1917)*     -     Renato *(1264)*
 
  **>** 
 * Freddy *(1886)*     -     Felipe *(1552)*

@@ -11,10 +11,10 @@
 * Milton *(1917)*     -     Freddy *(1886)*
 
  **>** 
-* Ricardo *(1780)*     -     Renato *(1256)*
+* Ricardo *(1780)*     -     Renato *(1264)*
 
  **>** 
-* Alexandre *(1155)*     -     Pedro *(1210)*
+* Alexandre *(1155)*     -     Pedro *(1204)*
 
  **>** 
 * Marcelo *(2113)*     -     Léo *(1927)*
