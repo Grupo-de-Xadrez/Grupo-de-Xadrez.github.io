@@ -5,10 +5,10 @@
 * Freddy *(1886)*     -     Vitor *(1302)*
 
  **>** 
-* Renato *(1254)*     -     Júlio *(1677)*
+* Renato *(1245)*     -     Júlio *(1677)*
 
  **>** 
-* Pedro *(1212)*     -     Ribas *(1623)*
+* Pedro *(1220)*     -     Ribas *(1623)*
 
  **>** 
 * Marcelo *(2113)*     -     Diogo *(1237)*
