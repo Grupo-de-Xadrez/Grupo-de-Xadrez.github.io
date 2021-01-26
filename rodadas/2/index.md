@@ -25,7 +25,7 @@ De folga: Ricardo (1780)
 
 #### Blitz:
 
-* **Vitor *(1119)*** `1   -   0`  Renato *(984)* `INVERTIDO`
+* **Vitor *(1125)*** `1   -   0`  Renato *(984)* `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/8D1HswlL), *C20 - Center Game*.
 * **Freddy *(1793)*** `1   -   0`  Pedro *(1368)*
