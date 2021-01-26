@@ -17,7 +17,7 @@
 * Ricardo *(1780)* `½ - ½` Ribas *(1623)*
 
 **>** [Link](https://www.lichess.org/LTYw2mFX), *B23 - Sicilian Defense: Closed, Traditional*.
-* **Milton *(1917)*** `1   -   0`  Diogo *(1237)*
+* **Milton *(1914)*** `1   -   0`  Diogo *(1237)*
 
 **>** [Link](https://www.lichess.org/Q7BaIb8v), *C26 - Vienna Game: Stanley Variation*.
 
