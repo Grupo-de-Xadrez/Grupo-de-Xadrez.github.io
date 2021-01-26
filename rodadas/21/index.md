@@ -17,7 +17,7 @@
 * Freddy *(1886)*     -     Marcelo *(2113)*
 
  **>** 
-* Renato *(1245)*     -     Pedro *(1220)*
+* Renato *(1245)*     -     Pedro *(1227)*
 
  **>** 
 
