@@ -17,7 +17,7 @@
 * Freddy *(1886)*     -     Marcelo *(2113)*
 
  **>** 
-* Renato *(1277)*     -     Pedro *(1180)*
+* Renato *(1256)*     -     Pedro *(1210)*
 
  **>** 
 
@@ -25,7 +25,7 @@ De folga: Milton (1917)
 
 #### Blitz:
 
-* Felipe *(1378)*     -     Vitor *(1120)*
+* Felipe *(1378)*     -     Vitor *(1104)*
 
  **>** 
 * Ricardo *(1582)*     -     Diogo *(1455)*
@@ -37,10 +37,10 @@ De folga: Milton (1917)
 * Júlio *(1453)*     -     Léo *(1856)*
 
  **>** 
-* Marcelo *(1798)*     -     Freddy *(1766)*
+* Marcelo *(1798)*     -     Freddy *(1793)*
 
  **>** 
-* Pedro *(1368)*     -     Renato *(970)*
+* Pedro *(1368)*     -     Renato *(999)*
 
  **>** 
 

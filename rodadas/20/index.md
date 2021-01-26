@@ -14,10 +14,10 @@
 * Alexandre *(1155)*     -     Freddy *(1886)*
 
  **>** 
-* Renato *(1277)*     -     Léo *(1927)*
+* Renato *(1256)*     -     Léo *(1927)*
 
  **>** 
-* Pedro *(1180)*     -     Marcelo *(2113)*
+* Pedro *(1210)*     -     Marcelo *(2113)*
 
  **>** 
 
@@ -34,15 +34,15 @@ De folga: Vitor (1302)
 * Júlio *(1453)*     -     Ricardo *(1582)*
 
  **>** 
-* Freddy *(1766)*     -     Alexandre *(1197)*
+* Freddy *(1793)*     -     Alexandre *(1197)*
 
  **>** 
-* Léo *(1856)*     -     Renato *(970)*
+* Léo *(1856)*     -     Renato *(999)*
 
  **>** 
 * Marcelo *(1798)*     -     Pedro *(1368)*
 
  **>** 
 
-De folga: Vitor (1120)
+De folga: Vitor (1104)
 

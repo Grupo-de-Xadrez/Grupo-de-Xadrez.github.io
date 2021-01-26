@@ -2,10 +2,10 @@
 
 #### Rapid:
 
-* Pedro *(1180)* `0   -   1` **Vitor *(1302)***
+* Pedro *(1210)* `0   -   1` **Vitor *(1302)***
 
 **>** [Link](https://www.lichess.org/V2sxuQDq), *D00 - Queen's Pawn Game*.
-* Renato *(1277)* `0   -   1` **Marcelo *(2113)***
+* Renato *(1256)* `0   -   1` **Marcelo *(2113)***
 
 **>** [Link](https://www.lichess.org/88IwjQLc), *D00 - Queen's Pawn Game: Mason Attack*.
 * Freddy *(1886)* `0   -   1` **Léo *(1927)***
@@ -25,13 +25,13 @@ De folga: Felipe (1552)
 
 #### Blitz:
 
-* **Pedro *(1368)*** `1   -   0`  Vitor *(1120)* `INVERTIDO`
+* **Pedro *(1368)*** `1   -   0`  Vitor *(1104)* `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/Z4XgGxLN), *D00 - Queen's Pawn Game*.
-* **Marcelo *(1798)*** `1   -   0`  Renato *(970)*
+* **Marcelo *(1798)*** `1   -   0`  Renato *(999)*
 
 **>** [Link](https://www.lichess.org/9SCbnWsf), *D00 - Queen's Pawn Game: Chigorin Variation*.
-* **Léo *(1856)*** `1   -   0`  Freddy *(1766)*
+* **Léo *(1856)*** `1   -   0`  Freddy *(1793)*
 
 **>** [Link](https://www.lichess.org/EdwQe0e0), *A45 - Trompowsky Attack*.
 * Alexandre *(1197)* `0   -   1` **Júlio *(1453)***

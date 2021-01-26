@@ -5,10 +5,10 @@
 * Vitor *(1302)* `0   -   1` **Freddy *(1886)***
 
 **>** [Link](https://www.lichess.org/mPoMdB5X), *C00 - French Defense: Queen's Knight*.
-* **Júlio *(1677)*** `1   -   0`  Renato *(1277)*
+* **Júlio *(1677)*** `1   -   0`  Renato *(1256)*
 
 **>** [Link](https://www.lichess.org/UoTKilWT), *D00 - Queen's Pawn Game: Mason Variation*.
-* **Ribas *(1623)*** `1   -   0`  Pedro *(1180)*
+* **Ribas *(1623)*** `1   -   0`  Pedro *(1210)*
 
 **>** [Link](https://www.lichess.org/rwRiLi0u), *C30 - King's Gambit*.
 * Diogo *(1237)* `0   -   1` **Marcelo *(2113)***
@@ -25,10 +25,10 @@ De folga: Léo (1927)
 
 #### Blitz:
 
-* **Freddy *(1766)*** `1   -   0`  Vitor *(1120)*
+* **Freddy *(1793)*** `1   -   0`  Vitor *(1104)*
 
 **>** [Link](https://www.lichess.org/2NkAyca4), *D20 - Queen's Gambit Accepted: Old Variation*.
-* Renato *(970)* `0   -   1` **Júlio *(1453)***
+* Renato *(999)* `0   -   1` **Júlio *(1453)***
 
 **>** [Link](https://www.lichess.org/sGYNFcf4), *D00 - Queen's Pawn Game*.
 * Pedro *(1368)* `0   -   1` **Ribas *(2055)***

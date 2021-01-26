@@ -2,10 +2,10 @@
 
 #### Rapid:
 
-* Renato *(1277)*     -     Vitor *(1302)*
+* Renato *(1256)*     -     Vitor *(1302)*
 
  **>** 
-* Freddy *(1886)*     -     Pedro *(1180)*
+* Freddy *(1886)*     -     Pedro *(1210)*
 
  **>** 
 * Júlio *(1677)*     -     Marcelo *(2113)*
@@ -25,10 +25,10 @@ De folga: Ricardo (1780)
 
 #### Blitz:
 
-* Vitor *(1120)*     -     Renato *(970)*
+* Vitor *(1104)*     -     Renato *(999)*
 
  **>** 
-* Pedro *(1368)*     -     Freddy *(1766)*
+* Pedro *(1368)*     -     Freddy *(1793)*
 
  **>** 
 * Marcelo *(1798)*     -     Júlio *(1453)*

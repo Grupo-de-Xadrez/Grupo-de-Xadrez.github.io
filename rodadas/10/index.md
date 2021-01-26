@@ -11,10 +11,10 @@
 * Léo *(1927)*     -     Felipe *(1552)*
 
  **>** 
-* Diogo *(1237)*     -     Pedro *(1180)*
+* Diogo *(1237)*     -     Pedro *(1210)*
 
  **>** 
-* Ribas *(1623)*     -     Renato *(1277)*
+* Ribas *(1623)*     -     Renato *(1256)*
 
  **>** 
 * Freddy *(1886)*     -     Júlio *(1677)*
@@ -25,7 +25,7 @@ De folga: Marcelo (2113)
 
 #### Blitz:
 
-* Vitor *(1120)*     -     Ricardo *(1582)*
+* Vitor *(1104)*     -     Ricardo *(1582)*
 
  **>** 
 * Milton *(1500)*     -     Alexandre *(1197)*
@@ -37,10 +37,10 @@ De folga: Marcelo (2113)
 * Pedro *(1368)*     -     Diogo *(1455)*
 
  **>** 
-* Renato *(970)*     -     Ribas *(2055)*
+* Renato *(999)*     -     Ribas *(2055)*
 
  **>** 
-* Júlio *(1453)*     -     Freddy *(1766)*
+* Júlio *(1453)*     -     Freddy *(1793)*
 
  **>** 
 
