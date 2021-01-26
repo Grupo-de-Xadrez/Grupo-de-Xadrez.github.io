@@ -25,13 +25,13 @@ De folga: Pedro (1220)
 
 #### Blitz:
 
-* Vitor *(1125)*     -     Júlio *(1453)*
+* Vitor *(1124)*     -     Júlio *(1453)*
 
  **>** 
 * Ribas *(2055)*     -     Freddy *(1793)*
 
  **>** 
-* Renato *(984)*     -     Diogo *(1455)*
+* Renato *(971)*     -     Diogo *(1455)*
 
  **>** 
 * Marcelo *(1798)*     -     Felipe *(1378)*
