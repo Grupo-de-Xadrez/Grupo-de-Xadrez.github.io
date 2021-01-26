@@ -25,7 +25,7 @@ De folga: Milton (1917)
 
 #### Blitz:
 
-* Felipe *(1378)*     -     Vitor *(1104)*
+* Felipe *(1378)*     -     Vitor *(1113)*
 
  **>** 
 * Ricardo *(1582)*     -     Diogo *(1455)*
