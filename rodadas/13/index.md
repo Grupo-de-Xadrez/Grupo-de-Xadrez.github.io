@@ -5,10 +5,10 @@
 * Vitor *(1302)*     -     Marcelo *(2113)*
 
  **>** 
-* Léo *(1927)*     -     Pedro *(1204)*
+* Léo *(1927)*     -     Pedro *(1212)*
 
  **>** 
-* Renato *(1264)*     -     Alexandre *(1155)*
+* Renato *(1254)*     -     Alexandre *(1155)*
 
  **>** 
 * Ricardo *(1780)*     -     Freddy *(1886)*

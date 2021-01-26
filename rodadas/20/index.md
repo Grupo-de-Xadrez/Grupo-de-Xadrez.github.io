@@ -14,10 +14,10 @@
 * Alexandre *(1155)*     -     Freddy *(1886)*
 
  **>** 
-* Renato *(1264)*     -     Léo *(1927)*
+* Renato *(1254)*     -     Léo *(1927)*
 
  **>** 
-* Pedro *(1204)*     -     Marcelo *(2113)*
+* Pedro *(1212)*     -     Marcelo *(2113)*
 
  **>** 
 
