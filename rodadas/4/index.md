@@ -14,7 +14,7 @@
 * **Marcelo *(2113)*** `1   -   0`  Felipe *(1552)*
 
 **>** [Link](https://www.lichess.org/dWGd6c2o), *C41 - Philidor Defense*.
-* Milton *(1897)* `0   -   1` **Léo *(1927)***
+* Milton *(1900)* `0   -   1` **Léo *(1927)***
 
 **>** [Link](https://www.lichess.org/zjBo3xbv), *C00 - French Defense*.
 * Alexandre *(1155)* `0   -   1` **Ricardo *(1780)***
