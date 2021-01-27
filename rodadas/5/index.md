@@ -2,18 +2,18 @@
 
 #### Rapid:
 
-* Ribas *(1623)* `0   -   1` **Vitor *(1302)***
+* **Ribas *(1623)*** `1   -   0`  Vitor *(1302)*
 
-**>** [Link](https://www.lichess.org/H4MP7ROS), *D00 - Queen's Pawn Game*.
+**>** [Link](https://www.lichess.org/uUGYj33X), *D20 - Queen's Gambit Accepted*.
 * Diogo *(1237)*     -     Júlio *(1677)*
 
  **>** 
 * Renato *(1245)* `0   -   1` **Felipe *(1552)***
 
 **>** [Link](https://www.lichess.org/rxcxV1No), *C41 - Philidor Defense*.
-* Pedro *(1227)*     -     Milton *(1900)*
+* Pedro *(1227)* `0   -   1` **Milton *(1900)***
 
- **>** 
+**>** [Link](https://www.lichess.org/H4MP7ROS), *D00 - Queen's Pawn Game*.
 * Ricardo *(1780)*     -     Marcelo *(2113)*
 
  **>** 
@@ -25,9 +25,9 @@ De folga: Freddy (1886)
 
 #### Blitz:
 
-* Vitor *(1126)*     -     Ribas *(2055)*
+* Vitor *(1126)* `½ - ½` Ribas *(2055)*
 
- **>** 
+**>** [Link](https://www.lichess.org/jCwtl7kN), *B20 - Sicilian Defense: Bowdler Attack*.
 * Júlio *(1453)*     -     Diogo *(1455)*
 
  **>** 
