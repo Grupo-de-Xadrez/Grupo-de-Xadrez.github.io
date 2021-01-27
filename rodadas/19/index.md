@@ -8,7 +8,7 @@
 * Júlio *(1677)*     -     Felipe *(1552)*
 
  **>** 
-* Milton *(1900)*     -     Freddy *(1886)*
+* Milton *(1901)*     -     Freddy *(1886)*
 
  **>** 
 * Ricardo *(1780)*     -     Renato *(1245)*
