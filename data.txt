@@ -79,10 +79,10 @@ F,C=zjBo3xbv,YLnhheQG
 D,E=sZT5rfu1,LqcS00rX
 
 r:
-L,A=H4MP7ROS,
+L,A=,
 M,K=,
 I,G=rxcxV1No,XIfFoMyW
-H,F=,
+H,F=H4MP7ROS,
 E,B=,
 D,C=,
 
