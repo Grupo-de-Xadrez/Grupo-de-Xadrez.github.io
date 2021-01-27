@@ -25,7 +25,7 @@ De folga: Léo (1927)
 
 #### Blitz:
 
-* **Freddy *(1793)*** `1   -   0`  Vitor *(1121)*
+* **Freddy *(1793)*** `1   -   0`  Vitor *(1127)*
 
 **>** [Link](https://www.lichess.org/2NkAyca4), *D20 - Queen's Gambit Accepted: Old Variation*.
 * Renato *(959)* `0   -   1` **Júlio *(1453)***
