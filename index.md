@@ -8,11 +8,11 @@
 * FRE: **Freddy**, a.k.a. [@PlixMax](https://www.lichess.org/@/PlixMax) *(Rapid: 1886, Blitz: 1793)*
 * JUL: **Júlio**, a.k.a. [@juliopinheiro](https://www.lichess.org/@/juliopinheiro) *(Rapid: 1677, Blitz: 1453)*
 * LEO: **Léo**, a.k.a. [@killer9](https://www.lichess.org/@/killer9) *(Rapid: 1927, Blitz: 1856)*
-* MAR: **Marcelo**, a.k.a. [@mkvieira](https://www.lichess.org/@/mkvieira) *(Rapid: 2149, Blitz: 1798)*
+* MAR: **Marcelo**, a.k.a. [@mkvieira](https://www.lichess.org/@/mkvieira) *(Rapid: 2149, Blitz: 1602)*
 * MIL: **Milton**, a.k.a. [@milton1960](https://www.lichess.org/@/milton1960) *(Rapid: 1901, Blitz: 1500)*
 * PED: **Pedro**, a.k.a. [@Phoenix20201](https://www.lichess.org/@/Phoenix20201) *(Rapid: 1227, Blitz: 1368)*
 * REN: **Renato**, a.k.a. [@Padilha20](https://www.lichess.org/@/Padilha20) *(Rapid: 1245, Blitz: 959)*
-* RIC: **Ricardo**, a.k.a. [@r-k-k](https://www.lichess.org/@/r-k-k) *(Rapid: 1771, Blitz: 1582)*
+* RIC: **Ricardo**, a.k.a. [@r-k-k](https://www.lichess.org/@/r-k-k) *(Rapid: 1771, Blitz: 1625)*
 * RIB: **Ribas**, a.k.a. [@Rpribas](https://www.lichess.org/@/Rpribas) *(Rapid: 1623, Blitz: 2055)*
 * VIT: **Vitor**, a.k.a. [@VitorStahlhoefer](https://www.lichess.org/@/VitorStahlhoefer) *(Rapid: 1302, Blitz: 1127)*
 
@@ -51,9 +51,9 @@
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1 | Léo (1856) | 4 | 4 | 2 | 4 |
-| 1 | Marcelo (1798) | 4 | 4 | 2 | 4 |
+| 1 | Marcelo (1602) | 4 | 4 | 2 | 4 |
 | 3 | Júlio (1453) | 4 | 5 | 2 | 4 |
-| 4 | Ricardo (1582) | 3 | 3 | 2 | 3 |
+| 4 | Ricardo (1625) | 3 | 3 | 2 | 3 |
 | 5 | Ribas (2055) | 2½ | 5 | 3 | 2 |
 | 6 | Felipe (1378) | 2 | 4 | 1 | 2 |
 | 6 | Freddy (1793) | 2 | 4 | 1 | 2 |

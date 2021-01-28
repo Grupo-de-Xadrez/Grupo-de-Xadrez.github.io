@@ -34,13 +34,13 @@ De folga: Léo (1927)
 * Pedro *(1368)* `0   -   1` **Ribas *(2055)***
 
 **>** [Link](https://www.lichess.org/XPb1HyYk), *D00 - Queen's Pawn Game*.
-* **Marcelo *(1798)*** `1   -   0`  Diogo *(1455)*
+* **Marcelo *(1602)*** `1   -   0`  Diogo *(1455)*
 
 **>** [Link](https://www.lichess.org/5TFXe391), *C16 - French Defense: Winawer Variation, Advance Variation*.
 * Alexandre *(1197)* `0   -   1` **Felipe *(1378)***
 
 **>** [Link](https://www.lichess.org/Ph54JBSv), *D00 - Queen's Pawn Game*.
-* Milton *(1500)* `0   -   1` **Ricardo *(1582)***
+* Milton *(1500)* `0   -   1` **Ricardo *(1625)***
 
 **>** [Link](https://www.lichess.org/fWgQh4gz), *C23 - Bishop's Opening*.
 

@@ -28,7 +28,7 @@ De folga: Milton (1901)
 * Vitor *(1127)*     -     Felipe *(1378)*
 
  **>** 
-* Diogo *(1455)*     -     Ricardo *(1582)*
+* Diogo *(1455)*     -     Ricardo *(1625)*
 
  **>** 
 * Ribas *(2055)*     -     Alexandre *(1197)*
@@ -37,7 +37,7 @@ De folga: Milton (1901)
 * Léo *(1856)*     -     Júlio *(1453)*
 
  **>** 
-* Freddy *(1793)*     -     Marcelo *(1798)*
+* Freddy *(1793)*     -     Marcelo *(1602)*
 
  **>** 
 * Renato *(959)*     -     Pedro *(1368)*

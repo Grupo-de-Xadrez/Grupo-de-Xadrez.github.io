@@ -28,10 +28,10 @@ De folga: Júlio (1677)
 * Vitor *(1127)*     -     Léo *(1856)*
 
  **>** 
-* Alexandre *(1197)*     -     Marcelo *(1798)*
+* Alexandre *(1197)*     -     Marcelo *(1602)*
 
  **>** 
-* Pedro *(1368)*     -     Ricardo *(1582)*
+* Pedro *(1368)*     -     Ricardo *(1625)*
 
  **>** 
 * Milton *(1500)*     -     Renato *(959)*
