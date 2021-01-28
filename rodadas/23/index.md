@@ -37,7 +37,7 @@ De folga: Marcelo (2149)
 * Diogo *(1455)*     -     Pedro *(1367)*
 
  **>** 
-* Ribas *(2055)*     -     Renato *(959)*
+* Ribas *(2055)*     -     Renato *(947)*
 
  **>** 
 * Freddy *(1793)*     -     Júlio *(1453)*
