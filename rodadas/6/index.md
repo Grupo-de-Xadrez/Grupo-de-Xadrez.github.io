@@ -14,7 +14,7 @@
 * Renato *(1245)*     -     Ricardo *(1771)*
 
  **>** 
-* Pedro *(1227)*     -     Alexandre *(1155)*
+* Pedro *(1234)*     -     Alexandre *(1155)*
 
  **>** 
 * Léo *(1927)*     -     Marcelo *(2149)*
