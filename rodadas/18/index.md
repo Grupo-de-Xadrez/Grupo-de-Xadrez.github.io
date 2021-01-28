@@ -14,7 +14,7 @@
 * Milton *(1901)*     -     Pedro *(1227)*
 
  **>** 
-* Marcelo *(2113)*     -     Ricardo *(1780)*
+* Marcelo *(2149)*     -     Ricardo *(1771)*
 
  **>** 
 * Léo *(1927)*     -     Alexandre *(1155)*

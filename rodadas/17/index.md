@@ -11,13 +11,13 @@
 * Diogo *(1237)*     -     Renato *(1245)*
 
  **>** 
-* Felipe *(1552)*     -     Marcelo *(2113)*
+* Felipe *(1552)*     -     Marcelo *(2149)*
 
  **>** 
 * Léo *(1927)*     -     Milton *(1901)*
 
  **>** 
-* Ricardo *(1780)*     -     Alexandre *(1155)*
+* Ricardo *(1771)*     -     Alexandre *(1155)*
 
  **>** 
 

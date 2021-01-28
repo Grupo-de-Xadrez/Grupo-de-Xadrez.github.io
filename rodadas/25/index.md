@@ -5,10 +5,10 @@
 * Léo *(1927)*     -     Vitor *(1302)*
 
  **>** 
-* Marcelo *(2113)*     -     Alexandre *(1155)*
+* Marcelo *(2149)*     -     Alexandre *(1155)*
 
  **>** 
-* Ricardo *(1780)*     -     Pedro *(1227)*
+* Ricardo *(1771)*     -     Pedro *(1227)*
 
  **>** 
 * Renato *(1245)*     -     Milton *(1901)*

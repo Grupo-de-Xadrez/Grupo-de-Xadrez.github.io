@@ -5,7 +5,7 @@
 * Pedro *(1227)* `0   -   1` **Vitor *(1302)***
 
 **>** [Link](https://www.lichess.org/V2sxuQDq), *D00 - Queen's Pawn Game*.
-* Renato *(1245)* `0   -   1` **Marcelo *(2113)***
+* Renato *(1245)* `0   -   1` **Marcelo *(2149)***
 
 **>** [Link](https://www.lichess.org/88IwjQLc), *D00 - Queen's Pawn Game: Mason Attack*.
 * Freddy *(1886)* `0   -   1` **Léo *(1927)***
@@ -14,7 +14,7 @@
 * **Júlio *(1677)*** `1   -   0`  Alexandre *(1155)*
 
 **>** [Link](https://www.lichess.org/SMPemRrp), *D00 - Queen's Pawn Game: Mason Variation*.
-* Ricardo *(1780)* `½ - ½` Ribas *(1623)*
+* Ricardo *(1771)* `½ - ½` Ribas *(1623)*
 
 **>** [Link](https://www.lichess.org/LTYw2mFX), *B23 - Sicilian Defense: Closed, Traditional*.
 * **Milton *(1901)*** `1   -   0`  Diogo *(1237)*

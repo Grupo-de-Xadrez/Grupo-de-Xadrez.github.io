@@ -8,7 +8,7 @@
 * Ribas *(1623)*     -     Milton *(1901)*
 
  **>** 
-* Júlio *(1677)*     -     Ricardo *(1780)*
+* Júlio *(1677)*     -     Ricardo *(1771)*
 
  **>** 
 * Freddy *(1886)*     -     Alexandre *(1155)*
@@ -17,7 +17,7 @@
 * Léo *(1927)*     -     Renato *(1245)*
 
  **>** 
-* Marcelo *(2113)*     -     Pedro *(1227)*
+* Marcelo *(2149)*     -     Pedro *(1227)*
 
  **>** 
 

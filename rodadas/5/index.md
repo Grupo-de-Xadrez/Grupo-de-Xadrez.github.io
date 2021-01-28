@@ -14,7 +14,7 @@
 * Pedro *(1227)* `0   -   1` **Milton *(1901)***
 
 **>** [Link](https://www.lichess.org/H4MP7ROS), *D00 - Queen's Pawn Game*.
-* Ricardo *(1780)*     -     Marcelo *(2113)*
+* Ricardo *(1771)*     -     Marcelo *(2149)*
 
  **>** 
 * **Léo *(1927)*** `1   -   0`  Alexandre *(1155)* `INVERTIDO`

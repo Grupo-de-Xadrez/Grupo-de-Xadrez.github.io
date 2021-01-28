@@ -11,13 +11,13 @@
 * Renato *(1245)* `0   -   1` **Diogo *(1237)***
 
 **>** [Link](https://www.lichess.org/7bYFbRah), *D00 - Queen's Pawn Game*.
-* **Marcelo *(2113)*** `1   -   0`  Felipe *(1552)*
+* **Marcelo *(2149)*** `1   -   0`  Felipe *(1552)*
 
 **>** [Link](https://www.lichess.org/dWGd6c2o), *C41 - Philidor Defense*.
 * Milton *(1901)* `0   -   1` **Léo *(1927)***
 
 **>** [Link](https://www.lichess.org/zjBo3xbv), *C00 - French Defense*.
-* Alexandre *(1155)* `0   -   1` **Ricardo *(1780)***
+* Alexandre *(1155)* `0   -   1` **Ricardo *(1771)***
 
 **>** [Link](https://www.lichess.org/sZT5rfu1), *C20 - King's Pawn Game: Leonardis Variation*.
 

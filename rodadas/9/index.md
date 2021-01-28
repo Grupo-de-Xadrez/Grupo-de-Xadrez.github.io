@@ -5,13 +5,13 @@
 * Milton *(1901)*     -     Vitor *(1302)*
 
  **>** 
-* Felipe *(1552)*     -     Ricardo *(1780)*
+* Felipe *(1552)*     -     Ricardo *(1771)*
 
  **>** 
 * Léo *(1927)*     -     Diogo *(1237)*
 
  **>** 
-* Marcelo *(2113)*     -     Ribas *(1623)*
+* Marcelo *(2149)*     -     Ribas *(1623)*
 
  **>** 
 * Júlio *(1677)*     -     Pedro *(1227)*

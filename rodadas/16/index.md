@@ -11,13 +11,13 @@
 * Pedro *(1227)*     -     Ribas *(1623)*
 
  **>** 
-* Marcelo *(2113)*     -     Diogo *(1237)*
+* Marcelo *(2149)*     -     Diogo *(1237)*
 
  **>** 
 * Alexandre *(1155)*     -     Felipe *(1552)*
 
  **>** 
-* Milton *(1901)*     -     Ricardo *(1780)*
+* Milton *(1901)*     -     Ricardo *(1771)*
 
  **>** 
 

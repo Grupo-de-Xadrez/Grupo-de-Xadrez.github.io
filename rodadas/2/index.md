@@ -8,7 +8,7 @@
 * Pedro *(1227)* `0   -   1` **Freddy *(1886)***
 
 **>** [Link](https://www.lichess.org/7lTkPhIV), *D00 - Queen's Pawn Game*.
-* Marcelo *(2113)* `0   -   1` **Júlio *(1677)***
+* Marcelo *(2149)* `0   -   1` **Júlio *(1677)***
 
 **>** [Link](https://www.lichess.org/t9BXx170), *C55 - Italian Game: Two Knights Defense, Modern Bishop's Opening*.
 * **Léo *(1927)*** `1   -   0`  Ribas *(1623)*
@@ -21,7 +21,7 @@
 
 **>** [Link](https://www.lichess.org/dVbOLTNR), *C26 - Vienna Game: Stanley Variation*.
 
-De folga: Ricardo (1780)
+De folga: Ricardo (1771)
 
 #### Blitz:
 
