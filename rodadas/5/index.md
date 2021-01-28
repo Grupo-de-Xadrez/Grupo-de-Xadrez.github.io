@@ -17,9 +17,9 @@
 * Ricardo *(1780)*     -     Marcelo *(2113)*
 
  **>** 
-* Alexandre *(1155)*     -     Léo *(1927)*
+* **Léo *(1927)*** `1   -   0`  Alexandre *(1155)* `INVERTIDO`
 
- **>** 
+**>** [Link](https://www.lichess.org/VxQwOEXu), *C41 - Philidor Defense*.
 
 De folga: Freddy (1886)
 
@@ -40,9 +40,9 @@ De folga: Freddy (1886)
 * Marcelo *(1798)*     -     Ricardo *(1582)*
 
  **>** 
-* Léo *(1856)*     -     Alexandre *(1197)*
+* Alexandre *(1197)* `0   -   1` **Léo *(1856)*** `INVERTIDO`
 
- **>** 
+**>** [Link](https://www.lichess.org/Pb9aW9HI), *C00 - French Defense: Schlechter Variation*.
 
 De folga: Freddy (1793)
 
