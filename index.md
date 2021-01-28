@@ -10,7 +10,7 @@
 * LEO: **Léo**, a.k.a. [@killer9](https://www.lichess.org/@/killer9) *(Rapid: 1927, Blitz: 1856)*
 * MAR: **Marcelo**, a.k.a. [@mkvieira](https://www.lichess.org/@/mkvieira) *(Rapid: 2149, Blitz: 1602)*
 * MIL: **Milton**, a.k.a. [@milton1960](https://www.lichess.org/@/milton1960) *(Rapid: 1901, Blitz: 1500)*
-* PED: **Pedro**, a.k.a. [@Phoenix20201](https://www.lichess.org/@/Phoenix20201) *(Rapid: 1227, Blitz: 1344)*
+* PED: **Pedro**, a.k.a. [@Phoenix20201](https://www.lichess.org/@/Phoenix20201) *(Rapid: 1227, Blitz: 1296)*
 * REN: **Renato**, a.k.a. [@Padilha20](https://www.lichess.org/@/Padilha20) *(Rapid: 1245, Blitz: 955)*
 * RIC: **Ricardo**, a.k.a. [@r-k-k](https://www.lichess.org/@/r-k-k) *(Rapid: 1771, Blitz: 1625)*
 * RIB: **Ribas**, a.k.a. [@Rpribas](https://www.lichess.org/@/Rpribas) *(Rapid: 1623, Blitz: 2055)*
@@ -59,7 +59,7 @@
 | 6 | Freddy (1793) | 2 | 4 | 1 | 2 |
 | 8 | Vitor (1127) | 1½ | 5 | 3 | 1 |
 | 9 | Diogo (1455) | 1½ | 5 | 2 | 1 |
-| 10 | Pedro (1344) | 1 | 3 | 1 | 1 |
+| 10 | Pedro (1296) | 1 | 3 | 1 | 1 |
 | 11 | Milton (1500) | 1 | 4 | 3 | 1 |
 | 12 | Renato (955) | 1 | 5 | 4 | 1 |
 | 13 | Alexandre (1197) | 0½ | 5 | 2 | 0 |
