@@ -28,7 +28,7 @@ De folga: Ricardo (1771)
 * **Vitor *(1127)*** `1   -   0`  Renato *(955)* `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/8D1HswlL), *C20 - Center Game*.
-* **Freddy *(1793)*** `1   -   0`  Pedro *(1296)*
+* **Freddy *(1793)*** `1   -   0`  Pedro *(1251)*
 
 **>** [Link](https://www.lichess.org/3GCiQUZb), *D20 - Queen's Gambit Accepted: Old Variation*.
 * Júlio *(1453)* `0   -   1` **Marcelo *(1602)***
