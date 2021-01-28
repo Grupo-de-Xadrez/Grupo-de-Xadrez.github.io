@@ -18,11 +18,11 @@
 
 ## Rodadas:
 
-* [Rodada atual](https://grupo-de-xadrez.github.io/rodadas/5)
+* [Rodada atual](https://grupo-de-xadrez.github.io/rodadas/6)
 
-* [Rodada anterior](https://grupo-de-xadrez.github.io/rodadas/4)
+* [Rodada anterior](https://grupo-de-xadrez.github.io/rodadas/5)
 
-* [Rodada seguinte](https://grupo-de-xadrez.github.io/rodadas/6)
+* [Rodada seguinte](https://grupo-de-xadrez.github.io/rodadas/7)
 
 * [Lista completa](https://grupo-de-xadrez.github.io/rodadas)
 
@@ -57,10 +57,10 @@
 | 5 | Ribas (2055) | 2½ | 5 | 3 | 2 |
 | 6 | Felipe (1378) | 2 | 4 | 1 | 2 |
 | 6 | Freddy (1793) | 2 | 4 | 1 | 2 |
-| 8 | Vitor (1148) | 1½ | 5 | 3 | 1 |
-| 9 | Diogo (1455) | 1½ | 5 | 2 | 1 |
-| 10 | Pedro (1251) | 1 | 3 | 1 | 1 |
-| 11 | Milton (1500) | 1 | 4 | 3 | 1 |
+| 8 | Milton (1500) | 2 | 5 | 3 | 2 |
+| 9 | Vitor (1148) | 1½ | 5 | 3 | 1 |
+| 10 | Diogo (1455) | 1½ | 5 | 2 | 1 |
+| 11 | Pedro (1251) | 1 | 4 | 2 | 1 |
 | 12 | Renato (961) | 1 | 5 | 4 | 1 |
 | 13 | Alexandre (1197) | 0½ | 5 | 2 | 0 |
 
@@ -86,19 +86,19 @@
 
 #### Blitz:
 
-| | RIC | LEO | JUL | MAR | RIB | FEL | FRE | VIT | DIO | PED | MIL | REN | ALE |
+| | RIC | LEO | JUL | MAR | RIB | FEL | FRE | MIL | VIT | DIO | PED | REN | ALE |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **RIC** | :::::::: |  |  |  |  |  |  |  |  |  |  |  | 1 |
-| **LEO** |  | :::::::: |  |  |  |  | 1 |  |  |  | 1 |  |  |
-| **JUL** |  |  | :::::::: | 0 |  |  |  | 1 | 1 |  |  |  |  |
-| **MAR** | 0 |  |  | :::::::: |  |  |  |  | 1 |  |  | 1 |  |
+| **LEO** |  | :::::::: |  |  |  |  | 1 | 1 |  |  |  |  |  |
+| **JUL** |  |  | :::::::: | 0 |  |  |  |  | 1 | 1 |  |  |  |
+| **MAR** | 0 |  |  | :::::::: |  |  |  |  |  | 1 |  | 1 |  |
 | **RIB** | 0 | 0 |  |  | :::::::: |  |  |  |  |  |  |  |  |
-| **FEL** |  |  |  | 0 |  | :::::::: |  |  |  |  | 0 | 1 |  |
-| **FRE** |  |  |  |  | 0 |  | :::::::: | 1 |  | 1 |  |  |  |
-| **VIT** |  |  |  |  | ½ |  |  | :::::::: |  |  |  |  |  |
-| **DIO** |  |  |  |  |  |  |  |  | :::::::: |  | 1 | 0 | ½ |
-| **PED** |  |  |  |  | 0 |  |  |  |  | :::::::: |  |  |  |
-| **MIL** | 0 |  |  |  |  |  |  |  |  |  | :::::::: |  |  |
+| **FEL** |  |  |  | 0 |  | :::::::: |  | 0 |  |  |  | 1 |  |
+| **FRE** |  |  |  |  | 0 |  | :::::::: |  | 1 |  | 1 |  |  |
+| **MIL** | 0 |  |  |  |  |  |  | :::::::: |  |  | 1 |  |  |
+| **VIT** |  |  |  |  | ½ |  |  |  | :::::::: |  |  |  |  |
+| **DIO** |  |  |  |  |  |  |  | 1 |  | :::::::: |  | 0 | ½ |
+| **PED** |  |  |  |  | 0 |  |  |  |  |  | :::::::: |  |  |
 | **REN** |  |  | 0 |  |  |  |  |  |  |  |  | :::::::: |  |
 | **ALE** |  |  | 0 |  |  | 0 |  |  |  |  |  |  | :::::::: |
 
