@@ -44,5 +44,5 @@ De folga: Pedro (1227)
 
  **>** 
 
-De folga: Pedro (1317)
+De folga: Pedro (1367)
 
