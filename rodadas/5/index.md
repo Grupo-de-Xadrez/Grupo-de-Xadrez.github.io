@@ -14,9 +14,9 @@
 * Pedro *(1227)* `0   -   1` **Milton *(1901)***
 
 **>** [Link](https://www.lichess.org/H4MP7ROS), *D00 - Queen's Pawn Game*.
-* Ricardo *(1771)*     -     Marcelo *(2149)*
+* Ricardo *(1771)* `0   -   1` **Marcelo *(2149)***
 
- **>** 
+**>** [Link](https://www.lichess.org/T4cMwFqJ), *B40 - Sicilian Defense: French Variation*.
 * **Léo *(1927)*** `1   -   0`  Alexandre *(1155)* `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/VxQwOEXu), *C41 - Philidor Defense*.
@@ -37,9 +37,9 @@ De folga: Freddy (1886)
 * Milton *(1500)*     -     Pedro *(1368)*
 
  **>** 
-* Marcelo *(1602)*     -     Ricardo *(1625)*
+* Marcelo *(1602)* `0   -   1` **Ricardo *(1625)***
 
- **>** 
+**>** [Link](https://www.lichess.org/U1pZa3C0), *C62 - Ruy Lopez: Steinitz Defense*.
 * Alexandre *(1197)* `0   -   1` **Léo *(1856)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/Pb9aW9HI), *C00 - French Defense: Schlechter Variation*.
