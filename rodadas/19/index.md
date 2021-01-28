@@ -25,7 +25,7 @@ De folga: Ribas (1623)
 
 #### Blitz:
 
-* Diogo *(1455)*     -     Vitor *(1133)*
+* Diogo *(1455)*     -     Vitor *(1137)*
 
  **>** 
 * Felipe *(1378)*     -     Júlio *(1453)*
