@@ -37,7 +37,7 @@ De folga: Ribas (1623)
 * Renato *(955)*     -     Ricardo *(1625)*
 
  **>** 
-* Pedro *(1367)*     -     Alexandre *(1197)*
+* Pedro *(1344)*     -     Alexandre *(1197)*
 
  **>** 
 * Léo *(1856)*     -     Marcelo *(1602)*
