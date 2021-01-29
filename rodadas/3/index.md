@@ -17,7 +17,7 @@
 * **Felipe *(1552)*** `1   -   0`  Alexandre *(1155)*
 
 **>** [Link](https://www.lichess.org/AjfNFS7V), *C23 - Bishop's Opening*.
-* **Ricardo *(1771)*** `1   -   0`  Milton *(1894)*
+* **Ricardo *(1771)*** `1   -   0`  Milton *(1889)*
 
 **>** [Link](https://www.lichess.org/ONIds6vg), *B30 - Sicilian Defense: Old Sicilian*.
 
