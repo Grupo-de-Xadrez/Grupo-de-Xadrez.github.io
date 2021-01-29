@@ -21,7 +21,7 @@
 
  **>** 
 
-De folga: Milton (1892)
+De folga: Milton (1894)
 
 #### Blitz:
 
