@@ -17,7 +17,7 @@
 * Alexandre *(1155)* `½ - ½` Diogo *(1237)*
 
 **>** [Link](https://www.lichess.org/H9GhqhfH), *D00 - Queen's Pawn Game*.
-* Milton *(1889)* `0   -   1` **Felipe *(1552)***
+* Milton *(1891)* `0   -   1` **Felipe *(1552)***
 
 **>** [Link](https://www.lichess.org/dVbOLTNR), *C26 - Vienna Game: Stanley Variation*.
 
