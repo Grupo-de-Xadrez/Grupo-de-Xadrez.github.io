@@ -11,7 +11,7 @@
 * Felipe *(1552)*     -     Renato *(1245)*
 
  **>** 
-* Milton *(1891)*     -     Pedro *(1234)*
+* Milton *(1885)*     -     Pedro *(1234)*
 
  **>** 
 * Marcelo *(2149)*     -     Ricardo *(1771)*
