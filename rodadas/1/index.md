@@ -2,13 +2,13 @@
 
 #### Rapid:
 
-* Pedro *(1234)* `0   -   1` **Vitor *(1302)***
+* Pedro *(1218)* `0   -   1` **Vitor *(1310)***
 
 **>** [Link](https://www.lichess.org/V2sxuQDq), *D00 - Queen's Pawn Game*.
-* Renato *(1245)* `0   -   1` **Marcelo *(2149)***
+* Renato *(1245)* `0   -   1` **Marcelo *(2094)***
 
 **>** [Link](https://www.lichess.org/88IwjQLc), *D00 - Queen's Pawn Game: Mason Attack*.
-* Freddy *(1886)* `0   -   1` **Léo *(1927)***
+* Freddy *(1875)* `0   -   1` **Léo *(1933)***
 
 **>** [Link](https://www.lichess.org/jErAgptw), *A84 - Dutch Defense: Classical Variation*.
 * **Júlio *(1677)*** `1   -   0`  Alexandre *(1155)*
@@ -17,7 +17,7 @@
 * Ricardo *(1771)* `½ - ½` Ribas *(1623)*
 
 **>** [Link](https://www.lichess.org/LTYw2mFX), *B23 - Sicilian Defense: Closed, Traditional*.
-* **Milton *(1885)*** `1   -   0`  Diogo *(1237)*
+* **Milton *(1892)*** `1   -   0`  Diogo *(1237)*
 
 **>** [Link](https://www.lichess.org/Q7BaIb8v), *C26 - Vienna Game: Stanley Variation*.
 
@@ -25,22 +25,22 @@ De folga: Felipe (1552)
 
 #### Blitz:
 
-* **Pedro *(1251)*** `1   -   0`  Vitor *(1148)* `INVERTIDO`
+* **Pedro *(1251)*** `1   -   0`  Vitor *(1154)* `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/Z4XgGxLN), *D00 - Queen's Pawn Game*.
-* **Marcelo *(1602)*** `1   -   0`  Renato *(947)*
+* **Marcelo *(1560)*** `1   -   0`  Renato *(961)*
 
 **>** [Link](https://www.lichess.org/9SCbnWsf), *D00 - Queen's Pawn Game: Chigorin Variation*.
-* **Léo *(1856)*** `1   -   0`  Freddy *(1793)*
+* **Léo *(1861)*** `1   -   0`  Freddy *(1795)*
 
 **>** [Link](https://www.lichess.org/EdwQe0e0), *A45 - Trompowsky Attack*.
-* Alexandre *(1197)* `0   -   1` **Júlio *(1453)***
+* Alexandre *(1197)* `0   -   1` **Júlio *(1464)***
 
 **>** [Link](https://www.lichess.org/r9QMmITh), *D00 - Queen's Pawn Game*.
 * Ribas *(2055)* `0   -   1` **Ricardo *(1625)***
 
 **>** [Link](https://www.lichess.org/ocUpBa5T), *C34 - King's Gambit Accepted: Becker Defense*.
-* **Diogo *(1455)*** `1   -   0`  Milton *(1500)*
+* **Diogo *(1455)*** `1   -   0`  Milton *(1788)*
 
 **>** [Link](https://www.lichess.org/9E2gILyV), *D04 - Queen's Pawn Game: Colle System*.
 

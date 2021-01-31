@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* **Ribas *(1623)*** `1   -   0`  Vitor *(1302)*
+* **Ribas *(1623)*** `1   -   0`  Vitor *(1310)*
 
 **>** [Link](https://www.lichess.org/uUGYj33X), *D20 - Queen's Gambit Accepted*.
 * Diogo *(1237)* `0   -   1` **Júlio *(1677)***
@@ -11,38 +11,38 @@
 * Renato *(1245)* `0   -   1` **Felipe *(1552)***
 
 **>** [Link](https://www.lichess.org/rxcxV1No), *C41 - Philidor Defense*.
-* Pedro *(1234)* `0   -   1` **Milton *(1885)***
+* Pedro *(1218)* `0   -   1` **Milton *(1892)***
 
 **>** [Link](https://www.lichess.org/H4MP7ROS), *D00 - Queen's Pawn Game*.
-* Ricardo *(1771)* `0   -   1` **Marcelo *(2149)***
+* Ricardo *(1771)* `0   -   1` **Marcelo *(2094)***
 
 **>** [Link](https://www.lichess.org/T4cMwFqJ), *B40 - Sicilian Defense: French Variation*.
-* **Léo *(1927)*** `1   -   0`  Alexandre *(1155)* `INVERTIDO`
+* **Léo *(1933)*** `1   -   0`  Alexandre *(1155)* `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/VxQwOEXu), *C41 - Philidor Defense*.
 
-De folga: Freddy (1886)
+De folga: Freddy (1875)
 
 #### Blitz:
 
-* Vitor *(1148)* `½ - ½` Ribas *(2055)*
+* Vitor *(1154)* `½ - ½` Ribas *(2055)*
 
 **>** [Link](https://www.lichess.org/jCwtl7kN), *B20 - Sicilian Defense: Bowdler Attack*.
-* **Júlio *(1453)*** `1   -   0`  Diogo *(1455)*
+* **Júlio *(1464)*** `1   -   0`  Diogo *(1455)*
 
 **>** [Link](https://www.lichess.org/USQgItX9), *A40 - Horwitz Defense*.
-* **Felipe *(1378)*** `1   -   0`  Renato *(947)*
+* **Felipe *(1378)*** `1   -   0`  Renato *(961)*
 
 **>** [Link](https://www.lichess.org/XIfFoMyW), *C23 - Bishop's Opening*.
-* **Milton *(1500)*** `1   -   0`  Pedro *(1251)*
+* **Milton *(1788)*** `1   -   0`  Pedro *(1251)*
 
 **>** [Link](https://www.lichess.org/Piatvx1D), *C23 - Bishop's Opening*.
-* Marcelo *(1602)* `0   -   1` **Ricardo *(1625)***
+* Marcelo *(1560)* `0   -   1` **Ricardo *(1625)***
 
 **>** [Link](https://www.lichess.org/U1pZa3C0), *C62 - Ruy Lopez: Steinitz Defense*.
-* Alexandre *(1197)* `0   -   1` **Léo *(1856)*** `INVERTIDO`
+* Alexandre *(1197)* `0   -   1` **Léo *(1861)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/Pb9aW9HI), *C00 - French Defense: Schlechter Variation*.
 
-De folga: Freddy (1793)
+De folga: Freddy (1795)
 
