@@ -88,11 +88,11 @@ D,C=VxQwOEXu,Pb9aW9HI
 
 r:
 M,A=,
-G,K=,
-J,F=,
-I,E=,
-H,D=,
-C,B=,
+G,K=UPHBOLK8,Hd2EH2bV
+J,F=DnGe3nKh,kntzkFHk
+I,E=1Wnoetil,W6qYlQxP
+H,D=uq0GqkcY,dRK4gyy6
+C,B=yah6Ermu,Ay7CPkyi
 
 r:
 M,G=,
