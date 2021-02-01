@@ -37,7 +37,7 @@ De folga: Pedro (1213)
 * Marcelo *(1560)*     -     Felipe *(1378)*
 
  **>** 
-* Milton *(1745)*     -     Léo *(1861)*
+* Milton *(1749)*     -     Léo *(1861)*
 
  **>** 
 * Alexandre *(1197)*     -     Ricardo *(1625)*

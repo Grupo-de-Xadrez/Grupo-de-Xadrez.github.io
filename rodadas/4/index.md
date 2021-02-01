@@ -37,7 +37,7 @@ De folga: Pedro (1213)
 * Felipe *(1378)* `0   -   1` **Marcelo *(1560)***
 
 **>** [Link](https://www.lichess.org/wULx6CqR), *C02 - French Defense: Advance Variation*.
-* **Léo *(1861)*** `1   -   0`  Milton *(1745)*
+* **Léo *(1861)*** `1   -   0`  Milton *(1749)*
 
 **>** [Link](https://www.lichess.org/YLnhheQG), *A20 - English Opening: King's English Variation*.
 * **Ricardo *(1625)*** `1   -   0`  Alexandre *(1197)*
