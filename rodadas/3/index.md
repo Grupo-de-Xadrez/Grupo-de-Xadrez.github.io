@@ -2,13 +2,13 @@
 
 #### Rapid:
 
-* Vitor *(1310)* `0   -   1` **Freddy *(1875)***
+* Vitor *(1324)* `0   -   1` **Freddy *(1875)***
 
 **>** [Link](https://www.lichess.org/mPoMdB5X), *C00 - French Defense: Queen's Knight*.
 * **Júlio *(1677)*** `1   -   0`  Renato *(1245)*
 
 **>** [Link](https://www.lichess.org/UoTKilWT), *D00 - Queen's Pawn Game: Mason Variation*.
-* **Ribas *(1623)*** `1   -   0`  Pedro *(1208)*
+* **Ribas *(1623)*** `1   -   0`  Pedro *(1190)*
 
 **>** [Link](https://www.lichess.org/rwRiLi0u), *C30 - King's Gambit*.
 * Diogo *(1237)* `0   -   1` **Marcelo *(2094)***
@@ -25,10 +25,10 @@ De folga: Léo (1933)
 
 #### Blitz:
 
-* **Freddy *(1795)*** `1   -   0`  Vitor *(1143)*
+* **Freddy *(1795)*** `1   -   0`  Vitor *(1127)*
 
 **>** [Link](https://www.lichess.org/2NkAyca4), *D20 - Queen's Gambit Accepted: Old Variation*.
-* Renato *(938)* `0   -   1` **Júlio *(1464)***
+* Renato *(941)* `0   -   1` **Júlio *(1464)***
 
 **>** [Link](https://www.lichess.org/sGYNFcf4), *D00 - Queen's Pawn Game*.
 * Pedro *(1251)* `0   -   1` **Ribas *(2055)***
@@ -40,7 +40,7 @@ De folga: Léo (1933)
 * Alexandre *(1197)* `0   -   1` **Felipe *(1378)***
 
 **>** [Link](https://www.lichess.org/Ph54JBSv), *D00 - Queen's Pawn Game*.
-* Milton *(1749)* `0   -   1` **Ricardo *(1625)***
+* Milton *(1751)* `0   -   1` **Ricardo *(1625)***
 
 **>** [Link](https://www.lichess.org/fWgQh4gz), *C23 - Bishop's Opening*.
 

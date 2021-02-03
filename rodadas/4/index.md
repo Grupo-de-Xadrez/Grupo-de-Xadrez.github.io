@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* Vitor *(1310)* `½ - ½` Júlio *(1677)*
+* Vitor *(1324)* `½ - ½` Júlio *(1677)*
 
 **>** [Link](https://www.lichess.org/cNEagLGV), *C46 - Four Knights Game*.
 * Ribas *(1623)* `0   -   1` **Freddy *(1875)***
@@ -21,23 +21,23 @@
 
 **>** [Link](https://www.lichess.org/sZT5rfu1), *C20 - King's Pawn Game: Leonardis Variation*.
 
-De folga: Pedro (1208)
+De folga: Pedro (1190)
 
 #### Blitz:
 
-* **Júlio *(1464)*** `1   -   0`  Vitor *(1143)*
+* **Júlio *(1464)*** `1   -   0`  Vitor *(1127)*
 
 **>** [Link](https://www.lichess.org/IwpZ88MV), *D00 - Queen's Pawn Game: Mason Variation*.
 * Freddy *(1795)* `0   -   1` **Ribas *(2055)***
 
 **>** [Link](https://www.lichess.org/HRkvmdFA), *D06 - Queen's Gambit Declined: Marshall Defense*.
-* Diogo *(1455)* `0   -   1` **Renato *(938)***
+* Diogo *(1455)* `0   -   1` **Renato *(941)***
 
 **>** [Link](https://www.lichess.org/AJWXTn79), *C40 - King's Pawn Game: Damiano Defense*.
 * Felipe *(1378)* `0   -   1` **Marcelo *(1560)***
 
 **>** [Link](https://www.lichess.org/wULx6CqR), *C02 - French Defense: Advance Variation*.
-* **Léo *(1861)*** `1   -   0`  Milton *(1749)*
+* **Léo *(1861)*** `1   -   0`  Milton *(1751)*
 
 **>** [Link](https://www.lichess.org/YLnhheQG), *A20 - English Opening: King's English Variation*.
 * **Ricardo *(1625)*** `1   -   0`  Alexandre *(1197)*
