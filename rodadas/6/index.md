@@ -25,7 +25,7 @@ De folga: Ribas (1623)
 
 #### Blitz:
 
-* **Vitor *(1126)*** `1   -   0`  Diogo *(1455)*
+* **Vitor *(1118)*** `1   -   0`  Diogo *(1455)*
 
 **>** [Link](https://www.lichess.org/wVZwlYka), *C22 - Center Game: Normal Variation*.
 * **Júlio *(1464)*** `1   -   0`  Felipe *(1378)*
