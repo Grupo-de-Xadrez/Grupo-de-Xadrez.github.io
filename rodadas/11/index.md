@@ -11,7 +11,7 @@
 * Milton *(1892)*     -     Marcelo *(2094)*
 
  **>** 
-* Pedro *(1190)*     -     Felipe *(1552)*
+* Pedro *(1194)*     -     Felipe *(1552)*
 
  **>** 
 * Diogo *(1237)*     -     Freddy *(1875)*
