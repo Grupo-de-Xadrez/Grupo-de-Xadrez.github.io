@@ -21,7 +21,7 @@
 
  **>** 
 
-De folga: Pedro (1194)
+De folga: Pedro (1200)
 
 #### Blitz:
 
