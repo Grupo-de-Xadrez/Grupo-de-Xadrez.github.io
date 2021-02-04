@@ -25,7 +25,7 @@ De folga: Ricardo (1771)
 
 #### Blitz:
 
-* **Vitor *(1127)*** `1   -   0`  Renato *(941)* `INVERTIDO`
+* **Vitor *(1128)*** `1   -   0`  Renato *(941)* `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/8D1HswlL), *C20 - Center Game*.
 * **Freddy *(1795)*** `1   -   0`  Pedro *(1251)*
@@ -40,7 +40,7 @@ De folga: Ricardo (1771)
 * Diogo *(1455)* `½ - ½` Alexandre *(1197)*
 
 **>** [Link](https://www.lichess.org/JLLAkhLx), *C41 - Philidor Defense*.
-* Felipe *(1378)* `0   -   1` **Milton *(1719)***
+* Felipe *(1378)* `0   -   1` **Milton *(1726)***
 
 **>** [Link](https://www.lichess.org/DJGNYvmh), *B20 - Sicilian Defense: Bowdler Attack*.
 

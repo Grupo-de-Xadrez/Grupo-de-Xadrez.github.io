@@ -25,13 +25,13 @@ De folga: Ribas (1623)
 
 #### Blitz:
 
-* **Vitor *(1127)*** `1   -   0`  Diogo *(1455)*
+* **Vitor *(1128)*** `1   -   0`  Diogo *(1455)*
 
 **>** [Link](https://www.lichess.org/wVZwlYka), *C22 - Center Game: Normal Variation*.
 * **Júlio *(1464)*** `1   -   0`  Felipe *(1378)*
 
 **>** [Link](https://www.lichess.org/Hd2EH2bV), *D00 - Queen's Pawn Game: Mason Variation*.
-* Milton *(1719)* `0   -   1` **Freddy *(1795)***
+* Milton *(1726)* `0   -   1` **Freddy *(1795)***
 
 **>** [Link](https://www.lichess.org/kntzkFHk), *C00 - French Defense*.
 * **Ricardo *(1625)*** `1   -   0`  Renato *(941)*
