@@ -17,7 +17,7 @@
 * Milton *(1892)* `0   -   1` **Léo *(1933)***
 
 **>** [Link](https://www.lichess.org/zjBo3xbv), *C00 - French Defense*.
-* Alexandre *(1155)* `0   -   1` **Ricardo *(1771)***
+* Alexandre *(1154)* `0   -   1` **Ricardo *(1771)***
 
 **>** [Link](https://www.lichess.org/sZT5rfu1), *C20 - King's Pawn Game: Leonardis Variation*.
 

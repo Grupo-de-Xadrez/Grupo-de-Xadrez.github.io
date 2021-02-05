@@ -5,7 +5,7 @@
 * Ricardo *(1771)*     -     Vitor *(1324)*
 
  **>** 
-* Alexandre *(1155)*     -     Milton *(1892)*
+* Alexandre *(1154)*     -     Milton *(1892)*
 
  **>** 
 * Léo *(1933)*     -     Felipe *(1552)*

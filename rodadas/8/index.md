@@ -8,7 +8,7 @@
 * Ricardo *(1771)*     -     Diogo *(1237)*
 
  **>** 
-* Alexandre *(1155)*     -     Ribas *(1623)*
+* Alexandre *(1154)*     -     Ribas *(1623)*
 
  **>** 
 * Júlio *(1677)*     -     Léo *(1933)*

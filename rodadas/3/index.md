@@ -14,7 +14,7 @@
 * Diogo *(1237)* `0   -   1` **Marcelo *(2094)***
 
 **>** [Link](https://www.lichess.org/iTEYyYuH), *A06 - Zukertort Opening: Tennison Gambit*.
-* **Felipe *(1552)*** `1   -   0`  Alexandre *(1155)*
+* **Felipe *(1552)*** `1   -   0`  Alexandre *(1154)*
 
 **>** [Link](https://www.lichess.org/AjfNFS7V), *C23 - Bishop's Opening*.
 * **Ricardo *(1771)*** `1   -   0`  Milton *(1892)*

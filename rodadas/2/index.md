@@ -14,7 +14,7 @@
 * **Léo *(1933)*** `1   -   0`  Ribas *(1623)*
 
 **>** [Link](https://www.lichess.org/MpK0U206), *D20 - Queen's Gambit Accepted: Accelerated Mannheim Variation*.
-* Alexandre *(1155)* `½ - ½` Diogo *(1237)*
+* Alexandre *(1154)* `½ - ½` Diogo *(1237)*
 
 **>** [Link](https://www.lichess.org/H9GhqhfH), *D00 - Queen's Pawn Game*.
 * Milton *(1892)* `0   -   1` **Felipe *(1552)***

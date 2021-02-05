@@ -14,7 +14,7 @@
 * Ribas *(1623)*     -     Léo *(1933)*
 
  **>** 
-* Diogo *(1237)*     -     Alexandre *(1155)*
+* Diogo *(1237)*     -     Alexandre *(1154)*
 
  **>** 
 * Felipe *(1552)*     -     Milton *(1892)*

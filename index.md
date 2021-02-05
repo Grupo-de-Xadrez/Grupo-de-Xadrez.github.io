@@ -2,7 +2,7 @@
 
 ## Participantes:
 
-* ALE: **Alexandre**, a.k.a. [@AHCA](https://www.lichess.org/@/AHCA) *(Rapid: 1155, Blitz: 1197)*
+* ALE: **Alexandre**, a.k.a. [@AHCA](https://www.lichess.org/@/AHCA) *(Rapid: 1154, Blitz: 1197)*
 * DIO: **Diogo**, a.k.a. [@diogo98](https://www.lichess.org/@/diogo98) *(Rapid: 1237, Blitz: 1455)*
 * FEL: **Felipe**, a.k.a. [@Fgcotta](https://www.lichess.org/@/Fgcotta) *(Rapid: 1552, Blitz: 1378)*
 * FRE: **Freddy**, a.k.a. [@PlixMax](https://www.lichess.org/@/PlixMax) *(Rapid: 1875, Blitz: 1795)*
@@ -41,7 +41,7 @@
 | 7 | Milton (1892) | 3 | 6 | 3 | 3 |
 | 8 | Ribas (1623) | 2½ | 5 | 2 | 2 |
 | 9 | Diogo (1237) | 2½ | 6 | 3 | 2 |
-| 10 | Alexandre (1155) | 1½ | 6 | 4 | 1 |
+| 10 | Alexandre (1154) | 1½ | 6 | 4 | 1 |
 | 10 | Vitor (1324) | 1½ | 6 | 4 | 1 |
 | 12 | Renato (1245) | 1 | 6 | 1 | 1 |
 | 13 | Pedro (1200) | 0 | 5 | 1 | 0 |

@@ -14,7 +14,7 @@
 * Renato *(1245)* `0   -   1` **Ricardo *(1771)***
 
 **>** [Link](https://www.lichess.org/1Wnoetil), *D00 - Queen's Pawn Game*.
-* Pedro *(1200)* `0   -   1` **Alexandre *(1155)***
+* Pedro *(1200)* `0   -   1` **Alexandre *(1154)***
 
 **>** [Link](https://www.lichess.org/uq0GqkcY), *D00 - Queen's Pawn Game*.
 * Léo *(1933)* `½ - ½` Marcelo *(2094)*

@@ -11,7 +11,7 @@
 * Júlio *(1677)*     -     Ricardo *(1771)*
 
  **>** 
-* Freddy *(1875)*     -     Alexandre *(1155)*
+* Freddy *(1875)*     -     Alexandre *(1154)*
 
  **>** 
 * Léo *(1933)*     -     Renato *(1245)*

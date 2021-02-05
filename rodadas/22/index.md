@@ -21,7 +21,7 @@
 
  **>** 
 
-De folga: Alexandre (1155)
+De folga: Alexandre (1154)
 
 #### Blitz:
 

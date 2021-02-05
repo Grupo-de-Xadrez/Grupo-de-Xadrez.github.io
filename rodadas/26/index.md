@@ -8,7 +8,7 @@
 * Pedro *(1200)*     -     Léo *(1933)*
 
  **>** 
-* Alexandre *(1155)*     -     Renato *(1245)*
+* Alexandre *(1154)*     -     Renato *(1245)*
 
  **>** 
 * Freddy *(1875)*     -     Ricardo *(1771)*

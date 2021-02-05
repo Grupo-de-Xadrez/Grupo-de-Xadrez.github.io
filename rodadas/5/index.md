@@ -17,7 +17,7 @@
 * Ricardo *(1771)* `0   -   1` **Marcelo *(2094)***
 
 **>** [Link](https://www.lichess.org/T4cMwFqJ), *B40 - Sicilian Defense: French Variation*.
-* **Léo *(1933)*** `1   -   0`  Alexandre *(1155)* `INVERTIDO`
+* **Léo *(1933)*** `1   -   0`  Alexandre *(1154)* `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/VxQwOEXu), *C41 - Philidor Defense*.
 
