@@ -40,9 +40,9 @@ De folga: Freddy (1875)
 * Ricardo *(1625)*     -     Marcelo *(1560)*
 
  **>** 
-* Alexandre *(1197)*     -     Léo *(1861)*
+* Alexandre *(1183)*     -     Léo *(1861)*
 
  **>** 
 
-De folga: Freddy (1795)
+De folga: Freddy (1796)
 

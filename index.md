@@ -2,10 +2,10 @@
 
 ## Participantes:
 
-* ALE: **Alexandre**, a.k.a. [@AHCA](https://www.lichess.org/@/AHCA) *(Rapid: 1154, Blitz: 1197)*
+* ALE: **Alexandre**, a.k.a. [@AHCA](https://www.lichess.org/@/AHCA) *(Rapid: 1154, Blitz: 1183)*
 * DIO: **Diogo**, a.k.a. [@diogo98](https://www.lichess.org/@/diogo98) *(Rapid: 1237, Blitz: 1455)*
 * FEL: **Felipe**, a.k.a. [@Fgcotta](https://www.lichess.org/@/Fgcotta) *(Rapid: 1552, Blitz: 1378)*
-* FRE: **Freddy**, a.k.a. [@PlixMax](https://www.lichess.org/@/PlixMax) *(Rapid: 1875, Blitz: 1795)*
+* FRE: **Freddy**, a.k.a. [@PlixMax](https://www.lichess.org/@/PlixMax) *(Rapid: 1875, Blitz: 1796)*
 * JUL: **Júlio**, a.k.a. [@juliopinheiro](https://www.lichess.org/@/juliopinheiro) *(Rapid: 1677, Blitz: 1464)*
 * LEO: **Léo**, a.k.a. [@killer9](https://www.lichess.org/@/killer9) *(Rapid: 1933, Blitz: 1861)*
 * MAR: **Marcelo**, a.k.a. [@mkvieira](https://www.lichess.org/@/mkvieira) *(Rapid: 2094, Blitz: 1560)*
@@ -54,7 +54,7 @@
 | 1 | Ricardo (1625) | 5 | 5 | 3 | 5 |
 | 3 | Júlio (1464) | 5 | 6 | 2 | 5 |
 | 4 | Marcelo (1560) | 4 | 6 | 2 | 4 |
-| 5 | Freddy (1795) | 3 | 5 | 2 | 3 |
+| 5 | Freddy (1796) | 3 | 5 | 2 | 3 |
 | 6 | Ribas (2055) | 2½ | 5 | 3 | 2 |
 | 7 | Vitor (1113) | 2½ | 6 | 3 | 2 |
 | 8 | Pedro (1251) | 2 | 5 | 3 | 2 |
@@ -62,7 +62,7 @@
 | 10 | Milton (1731) | 2 | 6 | 3 | 2 |
 | 11 | Diogo (1455) | 1½ | 6 | 3 | 1 |
 | 12 | Renato (941) | 1 | 6 | 5 | 1 |
-| 13 | Alexandre (1197) | 0½ | 6 | 2 | 0 |
+| 13 | Alexandre (1183) | 0½ | 6 | 2 | 0 |
 
 ## Resultados
 

@@ -28,7 +28,7 @@ De folga: Ricardo (1771)
 * Vitor *(1113)*     -     Renato *(941)*
 
  **>** 
-* Pedro *(1251)*     -     Freddy *(1795)*
+* Pedro *(1251)*     -     Freddy *(1796)*
 
  **>** 
 * Marcelo *(1560)*     -     Júlio *(1464)*
@@ -37,7 +37,7 @@ De folga: Ricardo (1771)
 * Léo *(1861)*     -     Ribas *(2055)*
 
  **>** 
-* Alexandre *(1197)*     -     Diogo *(1455)*
+* Alexandre *(1183)*     -     Diogo *(1455)*
 
  **>** 
 * Milton *(1731)*     -     Felipe *(1378)*

@@ -31,13 +31,13 @@ De folga: Milton (1892)
 * Ricardo *(1625)*     -     Diogo *(1455)*
 
  **>** 
-* Alexandre *(1197)*     -     Ribas *(2055)*
+* Alexandre *(1183)*     -     Ribas *(2055)*
 
  **>** 
 * Júlio *(1464)*     -     Léo *(1861)*
 
  **>** 
-* Marcelo *(1560)*     -     Freddy *(1795)*
+* Marcelo *(1560)*     -     Freddy *(1796)*
 
  **>** 
 * Pedro *(1251)*     -     Renato *(941)*

@@ -28,7 +28,7 @@ De folga: Pedro (1200)
 * **Júlio *(1464)*** `1   -   0`  Vitor *(1113)*
 
 **>** [Link](https://www.lichess.org/IwpZ88MV), *D00 - Queen's Pawn Game: Mason Variation*.
-* Freddy *(1795)* `0   -   1` **Ribas *(2055)***
+* Freddy *(1796)* `0   -   1` **Ribas *(2055)***
 
 **>** [Link](https://www.lichess.org/HRkvmdFA), *D06 - Queen's Gambit Declined: Marshall Defense*.
 * Diogo *(1455)* `0   -   1` **Renato *(941)***
@@ -40,7 +40,7 @@ De folga: Pedro (1200)
 * **Léo *(1861)*** `1   -   0`  Milton *(1731)*
 
 **>** [Link](https://www.lichess.org/YLnhheQG), *A20 - English Opening: King's English Variation*.
-* **Ricardo *(1625)*** `1   -   0`  Alexandre *(1197)*
+* **Ricardo *(1625)*** `1   -   0`  Alexandre *(1183)*
 
 **>** [Link](https://www.lichess.org/LqcS00rX), *C41 - Philidor Defense*.
 

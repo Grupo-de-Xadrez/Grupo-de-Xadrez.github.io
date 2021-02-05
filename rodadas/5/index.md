@@ -40,9 +40,9 @@ De folga: Freddy (1875)
 * Marcelo *(1560)* `0   -   1` **Ricardo *(1625)***
 
 **>** [Link](https://www.lichess.org/U1pZa3C0), *C62 - Ruy Lopez: Steinitz Defense*.
-* Alexandre *(1197)* `0   -   1` **Léo *(1861)*** `INVERTIDO`
+* Alexandre *(1183)* `0   -   1` **Léo *(1861)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/Pb9aW9HI), *C00 - French Defense: Schlechter Variation*.
 
-De folga: Freddy (1795)
+De folga: Freddy (1796)
 
