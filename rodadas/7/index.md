@@ -8,41 +8,41 @@
 * Ribas *(1623)* `0   -   1` **Milton *(1892)***
 
 **>** [Link](https://www.lichess.org/4PHI8qN4), *D10 - Slav Defense*.
-* Júlio *(1677)*     -     Ricardo *(1771)*
+* Júlio *(1677)* `½ - ½` Ricardo *(1771)*
 
- **>** 
+**>** [Link](https://www.lichess.org/Tflx76ez), *D00 - Queen's Pawn Game: Mason Variation*.
 * **Freddy *(1875)*** `1   -   0`  Alexandre *(1154)*
 
 **>** [Link](https://www.lichess.org/c4RUGpPR), *D30 - Queen's Gambit Declined*.
-* Léo *(1933)*     -     Renato *(1245)*
+* **Léo *(1933)*** `1   -   0`  Renato *(1236)*
 
- **>** 
-* Marcelo *(2094)*     -     Pedro *(1200)*
+**>** [Link](https://www.lichess.org/qlgtkmyW), *B27 - Sicilian Defense: Jalalabad Variation*.
+* **Marcelo *(2095)*** `1   -   0`  Pedro *(1200)*
 
- **>** 
+**>** [Link](https://www.lichess.org/mvtmGlJJ), *C41 - Philidor Defense*.
 
-De folga: Vitor (1324)
+De folga: Vitor (1320)
 
 #### Blitz:
 
 * **Felipe *(1378)*** `1   -   0`  Diogo *(1455)*
 
 **>** [Link](https://www.lichess.org/K27unGrd), *C23 - Bishop's Opening*.
-* Milton *(1713)* `½ - ½` Ribas *(2055)*
+* Milton *(1707)* `½ - ½` Ribas *(2055)*
 
 **>** [Link](https://www.lichess.org/JY2PY2di), *B20 - Sicilian Defense: Staunton-Cochrane Variation*.
-* Ricardo *(1625)*     -     Júlio *(1464)*
+* Ricardo *(1625)* `0   -   1` **Júlio *(1481)***
 
- **>** 
+**>** [Link](https://www.lichess.org/m0SZj8Sq), *C44 - King's Knight Opening: Normal Variation*.
 * Alexandre *(1183)* `0   -   1` **Freddy *(1796)***
 
 **>** [Link](https://www.lichess.org/BU6Y8gxM), *C00 - French Defense: Schlechter Variation*.
-* Renato *(941)*     -     Léo *(1861)*
+* Renato *(976)* `0   -   1` **Léo *(1861)***
 
- **>** 
-* Pedro *(1251)*     -     Marcelo *(1560)*
+**>** [Link](https://www.lichess.org/Zuj9WuHM), *D00 - Queen's Pawn Game: Mason Attack*.
+* Pedro *(1238)* `0   -   1` **Marcelo *(1590)***
 
- **>** 
+**>** [Link](https://www.lichess.org/LkJD4S6R), *A45 - Indian Game*.
 
-De folga: Vitor (1113)
+De folga: Vitor (1103)
 

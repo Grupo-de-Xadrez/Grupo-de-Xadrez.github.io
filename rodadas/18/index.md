@@ -2,19 +2,19 @@
 
 #### Rapid:
 
-* Vitor *(1324)*     -     Ribas *(1623)*
+* Vitor *(1320)*     -     Ribas *(1623)*
 
  **>** 
 * Júlio *(1677)*     -     Diogo *(1237)*
 
  **>** 
-* Felipe *(1552)*     -     Renato *(1245)*
+* Felipe *(1552)*     -     Renato *(1236)*
 
  **>** 
 * Milton *(1892)*     -     Pedro *(1200)*
 
  **>** 
-* Marcelo *(2094)*     -     Ricardo *(1771)*
+* Marcelo *(2095)*     -     Ricardo *(1771)*
 
  **>** 
 * Léo *(1933)*     -     Alexandre *(1154)*
@@ -25,19 +25,19 @@ De folga: Freddy (1875)
 
 #### Blitz:
 
-* Ribas *(2055)*     -     Vitor *(1113)*
+* Ribas *(2055)*     -     Vitor *(1103)*
 
  **>** 
-* Diogo *(1455)*     -     Júlio *(1464)*
+* Diogo *(1455)*     -     Júlio *(1481)*
 
  **>** 
-* Renato *(941)*     -     Felipe *(1378)*
+* Renato *(976)*     -     Felipe *(1378)*
 
  **>** 
-* Pedro *(1251)*     -     Milton *(1713)*
+* Pedro *(1238)*     -     Milton *(1707)*
 
  **>** 
-* Ricardo *(1625)*     -     Marcelo *(1560)*
+* Ricardo *(1625)*     -     Marcelo *(1590)*
 
  **>** 
 * Alexandre *(1183)*     -     Léo *(1861)*

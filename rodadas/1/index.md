@@ -2,10 +2,10 @@
 
 #### Rapid:
 
-* Pedro *(1200)* `0   -   1` **Vitor *(1324)***
+* Pedro *(1200)* `0   -   1` **Vitor *(1320)***
 
 **>** [Link](https://www.lichess.org/V2sxuQDq), *D00 - Queen's Pawn Game*.
-* Renato *(1245)* `0   -   1` **Marcelo *(2094)***
+* Renato *(1236)* `0   -   1` **Marcelo *(2095)***
 
 **>** [Link](https://www.lichess.org/88IwjQLc), *D00 - Queen's Pawn Game: Mason Attack*.
 * Freddy *(1875)* `0   -   1` **Léo *(1933)***
@@ -25,22 +25,22 @@ De folga: Felipe (1552)
 
 #### Blitz:
 
-* **Pedro *(1251)*** `1   -   0`  Vitor *(1113)* `INVERTIDO`
+* **Pedro *(1238)*** `1   -   0`  Vitor *(1103)* `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/Z4XgGxLN), *D00 - Queen's Pawn Game*.
-* **Marcelo *(1560)*** `1   -   0`  Renato *(941)*
+* **Marcelo *(1590)*** `1   -   0`  Renato *(976)*
 
 **>** [Link](https://www.lichess.org/9SCbnWsf), *D00 - Queen's Pawn Game: Chigorin Variation*.
 * **Léo *(1861)*** `1   -   0`  Freddy *(1796)*
 
 **>** [Link](https://www.lichess.org/EdwQe0e0), *A45 - Trompowsky Attack*.
-* Alexandre *(1183)* `0   -   1` **Júlio *(1464)***
+* Alexandre *(1183)* `0   -   1` **Júlio *(1481)***
 
 **>** [Link](https://www.lichess.org/r9QMmITh), *D00 - Queen's Pawn Game*.
 * Ribas *(2055)* `0   -   1` **Ricardo *(1625)***
 
 **>** [Link](https://www.lichess.org/ocUpBa5T), *C34 - King's Gambit Accepted: Becker Defense*.
-* **Diogo *(1455)*** `1   -   0`  Milton *(1713)*
+* **Diogo *(1455)*** `1   -   0`  Milton *(1707)*
 
 **>** [Link](https://www.lichess.org/9E2gILyV), *D04 - Queen's Pawn Game: Colle System*.
 
