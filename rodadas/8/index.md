@@ -2,9 +2,9 @@
 
 #### Rapid:
 
-* Felipe *(1552)*     -     Vitor *(1320)*
+* **Felipe *(1552)*** `1   -   0`  Vitor *(1320)*
 
- **>** 
+**>** [Link](https://www.lichess.org/il8Y1UYr), *C24 - Bishop's Opening: Berlin Defense*.
 * Ricardo *(1771)*     -     Diogo *(1237)*
 
  **>** 
@@ -25,9 +25,9 @@ De folga: Milton (1892)
 
 #### Blitz:
 
-* Vitor *(1103)*     -     Felipe *(1378)*
+* Vitor *(1103)* `0   -   1` **Felipe *(1378)***
 
- **>** 
+**>** [Link](https://www.lichess.org/PoxhQGHP), *C41 - Philidor Defense: Boden Variation*.
 * Diogo *(1455)*     -     Ricardo *(1625)*
 
  **>** 
@@ -44,5 +44,5 @@ De folga: Milton (1892)
 
  **>** 
 
-De folga: Milton (1699)
+De folga: Milton (1700)
 
