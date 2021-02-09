@@ -25,7 +25,7 @@ De folga: Pedro (1200)
 
 #### Blitz:
 
-* **Júlio *(1481)*** `1   -   0`  Vitor *(1103)*
+* **Júlio *(1481)*** `1   -   0`  Vitor *(1108)*
 
 **>** [Link](https://www.lichess.org/IwpZ88MV), *D00 - Queen's Pawn Game: Mason Variation*.
 * Freddy *(1796)* `0   -   1` **Ribas *(2055)***
@@ -37,7 +37,7 @@ De folga: Pedro (1200)
 * Felipe *(1378)* `0   -   1` **Marcelo *(1590)***
 
 **>** [Link](https://www.lichess.org/wULx6CqR), *C02 - French Defense: Advance Variation*.
-* **Léo *(1861)*** `1   -   0`  Milton *(1698)*
+* **Léo *(1861)*** `1   -   0`  Milton *(1689)*
 
 **>** [Link](https://www.lichess.org/YLnhheQG), *A20 - English Opening: King's English Variation*.
 * **Ricardo *(1625)*** `1   -   0`  Alexandre *(1183)*

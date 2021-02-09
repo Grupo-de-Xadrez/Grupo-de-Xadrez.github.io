@@ -25,7 +25,7 @@ De folga: Felipe (1552)
 
 #### Blitz:
 
-* **Pedro *(1238)*** `1   -   0`  Vitor *(1103)* `INVERTIDO`
+* **Pedro *(1238)*** `1   -   0`  Vitor *(1108)* `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/Z4XgGxLN), *D00 - Queen's Pawn Game*.
 * **Marcelo *(1590)*** `1   -   0`  Renato *(976)*
@@ -40,7 +40,7 @@ De folga: Felipe (1552)
 * Ribas *(2055)* `0   -   1` **Ricardo *(1625)***
 
 **>** [Link](https://www.lichess.org/ocUpBa5T), *C34 - King's Gambit Accepted: Becker Defense*.
-* **Diogo *(1455)*** `1   -   0`  Milton *(1698)*
+* **Diogo *(1455)*** `1   -   0`  Milton *(1689)*
 
 **>** [Link](https://www.lichess.org/9E2gILyV), *D04 - Queen's Pawn Game: Colle System*.
 
