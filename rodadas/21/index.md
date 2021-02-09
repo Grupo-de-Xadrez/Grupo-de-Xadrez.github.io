@@ -34,7 +34,7 @@ De folga: Milton (1892)
 * Alexandre *(1183)*     -     Ribas *(2055)*
 
  **>** 
-* Júlio *(1482)*     -     Léo *(1861)*
+* Júlio *(1473)*     -     Léo *(1861)*
 
  **>** 
 * Marcelo *(1590)*     -     Freddy *(1796)*
