@@ -40,7 +40,7 @@ De folga: Vitor (1320)
 * Renato *(977)* `0   -   1` **Léo *(1861)***
 
 **>** [Link](https://www.lichess.org/Zuj9WuHM), *D00 - Queen's Pawn Game: Mason Attack*.
-* Pedro *(1238)* `0   -   1` **Marcelo *(1590)***
+* Pedro *(1205)* `0   -   1` **Marcelo *(1590)***
 
 **>** [Link](https://www.lichess.org/LkJD4S6R), *A45 - Indian Game*.
 

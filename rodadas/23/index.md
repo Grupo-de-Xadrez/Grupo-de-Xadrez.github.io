@@ -34,7 +34,7 @@ De folga: Marcelo (2095)
 * Léo *(1861)*     -     Felipe *(1378)*
 
  **>** 
-* Diogo *(1455)*     -     Pedro *(1238)*
+* Diogo *(1455)*     -     Pedro *(1205)*
 
  **>** 
 * Ribas *(2055)*     -     Renato *(977)*

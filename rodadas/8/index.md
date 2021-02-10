@@ -40,7 +40,7 @@ De folga: Milton (1892)
 * Freddy *(1796)*     -     Marcelo *(1590)*
 
  **>** 
-* Renato *(977)* `0   -   1` **Pedro *(1238)***
+* Renato *(977)* `0   -   1` **Pedro *(1205)***
 
 **>** [Link](https://www.lichess.org/xt6SEfF6), *D00 - Queen's Pawn Game*.
 
