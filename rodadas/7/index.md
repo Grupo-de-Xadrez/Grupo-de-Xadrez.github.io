@@ -28,7 +28,7 @@ De folga: Vitor (1320)
 * **Felipe *(1378)*** `1   -   0`  Diogo *(1455)*
 
 **>** [Link](https://www.lichess.org/K27unGrd), *C23 - Bishop's Opening*.
-* Milton *(1668)* `½ - ½` Ribas *(2055)*
+* Milton *(1663)* `½ - ½` Ribas *(2055)*
 
 **>** [Link](https://www.lichess.org/JY2PY2di), *B20 - Sicilian Defense: Staunton-Cochrane Variation*.
 * Ricardo *(1625)* `0   -   1` **Júlio *(1495)***
