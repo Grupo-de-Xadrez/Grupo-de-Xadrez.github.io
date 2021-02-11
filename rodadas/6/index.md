@@ -8,7 +8,7 @@
 * Felipe *(1552)* `0   -   1` **Júlio *(1677)***
 
 **>** [Link](https://www.lichess.org/UPHBOLK8), *C24 - Bishop's Opening: Berlin Defense*.
-* Freddy *(1881)* `0   -   1` **Milton *(1894)***
+* Freddy *(1881)* `0   -   1` **Milton *(1885)***
 
 **>** [Link](https://www.lichess.org/DnGe3nKh), *D10 - Slav Defense: Exchange Variation*.
 * Renato *(1236)* `0   -   1` **Ricardo *(1771)***

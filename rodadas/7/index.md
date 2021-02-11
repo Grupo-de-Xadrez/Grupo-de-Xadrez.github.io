@@ -5,7 +5,7 @@
 * Diogo *(1237)* `0   -   1` **Felipe *(1552)***
 
 **>** [Link](https://www.lichess.org/AW1ob8qv), *D00 - Queen's Pawn Game: Chigorin Variation*.
-* Ribas *(1623)* `0   -   1` **Milton *(1894)***
+* Ribas *(1623)* `0   -   1` **Milton *(1885)***
 
 **>** [Link](https://www.lichess.org/4PHI8qN4), *D10 - Slav Defense*.
 * Júlio *(1677)* `½ - ½` Ricardo *(1771)*
