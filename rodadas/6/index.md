@@ -8,7 +8,7 @@
 * Felipe *(1552)* `0   -   1` **Júlio *(1677)***
 
 **>** [Link](https://www.lichess.org/UPHBOLK8), *C24 - Bishop's Opening: Berlin Defense*.
-* Freddy *(1875)* `0   -   1` **Milton *(1892)***
+* Freddy *(1881)* `0   -   1` **Milton *(1894)***
 
 **>** [Link](https://www.lichess.org/DnGe3nKh), *D10 - Slav Defense: Exchange Variation*.
 * Renato *(1236)* `0   -   1` **Ricardo *(1771)***
@@ -17,7 +17,7 @@
 * Pedro *(1200)* `0   -   1` **Alexandre *(1154)***
 
 **>** [Link](https://www.lichess.org/uq0GqkcY), *D00 - Queen's Pawn Game*.
-* Léo *(1933)* `½ - ½` Marcelo *(2095)*
+* Léo *(1933)* `½ - ½` Marcelo *(2049)*
 
 **>** [Link](https://www.lichess.org/yah6Ermu), *A45 - Trompowsky Attack*.
 
@@ -25,22 +25,22 @@ De folga: Ribas (1623)
 
 #### Blitz:
 
-* **Vitor *(1113)*** `1   -   0`  Diogo *(1455)*
+* **Vitor *(1156)*** `1   -   0`  Diogo *(1455)*
 
 **>** [Link](https://www.lichess.org/wVZwlYka), *C22 - Center Game: Normal Variation*.
-* **Júlio *(1495)*** `1   -   0`  Felipe *(1378)*
+* **Júlio *(1507)*** `1   -   0`  Felipe *(1378)*
 
 **>** [Link](https://www.lichess.org/Hd2EH2bV), *D00 - Queen's Pawn Game: Mason Variation*.
-* Milton *(1663)* `0   -   1` **Freddy *(1796)***
+* Milton *(1646)* `0   -   1` **Freddy *(1787)***
 
 **>** [Link](https://www.lichess.org/kntzkFHk), *C00 - French Defense*.
-* **Ricardo *(1625)*** `1   -   0`  Renato *(977)*
+* **Ricardo *(1625)*** `1   -   0`  Renato *(967)*
 
 **>** [Link](https://www.lichess.org/W6qYlQxP), *C40 - King's Pawn Game: Damiano Defense*.
-* Alexandre *(1183)* `0   -   1` **Pedro *(1205)***
+* Alexandre *(1183)* `0   -   1` **Pedro *(1219)***
 
 **>** [Link](https://www.lichess.org/dRK4gyy6), *C20 - King's Pawn Game: Leonardis Variation*.
-* Marcelo *(1590)* `0   -   1` **Léo *(1861)***
+* Marcelo *(1717)* `0   -   1` **Léo *(1861)***
 
 **>** [Link](https://www.lichess.org/Ay7CPkyi), *B56 - Sicilian Defense: Classical Variation*.
 

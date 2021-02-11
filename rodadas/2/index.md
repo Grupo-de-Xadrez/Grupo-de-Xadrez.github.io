@@ -5,10 +5,10 @@
 * **Renato *(1236)*** `1   -   0`  Vitor *(1320)* `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/uoeqKY9M), *C20 - English Opening: The Whale*.
-* Pedro *(1200)* `0   -   1` **Freddy *(1875)***
+* Pedro *(1200)* `0   -   1` **Freddy *(1881)***
 
 **>** [Link](https://www.lichess.org/7lTkPhIV), *D00 - Queen's Pawn Game*.
-* Marcelo *(2095)* `0   -   1` **Júlio *(1677)***
+* Marcelo *(2049)* `0   -   1` **Júlio *(1677)***
 
 **>** [Link](https://www.lichess.org/t9BXx170), *C55 - Italian Game: Two Knights Defense, Modern Bishop's Opening*.
 * **Léo *(1933)*** `1   -   0`  Ribas *(1623)*
@@ -17,7 +17,7 @@
 * Alexandre *(1154)* `½ - ½` Diogo *(1237)*
 
 **>** [Link](https://www.lichess.org/H9GhqhfH), *D00 - Queen's Pawn Game*.
-* Milton *(1892)* `0   -   1` **Felipe *(1552)***
+* Milton *(1894)* `0   -   1` **Felipe *(1552)***
 
 **>** [Link](https://www.lichess.org/dVbOLTNR), *C26 - Vienna Game: Stanley Variation*.
 
@@ -25,13 +25,13 @@ De folga: Ricardo (1771)
 
 #### Blitz:
 
-* **Vitor *(1113)*** `1   -   0`  Renato *(977)* `INVERTIDO`
+* **Vitor *(1156)*** `1   -   0`  Renato *(967)* `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/8D1HswlL), *C20 - Center Game*.
-* **Freddy *(1796)*** `1   -   0`  Pedro *(1205)*
+* **Freddy *(1787)*** `1   -   0`  Pedro *(1219)*
 
 **>** [Link](https://www.lichess.org/3GCiQUZb), *D20 - Queen's Gambit Accepted: Old Variation*.
-* Júlio *(1495)* `0   -   1` **Marcelo *(1590)***
+* Júlio *(1507)* `0   -   1` **Marcelo *(1717)***
 
 **>** [Link](https://www.lichess.org/bLg3vsmi), *A48 - London System*.
 * Ribas *(2055)* `0   -   1` **Léo *(1861)***
@@ -40,7 +40,7 @@ De folga: Ricardo (1771)
 * Diogo *(1455)* `½ - ½` Alexandre *(1183)*
 
 **>** [Link](https://www.lichess.org/JLLAkhLx), *C41 - Philidor Defense*.
-* Felipe *(1378)* `0   -   1` **Milton *(1663)***
+* Felipe *(1378)* `0   -   1` **Milton *(1646)***
 
 **>** [Link](https://www.lichess.org/DJGNYvmh), *B20 - Sicilian Defense: Bowdler Attack*.
 
