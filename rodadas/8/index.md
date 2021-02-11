@@ -44,5 +44,5 @@ De folga: Milton (1894)
 
 **>** [Link](https://www.lichess.org/xt6SEfF6), *D00 - Queen's Pawn Game*.
 
-De folga: Milton (1661)
+De folga: Milton (1662)
 
