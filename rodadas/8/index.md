@@ -11,9 +11,9 @@
 * Alexandre *(1154)*     -     Ribas *(1623)*
 
  **>** 
-* Júlio *(1677)*     -     Léo *(1933)*
+* Júlio *(1677)* `½ - ½` Léo *(1933)*
 
- **>** 
+**>** [Link](https://www.lichess.org/ULDJhyiK), *C12 - French Defense: MacCutcheon Variation, Chigorin Variation*.
 * Marcelo *(2049)*     -     Freddy *(1881)*
 
  **>** 
@@ -34,9 +34,9 @@ De folga: Milton (1885)
 * Ribas *(2055)*     -     Alexandre *(1183)*
 
  **>** 
-* Léo *(1861)*     -     Júlio *(1507)*
+* Léo *(1861)* `0   -   1` **Júlio *(1507)***
 
- **>** 
+**>** [Link](https://www.lichess.org/aQvQgFvB), *E81 - King's Indian Defense: Steiner Attack*.
 * Freddy *(1787)*     -     Marcelo *(1717)*
 
  **>** 
