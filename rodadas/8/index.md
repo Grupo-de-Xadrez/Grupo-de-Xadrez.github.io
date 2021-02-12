@@ -8,15 +8,15 @@
 * **Ricardo *(1771)*** `1   -   0`  Diogo *(1237)*
 
 **>** [Link](https://www.lichess.org/676T5NmF), *C65 - Ruy Lopez: Berlin Defense*.
-* Alexandre *(1154)*     -     Ribas *(1623)*
+* Alexandre *(1154)* `0   -   1` **Ribas *(1623)***
+
+**>** [Link](https://www.lichess.org/v82wftGd), *C20 - King's Pawn Game: Leonardis Variation*.
+* Júlio *(1677)*     -     Léo *(1933)*
 
  **>** 
-* Júlio *(1677)* `½ - ½` Léo *(1933)*
+* Marcelo *(2049)* `½ - ½` Freddy *(1881)*
 
 **>** [Link](https://www.lichess.org/ULDJhyiK), *C12 - French Defense: MacCutcheon Variation, Chigorin Variation*.
-* Marcelo *(2049)*     -     Freddy *(1881)*
-
- **>** 
 * **Pedro *(1200)*** `1   -   0`  Renato *(1236)*
 
 **>** [Link](https://www.lichess.org/eHkRZq9s), *D00 - Queen's Pawn Game*.
@@ -31,15 +31,15 @@ De folga: Milton (1885)
 * Diogo *(1455)* `0   -   1` **Ricardo *(1625)***
 
 **>** [Link](https://www.lichess.org/tOKohgQf), *D01 - Rapport-Jobava System*.
-* Ribas *(2055)*     -     Alexandre *(1183)*
+* **Ribas *(2055)*** `1   -   0`  Alexandre *(1183)*
+
+**>** [Link](https://www.lichess.org/1QNCTqCm), *C30 - King's Gambit*.
+* Léo *(1861)*     -     Júlio *(1507)*
 
  **>** 
-* Léo *(1861)* `0   -   1` **Júlio *(1507)***
+* Freddy *(1787)* `0   -   1` **Marcelo *(1717)***
 
 **>** [Link](https://www.lichess.org/aQvQgFvB), *E81 - King's Indian Defense: Steiner Attack*.
-* Freddy *(1787)*     -     Marcelo *(1717)*
-
- **>** 
 * Renato *(989)* `0   -   1` **Pedro *(1219)***
 
 **>** [Link](https://www.lichess.org/xt6SEfF6), *D00 - Queen's Pawn Game*.
