@@ -17,7 +17,7 @@
 * Ricardo *(1771)* `0   -   1` **Marcelo *(2049)***
 
 **>** [Link](https://www.lichess.org/T4cMwFqJ), *B40 - Sicilian Defense: French Variation*.
-* **Léo *(1933)*** `1   -   0`  Alexandre *(1154)* `INVERTIDO`
+* Alexandre *(1154)* `0   -   1` **Léo *(1933)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/VxQwOEXu), *C41 - Philidor Defense*.
 
@@ -34,13 +34,13 @@ De folga: Freddy (1881)
 * **Felipe *(1378)*** `1   -   0`  Renato *(989)*
 
 **>** [Link](https://www.lichess.org/XIfFoMyW), *C23 - Bishop's Opening*.
-* **Milton *(1660)*** `1   -   0`  Pedro *(1219)*
+* **Milton *(1658)*** `1   -   0`  Pedro *(1219)*
 
 **>** [Link](https://www.lichess.org/Piatvx1D), *C23 - Bishop's Opening*.
 * Marcelo *(1717)* `0   -   1` **Ricardo *(1625)***
 
 **>** [Link](https://www.lichess.org/U1pZa3C0), *C62 - Ruy Lopez: Steinitz Defense*.
-* Alexandre *(1183)* `0   -   1` **Léo *(1861)*** `INVERTIDO`
+* **Léo *(1861)*** `1   -   0`  Alexandre *(1183)* `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/Pb9aW9HI), *C00 - French Defense: Schlechter Variation*.
 
