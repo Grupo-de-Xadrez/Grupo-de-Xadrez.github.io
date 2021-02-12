@@ -21,7 +21,7 @@
 
 **>** [Link](https://www.lichess.org/eHkRZq9s), *D00 - Queen's Pawn Game*.
 
-De folga: Milton (1885)
+De folga: Milton (1889)
 
 #### Blitz:
 

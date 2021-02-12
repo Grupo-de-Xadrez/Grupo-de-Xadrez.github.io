@@ -11,7 +11,7 @@
 * Ricardo *(1771)*     -     Pedro *(1200)*
 
  **>** 
-* Renato *(1236)*     -     Milton *(1885)*
+* Renato *(1236)*     -     Milton *(1889)*
 
  **>** 
 * Felipe *(1552)*     -     Freddy *(1881)*

@@ -17,7 +17,7 @@
 * Diogo *(1237)*     -     Alexandre *(1154)*
 
  **>** 
-* Felipe *(1552)*     -     Milton *(1885)*
+* Felipe *(1552)*     -     Milton *(1889)*
 
  **>** 
 
