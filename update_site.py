@@ -210,6 +210,7 @@ def main():
             ratings[1][cod] = '-'
 
     parser = {'black': 'b', None: 'd', 'white': 'w'}
+    inverseParser = {'black': 'w', None: 'd', 'white': 'b'}
 
     for i, r in enumerate(rounds):
         for ritmo in range(len(r)):
@@ -218,10 +219,11 @@ def main():
                     game = lichess.api.game(g[1])
                     links[i][ritmo][j] = f'\n\n**>** [Link](https://www.lichess.org/{g[1]})'
                     openings[i][ritmo][j] = f', *{game["opening"]["eco"]} - {game["opening"]["name"]}*.'
-                    rounds[i][ritmo][j] = (g[0], parser[game.get('winner', None)])
                     if game.get('players', {}).get('white', {}).get('user', {}).get('name', None) == nicknames[g[0][1]] and game.get('players', {}).get('black', {}).get('user', {}).get('name', None) == nicknames[g[0][0]]:
                         links[i][ritmo][j] = ' `INVERTIDO`' + links[i][ritmo][j]
-                        rounds[i][ritmo][j] = ((g[0][1], g[0][0]), rounds[i][ritmo][j][1])
+                        rounds[i][ritmo][j] = (g[0], inverseParser[game.get('winner', None)])
+                    else:
+                        rounds[i][ritmo][j] = (g[0], parser[game.get('winner', None)])
 
     page = ''
 
