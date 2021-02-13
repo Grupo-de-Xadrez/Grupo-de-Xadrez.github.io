@@ -11,7 +11,7 @@
 * Alexandre *(1154)* `0   -   1` **Ribas *(1623)***
 
 **>** [Link](https://www.lichess.org/v82wftGd), *C20 - King's Pawn Game: Leonardis Variation*.
-* Júlio *(1622)*     -     Léo *(1933)*
+* Júlio *(1668)*     -     Léo *(1933)*
 
  **>** 
 * Marcelo *(2049)* `½ - ½` Freddy *(1881)*
@@ -44,5 +44,5 @@ De folga: Milton (1889)
 
 **>** [Link](https://www.lichess.org/xt6SEfF6), *D00 - Queen's Pawn Game*.
 
-De folga: Milton (1616)
+De folga: Milton (1620)
 

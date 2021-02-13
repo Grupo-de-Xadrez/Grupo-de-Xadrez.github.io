@@ -14,7 +14,7 @@
 * Ribas *(1623)*     -     Marcelo *(2049)*
 
  **>** 
-* Pedro *(1208)*     -     Júlio *(1622)*
+* Pedro *(1208)*     -     Júlio *(1668)*
 
  **>** 
 * Freddy *(1881)*     -     Renato *(1236)*
@@ -25,7 +25,7 @@ De folga: Alexandre (1154)
 
 #### Blitz:
 
-* Milton *(1616)*     -     Vitor *(1164)*
+* Milton *(1620)*     -     Vitor *(1164)*
 
  **>** 
 * Felipe *(1378)*     -     Ricardo *(1625)*

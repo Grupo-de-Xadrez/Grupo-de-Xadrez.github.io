@@ -11,7 +11,7 @@
 * Freddy *(1881)* `0   -   1` **Léo *(1933)***
 
 **>** [Link](https://www.lichess.org/jErAgptw), *A84 - Dutch Defense: Classical Variation*.
-* **Júlio *(1622)*** `1   -   0`  Alexandre *(1154)*
+* **Júlio *(1668)*** `1   -   0`  Alexandre *(1154)*
 
 **>** [Link](https://www.lichess.org/SMPemRrp), *D00 - Queen's Pawn Game: Mason Variation*.
 * Ricardo *(1771)* `½ - ½` Ribas *(1623)*
@@ -40,7 +40,7 @@ De folga: Felipe (1552)
 * Ribas *(2055)* `0   -   1` **Ricardo *(1625)***
 
 **>** [Link](https://www.lichess.org/ocUpBa5T), *C34 - King's Gambit Accepted: Becker Defense*.
-* **Diogo *(1455)*** `1   -   0`  Milton *(1616)*
+* **Diogo *(1455)*** `1   -   0`  Milton *(1620)*
 
 **>** [Link](https://www.lichess.org/9E2gILyV), *D04 - Queen's Pawn Game: Colle System*.
 
