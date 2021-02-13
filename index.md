@@ -18,11 +18,11 @@
 
 ## Rodadas:
 
-* [Rodada atual](https://grupo-de-xadrez.github.io/rodadas/8)
+* [Rodada atual](https://grupo-de-xadrez.github.io/rodadas/9)
 
-* [Rodada anterior](https://grupo-de-xadrez.github.io/rodadas/7)
+* [Rodada anterior](https://grupo-de-xadrez.github.io/rodadas/8)
 
-* [Rodada seguinte](https://grupo-de-xadrez.github.io/rodadas/9)
+* [Rodada seguinte](https://grupo-de-xadrez.github.io/rodadas/10)
 
 * [Lista completa](https://grupo-de-xadrez.github.io/rodadas)
 
@@ -50,10 +50,10 @@
 
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | Léo (1861) | 6 | 6 | 3 | 6 |
+| 1 | Léo (1861) | 7 | 7 | 3 | 7 |
 | 2 | Ricardo (1625) | 6 | 7 | 4 | 6 |
-| 3 | Júlio (1519) | 6 | 7 | 3 | 6 |
-| 4 | Marcelo (1717) | 6 | 8 | 4 | 6 |
+| 3 | Júlio (1519) | 6 | 8 | 4 | 6 |
+| 3 | Marcelo (1717) | 6 | 8 | 4 | 6 |
 | 5 | Ribas (2055) | 4 | 7 | 4 | 3 |
 | 6 | Felipe (1378) | 4 | 7 | 3 | 4 |
 | 6 | Freddy (1787) | 4 | 7 | 3 | 4 |
@@ -88,7 +88,7 @@
 
 | | LEO | RIC | JUL | MAR | RIB | FEL | FRE | PED | MIL | VIT | DIO | REN | ALE |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **LEO** | :::::::: |  |  |  |  |  | 1 |  | 1 |  |  |  | 1 |
+| **LEO** | :::::::: |  | 1 |  |  |  | 1 |  | 1 |  |  |  | 1 |
 | **RIC** |  | :::::::: | 0 |  |  |  |  |  |  |  |  | 1 | 1 |
 | **JUL** |  |  | :::::::: | 0 |  | 1 |  |  |  | 1 | 1 |  |  |
 | **MAR** | 0 | 0 |  | :::::::: |  |  |  |  |  |  | 1 | 1 |  |
