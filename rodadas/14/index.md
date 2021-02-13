@@ -11,7 +11,7 @@
 * Léo *(1933)*     -     Freddy *(1881)*
 
  **>** 
-* Alexandre *(1154)*     -     Júlio *(1668)*
+* Alexandre *(1154)*     -     Júlio *(1631)*
 
  **>** 
 * Ribas *(1623)*     -     Ricardo *(1771)*
@@ -40,7 +40,7 @@ De folga: Felipe (1552)
 * Ricardo *(1625)*     -     Ribas *(2055)*
 
  **>** 
-* Milton *(1620)*     -     Diogo *(1455)*
+* Milton *(1621)*     -     Diogo *(1455)*
 
  **>** 
 
