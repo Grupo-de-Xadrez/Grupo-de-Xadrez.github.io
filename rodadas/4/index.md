@@ -21,7 +21,7 @@
 
 **>** [Link](https://www.lichess.org/sZT5rfu1), *C20 - King's Pawn Game: Leonardis Variation*.
 
-De folga: Pedro (1200)
+De folga: Pedro (1208)
 
 #### Blitz:
 
@@ -31,7 +31,7 @@ De folga: Pedro (1200)
 * Freddy *(1787)* `0   -   1` **Ribas *(2055)***
 
 **>** [Link](https://www.lichess.org/HRkvmdFA), *D06 - Queen's Gambit Declined: Marshall Defense*.
-* Diogo *(1455)* `0   -   1` **Renato *(978)***
+* Diogo *(1455)* `0   -   1` **Renato *(983)***
 
 **>** [Link](https://www.lichess.org/AJWXTn79), *C40 - King's Pawn Game: Damiano Defense*.
 * Felipe *(1378)* `0   -   1` **Marcelo *(1717)***

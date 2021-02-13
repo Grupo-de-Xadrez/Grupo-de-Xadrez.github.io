@@ -5,7 +5,7 @@
 * Vitor *(1320)* `0   -   1` **Renato *(1236)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/uoeqKY9M), *C20 - English Opening: The Whale*.
-* Pedro *(1200)* `0   -   1` **Freddy *(1881)***
+* Pedro *(1208)* `0   -   1` **Freddy *(1881)***
 
 **>** [Link](https://www.lichess.org/7lTkPhIV), *D00 - Queen's Pawn Game*.
 * Marcelo *(2049)* `0   -   1` **Júlio *(1677)***
@@ -25,7 +25,7 @@ De folga: Ricardo (1771)
 
 #### Blitz:
 
-* Renato *(978)* `0   -   1` **Vitor *(1164)*** `INVERTIDO`
+* Renato *(983)* `0   -   1` **Vitor *(1164)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/8D1HswlL), *C20 - Center Game*.
 * **Freddy *(1787)*** `1   -   0`  Pedro *(1219)*

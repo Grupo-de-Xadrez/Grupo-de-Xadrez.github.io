@@ -17,7 +17,7 @@
 * **Léo *(1933)*** `1   -   0`  Renato *(1236)*
 
 **>** [Link](https://www.lichess.org/qlgtkmyW), *B27 - Sicilian Defense: Jalalabad Variation*.
-* **Marcelo *(2049)*** `1   -   0`  Pedro *(1200)*
+* **Marcelo *(2049)*** `1   -   0`  Pedro *(1208)*
 
 **>** [Link](https://www.lichess.org/mvtmGlJJ), *C41 - Philidor Defense*.
 
@@ -37,7 +37,7 @@ De folga: Vitor (1320)
 * Alexandre *(1183)* `0   -   1` **Freddy *(1787)***
 
 **>** [Link](https://www.lichess.org/BU6Y8gxM), *C00 - French Defense: Schlechter Variation*.
-* Renato *(978)* `0   -   1` **Léo *(1861)***
+* Renato *(983)* `0   -   1` **Léo *(1861)***
 
 **>** [Link](https://www.lichess.org/Zuj9WuHM), *D00 - Queen's Pawn Game: Mason Attack*.
 * Pedro *(1219)* `0   -   1` **Marcelo *(1717)***
