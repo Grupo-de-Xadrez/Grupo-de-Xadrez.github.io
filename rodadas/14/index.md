@@ -11,7 +11,7 @@
 * Léo *(1933)*     -     Freddy *(1881)*
 
  **>** 
-* Alexandre *(1154)*     -     Júlio *(1677)*
+* Alexandre *(1154)*     -     Júlio *(1622)*
 
  **>** 
 * Ribas *(1623)*     -     Ricardo *(1771)*

@@ -5,7 +5,7 @@
 * Vitor *(1320)* `0   -   1` **Freddy *(1881)***
 
 **>** [Link](https://www.lichess.org/mPoMdB5X), *C00 - French Defense: Queen's Knight*.
-* **Júlio *(1677)*** `1   -   0`  Renato *(1236)*
+* **Júlio *(1622)*** `1   -   0`  Renato *(1236)*
 
 **>** [Link](https://www.lichess.org/UoTKilWT), *D00 - Queen's Pawn Game: Mason Variation*.
 * **Ribas *(1623)*** `1   -   0`  Pedro *(1208)*

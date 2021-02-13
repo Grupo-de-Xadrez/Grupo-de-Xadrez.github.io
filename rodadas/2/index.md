@@ -8,7 +8,7 @@
 * Pedro *(1208)* `0   -   1` **Freddy *(1881)***
 
 **>** [Link](https://www.lichess.org/7lTkPhIV), *D00 - Queen's Pawn Game*.
-* Marcelo *(2049)* `0   -   1` **Júlio *(1677)***
+* Marcelo *(2049)* `0   -   1` **Júlio *(1622)***
 
 **>** [Link](https://www.lichess.org/t9BXx170), *C55 - Italian Game: Two Knights Defense, Modern Bishop's Opening*.
 * **Léo *(1933)*** `1   -   0`  Ribas *(1623)*

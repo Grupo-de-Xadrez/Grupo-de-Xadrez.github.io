@@ -8,7 +8,7 @@
 * Ribas *(1623)* `0   -   1` **Milton *(1889)***
 
 **>** [Link](https://www.lichess.org/4PHI8qN4), *D10 - Slav Defense*.
-* Júlio *(1677)* `½ - ½` Ricardo *(1771)*
+* Júlio *(1622)* `½ - ½` Ricardo *(1771)*
 
 **>** [Link](https://www.lichess.org/Tflx76ez), *D00 - Queen's Pawn Game: Mason Variation*.
 * **Freddy *(1881)*** `1   -   0`  Alexandre *(1154)*

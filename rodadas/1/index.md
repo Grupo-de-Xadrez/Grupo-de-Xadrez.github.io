@@ -11,7 +11,7 @@
 * Freddy *(1881)* `0   -   1` **Léo *(1933)***
 
 **>** [Link](https://www.lichess.org/jErAgptw), *A84 - Dutch Defense: Classical Variation*.
-* **Júlio *(1677)*** `1   -   0`  Alexandre *(1154)*
+* **Júlio *(1622)*** `1   -   0`  Alexandre *(1154)*
 
 **>** [Link](https://www.lichess.org/SMPemRrp), *D00 - Queen's Pawn Game: Mason Variation*.
 * Ricardo *(1771)* `½ - ½` Ribas *(1623)*
