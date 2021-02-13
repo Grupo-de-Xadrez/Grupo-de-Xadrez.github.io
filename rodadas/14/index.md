@@ -40,7 +40,7 @@ De folga: Felipe (1552)
 * Ricardo *(1625)*     -     Ribas *(2055)*
 
  **>** 
-* Milton *(1663)*     -     Diogo *(1455)*
+* Milton *(1669)*     -     Diogo *(1455)*
 
  **>** 
 
