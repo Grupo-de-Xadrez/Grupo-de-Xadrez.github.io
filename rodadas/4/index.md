@@ -31,7 +31,7 @@ De folga: Pedro (1208)
 * Freddy *(1787)* `0   -   1` **Ribas *(2055)***
 
 **>** [Link](https://www.lichess.org/HRkvmdFA), *D06 - Queen's Gambit Declined: Marshall Defense*.
-* Diogo *(1455)* `0   -   1` **Renato *(991)***
+* Diogo *(1455)* `0   -   1` **Renato *(994)***
 
 **>** [Link](https://www.lichess.org/AJWXTn79), *C40 - King's Pawn Game: Damiano Defense*.
 * Felipe *(1378)* `0   -   1` **Marcelo *(1717)***
@@ -44,5 +44,5 @@ De folga: Pedro (1208)
 
 **>** [Link](https://www.lichess.org/LqcS00rX), *C41 - Philidor Defense*.
 
-De folga: Pedro (1219)
+De folga: Pedro (1201)
 

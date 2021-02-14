@@ -37,10 +37,10 @@ De folga: Alexandre (1154)
 * Ribas *(2055)*     -     Marcelo *(1717)*
 
  **>** 
-* Pedro *(1219)*     -     Júlio *(1519)*
+* Pedro *(1201)*     -     Júlio *(1519)*
 
  **>** 
-* **Freddy *(1787)*** `1   -   0`  Renato *(991)*
+* **Freddy *(1787)*** `1   -   0`  Renato *(994)*
 
 **>** [Link](https://www.lichess.org/He4kkwh3), *D10 - Slav Defense: Exchange Variation*.
 
