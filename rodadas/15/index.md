@@ -40,7 +40,7 @@ De folga: Ricardo (1771)
 * Alexandre *(1183)*     -     Diogo *(1455)*
 
  **>** 
-* Milton *(1626)*     -     Felipe *(1378)*
+* Milton *(1633)*     -     Felipe *(1378)*
 
  **>** 
 
