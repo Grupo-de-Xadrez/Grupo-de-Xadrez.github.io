@@ -34,7 +34,7 @@ De folga: Freddy (1881)
 * **Felipe *(1378)*** `1   -   0`  Renato *(991)*
 
 **>** [Link](https://www.lichess.org/XIfFoMyW), *C23 - Bishop's Opening*.
-* **Milton *(1632)*** `1   -   0`  Pedro *(1219)*
+* **Milton *(1633)*** `1   -   0`  Pedro *(1219)*
 
 **>** [Link](https://www.lichess.org/Piatvx1D), *C23 - Bishop's Opening*.
 * Marcelo *(1717)* `0   -   1` **Ricardo *(1625)***
