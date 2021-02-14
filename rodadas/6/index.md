@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* **Diogo *(1237)*** `1   -   0`  Vitor *(1320)*
+* **Diogo *(1237)*** `1   -   0`  Vitor *(1327)*
 
 **>** [Link](https://www.lichess.org/oLT8dFSp), *D01 - Rapport-Jobava System*.
 * Felipe *(1552)* `0   -   1` **Júlio *(1676)***
