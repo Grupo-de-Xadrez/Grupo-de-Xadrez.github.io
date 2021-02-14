@@ -116,7 +116,7 @@ G,E=,
 C,M=,
 B,L=,
 K,H=,
-I,J=,
+I,J=rxPhGsIN,He4kkwh3
 
 r:
 E,A=,
