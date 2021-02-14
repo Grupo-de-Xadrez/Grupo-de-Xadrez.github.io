@@ -5,7 +5,7 @@
 * Vitor *(1320)* `0   -   1` **Renato *(1236)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/uoeqKY9M), *C20 - English Opening: The Whale*.
-* Pedro *(1208)* `0   -   1` **Freddy *(1881)***
+* Pedro *(1208)* `0   -   1` **Freddy *(1882)***
 
 **>** [Link](https://www.lichess.org/7lTkPhIV), *D00 - Queen's Pawn Game*.
 * Marcelo *(2049)* `0   -   1` **Júlio *(1676)***
@@ -40,7 +40,7 @@ De folga: Ricardo (1771)
 * Diogo *(1455)* `½ - ½` Alexandre *(1183)*
 
 **>** [Link](https://www.lichess.org/JLLAkhLx), *C41 - Philidor Defense*.
-* Felipe *(1378)* `0   -   1` **Milton *(1633)***
+* Felipe *(1378)* `0   -   1` **Milton *(1628)***
 
 **>** [Link](https://www.lichess.org/DJGNYvmh), *B20 - Sicilian Defense: Bowdler Attack*.
 

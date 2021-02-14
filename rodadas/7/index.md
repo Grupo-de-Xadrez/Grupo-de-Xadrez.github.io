@@ -11,7 +11,7 @@
 * Júlio *(1676)* `½ - ½` Ricardo *(1771)*
 
 **>** [Link](https://www.lichess.org/Tflx76ez), *D00 - Queen's Pawn Game: Mason Variation*.
-* **Freddy *(1881)*** `1   -   0`  Alexandre *(1154)*
+* **Freddy *(1882)*** `1   -   0`  Alexandre *(1154)*
 
 **>** [Link](https://www.lichess.org/c4RUGpPR), *D30 - Queen's Gambit Declined*.
 * **Léo *(1933)*** `1   -   0`  Renato *(1236)*
@@ -28,7 +28,7 @@ De folga: Vitor (1320)
 * **Felipe *(1378)*** `1   -   0`  Diogo *(1455)*
 
 **>** [Link](https://www.lichess.org/K27unGrd), *C23 - Bishop's Opening*.
-* Milton *(1633)* `½ - ½` Ribas *(2055)*
+* Milton *(1628)* `½ - ½` Ribas *(2055)*
 
 **>** [Link](https://www.lichess.org/JY2PY2di), *B20 - Sicilian Defense: Staunton-Cochrane Variation*.
 * Ricardo *(1625)* `0   -   1` **Júlio *(1519)***

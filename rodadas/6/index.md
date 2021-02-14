@@ -8,7 +8,7 @@
 * Felipe *(1552)* `0   -   1` **Júlio *(1676)***
 
 **>** [Link](https://www.lichess.org/UPHBOLK8), *C24 - Bishop's Opening: Berlin Defense*.
-* Freddy *(1881)* `0   -   1` **Milton *(1889)***
+* Freddy *(1882)* `0   -   1` **Milton *(1889)***
 
 **>** [Link](https://www.lichess.org/DnGe3nKh), *D10 - Slav Defense: Exchange Variation*.
 * Renato *(1236)* `0   -   1` **Ricardo *(1771)***
@@ -31,7 +31,7 @@ De folga: Ribas (1623)
 * **Júlio *(1519)*** `1   -   0`  Felipe *(1378)*
 
 **>** [Link](https://www.lichess.org/Hd2EH2bV), *D00 - Queen's Pawn Game: Mason Variation*.
-* Milton *(1633)* `0   -   1` **Freddy *(1787)***
+* Milton *(1628)* `0   -   1` **Freddy *(1787)***
 
 **>** [Link](https://www.lichess.org/kntzkFHk), *C00 - French Defense*.
 * **Ricardo *(1625)*** `1   -   0`  Renato *(991)*

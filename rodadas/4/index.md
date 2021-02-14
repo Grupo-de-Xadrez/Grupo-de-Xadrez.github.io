@@ -5,7 +5,7 @@
 * Vitor *(1320)* `½ - ½` Júlio *(1676)*
 
 **>** [Link](https://www.lichess.org/cNEagLGV), *C46 - Four Knights Game*.
-* Ribas *(1623)* `0   -   1` **Freddy *(1881)***
+* Ribas *(1623)* `0   -   1` **Freddy *(1882)***
 
 **>** [Link](https://www.lichess.org/cdRVlh4r), *C00 - French Defense: Knight Variation*.
 * Renato *(1236)* `0   -   1` **Diogo *(1237)***
@@ -37,7 +37,7 @@ De folga: Pedro (1208)
 * Felipe *(1378)* `0   -   1` **Marcelo *(1717)***
 
 **>** [Link](https://www.lichess.org/wULx6CqR), *C02 - French Defense: Advance Variation*.
-* **Léo *(1861)*** `1   -   0`  Milton *(1633)*
+* **Léo *(1861)*** `1   -   0`  Milton *(1628)*
 
 **>** [Link](https://www.lichess.org/YLnhheQG), *A20 - English Opening: King's English Variation*.
 * **Ricardo *(1625)*** `1   -   0`  Alexandre *(1183)*

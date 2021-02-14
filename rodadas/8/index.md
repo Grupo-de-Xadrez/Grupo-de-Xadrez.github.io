@@ -14,7 +14,7 @@
 * Júlio *(1676)* `0   -   1` **Léo *(1933)***
 
 **>** [Link](https://www.lichess.org/Y3GmBysX), *B06 - Modern Defense: Standard Defense*.
-* Marcelo *(2049)* `½ - ½` Freddy *(1881)*
+* Marcelo *(2049)* `½ - ½` Freddy *(1882)*
 
 **>** [Link](https://www.lichess.org/ULDJhyiK), *C12 - French Defense: MacCutcheon Variation, Chigorin Variation*.
 * **Pedro *(1208)*** `1   -   0`  Renato *(1236)*
@@ -44,5 +44,5 @@ De folga: Milton (1889)
 
 **>** [Link](https://www.lichess.org/xt6SEfF6), *D00 - Queen's Pawn Game*.
 
-De folga: Milton (1633)
+De folga: Milton (1628)
 

@@ -5,11 +5,11 @@
 * ALE: **Alexandre**, a.k.a. [@AHCA](https://www.lichess.org/@/AHCA) *(Rapid: 1154, Blitz: 1183)*
 * DIO: **Diogo**, a.k.a. [@diogo98](https://www.lichess.org/@/diogo98) *(Rapid: 1237, Blitz: 1455)*
 * FEL: **Felipe**, a.k.a. [@Fgcotta](https://www.lichess.org/@/Fgcotta) *(Rapid: 1552, Blitz: 1378)*
-* FRE: **Freddy**, a.k.a. [@PlixMax](https://www.lichess.org/@/PlixMax) *(Rapid: 1881, Blitz: 1787)*
+* FRE: **Freddy**, a.k.a. [@PlixMax](https://www.lichess.org/@/PlixMax) *(Rapid: 1882, Blitz: 1787)*
 * JUL: **Júlio**, a.k.a. [@juliopinheiro](https://www.lichess.org/@/juliopinheiro) *(Rapid: 1676, Blitz: 1519)*
 * LEO: **Léo**, a.k.a. [@killer9](https://www.lichess.org/@/killer9) *(Rapid: 1933, Blitz: 1861)*
 * MAR: **Marcelo**, a.k.a. [@mkvieira](https://www.lichess.org/@/mkvieira) *(Rapid: 2049, Blitz: 1717)*
-* MIL: **Milton**, a.k.a. [@milton1960](https://www.lichess.org/@/milton1960) *(Rapid: 1889, Blitz: 1633)*
+* MIL: **Milton**, a.k.a. [@milton1960](https://www.lichess.org/@/milton1960) *(Rapid: 1889, Blitz: 1628)*
 * PED: **Pedro**, a.k.a. [@Phoenix20201](https://www.lichess.org/@/Phoenix20201) *(Rapid: 1208, Blitz: 1219)*
 * REN: **Renato**, a.k.a. [@Padilha20](https://www.lichess.org/@/Padilha20) *(Rapid: 1236, Blitz: 991)*
 * RIC: **Ricardo**, a.k.a. [@r-k-k](https://www.lichess.org/@/r-k-k) *(Rapid: 1771, Blitz: 1625)*
@@ -37,7 +37,7 @@
 | 2 | Marcelo (2049) | 6 | 8 | 4 | 5 |
 | 4 | Felipe (1552) | 5 | 7 | 4 | 5 |
 | 5 | Ricardo (1771) | 5 | 7 | 3 | 4 |
-| 6 | Freddy (1881) | 4½ | 7 | 4 | 4 |
+| 6 | Freddy (1882) | 4½ | 7 | 4 | 4 |
 | 7 | Milton (1889) | 4 | 7 | 4 | 4 |
 | 8 | Ribas (1623) | 3½ | 7 | 3 | 3 |
 | 9 | Diogo (1237) | 2½ | 8 | 4 | 2 |
@@ -58,7 +58,7 @@
 | 6 | Felipe (1378) | 4 | 7 | 3 | 4 |
 | 6 | Freddy (1787) | 4 | 7 | 3 | 4 |
 | 8 | Pedro (1219) | 3 | 7 | 5 | 3 |
-| 9 | Milton (1633) | 2½ | 7 | 3 | 2 |
+| 9 | Milton (1628) | 2½ | 7 | 3 | 2 |
 | 9 | Vitor (1164) | 2½ | 7 | 3 | 2 |
 | 11 | Diogo (1455) | 1½ | 8 | 4 | 1 |
 | 12 | Renato (991) | 1 | 8 | 4 | 1 |

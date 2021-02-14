@@ -8,7 +8,7 @@
 * Renato *(1236)* `0   -   1` **Marcelo *(2049)***
 
 **>** [Link](https://www.lichess.org/88IwjQLc), *D00 - Queen's Pawn Game: Mason Attack*.
-* Freddy *(1881)* `0   -   1` **Léo *(1933)***
+* Freddy *(1882)* `0   -   1` **Léo *(1933)***
 
 **>** [Link](https://www.lichess.org/jErAgptw), *A84 - Dutch Defense: Classical Variation*.
 * **Júlio *(1676)*** `1   -   0`  Alexandre *(1154)*
@@ -40,7 +40,7 @@ De folga: Felipe (1552)
 * Ribas *(2055)* `0   -   1` **Ricardo *(1625)***
 
 **>** [Link](https://www.lichess.org/ocUpBa5T), *C34 - King's Gambit Accepted: Becker Defense*.
-* **Diogo *(1455)*** `1   -   0`  Milton *(1633)*
+* **Diogo *(1455)*** `1   -   0`  Milton *(1628)*
 
 **>** [Link](https://www.lichess.org/9E2gILyV), *D04 - Queen's Pawn Game: Colle System*.
 

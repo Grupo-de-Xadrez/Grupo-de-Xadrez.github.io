@@ -21,7 +21,7 @@
 
  **>** 
 
-De folga: Freddy (1881)
+De folga: Freddy (1882)
 
 #### Blitz:
 
@@ -34,7 +34,7 @@ De folga: Freddy (1881)
 * Renato *(991)*     -     Felipe *(1378)*
 
  **>** 
-* Pedro *(1219)*     -     Milton *(1633)*
+* Pedro *(1219)*     -     Milton *(1628)*
 
  **>** 
 * Ricardo *(1625)*     -     Marcelo *(1717)*
