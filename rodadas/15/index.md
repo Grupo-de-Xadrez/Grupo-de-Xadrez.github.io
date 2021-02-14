@@ -25,7 +25,7 @@ De folga: Ricardo (1771)
 
 #### Blitz:
 
-* Vitor *(1157)*     -     Renato *(991)*
+* Vitor *(1165)*     -     Renato *(991)*
 
  **>** 
 * Pedro *(1219)*     -     Freddy *(1787)*
