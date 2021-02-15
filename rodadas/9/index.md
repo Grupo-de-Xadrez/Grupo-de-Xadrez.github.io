@@ -25,7 +25,7 @@ De folga: Alexandre (1154)
 
 #### Blitz:
 
-* Vitor *(1152)* `0   -   1` **Milton *(1621)***
+* Vitor *(1152)* `0   -   1` **Milton *(1614)***
 
 **>** [Link](https://www.lichess.org/vf5wM9Rz), *B30 - Sicilian Defense: Nyezhmetdinov-Rossolimo Attack*.
 * Ricardo *(1625)*     -     Felipe *(1378)*
