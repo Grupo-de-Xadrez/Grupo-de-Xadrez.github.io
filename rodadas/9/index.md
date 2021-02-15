@@ -5,9 +5,9 @@
 * **Milton *(1889)*** `1   -   0`  Vitor *(1327)*
 
 **>** [Link](https://www.lichess.org/cvAf4XYT), *C24 - Bishop's Opening: Vienna Hybrid*.
-* Felipe *(1552)*     -     Ricardo *(1771)*
+* Felipe *(1552)* `0   -   1` **Ricardo *(1771)***
 
- **>** 
+**>** [Link](https://www.lichess.org/jORs1Lx5), *C50 - Italian Game: Anti-Fried Liver Defense*.
 * Léo *(1933)*     -     Diogo *(1237)*
 
  **>** 
@@ -25,12 +25,12 @@ De folga: Alexandre (1154)
 
 #### Blitz:
 
-* Vitor *(1159)* `0   -   1` **Milton *(1613)***
+* Vitor *(1154)* `0   -   1` **Milton *(1613)***
 
 **>** [Link](https://www.lichess.org/vf5wM9Rz), *B30 - Sicilian Defense: Nyezhmetdinov-Rossolimo Attack*.
-* Ricardo *(1625)*     -     Felipe *(1378)*
+* **Ricardo *(1625)*** `1   -   0`  Felipe *(1378)*
 
- **>** 
+**>** [Link](https://www.lichess.org/GY5kET9w), *C41 - Philidor Defense*.
 * Diogo *(1455)*     -     Léo *(1861)*
 
  **>** 
