@@ -31,7 +31,7 @@ De folga: Ribas (1623)
 * Felipe *(1378)*     -     Júlio *(1519)*
 
  **>** 
-* Freddy *(1787)*     -     Milton *(1613)*
+* Freddy *(1787)*     -     Milton *(1619)*
 
  **>** 
 * Renato *(997)*     -     Ricardo *(1625)*
