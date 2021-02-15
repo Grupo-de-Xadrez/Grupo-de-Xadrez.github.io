@@ -21,7 +21,7 @@
 
 **>** [Link](https://www.lichess.org/mvtmGlJJ), *C41 - Philidor Defense*.
 
-De folga: Vitor (1327)
+De folga: Vitor (1319)
 
 #### Blitz:
 

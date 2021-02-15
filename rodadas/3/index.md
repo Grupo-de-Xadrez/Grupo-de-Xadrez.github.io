@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* Vitor *(1327)* `0   -   1` **Freddy *(1882)***
+* Vitor *(1319)* `0   -   1` **Freddy *(1882)***
 
 **>** [Link](https://www.lichess.org/mPoMdB5X), *C00 - French Defense: Queen's Knight*.
 * **Júlio *(1676)*** `1   -   0`  Renato *(1236)*

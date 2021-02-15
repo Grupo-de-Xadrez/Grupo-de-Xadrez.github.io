@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* Ricardo *(1771)*     -     Vitor *(1327)*
+* Ricardo *(1771)*     -     Vitor *(1319)*
 
  **>** 
 * Alexandre *(1154)*     -     Milton *(1889)*

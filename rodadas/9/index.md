@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* **Milton *(1889)*** `1   -   0`  Vitor *(1327)*
+* **Milton *(1889)*** `1   -   0`  Vitor *(1319)*
 
 **>** [Link](https://www.lichess.org/cvAf4XYT), *C24 - Bishop's Opening: Vienna Hybrid*.
 * Felipe *(1552)* `0   -   1` **Ricardo *(1771)***

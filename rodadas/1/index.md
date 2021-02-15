@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* Pedro *(1208)* `0   -   1` **Vitor *(1327)***
+* Pedro *(1208)* `0   -   1` **Vitor *(1319)***
 
 **>** [Link](https://www.lichess.org/V2sxuQDq), *D00 - Queen's Pawn Game*.
 * Renato *(1236)* `0   -   1` **Marcelo *(2049)***

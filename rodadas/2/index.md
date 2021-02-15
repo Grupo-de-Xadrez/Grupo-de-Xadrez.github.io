@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* Vitor *(1327)* `0   -   1` **Renato *(1236)*** `INVERTIDO`
+* Vitor *(1319)* `0   -   1` **Renato *(1236)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/uoeqKY9M), *C20 - English Opening: The Whale*.
 * Pedro *(1208)* `0   -   1` **Freddy *(1882)***

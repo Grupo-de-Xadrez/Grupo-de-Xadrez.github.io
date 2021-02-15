@@ -21,7 +21,7 @@
 
  **>** 
 
-De folga: Vitor (1327)
+De folga: Vitor (1319)
 
 #### Blitz:
 
