@@ -37,7 +37,7 @@ De folga: Vitor (1327)
 * Freddy *(1787)*     -     Alexandre *(1183)*
 
  **>** 
-* Léo *(1861)*     -     Renato *(1002)*
+* Léo *(1861)*     -     Renato *(997)*
 
  **>** 
 * Marcelo *(1717)*     -     Pedro *(1154)*

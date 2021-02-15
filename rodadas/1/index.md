@@ -28,7 +28,7 @@ De folga: Felipe (1552)
 * Vitor *(1152)* `0   -   1` **Pedro *(1154)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/Z4XgGxLN), *D00 - Queen's Pawn Game*.
-* **Marcelo *(1717)*** `1   -   0`  Renato *(1002)*
+* **Marcelo *(1717)*** `1   -   0`  Renato *(997)*
 
 **>** [Link](https://www.lichess.org/9SCbnWsf), *D00 - Queen's Pawn Game: Chigorin Variation*.
 * **Léo *(1861)*** `1   -   0`  Freddy *(1787)*
