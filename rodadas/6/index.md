@@ -11,10 +11,10 @@
 * Freddy *(1882)* `0   -   1` **Milton *(1889)***
 
 **>** [Link](https://www.lichess.org/DnGe3nKh), *D10 - Slav Defense: Exchange Variation*.
-* Renato *(1236)* `0   -   1` **Ricardo *(1771)***
+* Renato *(1235)* `0   -   1` **Ricardo *(1771)***
 
 **>** [Link](https://www.lichess.org/1Wnoetil), *D00 - Queen's Pawn Game*.
-* Pedro *(1208)* `0   -   1` **Alexandre *(1154)***
+* Pedro *(1209)* `0   -   1` **Alexandre *(1154)***
 
 **>** [Link](https://www.lichess.org/uq0GqkcY), *D00 - Queen's Pawn Game*.
 * Léo *(1933)* `½ - ½` Marcelo *(2049)*

@@ -14,10 +14,10 @@
 * Marcelo *(2049)*     -     Ribas *(1623)*
 
  **>** 
-* Júlio *(1676)*     -     Pedro *(1208)*
+* Júlio *(1676)*     -     Pedro *(1209)*
 
  **>** 
-* Renato *(1236)* `0   -   1` **Freddy *(1882)***
+* Renato *(1235)* `0   -   1` **Freddy *(1882)***
 
 **>** [Link](https://www.lichess.org/rxPhGsIN), *A40 - Horwitz Defense*.
 
