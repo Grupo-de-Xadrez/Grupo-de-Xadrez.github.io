@@ -40,7 +40,7 @@ De folga: Renato (1226)
 * Diogo *(1455)*     -     Freddy *(1787)*
 
  **>** 
-* Júlio *(1514)*     -     Ribas *(2055)*
+* Júlio *(1519)*     -     Ribas *(2055)*
 
  **>** 
 
