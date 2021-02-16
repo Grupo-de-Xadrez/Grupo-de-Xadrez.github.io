@@ -25,13 +25,13 @@ De folga: Ricardo (1771)
 
 #### Blitz:
 
-* Renato *(997)* `0   -   1` **Vitor *(1177)*** `INVERTIDO`
+* Renato *(997)* `0   -   1` **Vitor *(1173)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/8D1HswlL), *C20 - Center Game*.
 * **Freddy *(1787)*** `1   -   0`  Pedro *(1154)*
 
 **>** [Link](https://www.lichess.org/3GCiQUZb), *D20 - Queen's Gambit Accepted: Old Variation*.
-* Júlio *(1519)* `0   -   1` **Marcelo *(1717)***
+* Júlio *(1513)* `0   -   1` **Marcelo *(1717)***
 
 **>** [Link](https://www.lichess.org/bLg3vsmi), *A48 - London System*.
 * Ribas *(2055)* `0   -   1` **Léo *(1861)***

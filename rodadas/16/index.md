@@ -25,10 +25,10 @@ De folga: Léo (1933)
 
 #### Blitz:
 
-* Vitor *(1177)*     -     Freddy *(1787)*
+* Vitor *(1173)*     -     Freddy *(1787)*
 
  **>** 
-* Júlio *(1519)*     -     Renato *(997)*
+* Júlio *(1513)*     -     Renato *(997)*
 
  **>** 
 * Ribas *(2055)*     -     Pedro *(1154)*
