@@ -8,9 +8,9 @@
 * Felipe *(1552)* `0   -   1` **Ricardo *(1771)***
 
 **>** [Link](https://www.lichess.org/jORs1Lx5), *C50 - Italian Game: Anti-Fried Liver Defense*.
-* Léo *(1933)*     -     Diogo *(1237)*
+* **Léo *(1933)*** `1   -   0`  Diogo *(1237)*
 
- **>** 
+**>** [Link](https://www.lichess.org/bokVjkNU), *C69 - Ruy Lopez: Exchange Variation, King's Bishop Variation*.
 * **Marcelo *(2049)*** `1   -   0`  Ribas *(1623)*
 
 **>** [Link](https://www.lichess.org/H57Di5PJ), *B33 - Sicilian Defense: Open*.
@@ -31,9 +31,9 @@ De folga: Alexandre (1154)
 * **Ricardo *(1625)*** `1   -   0`  Felipe *(1378)*
 
 **>** [Link](https://www.lichess.org/GY5kET9w), *C41 - Philidor Defense*.
-* Diogo *(1455)*     -     Léo *(1861)*
+* Diogo *(1455)* `½ - ½` Léo *(1861)*
 
- **>** 
+**>** [Link](https://www.lichess.org/JAvSCtvm), *D01 - Queen's Pawn Game: Veresov Attack, Two Knights System*.
 * Ribas *(2055)* `0   -   1` **Marcelo *(1717)***
 
 **>** [Link](https://www.lichess.org/7Y9AzenX), *B46 - Sicilian Defense: Paulsen Variation*.
