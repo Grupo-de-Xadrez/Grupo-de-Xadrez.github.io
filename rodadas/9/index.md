@@ -11,9 +11,9 @@
 * Léo *(1933)*     -     Diogo *(1237)*
 
  **>** 
-* Marcelo *(2049)*     -     Ribas *(1623)*
+* **Marcelo *(2049)*** `1   -   0`  Ribas *(1623)*
 
- **>** 
+**>** [Link](https://www.lichess.org/H57Di5PJ), *B33 - Sicilian Defense: Open*.
 * Júlio *(1676)*     -     Pedro *(1217)*
 
  **>** 
@@ -34,9 +34,9 @@ De folga: Alexandre (1154)
 * Diogo *(1455)*     -     Léo *(1861)*
 
  **>** 
-* Ribas *(2055)*     -     Marcelo *(1717)*
+* Ribas *(2055)* `0   -   1` **Marcelo *(1717)***
 
- **>** 
+**>** [Link](https://www.lichess.org/7Y9AzenX), *B46 - Sicilian Defense: Paulsen Variation*.
 * Pedro *(1154)*     -     Júlio *(1519)*
 
  **>** 
