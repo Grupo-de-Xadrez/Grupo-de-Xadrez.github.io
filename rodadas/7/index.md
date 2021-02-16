@@ -14,10 +14,10 @@
 * **Freddy *(1882)*** `1   -   0`  Alexandre *(1154)*
 
 **>** [Link](https://www.lichess.org/c4RUGpPR), *D30 - Queen's Gambit Declined*.
-* **Léo *(1933)*** `1   -   0`  Renato *(1235)*
+* **Léo *(1933)*** `1   -   0`  Renato *(1226)*
 
 **>** [Link](https://www.lichess.org/qlgtkmyW), *B27 - Sicilian Defense: Jalalabad Variation*.
-* **Marcelo *(2049)*** `1   -   0`  Pedro *(1209)*
+* **Marcelo *(2049)*** `1   -   0`  Pedro *(1217)*
 
 **>** [Link](https://www.lichess.org/mvtmGlJJ), *C41 - Philidor Defense*.
 

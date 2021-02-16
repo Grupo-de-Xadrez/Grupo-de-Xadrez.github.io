@@ -8,7 +8,7 @@
 * Ribas *(1623)* `0   -   1` **Freddy *(1882)***
 
 **>** [Link](https://www.lichess.org/cdRVlh4r), *C00 - French Defense: Knight Variation*.
-* Renato *(1235)* `0   -   1` **Diogo *(1237)***
+* Renato *(1226)* `0   -   1` **Diogo *(1237)***
 
 **>** [Link](https://www.lichess.org/7bYFbRah), *D00 - Queen's Pawn Game*.
 * **Marcelo *(2049)*** `1   -   0`  Felipe *(1552)*
@@ -21,7 +21,7 @@
 
 **>** [Link](https://www.lichess.org/sZT5rfu1), *C20 - King's Pawn Game: Leonardis Variation*.
 
-De folga: Pedro (1209)
+De folga: Pedro (1217)
 
 #### Blitz:
 

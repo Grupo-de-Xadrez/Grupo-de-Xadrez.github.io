@@ -2,10 +2,10 @@
 
 #### Rapid:
 
-* Pedro *(1209)* `0   -   1` **Vitor *(1319)***
+* Pedro *(1217)* `0   -   1` **Vitor *(1319)***
 
 **>** [Link](https://www.lichess.org/V2sxuQDq), *D00 - Queen's Pawn Game*.
-* Renato *(1235)* `0   -   1` **Marcelo *(2049)***
+* Renato *(1226)* `0   -   1` **Marcelo *(2049)***
 
 **>** [Link](https://www.lichess.org/88IwjQLc), *D00 - Queen's Pawn Game: Mason Attack*.
 * Freddy *(1882)* `0   -   1` **Léo *(1933)***

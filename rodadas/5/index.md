@@ -8,10 +8,10 @@
 * Diogo *(1237)* `0   -   1` **Júlio *(1676)***
 
 **>** [Link](https://www.lichess.org/tacQGS40), *A45 - Queen's Pawn Game: Chigorin Variation*.
-* Renato *(1235)* `0   -   1` **Felipe *(1552)***
+* Renato *(1226)* `0   -   1` **Felipe *(1552)***
 
 **>** [Link](https://www.lichess.org/rxcxV1No), *C41 - Philidor Defense*.
-* Pedro *(1209)* `0   -   1` **Milton *(1889)***
+* Pedro *(1217)* `0   -   1` **Milton *(1889)***
 
 **>** [Link](https://www.lichess.org/H4MP7ROS), *D00 - Queen's Pawn Game*.
 * Ricardo *(1771)* `0   -   1` **Marcelo *(2049)***
