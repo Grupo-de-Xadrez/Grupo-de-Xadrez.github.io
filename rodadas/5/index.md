@@ -31,7 +31,7 @@ De folga: Freddy (1882)
 * **Júlio *(1513)*** `1   -   0`  Diogo *(1455)*
 
 **>** [Link](https://www.lichess.org/USQgItX9), *A40 - Horwitz Defense*.
-* **Felipe *(1378)*** `1   -   0`  Renato *(987)*
+* **Felipe *(1378)*** `1   -   0`  Renato *(982)*
 
 **>** [Link](https://www.lichess.org/XIfFoMyW), *C23 - Bishop's Opening*.
 * **Milton *(1628)*** `1   -   0`  Pedro *(1154)*
