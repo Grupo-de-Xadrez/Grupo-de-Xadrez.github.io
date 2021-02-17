@@ -40,7 +40,7 @@ De folga: Marcelo (2049)
 * Ribas *(2055)*     -     Renato *(994)*
 
  **>** 
-* Freddy *(1787)*     -     Júlio *(1543)*
+* Freddy *(1787)*     -     Júlio *(1538)*
 
  **>** 
 
