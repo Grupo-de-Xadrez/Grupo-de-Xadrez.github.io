@@ -28,13 +28,13 @@ De folga: Felipe (1552)
 * Vitor *(1173)* `0   -   1` **Pedro *(1154)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/Z4XgGxLN), *D00 - Queen's Pawn Game*.
-* **Marcelo *(1717)*** `1   -   0`  Renato *(982)*
+* **Marcelo *(1717)*** `1   -   0`  Renato *(989)*
 
 **>** [Link](https://www.lichess.org/9SCbnWsf), *D00 - Queen's Pawn Game: Chigorin Variation*.
 * **Léo *(1861)*** `1   -   0`  Freddy *(1787)*
 
 **>** [Link](https://www.lichess.org/EdwQe0e0), *A45 - Trompowsky Attack*.
-* Alexandre *(1183)* `0   -   1` **Júlio *(1513)***
+* Alexandre *(1183)* `0   -   1` **Júlio *(1525)***
 
 **>** [Link](https://www.lichess.org/r9QMmITh), *D00 - Queen's Pawn Game*.
 * Ribas *(2055)* `0   -   1` **Ricardo *(1625)***

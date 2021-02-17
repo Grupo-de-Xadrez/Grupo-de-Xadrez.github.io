@@ -37,10 +37,10 @@ De folga: Alexandre (1154)
 * Ribas *(2055)* `0   -   1` **Marcelo *(1717)***
 
 **>** [Link](https://www.lichess.org/7Y9AzenX), *B46 - Sicilian Defense: Paulsen Variation*.
-* Pedro *(1154)*     -     Júlio *(1513)*
+* Pedro *(1154)*     -     Júlio *(1525)*
 
  **>** 
-* **Freddy *(1787)*** `1   -   0`  Renato *(982)*
+* **Freddy *(1787)*** `1   -   0`  Renato *(989)*
 
 **>** [Link](https://www.lichess.org/He4kkwh3), *D10 - Slav Defense: Exchange Variation*.
 

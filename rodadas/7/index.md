@@ -31,13 +31,13 @@ De folga: Vitor (1319)
 * Milton *(1628)* `½ - ½` Ribas *(2055)*
 
 **>** [Link](https://www.lichess.org/JY2PY2di), *B20 - Sicilian Defense: Staunton-Cochrane Variation*.
-* Ricardo *(1625)* `0   -   1` **Júlio *(1513)***
+* Ricardo *(1625)* `0   -   1` **Júlio *(1525)***
 
 **>** [Link](https://www.lichess.org/m0SZj8Sq), *C44 - King's Knight Opening: Normal Variation*.
 * Alexandre *(1183)* `0   -   1` **Freddy *(1787)***
 
 **>** [Link](https://www.lichess.org/BU6Y8gxM), *C00 - French Defense: Schlechter Variation*.
-* Renato *(982)* `0   -   1` **Léo *(1861)***
+* Renato *(989)* `0   -   1` **Léo *(1861)***
 
 **>** [Link](https://www.lichess.org/Zuj9WuHM), *D00 - Queen's Pawn Game: Mason Attack*.
 * Pedro *(1154)* `0   -   1` **Marcelo *(1717)***

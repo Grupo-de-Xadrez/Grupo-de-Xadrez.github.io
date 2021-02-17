@@ -25,13 +25,13 @@ De folga: Pedro (1217)
 
 #### Blitz:
 
-* **Júlio *(1513)*** `1   -   0`  Vitor *(1173)*
+* **Júlio *(1525)*** `1   -   0`  Vitor *(1173)*
 
 **>** [Link](https://www.lichess.org/IwpZ88MV), *D00 - Queen's Pawn Game: Mason Variation*.
 * Freddy *(1787)* `0   -   1` **Ribas *(2055)***
 
 **>** [Link](https://www.lichess.org/HRkvmdFA), *D06 - Queen's Gambit Declined: Marshall Defense*.
-* Diogo *(1455)* `0   -   1` **Renato *(982)***
+* Diogo *(1455)* `0   -   1` **Renato *(989)***
 
 **>** [Link](https://www.lichess.org/AJWXTn79), *C40 - King's Pawn Game: Damiano Defense*.
 * Felipe *(1378)* `0   -   1` **Marcelo *(1717)***
