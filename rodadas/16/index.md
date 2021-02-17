@@ -28,7 +28,7 @@ De folga: Léo (1933)
 * Vitor *(1173)*     -     Freddy *(1787)*
 
  **>** 
-* Júlio *(1513)*     -     Renato *(975)*
+* Júlio *(1513)*     -     Renato *(981)*
 
  **>** 
 * Ribas *(2055)*     -     Pedro *(1154)*
