@@ -14,7 +14,7 @@
 * **Marcelo *(2049)*** `1   -   0`  Ribas *(1623)*
 
 **>** [Link](https://www.lichess.org/H57Di5PJ), *B33 - Sicilian Defense: Open*.
-* Júlio *(1703)*     -     Pedro *(1217)*
+* Júlio *(1740)*     -     Pedro *(1217)*
 
  **>** 
 * Renato *(1226)* `0   -   1` **Freddy *(1882)***

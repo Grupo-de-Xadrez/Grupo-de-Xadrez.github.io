@@ -5,7 +5,7 @@
 * **Diogo *(1237)*** `1   -   0`  Vitor *(1319)*
 
 **>** [Link](https://www.lichess.org/oLT8dFSp), *D01 - Rapport-Jobava System*.
-* Felipe *(1552)* `0   -   1` **Júlio *(1703)***
+* Felipe *(1552)* `0   -   1` **Júlio *(1740)***
 
 **>** [Link](https://www.lichess.org/UPHBOLK8), *C24 - Bishop's Opening: Berlin Defense*.
 * Freddy *(1882)* `0   -   1` **Milton *(1889)***
