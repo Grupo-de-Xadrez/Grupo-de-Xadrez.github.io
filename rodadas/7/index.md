@@ -8,7 +8,7 @@
 * Ribas *(1623)* `0   -   1` **Milton *(1889)***
 
 **>** [Link](https://www.lichess.org/4PHI8qN4), *D10 - Slav Defense*.
-* Júlio *(1676)* `½ - ½` Ricardo *(1771)*
+* Júlio *(1703)* `½ - ½` Ricardo *(1771)*
 
 **>** [Link](https://www.lichess.org/Tflx76ez), *D00 - Queen's Pawn Game: Mason Variation*.
 * **Freddy *(1882)*** `1   -   0`  Alexandre *(1154)*
@@ -37,7 +37,7 @@ De folga: Vitor (1319)
 * Alexandre *(1183)* `0   -   1` **Freddy *(1787)***
 
 **>** [Link](https://www.lichess.org/BU6Y8gxM), *C00 - French Defense: Schlechter Variation*.
-* Renato *(989)* `0   -   1` **Léo *(1861)***
+* Renato *(994)* `0   -   1` **Léo *(1861)***
 
 **>** [Link](https://www.lichess.org/Zuj9WuHM), *D00 - Queen's Pawn Game: Mason Attack*.
 * Pedro *(1154)* `0   -   1` **Marcelo *(1717)***

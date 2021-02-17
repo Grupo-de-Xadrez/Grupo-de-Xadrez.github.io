@@ -21,7 +21,7 @@
 
  **>** 
 
-De folga: Júlio (1676)
+De folga: Júlio (1703)
 
 #### Blitz:
 
@@ -34,7 +34,7 @@ De folga: Júlio (1676)
 * Pedro *(1154)*     -     Ricardo *(1625)*
 
  **>** 
-* Milton *(1628)*     -     Renato *(989)*
+* Milton *(1628)*     -     Renato *(994)*
 
  **>** 
 * Freddy *(1787)*     -     Felipe *(1378)*

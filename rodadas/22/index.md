@@ -14,7 +14,7 @@
 * Ribas *(1623)*     -     Marcelo *(2049)*
 
  **>** 
-* Pedro *(1217)*     -     Júlio *(1676)*
+* Pedro *(1217)*     -     Júlio *(1703)*
 
  **>** 
 * Freddy *(1882)*     -     Renato *(1226)*
@@ -40,7 +40,7 @@ De folga: Alexandre (1154)
 * Júlio *(1543)*     -     Pedro *(1154)*
 
  **>** 
-* Renato *(989)*     -     Freddy *(1787)*
+* Renato *(994)*     -     Freddy *(1787)*
 
  **>** 
 

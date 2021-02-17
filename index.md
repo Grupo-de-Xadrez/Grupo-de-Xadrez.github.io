@@ -6,12 +6,12 @@
 * DIO: **Diogo**, a.k.a. [@diogo98](https://www.lichess.org/@/diogo98) *(Rapid: 1237, Blitz: 1455)*
 * FEL: **Felipe**, a.k.a. [@Fgcotta](https://www.lichess.org/@/Fgcotta) *(Rapid: 1552, Blitz: 1378)*
 * FRE: **Freddy**, a.k.a. [@PlixMax](https://www.lichess.org/@/PlixMax) *(Rapid: 1882, Blitz: 1787)*
-* JUL: **Júlio**, a.k.a. [@juliopinheiro](https://www.lichess.org/@/juliopinheiro) *(Rapid: 1676, Blitz: 1543)*
+* JUL: **Júlio**, a.k.a. [@juliopinheiro](https://www.lichess.org/@/juliopinheiro) *(Rapid: 1703, Blitz: 1543)*
 * LEO: **Léo**, a.k.a. [@killer9](https://www.lichess.org/@/killer9) *(Rapid: 1933, Blitz: 1861)*
 * MAR: **Marcelo**, a.k.a. [@mkvieira](https://www.lichess.org/@/mkvieira) *(Rapid: 2049, Blitz: 1717)*
 * MIL: **Milton**, a.k.a. [@milton1960](https://www.lichess.org/@/milton1960) *(Rapid: 1889, Blitz: 1628)*
 * PED: **Pedro**, a.k.a. [@Phoenix20201](https://www.lichess.org/@/Phoenix20201) *(Rapid: 1217, Blitz: 1154)*
-* REN: **Renato**, a.k.a. [@Padilha20](https://www.lichess.org/@/Padilha20) *(Rapid: 1226, Blitz: 989)*
+* REN: **Renato**, a.k.a. [@Padilha20](https://www.lichess.org/@/Padilha20) *(Rapid: 1226, Blitz: 994)*
 * RIC: **Ricardo**, a.k.a. [@r-k-k](https://www.lichess.org/@/r-k-k) *(Rapid: 1771, Blitz: 1625)*
 * RIB: **Ribas**, a.k.a. [@Rpribas](https://www.lichess.org/@/Rpribas) *(Rapid: 1623, Blitz: 2055)*
 * VIT: **Vitor**, a.k.a. [@VitorStahlhoefer](https://www.lichess.org/@/VitorStahlhoefer) *(Rapid: 1319, Blitz: 1173)*
@@ -34,7 +34,7 @@
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1 | Léo (1933) | 7½ | 8 | 4 | 7 |
 | 2 | Marcelo (2049) | 7 | 9 | 4 | 6 |
-| 3 | Júlio (1676) | 6 | 8 | 4 | 5 |
+| 3 | Júlio (1703) | 6 | 8 | 4 | 5 |
 | 3 | Ricardo (1771) | 6 | 8 | 4 | 5 |
 | 5 | Freddy (1882) | 5½ | 8 | 5 | 5 |
 | 6 | Felipe (1552) | 5 | 8 | 4 | 5 |
@@ -61,7 +61,7 @@
 | 9 | Pedro (1154) | 3 | 7 | 5 | 3 |
 | 10 | Vitor (1173) | 2½ | 8 | 3 | 2 |
 | 11 | Diogo (1455) | 2 | 9 | 4 | 1 |
-| 12 | Renato (989) | 1 | 9 | 5 | 1 |
+| 12 | Renato (994) | 1 | 9 | 5 | 1 |
 | 13 | Alexandre (1183) | 0½ | 8 | 4 | 0 |
 
 ## Resultados

@@ -5,7 +5,7 @@
 * **Ribas *(1623)*** `1   -   0`  Vitor *(1319)*
 
 **>** [Link](https://www.lichess.org/uUGYj33X), *D20 - Queen's Gambit Accepted*.
-* Diogo *(1237)* `0   -   1` **Júlio *(1676)***
+* Diogo *(1237)* `0   -   1` **Júlio *(1703)***
 
 **>** [Link](https://www.lichess.org/tacQGS40), *A45 - Queen's Pawn Game: Chigorin Variation*.
 * Renato *(1226)* `0   -   1` **Felipe *(1552)***
@@ -31,7 +31,7 @@ De folga: Freddy (1882)
 * **Júlio *(1543)*** `1   -   0`  Diogo *(1455)*
 
 **>** [Link](https://www.lichess.org/USQgItX9), *A40 - Horwitz Defense*.
-* **Felipe *(1378)*** `1   -   0`  Renato *(989)*
+* **Felipe *(1378)*** `1   -   0`  Renato *(994)*
 
 **>** [Link](https://www.lichess.org/XIfFoMyW), *C23 - Bishop's Opening*.
 * **Milton *(1628)*** `1   -   0`  Pedro *(1154)*

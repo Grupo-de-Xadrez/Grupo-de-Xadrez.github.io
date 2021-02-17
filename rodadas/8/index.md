@@ -11,7 +11,7 @@
 * Alexandre *(1154)* `0   -   1` **Ribas *(1623)***
 
 **>** [Link](https://www.lichess.org/v82wftGd), *C20 - King's Pawn Game: Leonardis Variation*.
-* Júlio *(1676)* `0   -   1` **Léo *(1933)***
+* Júlio *(1703)* `0   -   1` **Léo *(1933)***
 
 **>** [Link](https://www.lichess.org/Y3GmBysX), *B06 - Modern Defense: Standard Defense*.
 * Marcelo *(2049)* `½ - ½` Freddy *(1882)*
@@ -40,7 +40,7 @@ De folga: Milton (1889)
 * Freddy *(1787)* `0   -   1` **Marcelo *(1717)***
 
 **>** [Link](https://www.lichess.org/aQvQgFvB), *E81 - King's Indian Defense: Steiner Attack*.
-* Renato *(989)* `0   -   1` **Pedro *(1154)***
+* Renato *(994)* `0   -   1` **Pedro *(1154)***
 
 **>** [Link](https://www.lichess.org/xt6SEfF6), *D00 - Queen's Pawn Game*.
 

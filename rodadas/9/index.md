@@ -14,7 +14,7 @@
 * **Marcelo *(2049)*** `1   -   0`  Ribas *(1623)*
 
 **>** [Link](https://www.lichess.org/H57Di5PJ), *B33 - Sicilian Defense: Open*.
-* Júlio *(1676)*     -     Pedro *(1217)*
+* Júlio *(1703)*     -     Pedro *(1217)*
 
  **>** 
 * Renato *(1226)* `0   -   1` **Freddy *(1882)***
@@ -40,7 +40,7 @@ De folga: Alexandre (1154)
 * Pedro *(1154)*     -     Júlio *(1543)*
 
  **>** 
-* **Freddy *(1787)*** `1   -   0`  Renato *(989)*
+* **Freddy *(1787)*** `1   -   0`  Renato *(994)*
 
 **>** [Link](https://www.lichess.org/He4kkwh3), *D10 - Slav Defense: Exchange Variation*.
 
