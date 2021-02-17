@@ -37,7 +37,7 @@ De folga: Diogo (1237)
 * Ricardo *(1625)*     -     Freddy *(1787)*
 
  **>** 
-* Milton *(1628)*     -     Júlio *(1542)*
+* Milton *(1628)*     -     Júlio *(1543)*
 
  **>** 
 * Felipe *(1378)*     -     Ribas *(2055)*
