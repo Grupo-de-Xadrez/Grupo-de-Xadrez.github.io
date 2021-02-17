@@ -34,7 +34,7 @@ De folga: Felipe (1552)
 * Freddy *(1787)*     -     Léo *(1861)*
 
  **>** 
-* Júlio *(1531)*     -     Alexandre *(1183)*
+* Júlio *(1536)*     -     Alexandre *(1183)*
 
  **>** 
 * Ricardo *(1625)*     -     Ribas *(2055)*
