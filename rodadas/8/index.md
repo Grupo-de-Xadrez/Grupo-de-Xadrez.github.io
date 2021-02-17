@@ -34,7 +34,7 @@ De folga: Milton (1889)
 * **Ribas *(2055)*** `1   -   0`  Alexandre *(1183)*
 
 **>** [Link](https://www.lichess.org/1QNCTqCm), *C30 - King's Gambit*.
-* **Léo *(1861)*** `1   -   0`  Júlio *(1525)*
+* **Léo *(1861)*** `1   -   0`  Júlio *(1531)*
 
 **>** [Link](https://www.lichess.org/vhpeAYWf), *C65 - Ruy Lopez: Berlin Defense*.
 * Freddy *(1787)* `0   -   1` **Marcelo *(1717)***
