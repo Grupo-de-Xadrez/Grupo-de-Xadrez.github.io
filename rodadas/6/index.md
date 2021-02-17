@@ -31,7 +31,7 @@ De folga: Ribas (1623)
 * **Júlio *(1538)*** `1   -   0`  Felipe *(1378)*
 
 **>** [Link](https://www.lichess.org/Hd2EH2bV), *D00 - Queen's Pawn Game: Mason Variation*.
-* Milton *(1617)* `0   -   1` **Freddy *(1787)***
+* Milton *(1621)* `0   -   1` **Freddy *(1787)***
 
 **>** [Link](https://www.lichess.org/kntzkFHk), *C00 - French Defense*.
 * **Ricardo *(1625)*** `1   -   0`  Renato *(994)*
