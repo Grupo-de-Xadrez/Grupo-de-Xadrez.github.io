@@ -5,10 +5,10 @@
 * Vitor *(1319)* `0   -   1` **Renato *(1226)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/uoeqKY9M), *C20 - English Opening: The Whale*.
-* Pedro *(1217)* `0   -   1` **Freddy *(1882)***
+* Pedro *(1225)* `0   -   1` **Freddy *(1882)***
 
 **>** [Link](https://www.lichess.org/7lTkPhIV), *D00 - Queen's Pawn Game*.
-* Marcelo *(2049)* `0   -   1` **Júlio *(1740)***
+* Marcelo *(2049)* `0   -   1` **Júlio *(1768)***
 
 **>** [Link](https://www.lichess.org/t9BXx170), *C55 - Italian Game: Two Knights Defense, Modern Bishop's Opening*.
 * **Léo *(1933)*** `1   -   0`  Ribas *(1623)*
@@ -25,13 +25,13 @@ De folga: Ricardo (1771)
 
 #### Blitz:
 
-* Renato *(994)* `0   -   1` **Vitor *(1185)*** `INVERTIDO`
+* Renato *(981)* `0   -   1` **Vitor *(1199)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/8D1HswlL), *C20 - Center Game*.
 * **Freddy *(1787)*** `1   -   0`  Pedro *(1131)*
 
 **>** [Link](https://www.lichess.org/3GCiQUZb), *D20 - Queen's Gambit Accepted: Old Variation*.
-* Júlio *(1540)* `0   -   1` **Marcelo *(1717)***
+* Júlio *(1553)* `0   -   1` **Marcelo *(1717)***
 
 **>** [Link](https://www.lichess.org/bLg3vsmi), *A48 - London System*.
 * Ribas *(2055)* `0   -   1` **Léo *(1861)***
@@ -40,7 +40,7 @@ De folga: Ricardo (1771)
 * Diogo *(1455)* `½ - ½` Alexandre *(1183)*
 
 **>** [Link](https://www.lichess.org/JLLAkhLx), *C41 - Philidor Defense*.
-* Felipe *(1378)* `0   -   1` **Milton *(1625)***
+* Felipe *(1378)* `0   -   1` **Milton *(1611)***
 
 **>** [Link](https://www.lichess.org/DJGNYvmh), *B20 - Sicilian Defense: Bowdler Attack*.
 

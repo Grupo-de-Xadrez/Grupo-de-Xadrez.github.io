@@ -14,9 +14,9 @@
 * **Marcelo *(2049)*** `1   -   0`  Ribas *(1623)*
 
 **>** [Link](https://www.lichess.org/H57Di5PJ), *B33 - Sicilian Defense: Open*.
-* Júlio *(1740)*     -     Pedro *(1217)*
+* **Júlio *(1768)*** `1   -   0`  Pedro *(1225)*
 
- **>** 
+**>** [Link](https://www.lichess.org/rROVT2Qw), *D00 - Queen's Pawn Game: Mason Variation*.
 * Renato *(1226)* `0   -   1` **Freddy *(1882)***
 
 **>** [Link](https://www.lichess.org/rxPhGsIN), *A40 - Horwitz Defense*.
@@ -25,7 +25,7 @@ De folga: Alexandre (1154)
 
 #### Blitz:
 
-* Vitor *(1185)* `0   -   1` **Milton *(1625)***
+* Vitor *(1199)* `0   -   1` **Milton *(1611)***
 
 **>** [Link](https://www.lichess.org/vf5wM9Rz), *B30 - Sicilian Defense: Nyezhmetdinov-Rossolimo Attack*.
 * **Ricardo *(1625)*** `1   -   0`  Felipe *(1378)*
@@ -37,10 +37,10 @@ De folga: Alexandre (1154)
 * Ribas *(2055)* `0   -   1` **Marcelo *(1717)***
 
 **>** [Link](https://www.lichess.org/7Y9AzenX), *B46 - Sicilian Defense: Paulsen Variation*.
-* Pedro *(1131)*     -     Júlio *(1540)*
+* Pedro *(1131)*     -     Júlio *(1553)*
 
  **>** 
-* **Freddy *(1787)*** `1   -   0`  Renato *(994)*
+* **Freddy *(1787)*** `1   -   0`  Renato *(981)*
 
 **>** [Link](https://www.lichess.org/He4kkwh3), *D10 - Slav Defense: Exchange Variation*.
 

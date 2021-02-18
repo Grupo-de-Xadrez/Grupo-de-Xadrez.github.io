@@ -5,13 +5,13 @@
 * Vitor *(1319)*     -     Ribas *(1623)*
 
  **>** 
-* Júlio *(1740)*     -     Diogo *(1237)*
+* Júlio *(1768)*     -     Diogo *(1237)*
 
  **>** 
 * Felipe *(1552)*     -     Renato *(1226)*
 
  **>** 
-* Milton *(1889)*     -     Pedro *(1217)*
+* Milton *(1889)*     -     Pedro *(1225)*
 
  **>** 
 * Marcelo *(2049)*     -     Ricardo *(1771)*
@@ -25,16 +25,16 @@ De folga: Freddy (1882)
 
 #### Blitz:
 
-* Ribas *(2055)*     -     Vitor *(1185)*
+* Ribas *(2055)*     -     Vitor *(1199)*
 
  **>** 
-* Diogo *(1455)*     -     Júlio *(1540)*
+* Diogo *(1455)*     -     Júlio *(1553)*
 
  **>** 
-* Renato *(994)*     -     Felipe *(1378)*
+* Renato *(981)*     -     Felipe *(1378)*
 
  **>** 
-* Pedro *(1131)*     -     Milton *(1625)*
+* Pedro *(1131)*     -     Milton *(1611)*
 
  **>** 
 * Ricardo *(1625)*     -     Marcelo *(1717)*

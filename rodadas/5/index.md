@@ -5,13 +5,13 @@
 * **Ribas *(1623)*** `1   -   0`  Vitor *(1319)*
 
 **>** [Link](https://www.lichess.org/uUGYj33X), *D20 - Queen's Gambit Accepted*.
-* Diogo *(1237)* `0   -   1` **Júlio *(1740)***
+* Diogo *(1237)* `0   -   1` **Júlio *(1768)***
 
 **>** [Link](https://www.lichess.org/tacQGS40), *A45 - Queen's Pawn Game: Chigorin Variation*.
 * Renato *(1226)* `0   -   1` **Felipe *(1552)***
 
 **>** [Link](https://www.lichess.org/rxcxV1No), *C41 - Philidor Defense*.
-* Pedro *(1217)* `0   -   1` **Milton *(1889)***
+* Pedro *(1225)* `0   -   1` **Milton *(1889)***
 
 **>** [Link](https://www.lichess.org/H4MP7ROS), *D00 - Queen's Pawn Game*.
 * Ricardo *(1771)* `0   -   1` **Marcelo *(2049)***
@@ -25,16 +25,16 @@ De folga: Freddy (1882)
 
 #### Blitz:
 
-* Vitor *(1185)* `½ - ½` Ribas *(2055)*
+* Vitor *(1199)* `½ - ½` Ribas *(2055)*
 
 **>** [Link](https://www.lichess.org/jCwtl7kN), *B20 - Sicilian Defense: Bowdler Attack*.
-* **Júlio *(1540)*** `1   -   0`  Diogo *(1455)*
+* **Júlio *(1553)*** `1   -   0`  Diogo *(1455)*
 
 **>** [Link](https://www.lichess.org/USQgItX9), *A40 - Horwitz Defense*.
-* **Felipe *(1378)*** `1   -   0`  Renato *(994)*
+* **Felipe *(1378)*** `1   -   0`  Renato *(981)*
 
 **>** [Link](https://www.lichess.org/XIfFoMyW), *C23 - Bishop's Opening*.
-* **Milton *(1625)*** `1   -   0`  Pedro *(1131)*
+* **Milton *(1611)*** `1   -   0`  Pedro *(1131)*
 
 **>** [Link](https://www.lichess.org/Piatvx1D), *C23 - Bishop's Opening*.
 * Marcelo *(1717)* `0   -   1` **Ricardo *(1625)***

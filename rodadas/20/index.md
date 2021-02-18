@@ -8,7 +8,7 @@
 * Milton *(1889)*     -     Ribas *(1623)*
 
  **>** 
-* Ricardo *(1771)*     -     Júlio *(1740)*
+* Ricardo *(1771)*     -     Júlio *(1768)*
 
  **>** 
 * Alexandre *(1154)*     -     Freddy *(1882)*
@@ -17,7 +17,7 @@
 * Renato *(1226)*     -     Léo *(1933)*
 
  **>** 
-* Pedro *(1217)*     -     Marcelo *(2049)*
+* Pedro *(1225)*     -     Marcelo *(2049)*
 
  **>** 
 
@@ -28,21 +28,21 @@ De folga: Vitor (1319)
 * Diogo *(1455)*     -     Felipe *(1378)*
 
  **>** 
-* Ribas *(2055)*     -     Milton *(1625)*
+* Ribas *(2055)*     -     Milton *(1611)*
 
  **>** 
-* Júlio *(1540)*     -     Ricardo *(1625)*
+* Júlio *(1553)*     -     Ricardo *(1625)*
 
  **>** 
 * Freddy *(1787)*     -     Alexandre *(1183)*
 
  **>** 
-* Léo *(1861)*     -     Renato *(994)*
+* Léo *(1861)*     -     Renato *(981)*
 
  **>** 
 * Marcelo *(1717)*     -     Pedro *(1131)*
 
  **>** 
 
-De folga: Vitor (1185)
+De folga: Vitor (1199)
 
