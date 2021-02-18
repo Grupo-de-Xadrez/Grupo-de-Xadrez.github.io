@@ -28,7 +28,7 @@ De folga: Alexandre (1154)
 * Vitor *(1199)* `0   -   1` **Milton *(1611)***
 
 **>** [Link](https://www.lichess.org/vf5wM9Rz), *B30 - Sicilian Defense: Nyezhmetdinov-Rossolimo Attack*.
-* **Ricardo *(1625)*** `1   -   0`  Felipe *(1378)*
+* **Ricardo *(1625)*** `1   -   0`  Felipe *(1387)*
 
 **>** [Link](https://www.lichess.org/GY5kET9w), *C41 - Philidor Defense*.
 * Diogo *(1455)* `½ - ½` Léo *(1861)*

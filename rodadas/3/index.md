@@ -37,7 +37,7 @@ De folga: Léo (1933)
 * **Marcelo *(1717)*** `1   -   0`  Diogo *(1455)*
 
 **>** [Link](https://www.lichess.org/5TFXe391), *C16 - French Defense: Winawer Variation, Advance Variation*.
-* Alexandre *(1183)* `0   -   1` **Felipe *(1378)***
+* Alexandre *(1183)* `0   -   1` **Felipe *(1387)***
 
 **>** [Link](https://www.lichess.org/Ph54JBSv), *D00 - Queen's Pawn Game*.
 * Milton *(1611)* `0   -   1` **Ricardo *(1625)***

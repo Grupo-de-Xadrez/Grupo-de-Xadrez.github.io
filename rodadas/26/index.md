@@ -40,7 +40,7 @@ De folga: Diogo (1237)
 * Milton *(1611)*     -     Júlio *(1553)*
 
  **>** 
-* Felipe *(1378)*     -     Ribas *(2055)*
+* Felipe *(1387)*     -     Ribas *(2055)*
 
  **>** 
 

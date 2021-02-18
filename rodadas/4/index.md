@@ -34,7 +34,7 @@ De folga: Pedro (1225)
 * Diogo *(1455)* `0   -   1` **Renato *(981)***
 
 **>** [Link](https://www.lichess.org/AJWXTn79), *C40 - King's Pawn Game: Damiano Defense*.
-* Felipe *(1378)* `0   -   1` **Marcelo *(1717)***
+* Felipe *(1387)* `0   -   1` **Marcelo *(1717)***
 
 **>** [Link](https://www.lichess.org/wULx6CqR), *C02 - French Defense: Advance Variation*.
 * **Léo *(1861)*** `1   -   0`  Milton *(1611)*

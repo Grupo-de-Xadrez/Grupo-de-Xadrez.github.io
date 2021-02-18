@@ -31,7 +31,7 @@ De folga: Marcelo (2049)
 * Milton *(1611)*     -     Alexandre *(1183)*
 
  **>** 
-* Felipe *(1378)*     -     Léo *(1861)*
+* Felipe *(1387)*     -     Léo *(1861)*
 
  **>** 
 * Pedro *(1131)*     -     Diogo *(1455)*

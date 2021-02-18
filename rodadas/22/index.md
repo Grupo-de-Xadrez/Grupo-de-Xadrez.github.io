@@ -28,7 +28,7 @@ De folga: Alexandre (1154)
 * Milton *(1611)*     -     Vitor *(1199)*
 
  **>** 
-* Felipe *(1378)*     -     Ricardo *(1625)*
+* Felipe *(1387)*     -     Ricardo *(1625)*
 
  **>** 
 * Léo *(1861)*     -     Diogo *(1455)*
