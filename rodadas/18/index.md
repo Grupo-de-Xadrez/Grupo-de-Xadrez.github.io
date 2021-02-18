@@ -28,7 +28,7 @@ De folga: Freddy (1882)
 * Ribas *(2055)*     -     Vitor *(1199)*
 
  **>** 
-* Diogo *(1455)*     -     Júlio *(1554)*
+* Diogo *(1455)*     -     Júlio *(1548)*
 
  **>** 
 * Renato *(981)*     -     Felipe *(1387)*
