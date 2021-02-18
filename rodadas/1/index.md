@@ -25,7 +25,7 @@ De folga: Felipe (1552)
 
 #### Blitz:
 
-* Vitor *(1192)* `0   -   1` **Pedro *(1131)*** `INVERTIDO`
+* Vitor *(1204)* `0   -   1` **Pedro *(1131)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/Z4XgGxLN), *D00 - Queen's Pawn Game*.
 * **Marcelo *(1717)*** `1   -   0`  Renato *(981)*
@@ -34,7 +34,7 @@ De folga: Felipe (1552)
 * **Léo *(1861)*** `1   -   0`  Freddy *(1787)*
 
 **>** [Link](https://www.lichess.org/EdwQe0e0), *A45 - Trompowsky Attack*.
-* Alexandre *(1183)* `0   -   1` **Júlio *(1553)***
+* Alexandre *(1183)* `0   -   1` **Júlio *(1548)***
 
 **>** [Link](https://www.lichess.org/r9QMmITh), *D00 - Queen's Pawn Game*.
 * Ribas *(2055)* `0   -   1` **Ricardo *(1625)***

@@ -25,7 +25,7 @@ De folga: Marcelo (2049)
 
 #### Blitz:
 
-* Ricardo *(1625)*     -     Vitor *(1192)*
+* Ricardo *(1625)*     -     Vitor *(1204)*
 
  **>** 
 * Alexandre *(1183)*     -     Milton *(1611)*
@@ -40,7 +40,7 @@ De folga: Marcelo (2049)
 * Ribas *(2055)*     -     Renato *(981)*
 
  **>** 
-* Freddy *(1787)*     -     Júlio *(1553)*
+* Freddy *(1787)*     -     Júlio *(1548)*
 
  **>** 
 
