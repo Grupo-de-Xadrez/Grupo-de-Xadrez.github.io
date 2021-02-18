@@ -25,7 +25,7 @@ De folga: Pedro (1225)
 
 #### Blitz:
 
-* **Júlio *(1553)*** `1   -   0`  Vitor *(1186)*
+* **Júlio *(1553)*** `1   -   0`  Vitor *(1192)*
 
 **>** [Link](https://www.lichess.org/IwpZ88MV), *D00 - Queen's Pawn Game: Mason Variation*.
 * Freddy *(1787)* `0   -   1` **Ribas *(2055)***

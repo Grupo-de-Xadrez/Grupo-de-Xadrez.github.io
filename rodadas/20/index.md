@@ -44,5 +44,5 @@ De folga: Vitor (1319)
 
  **>** 
 
-De folga: Vitor (1186)
+De folga: Vitor (1192)
 
