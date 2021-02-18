@@ -37,7 +37,7 @@ De folga: Alexandre (1154)
 * Marcelo *(1717)*     -     Ribas *(2055)*
 
  **>** 
-* Júlio *(1548)*     -     Pedro *(1131)*
+* Júlio *(1554)*     -     Pedro *(1131)*
 
  **>** 
 * Renato *(981)*     -     Freddy *(1787)*
