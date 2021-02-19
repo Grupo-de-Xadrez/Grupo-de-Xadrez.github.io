@@ -31,7 +31,7 @@ De folga: Ricardo (1771)
 * **Freddy *(1787)*** `1   -   0`  Pedro *(1147)*
 
 **>** [Link](https://www.lichess.org/3GCiQUZb), *D20 - Queen's Gambit Accepted: Old Variation*.
-* Júlio *(1567)* `0   -   1` **Marcelo *(1717)***
+* Júlio *(1562)* `0   -   1` **Marcelo *(1717)***
 
 **>** [Link](https://www.lichess.org/bLg3vsmi), *A48 - London System*.
 * Ribas *(2055)* `0   -   1` **Léo *(1861)***
@@ -40,7 +40,7 @@ De folga: Ricardo (1771)
 * Diogo *(1455)* `½ - ½` Alexandre *(1183)*
 
 **>** [Link](https://www.lichess.org/JLLAkhLx), *C41 - Philidor Defense*.
-* Felipe *(1387)* `0   -   1` **Milton *(1636)***
+* Felipe *(1387)* `0   -   1` **Milton *(1634)***
 
 **>** [Link](https://www.lichess.org/DJGNYvmh), *B20 - Sicilian Defense: Bowdler Attack*.
 
