@@ -28,7 +28,7 @@ De folga: Freddy (1882)
 * Vitor *(1184)* `½ - ½` Ribas *(2055)*
 
 **>** [Link](https://www.lichess.org/jCwtl7kN), *B20 - Sicilian Defense: Bowdler Attack*.
-* **Júlio *(1561)*** `1   -   0`  Diogo *(1455)*
+* **Júlio *(1567)*** `1   -   0`  Diogo *(1455)*
 
 **>** [Link](https://www.lichess.org/USQgItX9), *A40 - Horwitz Defense*.
 * **Felipe *(1387)*** `1   -   0`  Renato *(983)*
