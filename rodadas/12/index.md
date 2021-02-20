@@ -25,7 +25,7 @@ De folga: Júlio (1768)
 
 #### Blitz:
 
-* Léo *(1861)*     -     Vitor *(1195)*
+* Léo *(1861)*     -     Vitor *(1188)*
 
  **>** 
 * Marcelo *(1717)*     -     Alexandre *(1183)*
