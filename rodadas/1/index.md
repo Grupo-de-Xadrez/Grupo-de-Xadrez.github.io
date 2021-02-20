@@ -25,7 +25,7 @@ De folga: Felipe (1552)
 
 #### Blitz:
 
-* Vitor *(1209)* `0   -   1` **Pedro *(1147)*** `INVERTIDO`
+* Vitor *(1216)* `0   -   1` **Pedro *(1147)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/Z4XgGxLN), *D00 - Queen's Pawn Game*.
 * **Marcelo *(1717)*** `1   -   0`  Renato *(1004)*
