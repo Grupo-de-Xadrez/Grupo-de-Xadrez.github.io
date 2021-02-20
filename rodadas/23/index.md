@@ -28,7 +28,7 @@ De folga: Marcelo (2049)
 * Ricardo *(1625)*     -     Vitor *(1213)*
 
  **>** 
-* Alexandre *(1183)*     -     Milton *(1623)*
+* Alexandre *(1183)*     -     Milton *(1625)*
 
  **>** 
 * Léo *(1861)*     -     Felipe *(1387)*
@@ -37,7 +37,7 @@ De folga: Marcelo (2049)
 * Diogo *(1455)*     -     Pedro *(1147)*
 
  **>** 
-* Ribas *(2055)*     -     Renato *(995)*
+* Ribas *(2055)*     -     Renato *(1004)*
 
  **>** 
 * Freddy *(1787)*     -     Júlio *(1557)*

@@ -31,10 +31,10 @@ De folga: Freddy (1882)
 * Diogo *(1455)*     -     Júlio *(1557)*
 
  **>** 
-* Renato *(995)*     -     Felipe *(1387)*
+* Renato *(1004)*     -     Felipe *(1387)*
 
  **>** 
-* Pedro *(1147)*     -     Milton *(1623)*
+* Pedro *(1147)*     -     Milton *(1625)*
 
  **>** 
 * Ricardo *(1625)*     -     Marcelo *(1717)*

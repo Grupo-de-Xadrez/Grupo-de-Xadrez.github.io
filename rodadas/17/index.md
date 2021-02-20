@@ -31,13 +31,13 @@ De folga: Pedro (1225)
 * Ribas *(2055)*     -     Freddy *(1787)*
 
  **>** 
-* Renato *(995)*     -     Diogo *(1455)*
+* Renato *(1004)*     -     Diogo *(1455)*
 
  **>** 
 * Marcelo *(1717)*     -     Felipe *(1387)*
 
  **>** 
-* Milton *(1623)*     -     Léo *(1861)*
+* Milton *(1625)*     -     Léo *(1861)*
 
  **>** 
 * Alexandre *(1183)*     -     Ricardo *(1625)*
