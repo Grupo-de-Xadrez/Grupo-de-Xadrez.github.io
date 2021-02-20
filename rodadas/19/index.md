@@ -25,13 +25,13 @@ De folga: Ribas (1623)
 
 #### Blitz:
 
-* Diogo *(1455)*     -     Vitor *(1190)*
+* Diogo *(1455)*     -     Vitor *(1195)*
 
  **>** 
 * Felipe *(1387)*     -     Júlio *(1557)*
 
  **>** 
-* Freddy *(1787)*     -     Milton *(1636)*
+* Freddy *(1787)*     -     Milton *(1632)*
 
  **>** 
 * Renato *(983)*     -     Ricardo *(1625)*
