@@ -21,7 +21,7 @@
 
  **>** 
 
-De folga: Júlio (1768)
+De folga: Júlio (1743)
 
 #### Blitz:
 
