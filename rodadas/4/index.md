@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* Vitor *(1319)* `½ - ½` Júlio *(1743)*
+* Vitor *(1319)* `½ - ½` Júlio *(1716)*
 
 **>** [Link](https://www.lichess.org/cNEagLGV), *C46 - Four Knights Game*.
 * Ribas *(1623)* `0   -   1` **Freddy *(1882)***
