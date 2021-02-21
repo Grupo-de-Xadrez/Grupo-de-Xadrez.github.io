@@ -8,7 +8,7 @@
 * Pedro *(1225)*     -     Léo *(1933)*
 
  **>** 
-* Alexandre *(1154)*     -     Renato *(1226)*
+* Alexandre *(1154)*     -     Renato *(1234)*
 
  **>** 
 * Freddy *(1882)*     -     Ricardo *(1771)*
@@ -31,13 +31,13 @@ De folga: Diogo (1237)
 * Léo *(1861)*     -     Pedro *(1147)*
 
  **>** 
-* Renato *(1004)*     -     Alexandre *(1183)*
+* Renato *(1008)*     -     Alexandre *(1183)*
 
  **>** 
 * Ricardo *(1625)*     -     Freddy *(1787)*
 
  **>** 
-* Milton *(1617)*     -     Júlio *(1557)*
+* Milton *(1632)*     -     Júlio *(1557)*
 
  **>** 
 * Felipe *(1387)*     -     Ribas *(2055)*

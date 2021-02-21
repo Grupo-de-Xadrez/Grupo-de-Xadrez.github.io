@@ -5,7 +5,7 @@
 * Pedro *(1225)* `0   -   1` **Vitor *(1319)***
 
 **>** [Link](https://www.lichess.org/V2sxuQDq), *D00 - Queen's Pawn Game*.
-* Renato *(1226)* `0   -   1` **Marcelo *(2049)***
+* Renato *(1234)* `0   -   1` **Marcelo *(2049)***
 
 **>** [Link](https://www.lichess.org/88IwjQLc), *D00 - Queen's Pawn Game: Mason Attack*.
 * Freddy *(1882)* `0   -   1` **Léo *(1933)***
@@ -28,7 +28,7 @@ De folga: Felipe (1552)
 * Vitor *(1212)* `0   -   1` **Pedro *(1147)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/Z4XgGxLN), *D00 - Queen's Pawn Game*.
-* **Marcelo *(1717)*** `1   -   0`  Renato *(1004)*
+* **Marcelo *(1717)*** `1   -   0`  Renato *(1008)*
 
 **>** [Link](https://www.lichess.org/9SCbnWsf), *D00 - Queen's Pawn Game: Chigorin Variation*.
 * **Léo *(1861)*** `1   -   0`  Freddy *(1787)*
@@ -40,7 +40,7 @@ De folga: Felipe (1552)
 * Ribas *(2055)* `0   -   1` **Ricardo *(1625)***
 
 **>** [Link](https://www.lichess.org/ocUpBa5T), *C34 - King's Gambit Accepted: Becker Defense*.
-* **Diogo *(1455)*** `1   -   0`  Milton *(1617)*
+* **Diogo *(1455)*** `1   -   0`  Milton *(1632)*
 
 **>** [Link](https://www.lichess.org/9E2gILyV), *D04 - Queen's Pawn Game: Colle System*.
 

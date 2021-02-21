@@ -11,7 +11,7 @@
 * Freddy *(1882)* `0   -   1` **Milton *(1889)***
 
 **>** [Link](https://www.lichess.org/DnGe3nKh), *D10 - Slav Defense: Exchange Variation*.
-* Renato *(1226)* `0   -   1` **Ricardo *(1771)***
+* Renato *(1234)* `0   -   1` **Ricardo *(1771)***
 
 **>** [Link](https://www.lichess.org/1Wnoetil), *D00 - Queen's Pawn Game*.
 * Pedro *(1225)* `0   -   1` **Alexandre *(1154)***
@@ -31,10 +31,10 @@ De folga: Ribas (1623)
 * **Júlio *(1557)*** `1   -   0`  Felipe *(1387)*
 
 **>** [Link](https://www.lichess.org/Hd2EH2bV), *D00 - Queen's Pawn Game: Mason Variation*.
-* Milton *(1617)* `0   -   1` **Freddy *(1787)***
+* Milton *(1632)* `0   -   1` **Freddy *(1787)***
 
 **>** [Link](https://www.lichess.org/kntzkFHk), *C00 - French Defense*.
-* **Ricardo *(1625)*** `1   -   0`  Renato *(1004)*
+* **Ricardo *(1625)*** `1   -   0`  Renato *(1008)*
 
 **>** [Link](https://www.lichess.org/W6qYlQxP), *C40 - King's Pawn Game: Damiano Defense*.
 * Alexandre *(1183)* `0   -   1` **Pedro *(1147)***

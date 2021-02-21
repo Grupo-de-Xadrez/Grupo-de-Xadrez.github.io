@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* Vitor *(1319)* `0   -   1` **Renato *(1226)*** `INVERTIDO`
+* Vitor *(1319)* `0   -   1` **Renato *(1234)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/uoeqKY9M), *C20 - English Opening: The Whale*.
 * Pedro *(1225)* `0   -   1` **Freddy *(1882)***
@@ -25,7 +25,7 @@ De folga: Ricardo (1771)
 
 #### Blitz:
 
-* Renato *(1004)* `0   -   1` **Vitor *(1212)*** `INVERTIDO`
+* Renato *(1008)* `0   -   1` **Vitor *(1212)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/8D1HswlL), *C20 - Center Game*.
 * **Freddy *(1787)*** `1   -   0`  Pedro *(1147)*
@@ -40,7 +40,7 @@ De folga: Ricardo (1771)
 * Diogo *(1455)* `½ - ½` Alexandre *(1183)*
 
 **>** [Link](https://www.lichess.org/JLLAkhLx), *C41 - Philidor Defense*.
-* Felipe *(1387)* `0   -   1` **Milton *(1617)***
+* Felipe *(1387)* `0   -   1` **Milton *(1632)***
 
 **>** [Link](https://www.lichess.org/DJGNYvmh), *B20 - Sicilian Defense: Bowdler Attack*.
 

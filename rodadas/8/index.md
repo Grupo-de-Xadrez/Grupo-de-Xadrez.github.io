@@ -17,7 +17,7 @@
 * Marcelo *(2049)* `½ - ½` Freddy *(1882)*
 
 **>** [Link](https://www.lichess.org/ULDJhyiK), *C12 - French Defense: MacCutcheon Variation, Chigorin Variation*.
-* **Pedro *(1225)*** `1   -   0`  Renato *(1226)*
+* **Pedro *(1225)*** `1   -   0`  Renato *(1234)*
 
 **>** [Link](https://www.lichess.org/eHkRZq9s), *D00 - Queen's Pawn Game*.
 
@@ -40,9 +40,9 @@ De folga: Milton (1889)
 * Freddy *(1787)* `0   -   1` **Marcelo *(1717)***
 
 **>** [Link](https://www.lichess.org/aQvQgFvB), *E81 - King's Indian Defense: Steiner Attack*.
-* Renato *(1004)* `0   -   1` **Pedro *(1147)***
+* Renato *(1008)* `0   -   1` **Pedro *(1147)***
 
 **>** [Link](https://www.lichess.org/xt6SEfF6), *D00 - Queen's Pawn Game*.
 
-De folga: Milton (1617)
+De folga: Milton (1632)
 

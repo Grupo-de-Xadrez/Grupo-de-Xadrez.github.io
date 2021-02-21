@@ -17,7 +17,7 @@
 * **Júlio *(1715)*** `1   -   0`  Pedro *(1225)*
 
 **>** [Link](https://www.lichess.org/rROVT2Qw), *D00 - Queen's Pawn Game: Mason Variation*.
-* Renato *(1226)* `0   -   1` **Freddy *(1882)***
+* Renato *(1234)* `0   -   1` **Freddy *(1882)***
 
 **>** [Link](https://www.lichess.org/rxPhGsIN), *A40 - Horwitz Defense*.
 
@@ -25,7 +25,7 @@ De folga: Alexandre (1154)
 
 #### Blitz:
 
-* Vitor *(1212)* `0   -   1` **Milton *(1617)***
+* Vitor *(1212)* `0   -   1` **Milton *(1632)***
 
 **>** [Link](https://www.lichess.org/vf5wM9Rz), *B30 - Sicilian Defense: Nyezhmetdinov-Rossolimo Attack*.
 * **Ricardo *(1625)*** `1   -   0`  Felipe *(1387)*
@@ -40,7 +40,7 @@ De folga: Alexandre (1154)
 * **Pedro *(1147)*** `1   -   0`  Júlio *(1557)*
 
 **>** [Link](https://www.lichess.org/HIltIKfw), *D00 - Queen's Pawn Game*.
-* **Freddy *(1787)*** `1   -   0`  Renato *(1004)*
+* **Freddy *(1787)*** `1   -   0`  Renato *(1008)*
 
 **>** [Link](https://www.lichess.org/He4kkwh3), *D10 - Slav Defense: Exchange Variation*.
 

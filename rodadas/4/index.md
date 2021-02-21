@@ -8,7 +8,7 @@
 * Ribas *(1623)* `0   -   1` **Freddy *(1882)***
 
 **>** [Link](https://www.lichess.org/cdRVlh4r), *C00 - French Defense: Knight Variation*.
-* Renato *(1226)* `0   -   1` **Diogo *(1237)***
+* Renato *(1234)* `0   -   1` **Diogo *(1237)***
 
 **>** [Link](https://www.lichess.org/7bYFbRah), *D00 - Queen's Pawn Game*.
 * **Marcelo *(2049)*** `1   -   0`  Felipe *(1552)*
@@ -31,13 +31,13 @@ De folga: Pedro (1225)
 * Freddy *(1787)* `0   -   1` **Ribas *(2055)***
 
 **>** [Link](https://www.lichess.org/HRkvmdFA), *D06 - Queen's Gambit Declined: Marshall Defense*.
-* Diogo *(1455)* `0   -   1` **Renato *(1004)***
+* Diogo *(1455)* `0   -   1` **Renato *(1008)***
 
 **>** [Link](https://www.lichess.org/AJWXTn79), *C40 - King's Pawn Game: Damiano Defense*.
 * Felipe *(1387)* `0   -   1` **Marcelo *(1717)***
 
 **>** [Link](https://www.lichess.org/wULx6CqR), *C02 - French Defense: Advance Variation*.
-* **Léo *(1861)*** `1   -   0`  Milton *(1617)*
+* **Léo *(1861)*** `1   -   0`  Milton *(1632)*
 
 **>** [Link](https://www.lichess.org/YLnhheQG), *A20 - English Opening: King's English Variation*.
 * **Ricardo *(1625)*** `1   -   0`  Alexandre *(1183)*
