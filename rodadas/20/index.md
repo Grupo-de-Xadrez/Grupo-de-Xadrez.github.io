@@ -31,7 +31,7 @@ De folga: Vitor (1319)
 * Ribas *(2055)*     -     Milton *(1632)*
 
  **>** 
-* Júlio *(1557)*     -     Ricardo *(1625)*
+* Júlio *(1562)*     -     Ricardo *(1625)*
 
  **>** 
 * Freddy *(1787)*     -     Alexandre *(1183)*
