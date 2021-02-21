@@ -25,13 +25,13 @@ De folga: Renato (1226)
 
 #### Blitz:
 
-* Alexandre *(1183)*     -     Vitor *(1211)*
+* Alexandre *(1183)*     -     Vitor *(1217)*
 
  **>** 
 * Léo *(1861)*     -     Ricardo *(1625)*
 
  **>** 
-* Marcelo *(1717)*     -     Milton *(1617)*
+* Marcelo *(1717)*     -     Milton *(1620)*
 
  **>** 
 * Felipe *(1387)*     -     Pedro *(1147)*
