@@ -34,7 +34,7 @@ De folga: Júlio (1716)
 * Ricardo *(1625)*     -     Pedro *(1147)*
 
  **>** 
-* Renato *(1004)*     -     Milton *(1627)*
+* Renato *(1004)*     -     Milton *(1632)*
 
  **>** 
 * Felipe *(1387)*     -     Freddy *(1787)*
