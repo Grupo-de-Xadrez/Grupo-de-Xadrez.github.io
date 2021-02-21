@@ -25,7 +25,7 @@ De folga: Freddy (1882)
 
 #### Blitz:
 
-* Vitor *(1216)* `½ - ½` Ribas *(2055)*
+* Vitor *(1211)* `½ - ½` Ribas *(2055)*
 
 **>** [Link](https://www.lichess.org/jCwtl7kN), *B20 - Sicilian Defense: Bowdler Attack*.
 * **Júlio *(1557)*** `1   -   0`  Diogo *(1455)*
@@ -34,7 +34,7 @@ De folga: Freddy (1882)
 * **Felipe *(1387)*** `1   -   0`  Renato *(1004)*
 
 **>** [Link](https://www.lichess.org/XIfFoMyW), *C23 - Bishop's Opening*.
-* **Milton *(1616)*** `1   -   0`  Pedro *(1147)*
+* **Milton *(1617)*** `1   -   0`  Pedro *(1147)*
 
 **>** [Link](https://www.lichess.org/Piatvx1D), *C23 - Bishop's Opening*.
 * Marcelo *(1717)* `0   -   1` **Ricardo *(1625)***
