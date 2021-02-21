@@ -25,10 +25,10 @@ De folga: Felipe (1552)
 
 #### Blitz:
 
-* Vitor *(1212)* `0   -   1` **Pedro *(1147)*** `INVERTIDO`
+* Vitor *(1212)* `0   -   1` **Pedro *(1112)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/Z4XgGxLN), *D00 - Queen's Pawn Game*.
-* **Marcelo *(1717)*** `1   -   0`  Renato *(1008)*
+* **Marcelo *(1717)*** `1   -   0`  Renato *(1016)*
 
 **>** [Link](https://www.lichess.org/9SCbnWsf), *D00 - Queen's Pawn Game: Chigorin Variation*.
 * **Léo *(1861)*** `1   -   0`  Freddy *(1787)*
