@@ -25,7 +25,7 @@ De folga: Diogo (1237)
 
 #### Blitz:
 
-* Marcelo *(1717)*     -     Vitor *(1208)*
+* Marcelo *(1717)*     -     Vitor *(1214)*
 
  **>** 
 * Pedro *(1112)*     -     Léo *(1861)*
