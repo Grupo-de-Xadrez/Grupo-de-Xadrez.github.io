@@ -14,7 +14,7 @@
 * REN: **Renato**, a.k.a. [@Padilha20](https://www.lichess.org/@/Padilha20) *(Rapid: 1234, Blitz: 1016)*
 * RIC: **Ricardo**, a.k.a. [@r-k-k](https://www.lichess.org/@/r-k-k) *(Rapid: 1771, Blitz: 1625)*
 * RIB: **Ribas**, a.k.a. [@Rpribas](https://www.lichess.org/@/Rpribas) *(Rapid: 1623, Blitz: 2055)*
-* VIT: **Vitor**, a.k.a. [@VitorStahlhoefer](https://www.lichess.org/@/VitorStahlhoefer) *(Rapid: 1319, Blitz: 1205)*
+* VIT: **Vitor**, a.k.a. [@VitorStahlhoefer](https://www.lichess.org/@/VitorStahlhoefer) *(Rapid: 1319, Blitz: 1206)*
 
 ## Rodadas:
 
@@ -59,7 +59,7 @@
 | 7 | Felipe (1387) | 4 | 8 | 4 | 4 |
 | 8 | Ribas (2055) | 4 | 8 | 4 | 3 |
 | 9 | Milton (1632) | 3½ | 8 | 4 | 3 |
-| 10 | Vitor (1205) | 2½ | 8 | 3 | 2 |
+| 10 | Vitor (1206) | 2½ | 8 | 3 | 2 |
 | 11 | Diogo (1455) | 2 | 9 | 4 | 1 |
 | 12 | Renato (1016) | 1 | 9 | 5 | 1 |
 | 13 | Alexandre (1183) | 0½ | 8 | 4 | 0 |
