@@ -40,7 +40,7 @@ De folga: Marcelo (2049)
 * Renato *(1006)* `0   -   1` **Ribas *(2055)***
 
 **>** [Link](https://www.lichess.org/czwrbtoa), *D00 - Queen's Pawn Game*.
-* Júlio *(1558)*     -     Freddy *(1787)*
+* Júlio *(1553)*     -     Freddy *(1787)*
 
  **>** 
 
