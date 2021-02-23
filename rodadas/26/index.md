@@ -28,7 +28,7 @@ De folga: Diogo (1237)
 * Vitor *(1218)*     -     Marcelo *(1717)*
 
  **>** 
-* Léo *(1861)*     -     Pedro *(1130)*
+* Léo *(1861)*     -     Pedro *(1106)*
 
  **>** 
 * Renato *(999)*     -     Alexandre *(1183)*
