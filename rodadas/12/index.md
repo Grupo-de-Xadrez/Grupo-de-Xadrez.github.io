@@ -25,7 +25,7 @@ De folga: Júlio (1715)
 
 #### Blitz:
 
-* Léo *(1861)*     -     Vitor *(1214)*
+* Léo *(1861)*     -     Vitor *(1213)*
 
  **>** 
 * Marcelo *(1717)*     -     Alexandre *(1183)*
@@ -34,7 +34,7 @@ De folga: Júlio (1715)
 * Ricardo *(1625)*     -     Pedro *(1130)*
 
  **>** 
-* Renato *(1011)*     -     Milton *(1631)*
+* Renato *(999)*     -     Milton *(1639)*
 
  **>** 
 * Felipe *(1387)*     -     Freddy *(1787)*
@@ -44,5 +44,5 @@ De folga: Júlio (1715)
 
  **>** 
 
-De folga: Júlio (1535)
+De folga: Júlio (1558)
 
