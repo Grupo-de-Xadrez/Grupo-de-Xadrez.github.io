@@ -17,7 +17,7 @@
 * **Ribas *(1623)*** `1   -   0`  Renato *(1234)*
 
 **>** [Link](https://www.lichess.org/CNBZdTeY), *C30 - King's Gambit*.
-* Freddy *(1882)*     -     Júlio *(1718)*
+* Freddy *(1889)*     -     Júlio *(1706)*
 
  **>** 
 

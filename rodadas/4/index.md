@@ -2,10 +2,10 @@
 
 #### Rapid:
 
-* Vitor *(1319)* `½ - ½` Júlio *(1718)*
+* Vitor *(1319)* `½ - ½` Júlio *(1706)*
 
 **>** [Link](https://www.lichess.org/cNEagLGV), *C46 - Four Knights Game*.
-* Ribas *(1623)* `0   -   1` **Freddy *(1882)***
+* Ribas *(1623)* `0   -   1` **Freddy *(1889)***
 
 **>** [Link](https://www.lichess.org/cdRVlh4r), *C00 - French Defense: Knight Variation*.
 * Renato *(1234)* `0   -   1` **Diogo *(1237)***

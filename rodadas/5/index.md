@@ -5,7 +5,7 @@
 * **Ribas *(1623)*** `1   -   0`  Vitor *(1319)*
 
 **>** [Link](https://www.lichess.org/uUGYj33X), *D20 - Queen's Gambit Accepted*.
-* Diogo *(1237)* `0   -   1` **Júlio *(1718)***
+* Diogo *(1237)* `0   -   1` **Júlio *(1706)***
 
 **>** [Link](https://www.lichess.org/tacQGS40), *A45 - Queen's Pawn Game: Chigorin Variation*.
 * Renato *(1234)* `0   -   1` **Felipe *(1552)***
@@ -21,7 +21,7 @@
 
 **>** [Link](https://www.lichess.org/VxQwOEXu), *C41 - Philidor Defense*.
 
-De folga: Freddy (1882)
+De folga: Freddy (1889)
 
 #### Blitz:
 

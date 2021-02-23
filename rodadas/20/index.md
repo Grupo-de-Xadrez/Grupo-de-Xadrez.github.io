@@ -8,10 +8,10 @@
 * Milton *(1889)*     -     Ribas *(1623)*
 
  **>** 
-* Ricardo *(1771)*     -     Júlio *(1718)*
+* Ricardo *(1771)*     -     Júlio *(1706)*
 
  **>** 
-* Alexandre *(1154)*     -     Freddy *(1882)*
+* Alexandre *(1154)*     -     Freddy *(1889)*
 
  **>** 
 * Renato *(1234)*     -     Léo *(1933)*

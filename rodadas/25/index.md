@@ -14,14 +14,14 @@
 * Renato *(1234)*     -     Milton *(1889)*
 
  **>** 
-* Felipe *(1552)*     -     Freddy *(1882)*
+* Felipe *(1552)*     -     Freddy *(1889)*
 
  **>** 
 * Diogo *(1237)*     -     Ribas *(1623)*
 
  **>** 
 
-De folga: Júlio (1718)
+De folga: Júlio (1706)
 
 #### Blitz:
 

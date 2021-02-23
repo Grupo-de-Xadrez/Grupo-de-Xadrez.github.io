@@ -5,8 +5,8 @@
 * ALE: **Alexandre**, a.k.a. [@AHCA](https://www.lichess.org/@/AHCA) *(Rapid: 1154, Blitz: 1183)*
 * DIO: **Diogo**, a.k.a. [@diogo98](https://www.lichess.org/@/diogo98) *(Rapid: 1237, Blitz: 1455)*
 * FEL: **Felipe**, a.k.a. [@Fgcotta](https://www.lichess.org/@/Fgcotta) *(Rapid: 1552, Blitz: 1387)*
-* FRE: **Freddy**, a.k.a. [@PlixMax](https://www.lichess.org/@/PlixMax) *(Rapid: 1882, Blitz: 1787)*
-* JUL: **Júlio**, a.k.a. [@juliopinheiro](https://www.lichess.org/@/juliopinheiro) *(Rapid: 1718, Blitz: 1553)*
+* FRE: **Freddy**, a.k.a. [@PlixMax](https://www.lichess.org/@/PlixMax) *(Rapid: 1889, Blitz: 1787)*
+* JUL: **Júlio**, a.k.a. [@juliopinheiro](https://www.lichess.org/@/juliopinheiro) *(Rapid: 1706, Blitz: 1553)*
 * LEO: **Léo**, a.k.a. [@killer9](https://www.lichess.org/@/killer9) *(Rapid: 1933, Blitz: 1861)*
 * MAR: **Marcelo**, a.k.a. [@mkvieira](https://www.lichess.org/@/mkvieira) *(Rapid: 2049, Blitz: 1717)*
 * MIL: **Milton**, a.k.a. [@milton1960](https://www.lichess.org/@/milton1960) *(Rapid: 1889, Blitz: 1645)*
@@ -33,11 +33,11 @@
 | Pos | Nome | Pts | J | J P | V |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1 | Léo (1933) | 8½ | 9 | 4 | 8 |
-| 2 | Júlio (1718) | 7 | 9 | 4 | 6 |
+| 2 | Júlio (1706) | 7 | 9 | 4 | 6 |
 | 2 | Marcelo (2049) | 7 | 9 | 4 | 6 |
 | 4 | Ricardo (1771) | 6½ | 9 | 4 | 5 |
 | 5 | Milton (1889) | 6 | 9 | 5 | 6 |
-| 6 | Freddy (1882) | 5½ | 8 | 5 | 5 |
+| 6 | Freddy (1889) | 5½ | 8 | 5 | 5 |
 | 7 | Felipe (1552) | 5 | 9 | 5 | 5 |
 | 8 | Ribas (1623) | 4½ | 9 | 4 | 4 |
 | 9 | Diogo (1237) | 2½ | 9 | 5 | 2 |

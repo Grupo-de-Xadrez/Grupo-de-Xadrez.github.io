@@ -11,10 +11,10 @@
 * Alexandre *(1154)*     -     Renato *(1234)*
 
  **>** 
-* Freddy *(1882)*     -     Ricardo *(1771)*
+* Freddy *(1889)*     -     Ricardo *(1771)*
 
  **>** 
-* Júlio *(1718)*     -     Milton *(1889)*
+* Júlio *(1706)*     -     Milton *(1889)*
 
  **>** 
 * Ribas *(1623)*     -     Felipe *(1552)*

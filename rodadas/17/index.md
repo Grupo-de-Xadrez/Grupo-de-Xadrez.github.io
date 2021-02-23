@@ -2,10 +2,10 @@
 
 #### Rapid:
 
-* Júlio *(1718)*     -     Vitor *(1319)*
+* Júlio *(1706)*     -     Vitor *(1319)*
 
  **>** 
-* Freddy *(1882)*     -     Ribas *(1623)*
+* Freddy *(1889)*     -     Ribas *(1623)*
 
  **>** 
 * Diogo *(1237)*     -     Renato *(1234)*

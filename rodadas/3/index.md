@@ -2,10 +2,10 @@
 
 #### Rapid:
 
-* Vitor *(1319)* `0   -   1` **Freddy *(1882)***
+* Vitor *(1319)* `0   -   1` **Freddy *(1889)***
 
 **>** [Link](https://www.lichess.org/mPoMdB5X), *C00 - French Defense: Queen's Knight*.
-* **Júlio *(1718)*** `1   -   0`  Renato *(1234)*
+* **Júlio *(1706)*** `1   -   0`  Renato *(1234)*
 
 **>** [Link](https://www.lichess.org/UoTKilWT), *D00 - Queen's Pawn Game: Mason Variation*.
 * **Ribas *(1623)*** `1   -   0`  Pedro *(1225)*

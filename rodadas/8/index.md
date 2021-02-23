@@ -11,10 +11,10 @@
 * Alexandre *(1154)* `0   -   1` **Ribas *(1623)***
 
 **>** [Link](https://www.lichess.org/v82wftGd), *C20 - King's Pawn Game: Leonardis Variation*.
-* Júlio *(1718)* `0   -   1` **Léo *(1933)***
+* Júlio *(1706)* `0   -   1` **Léo *(1933)***
 
 **>** [Link](https://www.lichess.org/Y3GmBysX), *B06 - Modern Defense: Standard Defense*.
-* Marcelo *(2049)* `½ - ½` Freddy *(1882)*
+* Marcelo *(2049)* `½ - ½` Freddy *(1889)*
 
 **>** [Link](https://www.lichess.org/ULDJhyiK), *C12 - French Defense: MacCutcheon Variation, Chigorin Variation*.
 * **Pedro *(1225)*** `1   -   0`  Renato *(1234)*

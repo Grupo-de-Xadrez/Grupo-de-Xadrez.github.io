@@ -5,10 +5,10 @@
 * Vitor *(1319)* `0   -   1` **Renato *(1234)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/uoeqKY9M), *C20 - English Opening: The Whale*.
-* Pedro *(1225)* `0   -   1` **Freddy *(1882)***
+* Pedro *(1225)* `0   -   1` **Freddy *(1889)***
 
 **>** [Link](https://www.lichess.org/7lTkPhIV), *D00 - Queen's Pawn Game*.
-* Marcelo *(2049)* `0   -   1` **Júlio *(1718)***
+* Marcelo *(2049)* `0   -   1` **Júlio *(1706)***
 
 **>** [Link](https://www.lichess.org/t9BXx170), *C55 - Italian Game: Two Knights Defense, Modern Bishop's Opening*.
 * **Léo *(1933)*** `1   -   0`  Ribas *(1623)*

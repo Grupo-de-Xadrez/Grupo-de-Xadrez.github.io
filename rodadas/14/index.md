@@ -8,10 +8,10 @@
 * Marcelo *(2049)*     -     Renato *(1234)*
 
  **>** 
-* Léo *(1933)*     -     Freddy *(1882)*
+* Léo *(1933)*     -     Freddy *(1889)*
 
  **>** 
-* Alexandre *(1154)*     -     Júlio *(1718)*
+* Alexandre *(1154)*     -     Júlio *(1706)*
 
  **>** 
 * Ribas *(1623)*     -     Ricardo *(1771)*
