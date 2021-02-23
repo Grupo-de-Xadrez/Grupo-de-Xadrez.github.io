@@ -14,7 +14,7 @@
 * **Marcelo *(2049)*** `1   -   0`  Ribas *(1623)*
 
 **>** [Link](https://www.lichess.org/H57Di5PJ), *B33 - Sicilian Defense: Open*.
-* **Júlio *(1739)*** `1   -   0`  Pedro *(1225)*
+* **Júlio *(1718)*** `1   -   0`  Pedro *(1225)*
 
 **>** [Link](https://www.lichess.org/rROVT2Qw), *D00 - Queen's Pawn Game: Mason Variation*.
 * Renato *(1234)* `0   -   1` **Freddy *(1882)***
