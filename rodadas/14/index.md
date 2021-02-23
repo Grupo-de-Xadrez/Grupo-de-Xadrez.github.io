@@ -31,10 +31,10 @@ De folga: Felipe (1552)
 * Renato *(1001)*     -     Marcelo *(1717)*
 
  **>** 
-* Freddy *(1787)*     -     Léo *(1861)*
+* Freddy *(1790)*     -     Léo *(1861)*
 
  **>** 
-* Júlio *(1553)*     -     Alexandre *(1183)*
+* Júlio *(1551)*     -     Alexandre *(1183)*
 
  **>** 
 * Ricardo *(1625)*     -     Ribas *(2055)*
