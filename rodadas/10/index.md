@@ -11,9 +11,9 @@
 * **Léo *(1933)*** `1   -   0`  Felipe *(1552)*
 
 **>** [Link](https://www.lichess.org/0hAMPnId), *D30 - Queen's Gambit Declined*.
-* Diogo *(1237)*     -     Pedro *(1225)*
+* Diogo *(1237)* `0   -   1` **Pedro *(1225)***
 
- **>** 
+**>** [Link](https://www.lichess.org/xh3yb5Ix), *C41 - Philidor Defense*.
 * **Ribas *(1623)*** `1   -   0`  Renato *(1234)*
 
 **>** [Link](https://www.lichess.org/CNBZdTeY), *C30 - King's Gambit*.
@@ -34,9 +34,9 @@ De folga: Marcelo (2049)
 * Felipe *(1387)* `½ - ½` Léo *(1861)*
 
 **>** [Link](https://www.lichess.org/K5Vz3kms), *B20 - Sicilian Defense: Bowdler Attack*.
-* Pedro *(1106)*     -     Diogo *(1455)*
+* **Pedro *(1106)*** `1   -   0`  Diogo *(1455)*
 
- **>** 
+**>** [Link](https://www.lichess.org/lwaXzUH9), *D00 - Queen's Pawn Game*.
 * Renato *(1001)* `0   -   1` **Ribas *(2055)***
 
 **>** [Link](https://www.lichess.org/czwrbtoa), *D00 - Queen's Pawn Game*.
