@@ -37,7 +37,7 @@ De folga: Marcelo (2049)
 * Pedro *(1106)*     -     Diogo *(1455)*
 
  **>** 
-* Renato *(1006)* `0   -   1` **Ribas *(2055)***
+* Renato *(1001)* `0   -   1` **Ribas *(2055)***
 
 **>** [Link](https://www.lichess.org/czwrbtoa), *D00 - Queen's Pawn Game*.
 * Júlio *(1553)*     -     Freddy *(1787)*
