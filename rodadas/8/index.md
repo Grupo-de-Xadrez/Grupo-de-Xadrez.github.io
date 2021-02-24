@@ -25,7 +25,7 @@ De folga: Milton (1889)
 
 #### Blitz:
 
-* Vitor *(1244)* `0   -   1` **Felipe *(1387)***
+* Vitor *(1251)* `0   -   1` **Felipe *(1387)***
 
 **>** [Link](https://www.lichess.org/PoxhQGHP), *C41 - Philidor Defense: Boden Variation*.
 * Diogo *(1455)* `0   -   1` **Ricardo *(1625)***
