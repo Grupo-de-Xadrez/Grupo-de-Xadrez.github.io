@@ -25,7 +25,7 @@ De folga: Milton (1889)
 
 #### Blitz:
 
-* Felipe *(1387)*     -     Vitor *(1246)*
+* Felipe *(1387)*     -     Vitor *(1256)*
 
  **>** 
 * Ricardo *(1625)*     -     Diogo *(1455)*
@@ -40,9 +40,9 @@ De folga: Milton (1889)
 * Marcelo *(1717)*     -     Freddy *(1790)*
 
  **>** 
-* Pedro *(1106)*     -     Renato *(1001)*
+* Pedro *(1106)*     -     Renato *(1006)*
 
  **>** 
 
-De folga: Milton (1645)
+De folga: Milton (1647)
 

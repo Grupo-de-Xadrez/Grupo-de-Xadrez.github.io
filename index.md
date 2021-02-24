@@ -9,12 +9,12 @@
 * JUL: **Júlio**, a.k.a. [@juliopinheiro](https://www.lichess.org/@/juliopinheiro) *(Rapid: 1706, Blitz: 1551)*
 * LEO: **Léo**, a.k.a. [@killer9](https://www.lichess.org/@/killer9) *(Rapid: 1933, Blitz: 1861)*
 * MAR: **Marcelo**, a.k.a. [@mkvieira](https://www.lichess.org/@/mkvieira) *(Rapid: 2049, Blitz: 1717)*
-* MIL: **Milton**, a.k.a. [@milton1960](https://www.lichess.org/@/milton1960) *(Rapid: 1889, Blitz: 1645)*
+* MIL: **Milton**, a.k.a. [@milton1960](https://www.lichess.org/@/milton1960) *(Rapid: 1889, Blitz: 1647)*
 * PED: **Pedro**, a.k.a. [@Phoenix20201](https://www.lichess.org/@/Phoenix20201) *(Rapid: 1225, Blitz: 1106)*
-* REN: **Renato**, a.k.a. [@Padilha20](https://www.lichess.org/@/Padilha20) *(Rapid: 1234, Blitz: 1001)*
+* REN: **Renato**, a.k.a. [@Padilha20](https://www.lichess.org/@/Padilha20) *(Rapid: 1234, Blitz: 1006)*
 * RIC: **Ricardo**, a.k.a. [@r-k-k](https://www.lichess.org/@/r-k-k) *(Rapid: 1771, Blitz: 1625)*
 * RIB: **Ribas**, a.k.a. [@Rpribas](https://www.lichess.org/@/Rpribas) *(Rapid: 1623, Blitz: 2055)*
-* VIT: **Vitor**, a.k.a. [@VitorStahlhoefer](https://www.lichess.org/@/VitorStahlhoefer) *(Rapid: 1319, Blitz: 1246)*
+* VIT: **Vitor**, a.k.a. [@VitorStahlhoefer](https://www.lichess.org/@/VitorStahlhoefer) *(Rapid: 1319, Blitz: 1256)*
 
 ## Rodadas:
 
@@ -58,10 +58,10 @@
 | 6 | Pedro (1106) | 5 | 9 | 5 | 5 |
 | 7 | Ribas (2055) | 5 | 9 | 5 | 4 |
 | 8 | Felipe (1387) | 4½ | 9 | 4 | 4 |
-| 8 | Milton (1645) | 4½ | 9 | 4 | 4 |
-| 10 | Vitor (1246) | 2½ | 9 | 3 | 2 |
+| 8 | Milton (1647) | 4½ | 9 | 4 | 4 |
+| 10 | Vitor (1256) | 2½ | 9 | 3 | 2 |
 | 11 | Diogo (1455) | 2 | 10 | 5 | 1 |
-| 12 | Renato (1001) | 1 | 10 | 5 | 1 |
+| 12 | Renato (1006) | 1 | 10 | 5 | 1 |
 | 13 | Alexandre (1183) | 0½ | 9 | 5 | 0 |
 
 ## Resultados
