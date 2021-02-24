@@ -37,7 +37,7 @@ De folga: Alexandre (1154)
 * Ribas *(2055)* `0   -   1` **Marcelo *(1717)***
 
 **>** [Link](https://www.lichess.org/7Y9AzenX), *B46 - Sicilian Defense: Paulsen Variation*.
-* **Pedro *(1106)*** `1   -   0`  Júlio *(1551)*
+* **Pedro *(1082)*** `1   -   0`  Júlio *(1551)*
 
 **>** [Link](https://www.lichess.org/HIltIKfw), *D00 - Queen's Pawn Game*.
 * **Freddy *(1790)*** `1   -   0`  Renato *(1006)*

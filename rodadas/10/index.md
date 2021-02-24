@@ -34,7 +34,7 @@ De folga: Marcelo (2049)
 * Felipe *(1387)* `½ - ½` Léo *(1861)*
 
 **>** [Link](https://www.lichess.org/K5Vz3kms), *B20 - Sicilian Defense: Bowdler Attack*.
-* **Pedro *(1106)*** `1   -   0`  Diogo *(1455)*
+* **Pedro *(1082)*** `1   -   0`  Diogo *(1455)*
 
 **>** [Link](https://www.lichess.org/lwaXzUH9), *D00 - Queen's Pawn Game*.
 * Renato *(1006)* `0   -   1` **Ribas *(2055)***
