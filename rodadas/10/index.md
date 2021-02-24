@@ -25,7 +25,7 @@ De folga: Marcelo (2049)
 
 #### Blitz:
 
-* Vitor *(1251)* `0   -   1` **Ricardo *(1625)***
+* Vitor *(1243)* `0   -   1` **Ricardo *(1625)***
 
 **>** [Link](https://www.lichess.org/sMrIcVds), *C46 - Three Knights Opening*.
 * **Milton *(1647)*** `1   -   0`  Alexandre *(1183)*
