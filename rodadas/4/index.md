@@ -21,7 +21,7 @@
 
 **>** [Link](https://www.lichess.org/sZT5rfu1), *C20 - King's Pawn Game: Leonardis Variation*.
 
-De folga: Pedro (1225)
+De folga: Pedro (1216)
 
 #### Blitz:
 

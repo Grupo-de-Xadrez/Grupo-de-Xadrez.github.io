@@ -8,7 +8,7 @@
 * **Júlio *(1706)*** `1   -   0`  Renato *(1234)*
 
 **>** [Link](https://www.lichess.org/UoTKilWT), *D00 - Queen's Pawn Game: Mason Variation*.
-* **Ribas *(1623)*** `1   -   0`  Pedro *(1225)*
+* **Ribas *(1623)*** `1   -   0`  Pedro *(1216)*
 
 **>** [Link](https://www.lichess.org/rwRiLi0u), *C30 - King's Gambit*.
 * Diogo *(1236)* `0   -   1` **Marcelo *(2049)***

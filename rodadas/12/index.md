@@ -8,7 +8,7 @@
 * Alexandre *(1154)*     -     Marcelo *(2049)*
 
  **>** 
-* Pedro *(1225)*     -     Ricardo *(1771)*
+* Pedro *(1216)*     -     Ricardo *(1771)*
 
  **>** 
 * Milton *(1889)*     -     Renato *(1234)*

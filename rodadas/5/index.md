@@ -11,7 +11,7 @@
 * Renato *(1234)* `0   -   1` **Felipe *(1552)***
 
 **>** [Link](https://www.lichess.org/rxcxV1No), *C41 - Philidor Defense*.
-* Pedro *(1225)* `0   -   1` **Milton *(1889)***
+* Pedro *(1216)* `0   -   1` **Milton *(1889)***
 
 **>** [Link](https://www.lichess.org/H4MP7ROS), *D00 - Queen's Pawn Game*.
 * Ricardo *(1771)* `0   -   1` **Marcelo *(2049)***

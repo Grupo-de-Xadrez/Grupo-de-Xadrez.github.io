@@ -11,7 +11,7 @@
 * **Léo *(1933)*** `1   -   0`  Felipe *(1552)*
 
 **>** [Link](https://www.lichess.org/0hAMPnId), *D30 - Queen's Gambit Declined*.
-* Diogo *(1236)* `0   -   1` **Pedro *(1225)***
+* Diogo *(1236)* `0   -   1` **Pedro *(1216)***
 
 **>** [Link](https://www.lichess.org/xh3yb5Ix), *C41 - Philidor Defense*.
 * **Ribas *(1623)*** `1   -   0`  Renato *(1234)*
