@@ -8,7 +8,7 @@
 * Felipe *(1552)* `0   -   1` **Ricardo *(1771)***
 
 **>** [Link](https://www.lichess.org/jORs1Lx5), *C50 - Italian Game: Anti-Fried Liver Defense*.
-* **Léo *(1933)*** `1   -   0`  Diogo *(1237)*
+* **Léo *(1933)*** `1   -   0`  Diogo *(1236)*
 
 **>** [Link](https://www.lichess.org/bokVjkNU), *C69 - Ruy Lopez: Exchange Variation, King's Bishop Variation*.
 * **Marcelo *(2049)*** `1   -   0`  Ribas *(1623)*
@@ -17,7 +17,7 @@
 * **Júlio *(1706)*** `1   -   0`  Pedro *(1225)*
 
 **>** [Link](https://www.lichess.org/rROVT2Qw), *D00 - Queen's Pawn Game: Mason Variation*.
-* Renato *(1234)* `0   -   1` **Freddy *(1889)***
+* Renato *(1234)* `0   -   1` **Freddy *(1890)***
 
 **>** [Link](https://www.lichess.org/rxPhGsIN), *A40 - Horwitz Defense*.
 
@@ -31,7 +31,7 @@ De folga: Alexandre (1154)
 * **Ricardo *(1625)*** `1   -   0`  Felipe *(1387)*
 
 **>** [Link](https://www.lichess.org/GY5kET9w), *C41 - Philidor Defense*.
-* Diogo *(1455)* `½ - ½` Léo *(1861)*
+* Diogo *(1520)* `½ - ½` Léo *(1861)*
 
 **>** [Link](https://www.lichess.org/JAvSCtvm), *D01 - Queen's Pawn Game: Veresov Attack, Two Knights System*.
 * Ribas *(2055)* `0   -   1` **Marcelo *(1717)***
@@ -40,7 +40,7 @@ De folga: Alexandre (1154)
 * **Pedro *(1082)*** `1   -   0`  Júlio *(1551)*
 
 **>** [Link](https://www.lichess.org/HIltIKfw), *D00 - Queen's Pawn Game*.
-* **Freddy *(1790)*** `1   -   0`  Renato *(1006)*
+* **Freddy *(1786)*** `1   -   0`  Renato *(1006)*
 
 **>** [Link](https://www.lichess.org/He4kkwh3), *D10 - Slav Defense: Exchange Variation*.
 

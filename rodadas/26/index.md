@@ -11,7 +11,7 @@
 * Alexandre *(1154)*     -     Renato *(1234)*
 
  **>** 
-* Freddy *(1889)*     -     Ricardo *(1771)*
+* Freddy *(1890)*     -     Ricardo *(1771)*
 
  **>** 
 * Júlio *(1706)*     -     Milton *(1889)*
@@ -21,7 +21,7 @@
 
  **>** 
 
-De folga: Diogo (1237)
+De folga: Diogo (1236)
 
 #### Blitz:
 
@@ -34,7 +34,7 @@ De folga: Diogo (1237)
 * Renato *(1006)*     -     Alexandre *(1183)*
 
  **>** 
-* Ricardo *(1625)*     -     Freddy *(1790)*
+* Ricardo *(1625)*     -     Freddy *(1786)*
 
  **>** 
 * Milton *(1647)*     -     Júlio *(1551)*
@@ -44,5 +44,5 @@ De folga: Diogo (1237)
 
  **>** 
 
-De folga: Diogo (1455)
+De folga: Diogo (1520)
 

@@ -5,7 +5,7 @@
 * Vitor *(1319)* `0   -   1` **Renato *(1234)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/uoeqKY9M), *C20 - English Opening: The Whale*.
-* Pedro *(1225)* `0   -   1` **Freddy *(1889)***
+* Pedro *(1225)* `0   -   1` **Freddy *(1890)***
 
 **>** [Link](https://www.lichess.org/7lTkPhIV), *D00 - Queen's Pawn Game*.
 * Marcelo *(2049)* `0   -   1` **Júlio *(1706)***
@@ -14,7 +14,7 @@
 * **Léo *(1933)*** `1   -   0`  Ribas *(1623)*
 
 **>** [Link](https://www.lichess.org/MpK0U206), *D20 - Queen's Gambit Accepted: Accelerated Mannheim Variation*.
-* Alexandre *(1154)* `½ - ½` Diogo *(1237)*
+* Alexandre *(1154)* `½ - ½` Diogo *(1236)*
 
 **>** [Link](https://www.lichess.org/H9GhqhfH), *D00 - Queen's Pawn Game*.
 * Milton *(1889)* `0   -   1` **Felipe *(1552)***
@@ -28,7 +28,7 @@ De folga: Ricardo (1771)
 * Renato *(1006)* `0   -   1` **Vitor *(1251)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/8D1HswlL), *C20 - Center Game*.
-* **Freddy *(1790)*** `1   -   0`  Pedro *(1082)*
+* **Freddy *(1786)*** `1   -   0`  Pedro *(1082)*
 
 **>** [Link](https://www.lichess.org/3GCiQUZb), *D20 - Queen's Gambit Accepted: Old Variation*.
 * Júlio *(1551)* `0   -   1` **Marcelo *(1717)***
@@ -37,7 +37,7 @@ De folga: Ricardo (1771)
 * Ribas *(2055)* `0   -   1` **Léo *(1861)***
 
 **>** [Link](https://www.lichess.org/2aruQaIu), *B06 - Modern Defense: Three Pawns Attack*.
-* Diogo *(1455)* `½ - ½` Alexandre *(1183)*
+* Diogo *(1520)* `½ - ½` Alexandre *(1183)*
 
 **>** [Link](https://www.lichess.org/JLLAkhLx), *C41 - Philidor Defense*.
 * Felipe *(1387)* `0   -   1` **Milton *(1647)***

@@ -11,13 +11,13 @@
 * **Léo *(1933)*** `1   -   0`  Felipe *(1552)*
 
 **>** [Link](https://www.lichess.org/0hAMPnId), *D30 - Queen's Gambit Declined*.
-* Diogo *(1237)* `0   -   1` **Pedro *(1225)***
+* Diogo *(1236)* `0   -   1` **Pedro *(1225)***
 
 **>** [Link](https://www.lichess.org/xh3yb5Ix), *C41 - Philidor Defense*.
 * **Ribas *(1623)*** `1   -   0`  Renato *(1234)*
 
 **>** [Link](https://www.lichess.org/CNBZdTeY), *C30 - King's Gambit*.
-* **Freddy *(1889)*** `1   -   0`  Júlio *(1706)*
+* **Freddy *(1890)*** `1   -   0`  Júlio *(1706)*
 
 **>** [Link](https://www.lichess.org/huR1ONU0), *D10 - Slav Defense: Exchange Variation*.
 
@@ -34,13 +34,13 @@ De folga: Marcelo (2049)
 * Felipe *(1387)* `½ - ½` Léo *(1861)*
 
 **>** [Link](https://www.lichess.org/K5Vz3kms), *B20 - Sicilian Defense: Bowdler Attack*.
-* **Pedro *(1082)*** `1   -   0`  Diogo *(1455)*
+* **Pedro *(1082)*** `1   -   0`  Diogo *(1520)*
 
 **>** [Link](https://www.lichess.org/lwaXzUH9), *D00 - Queen's Pawn Game*.
 * Renato *(1006)* `0   -   1` **Ribas *(2055)***
 
 **>** [Link](https://www.lichess.org/czwrbtoa), *D00 - Queen's Pawn Game*.
-* Júlio *(1551)* `0   -   1` **Freddy *(1790)***
+* Júlio *(1551)* `0   -   1` **Freddy *(1786)***
 
 **>** [Link](https://www.lichess.org/i8nZDdQV), *C01 - French Defense: Exchange Variation, Monte Carlo Variation*.
 

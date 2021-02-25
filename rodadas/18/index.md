@@ -5,7 +5,7 @@
 * Vitor *(1319)*     -     Ribas *(1623)*
 
  **>** 
-* Júlio *(1706)*     -     Diogo *(1237)*
+* Júlio *(1706)*     -     Diogo *(1236)*
 
  **>** 
 * Felipe *(1552)*     -     Renato *(1234)*
@@ -21,14 +21,14 @@
 
  **>** 
 
-De folga: Freddy (1889)
+De folga: Freddy (1890)
 
 #### Blitz:
 
 * Ribas *(2055)*     -     Vitor *(1251)*
 
  **>** 
-* Diogo *(1455)*     -     Júlio *(1551)*
+* Diogo *(1520)*     -     Júlio *(1551)*
 
  **>** 
 * Renato *(1006)*     -     Felipe *(1387)*
@@ -44,5 +44,5 @@ De folga: Freddy (1889)
 
  **>** 
 
-De folga: Freddy (1790)
+De folga: Freddy (1786)
 

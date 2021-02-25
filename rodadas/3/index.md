@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* Vitor *(1319)* `0   -   1` **Freddy *(1889)***
+* Vitor *(1319)* `0   -   1` **Freddy *(1890)***
 
 **>** [Link](https://www.lichess.org/mPoMdB5X), *C00 - French Defense: Queen's Knight*.
 * **Júlio *(1706)*** `1   -   0`  Renato *(1234)*
@@ -11,7 +11,7 @@
 * **Ribas *(1623)*** `1   -   0`  Pedro *(1225)*
 
 **>** [Link](https://www.lichess.org/rwRiLi0u), *C30 - King's Gambit*.
-* Diogo *(1237)* `0   -   1` **Marcelo *(2049)***
+* Diogo *(1236)* `0   -   1` **Marcelo *(2049)***
 
 **>** [Link](https://www.lichess.org/iTEYyYuH), *A06 - Zukertort Opening: Tennison Gambit*.
 * **Felipe *(1552)*** `1   -   0`  Alexandre *(1154)*
@@ -25,7 +25,7 @@ De folga: Léo (1933)
 
 #### Blitz:
 
-* **Freddy *(1790)*** `1   -   0`  Vitor *(1251)*
+* **Freddy *(1786)*** `1   -   0`  Vitor *(1251)*
 
 **>** [Link](https://www.lichess.org/2NkAyca4), *D20 - Queen's Gambit Accepted: Old Variation*.
 * Renato *(1006)* `0   -   1` **Júlio *(1551)***
@@ -34,7 +34,7 @@ De folga: Léo (1933)
 * Pedro *(1082)* `0   -   1` **Ribas *(2055)***
 
 **>** [Link](https://www.lichess.org/XPb1HyYk), *D00 - Queen's Pawn Game*.
-* **Marcelo *(1717)*** `1   -   0`  Diogo *(1455)*
+* **Marcelo *(1717)*** `1   -   0`  Diogo *(1520)*
 
 **>** [Link](https://www.lichess.org/5TFXe391), *C16 - French Defense: Winawer Variation, Advance Variation*.
 * Alexandre *(1183)* `0   -   1` **Felipe *(1387)***

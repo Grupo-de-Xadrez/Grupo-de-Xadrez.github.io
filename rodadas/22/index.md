@@ -8,7 +8,7 @@
 * Ricardo *(1771)*     -     Felipe *(1552)*
 
  **>** 
-* Diogo *(1237)*     -     Léo *(1933)*
+* Diogo *(1236)*     -     Léo *(1933)*
 
  **>** 
 * Ribas *(1623)*     -     Marcelo *(2049)*
@@ -17,7 +17,7 @@
 * Pedro *(1225)*     -     Júlio *(1706)*
 
  **>** 
-* Freddy *(1889)*     -     Renato *(1234)*
+* Freddy *(1890)*     -     Renato *(1234)*
 
  **>** 
 
@@ -31,7 +31,7 @@ De folga: Alexandre (1154)
 * Felipe *(1387)*     -     Ricardo *(1625)*
 
  **>** 
-* Léo *(1861)*     -     Diogo *(1455)*
+* Léo *(1861)*     -     Diogo *(1520)*
 
  **>** 
 * Marcelo *(1717)*     -     Ribas *(2055)*
@@ -40,7 +40,7 @@ De folga: Alexandre (1154)
 * Júlio *(1551)*     -     Pedro *(1082)*
 
  **>** 
-* Renato *(1006)*     -     Freddy *(1790)*
+* Renato *(1006)*     -     Freddy *(1786)*
 
  **>** 
 

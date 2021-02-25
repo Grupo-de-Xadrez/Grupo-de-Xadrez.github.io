@@ -3,9 +3,9 @@
 ## Participantes:
 
 * ALE: **Alexandre**, a.k.a. [@AHCA](https://www.lichess.org/@/AHCA) *(Rapid: 1154, Blitz: 1183)*
-* DIO: **Diogo**, a.k.a. [@diogo98](https://www.lichess.org/@/diogo98) *(Rapid: 1237, Blitz: 1455)*
+* DIO: **Diogo**, a.k.a. [@diogo98](https://www.lichess.org/@/diogo98) *(Rapid: 1236, Blitz: 1520)*
 * FEL: **Felipe**, a.k.a. [@Fgcotta](https://www.lichess.org/@/Fgcotta) *(Rapid: 1552, Blitz: 1387)*
-* FRE: **Freddy**, a.k.a. [@PlixMax](https://www.lichess.org/@/PlixMax) *(Rapid: 1889, Blitz: 1790)*
+* FRE: **Freddy**, a.k.a. [@PlixMax](https://www.lichess.org/@/PlixMax) *(Rapid: 1890, Blitz: 1786)*
 * JUL: **Júlio**, a.k.a. [@juliopinheiro](https://www.lichess.org/@/juliopinheiro) *(Rapid: 1706, Blitz: 1551)*
 * LEO: **Léo**, a.k.a. [@killer9](https://www.lichess.org/@/killer9) *(Rapid: 1933, Blitz: 1861)*
 * MAR: **Marcelo**, a.k.a. [@mkvieira](https://www.lichess.org/@/mkvieira) *(Rapid: 2049, Blitz: 1717)*
@@ -35,12 +35,12 @@
 | 1 | Léo (1933) | 8½ | 9 | 4 | 8 |
 | 2 | Marcelo (2049) | 7 | 9 | 4 | 6 |
 | 3 | Júlio (1706) | 7 | 10 | 5 | 6 |
-| 4 | Freddy (1889) | 6½ | 9 | 5 | 6 |
+| 4 | Freddy (1890) | 6½ | 9 | 5 | 6 |
 | 5 | Ricardo (1771) | 6½ | 9 | 4 | 5 |
 | 6 | Milton (1889) | 6 | 9 | 5 | 6 |
 | 7 | Felipe (1552) | 5 | 9 | 5 | 5 |
 | 8 | Ribas (1623) | 4½ | 9 | 4 | 4 |
-| 9 | Diogo (1237) | 2½ | 10 | 5 | 2 |
+| 9 | Diogo (1236) | 2½ | 10 | 5 | 2 |
 | 10 | Vitor (1319) | 2 | 9 | 6 | 1 |
 | 11 | Pedro (1225) | 2 | 9 | 4 | 2 |
 | 12 | Alexandre (1154) | 1½ | 9 | 4 | 1 |
@@ -53,14 +53,14 @@
 | 1 | Ricardo (1625) | 8 | 9 | 5 | 8 |
 | 2 | Léo (1861) | 8 | 9 | 5 | 7 |
 | 3 | Marcelo (1717) | 7 | 9 | 5 | 7 |
-| 4 | Freddy (1790) | 6 | 9 | 4 | 6 |
+| 4 | Freddy (1786) | 6 | 9 | 4 | 6 |
 | 5 | Júlio (1551) | 6 | 10 | 5 | 6 |
 | 6 | Pedro (1082) | 5 | 9 | 5 | 5 |
 | 7 | Ribas (2055) | 5 | 9 | 5 | 4 |
 | 8 | Felipe (1387) | 4½ | 9 | 4 | 4 |
 | 8 | Milton (1647) | 4½ | 9 | 4 | 4 |
 | 10 | Vitor (1251) | 2½ | 9 | 3 | 2 |
-| 11 | Diogo (1455) | 2 | 10 | 5 | 1 |
+| 11 | Diogo (1520) | 2 | 10 | 5 | 1 |
 | 12 | Renato (1006) | 1 | 10 | 5 | 1 |
 | 13 | Alexandre (1183) | 0½ | 9 | 5 | 0 |
 
