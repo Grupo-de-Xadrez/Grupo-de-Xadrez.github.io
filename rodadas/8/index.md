@@ -37,7 +37,7 @@ De folga: Milton (1889)
 * **Léo *(1861)*** `1   -   0`  Júlio *(1551)*
 
 **>** [Link](https://www.lichess.org/vhpeAYWf), *C65 - Ruy Lopez: Berlin Defense*.
-* Freddy *(1789)* `0   -   1` **Marcelo *(1717)***
+* Freddy *(1781)* `0   -   1` **Marcelo *(1717)***
 
 **>** [Link](https://www.lichess.org/aQvQgFvB), *E81 - King's Indian Defense: Steiner Attack*.
 * Renato *(999)* `0   -   1` **Pedro *(1113)***
