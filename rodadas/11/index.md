@@ -37,7 +37,7 @@ De folga: Renato (1234)
 * Felipe *(1387)*     -     Pedro *(1113)*
 
  **>** 
-* **Freddy *(1787)*** `1   -   0`  Diogo *(1493)*
+* **Freddy *(1781)*** `1   -   0`  Diogo *(1493)*
 
 **>** [Link](https://www.lichess.org/xVTfL6Vs), *D30 - Queen's Gambit Declined*.
 * Ribas *(2055)*     -     Júlio *(1551)*

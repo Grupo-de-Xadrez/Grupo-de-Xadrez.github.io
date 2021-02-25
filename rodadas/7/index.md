@@ -34,7 +34,7 @@ De folga: Vitor (1313)
 * Ricardo *(1625)* `0   -   1` **Júlio *(1551)***
 
 **>** [Link](https://www.lichess.org/m0SZj8Sq), *C44 - King's Knight Opening: Normal Variation*.
-* Alexandre *(1183)* `0   -   1` **Freddy *(1787)***
+* Alexandre *(1183)* `0   -   1` **Freddy *(1781)***
 
 **>** [Link](https://www.lichess.org/BU6Y8gxM), *C00 - French Defense: Schlechter Variation*.
 * Renato *(999)* `0   -   1` **Léo *(1861)***
