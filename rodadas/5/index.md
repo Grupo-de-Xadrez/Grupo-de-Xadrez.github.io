@@ -25,7 +25,7 @@ De folga: Freddy (1890)
 
 #### Blitz:
 
-* Vitor *(1261)* `½ - ½` Ribas *(2055)*
+* Vitor *(1256)* `½ - ½` Ribas *(2055)*
 
 **>** [Link](https://www.lichess.org/jCwtl7kN), *B20 - Sicilian Defense: Bowdler Attack*.
 * **Júlio *(1551)*** `1   -   0`  Diogo *(1493)*
