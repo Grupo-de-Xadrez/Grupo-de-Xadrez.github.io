@@ -25,7 +25,7 @@ De folga: Felipe (1552)
 
 #### Blitz:
 
-* Pedro *(1082)*     -     Vitor *(1256)*
+* Pedro *(1082)*     -     Vitor *(1262)*
 
  **>** 
 * Renato *(1006)*     -     Marcelo *(1717)*
