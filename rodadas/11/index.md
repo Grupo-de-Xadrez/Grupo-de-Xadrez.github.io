@@ -14,9 +14,9 @@
 * Pedro *(1225)*     -     Felipe *(1552)*
 
  **>** 
-* Diogo *(1236)*     -     Freddy *(1890)*
+* Diogo *(1236)* `0   -   1` **Freddy *(1890)***
 
- **>** 
+**>** [Link](https://www.lichess.org/bzs5OTvF), *A40 - Horwitz Defense*.
 * Júlio *(1706)*     -     Ribas *(1623)*
 
  **>** 
@@ -25,7 +25,7 @@ De folga: Renato (1234)
 
 #### Blitz:
 
-* Alexandre *(1183)*     -     Vitor *(1251)*
+* Alexandre *(1183)*     -     Vitor *(1255)*
 
  **>** 
 * Léo *(1861)*     -     Ricardo *(1625)*
@@ -37,9 +37,9 @@ De folga: Renato (1234)
 * Felipe *(1387)*     -     Pedro *(1082)*
 
  **>** 
-* Freddy *(1786)*     -     Diogo *(1520)*
+* **Freddy *(1789)*** `1   -   0`  Diogo *(1493)*
 
- **>** 
+**>** [Link](https://www.lichess.org/xVTfL6Vs), *D30 - Queen's Gambit Declined*.
 * Ribas *(2055)*     -     Júlio *(1551)*
 
  **>** 

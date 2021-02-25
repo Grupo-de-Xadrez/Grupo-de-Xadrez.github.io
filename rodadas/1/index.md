@@ -25,13 +25,13 @@ De folga: Felipe (1552)
 
 #### Blitz:
 
-* Vitor *(1251)* `0   -   1` **Pedro *(1082)*** `INVERTIDO`
+* Vitor *(1255)* `0   -   1` **Pedro *(1082)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/Z4XgGxLN), *D00 - Queen's Pawn Game*.
 * **Marcelo *(1717)*** `1   -   0`  Renato *(1006)*
 
 **>** [Link](https://www.lichess.org/9SCbnWsf), *D00 - Queen's Pawn Game: Chigorin Variation*.
-* **Léo *(1861)*** `1   -   0`  Freddy *(1786)*
+* **Léo *(1861)*** `1   -   0`  Freddy *(1789)*
 
 **>** [Link](https://www.lichess.org/EdwQe0e0), *A45 - Trompowsky Attack*.
 * Alexandre *(1183)* `0   -   1` **Júlio *(1551)***
@@ -40,7 +40,7 @@ De folga: Felipe (1552)
 * Ribas *(2055)* `0   -   1` **Ricardo *(1625)***
 
 **>** [Link](https://www.lichess.org/ocUpBa5T), *C34 - King's Gambit Accepted: Becker Defense*.
-* **Diogo *(1520)*** `1   -   0`  Milton *(1647)*
+* **Diogo *(1493)*** `1   -   0`  Milton *(1647)*
 
 **>** [Link](https://www.lichess.org/9E2gILyV), *D04 - Queen's Pawn Game: Colle System*.
 

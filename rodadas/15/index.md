@@ -25,10 +25,10 @@ De folga: Ricardo (1771)
 
 #### Blitz:
 
-* Vitor *(1251)*     -     Renato *(1006)*
+* Vitor *(1255)*     -     Renato *(1006)*
 
  **>** 
-* Pedro *(1082)*     -     Freddy *(1786)*
+* Pedro *(1082)*     -     Freddy *(1789)*
 
  **>** 
 * Marcelo *(1717)*     -     Júlio *(1551)*
@@ -37,7 +37,7 @@ De folga: Ricardo (1771)
 * Léo *(1861)*     -     Ribas *(2055)*
 
  **>** 
-* Alexandre *(1183)*     -     Diogo *(1520)*
+* Alexandre *(1183)*     -     Diogo *(1493)*
 
  **>** 
 * Milton *(1647)*     -     Felipe *(1387)*

@@ -25,10 +25,10 @@ De folga: Milton (1889)
 
 #### Blitz:
 
-* Vitor *(1251)* `0   -   1` **Felipe *(1387)***
+* Vitor *(1255)* `0   -   1` **Felipe *(1387)***
 
 **>** [Link](https://www.lichess.org/PoxhQGHP), *C41 - Philidor Defense: Boden Variation*.
-* Diogo *(1520)* `0   -   1` **Ricardo *(1625)***
+* Diogo *(1493)* `0   -   1` **Ricardo *(1625)***
 
 **>** [Link](https://www.lichess.org/tOKohgQf), *D01 - Rapport-Jobava System*.
 * **Ribas *(2055)*** `1   -   0`  Alexandre *(1183)*
@@ -37,7 +37,7 @@ De folga: Milton (1889)
 * **Léo *(1861)*** `1   -   0`  Júlio *(1551)*
 
 **>** [Link](https://www.lichess.org/vhpeAYWf), *C65 - Ruy Lopez: Berlin Defense*.
-* Freddy *(1786)* `0   -   1` **Marcelo *(1717)***
+* Freddy *(1789)* `0   -   1` **Marcelo *(1717)***
 
 **>** [Link](https://www.lichess.org/aQvQgFvB), *E81 - King's Indian Defense: Steiner Attack*.
 * Renato *(1006)* `0   -   1` **Pedro *(1082)***

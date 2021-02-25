@@ -25,7 +25,7 @@ De folga: Vitor (1319)
 
 #### Blitz:
 
-* **Felipe *(1387)*** `1   -   0`  Diogo *(1520)*
+* **Felipe *(1387)*** `1   -   0`  Diogo *(1493)*
 
 **>** [Link](https://www.lichess.org/K27unGrd), *C23 - Bishop's Opening*.
 * Milton *(1647)* `½ - ½` Ribas *(2055)*
@@ -34,7 +34,7 @@ De folga: Vitor (1319)
 * Ricardo *(1625)* `0   -   1` **Júlio *(1551)***
 
 **>** [Link](https://www.lichess.org/m0SZj8Sq), *C44 - King's Knight Opening: Normal Variation*.
-* Alexandre *(1183)* `0   -   1` **Freddy *(1786)***
+* Alexandre *(1183)* `0   -   1` **Freddy *(1789)***
 
 **>** [Link](https://www.lichess.org/BU6Y8gxM), *C00 - French Defense: Schlechter Variation*.
 * Renato *(1006)* `0   -   1` **Léo *(1861)***
@@ -44,5 +44,5 @@ De folga: Vitor (1319)
 
 **>** [Link](https://www.lichess.org/LkJD4S6R), *A45 - Indian Game*.
 
-De folga: Vitor (1251)
+De folga: Vitor (1255)
 

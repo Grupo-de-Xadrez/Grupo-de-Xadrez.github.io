@@ -25,7 +25,7 @@ De folga: Marcelo (2049)
 
 #### Blitz:
 
-* Vitor *(1251)* `0   -   1` **Ricardo *(1625)***
+* Vitor *(1255)* `0   -   1` **Ricardo *(1625)***
 
 **>** [Link](https://www.lichess.org/sMrIcVds), *C46 - Three Knights Opening*.
 * **Milton *(1647)*** `1   -   0`  Alexandre *(1183)*
@@ -34,13 +34,13 @@ De folga: Marcelo (2049)
 * Felipe *(1387)* `½ - ½` Léo *(1861)*
 
 **>** [Link](https://www.lichess.org/K5Vz3kms), *B20 - Sicilian Defense: Bowdler Attack*.
-* **Pedro *(1082)*** `1   -   0`  Diogo *(1520)*
+* **Pedro *(1082)*** `1   -   0`  Diogo *(1493)*
 
 **>** [Link](https://www.lichess.org/lwaXzUH9), *D00 - Queen's Pawn Game*.
 * Renato *(1006)* `0   -   1` **Ribas *(2055)***
 
 **>** [Link](https://www.lichess.org/czwrbtoa), *D00 - Queen's Pawn Game*.
-* Júlio *(1551)* `0   -   1` **Freddy *(1786)***
+* Júlio *(1551)* `0   -   1` **Freddy *(1789)***
 
 **>** [Link](https://www.lichess.org/i8nZDdQV), *C01 - French Defense: Exchange Variation, Monte Carlo Variation*.
 
