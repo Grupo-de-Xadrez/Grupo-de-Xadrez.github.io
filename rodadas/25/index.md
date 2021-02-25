@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* Léo *(1933)*     -     Vitor *(1319)*
+* Léo *(1933)*     -     Vitor *(1313)*
 
  **>** 
 * Marcelo *(2049)*     -     Alexandre *(1154)*
@@ -25,16 +25,16 @@ De folga: Júlio (1706)
 
 #### Blitz:
 
-* Vitor *(1262)*     -     Léo *(1861)*
+* Vitor *(1256)*     -     Léo *(1861)*
 
  **>** 
 * Alexandre *(1183)*     -     Marcelo *(1717)*
 
  **>** 
-* Pedro *(1082)*     -     Ricardo *(1625)*
+* Pedro *(1113)*     -     Ricardo *(1625)*
 
  **>** 
-* Milton *(1647)*     -     Renato *(1006)*
+* Milton *(1647)*     -     Renato *(999)*
 
  **>** 
 * Freddy *(1789)*     -     Felipe *(1387)*

@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* Vitor *(1319)*     -     Ribas *(1623)*
+* Vitor *(1313)*     -     Ribas *(1623)*
 
  **>** 
 * Júlio *(1706)*     -     Diogo *(1236)*
@@ -25,16 +25,16 @@ De folga: Freddy (1890)
 
 #### Blitz:
 
-* Ribas *(2055)*     -     Vitor *(1262)*
+* Ribas *(2055)*     -     Vitor *(1256)*
 
  **>** 
 * Diogo *(1493)*     -     Júlio *(1551)*
 
  **>** 
-* Renato *(1006)*     -     Felipe *(1387)*
+* Renato *(999)*     -     Felipe *(1387)*
 
  **>** 
-* Pedro *(1082)*     -     Milton *(1647)*
+* Pedro *(1113)*     -     Milton *(1647)*
 
  **>** 
 * Ricardo *(1625)*     -     Marcelo *(1717)*

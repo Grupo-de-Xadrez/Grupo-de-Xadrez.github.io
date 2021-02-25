@@ -21,7 +21,7 @@
 
 **>** [Link](https://www.lichess.org/mvtmGlJJ), *C41 - Philidor Defense*.
 
-De folga: Vitor (1319)
+De folga: Vitor (1313)
 
 #### Blitz:
 
@@ -37,12 +37,12 @@ De folga: Vitor (1319)
 * Alexandre *(1183)* `0   -   1` **Freddy *(1789)***
 
 **>** [Link](https://www.lichess.org/BU6Y8gxM), *C00 - French Defense: Schlechter Variation*.
-* Renato *(1006)* `0   -   1` **Léo *(1861)***
+* Renato *(999)* `0   -   1` **Léo *(1861)***
 
 **>** [Link](https://www.lichess.org/Zuj9WuHM), *D00 - Queen's Pawn Game: Mason Attack*.
-* Pedro *(1082)* `0   -   1` **Marcelo *(1717)***
+* Pedro *(1113)* `0   -   1` **Marcelo *(1717)***
 
 **>** [Link](https://www.lichess.org/LkJD4S6R), *A45 - Indian Game*.
 
-De folga: Vitor (1262)
+De folga: Vitor (1256)
 

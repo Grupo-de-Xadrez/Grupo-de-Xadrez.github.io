@@ -10,11 +10,11 @@
 * LEO: **Léo**, a.k.a. [@killer9](https://www.lichess.org/@/killer9) *(Rapid: 1933, Blitz: 1861)*
 * MAR: **Marcelo**, a.k.a. [@mkvieira](https://www.lichess.org/@/mkvieira) *(Rapid: 2049, Blitz: 1717)*
 * MIL: **Milton**, a.k.a. [@milton1960](https://www.lichess.org/@/milton1960) *(Rapid: 1889, Blitz: 1647)*
-* PED: **Pedro**, a.k.a. [@Phoenix20201](https://www.lichess.org/@/Phoenix20201) *(Rapid: 1225, Blitz: 1082)*
-* REN: **Renato**, a.k.a. [@Padilha20](https://www.lichess.org/@/Padilha20) *(Rapid: 1234, Blitz: 1006)*
+* PED: **Pedro**, a.k.a. [@Phoenix20201](https://www.lichess.org/@/Phoenix20201) *(Rapid: 1225, Blitz: 1113)*
+* REN: **Renato**, a.k.a. [@Padilha20](https://www.lichess.org/@/Padilha20) *(Rapid: 1234, Blitz: 999)*
 * RIC: **Ricardo**, a.k.a. [@r-k-k](https://www.lichess.org/@/r-k-k) *(Rapid: 1771, Blitz: 1625)*
 * RIB: **Ribas**, a.k.a. [@Rpribas](https://www.lichess.org/@/Rpribas) *(Rapid: 1623, Blitz: 2055)*
-* VIT: **Vitor**, a.k.a. [@VitorStahlhoefer](https://www.lichess.org/@/VitorStahlhoefer) *(Rapid: 1319, Blitz: 1262)*
+* VIT: **Vitor**, a.k.a. [@VitorStahlhoefer](https://www.lichess.org/@/VitorStahlhoefer) *(Rapid: 1313, Blitz: 1256)*
 
 ## Rodadas:
 
@@ -41,7 +41,7 @@
 | 7 | Felipe (1552) | 5 | 9 | 5 | 5 |
 | 8 | Ribas (1623) | 4½ | 9 | 4 | 4 |
 | 9 | Diogo (1236) | 2½ | 11 | 5 | 2 |
-| 10 | Vitor (1319) | 2 | 9 | 6 | 1 |
+| 10 | Vitor (1313) | 2 | 9 | 6 | 1 |
 | 11 | Pedro (1225) | 2 | 9 | 4 | 2 |
 | 12 | Alexandre (1154) | 1½ | 9 | 4 | 1 |
 | 13 | Renato (1234) | 1 | 10 | 5 | 1 |
@@ -55,13 +55,13 @@
 | 3 | Marcelo (1717) | 7 | 9 | 5 | 7 |
 | 4 | Freddy (1789) | 7 | 10 | 4 | 7 |
 | 5 | Júlio (1551) | 6 | 10 | 5 | 6 |
-| 6 | Pedro (1082) | 5 | 9 | 5 | 5 |
+| 6 | Pedro (1113) | 5 | 9 | 5 | 5 |
 | 7 | Ribas (2055) | 5 | 9 | 5 | 4 |
 | 8 | Felipe (1387) | 4½ | 9 | 4 | 4 |
 | 8 | Milton (1647) | 4½ | 9 | 4 | 4 |
-| 10 | Vitor (1262) | 2½ | 9 | 3 | 2 |
+| 10 | Vitor (1256) | 2½ | 9 | 3 | 2 |
 | 11 | Diogo (1493) | 2 | 11 | 6 | 1 |
-| 12 | Renato (1006) | 1 | 10 | 5 | 1 |
+| 12 | Renato (999) | 1 | 10 | 5 | 1 |
 | 13 | Alexandre (1183) | 0½ | 9 | 5 | 0 |
 
 ## Resultados

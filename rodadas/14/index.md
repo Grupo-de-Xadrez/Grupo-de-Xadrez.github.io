@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* Vitor *(1319)*     -     Pedro *(1225)*
+* Vitor *(1313)*     -     Pedro *(1225)*
 
  **>** 
 * Marcelo *(2049)*     -     Renato *(1234)*
@@ -25,10 +25,10 @@ De folga: Felipe (1552)
 
 #### Blitz:
 
-* Pedro *(1082)*     -     Vitor *(1262)*
+* Pedro *(1113)*     -     Vitor *(1256)*
 
  **>** 
-* Renato *(1006)*     -     Marcelo *(1717)*
+* Renato *(999)*     -     Marcelo *(1717)*
 
  **>** 
 * Freddy *(1789)*     -     Léo *(1861)*

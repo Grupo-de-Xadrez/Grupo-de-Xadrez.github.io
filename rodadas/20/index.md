@@ -21,7 +21,7 @@
 
  **>** 
 
-De folga: Vitor (1319)
+De folga: Vitor (1313)
 
 #### Blitz:
 
@@ -37,12 +37,12 @@ De folga: Vitor (1319)
 * Freddy *(1789)*     -     Alexandre *(1183)*
 
  **>** 
-* Léo *(1861)*     -     Renato *(1006)*
+* Léo *(1861)*     -     Renato *(999)*
 
  **>** 
-* Marcelo *(1717)*     -     Pedro *(1082)*
+* Marcelo *(1717)*     -     Pedro *(1113)*
 
  **>** 
 
-De folga: Vitor (1262)
+De folga: Vitor (1256)
 

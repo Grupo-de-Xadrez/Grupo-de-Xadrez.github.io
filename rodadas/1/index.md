@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* Pedro *(1225)* `0   -   1` **Vitor *(1319)***
+* Pedro *(1225)* `0   -   1` **Vitor *(1313)***
 
 **>** [Link](https://www.lichess.org/V2sxuQDq), *D00 - Queen's Pawn Game*.
 * Renato *(1234)* `0   -   1` **Marcelo *(2049)***
@@ -25,10 +25,10 @@ De folga: Felipe (1552)
 
 #### Blitz:
 
-* Vitor *(1262)* `0   -   1` **Pedro *(1082)*** `INVERTIDO`
+* Vitor *(1256)* `0   -   1` **Pedro *(1113)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/Z4XgGxLN), *D00 - Queen's Pawn Game*.
-* **Marcelo *(1717)*** `1   -   0`  Renato *(1006)*
+* **Marcelo *(1717)*** `1   -   0`  Renato *(999)*
 
 **>** [Link](https://www.lichess.org/9SCbnWsf), *D00 - Queen's Pawn Game: Chigorin Variation*.
 * **Léo *(1861)*** `1   -   0`  Freddy *(1789)*

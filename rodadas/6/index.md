@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* **Diogo *(1236)*** `1   -   0`  Vitor *(1319)*
+* **Diogo *(1236)*** `1   -   0`  Vitor *(1313)*
 
 **>** [Link](https://www.lichess.org/oLT8dFSp), *D01 - Rapport-Jobava System*.
 * Felipe *(1552)* `0   -   1` **Júlio *(1706)***
@@ -25,7 +25,7 @@ De folga: Ribas (1623)
 
 #### Blitz:
 
-* **Vitor *(1262)*** `1   -   0`  Diogo *(1493)*
+* **Vitor *(1256)*** `1   -   0`  Diogo *(1493)*
 
 **>** [Link](https://www.lichess.org/wVZwlYka), *C22 - Center Game: Normal Variation*.
 * **Júlio *(1551)*** `1   -   0`  Felipe *(1387)*
@@ -34,10 +34,10 @@ De folga: Ribas (1623)
 * Milton *(1647)* `0   -   1` **Freddy *(1789)***
 
 **>** [Link](https://www.lichess.org/kntzkFHk), *C00 - French Defense*.
-* **Ricardo *(1625)*** `1   -   0`  Renato *(1006)*
+* **Ricardo *(1625)*** `1   -   0`  Renato *(999)*
 
 **>** [Link](https://www.lichess.org/W6qYlQxP), *C40 - King's Pawn Game: Damiano Defense*.
-* Alexandre *(1183)* `0   -   1` **Pedro *(1082)***
+* Alexandre *(1183)* `0   -   1` **Pedro *(1113)***
 
 **>** [Link](https://www.lichess.org/dRK4gyy6), *C20 - King's Pawn Game: Leonardis Variation*.
 * Marcelo *(1717)* `0   -   1` **Léo *(1861)***

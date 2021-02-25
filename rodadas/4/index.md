@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* Vitor *(1319)* `½ - ½` Júlio *(1706)*
+* Vitor *(1313)* `½ - ½` Júlio *(1706)*
 
 **>** [Link](https://www.lichess.org/cNEagLGV), *C46 - Four Knights Game*.
 * Ribas *(1623)* `0   -   1` **Freddy *(1890)***
@@ -25,13 +25,13 @@ De folga: Pedro (1225)
 
 #### Blitz:
 
-* **Júlio *(1551)*** `1   -   0`  Vitor *(1262)*
+* **Júlio *(1551)*** `1   -   0`  Vitor *(1256)*
 
 **>** [Link](https://www.lichess.org/IwpZ88MV), *D00 - Queen's Pawn Game: Mason Variation*.
 * Freddy *(1789)* `0   -   1` **Ribas *(2055)***
 
 **>** [Link](https://www.lichess.org/HRkvmdFA), *D06 - Queen's Gambit Declined: Marshall Defense*.
-* Diogo *(1493)* `0   -   1` **Renato *(1006)***
+* Diogo *(1493)* `0   -   1` **Renato *(999)***
 
 **>** [Link](https://www.lichess.org/AJWXTn79), *C40 - King's Pawn Game: Damiano Defense*.
 * Felipe *(1387)* `0   -   1` **Marcelo *(1717)***
@@ -44,5 +44,5 @@ De folga: Pedro (1225)
 
 **>** [Link](https://www.lichess.org/LqcS00rX), *C41 - Philidor Defense*.
 
-De folga: Pedro (1082)
+De folga: Pedro (1113)
 
