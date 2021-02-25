@@ -5,7 +5,7 @@
 * ALE: **Alexandre**, a.k.a. [@AHCA](https://www.lichess.org/@/AHCA) *(Rapid: 1154, Blitz: 1183)*
 * DIO: **Diogo**, a.k.a. [@diogo98](https://www.lichess.org/@/diogo98) *(Rapid: 1236, Blitz: 1493)*
 * FEL: **Felipe**, a.k.a. [@Fgcotta](https://www.lichess.org/@/Fgcotta) *(Rapid: 1552, Blitz: 1387)*
-* FRE: **Freddy**, a.k.a. [@PlixMax](https://www.lichess.org/@/PlixMax) *(Rapid: 1890, Blitz: 1781)*
+* FRE: **Freddy**, a.k.a. [@PlixMax](https://www.lichess.org/@/PlixMax) *(Rapid: 1890, Blitz: 1787)*
 * JUL: **Júlio**, a.k.a. [@juliopinheiro](https://www.lichess.org/@/juliopinheiro) *(Rapid: 1706, Blitz: 1551)*
 * LEO: **Léo**, a.k.a. [@killer9](https://www.lichess.org/@/killer9) *(Rapid: 1933, Blitz: 1861)*
 * MAR: **Marcelo**, a.k.a. [@mkvieira](https://www.lichess.org/@/mkvieira) *(Rapid: 2049, Blitz: 1717)*
@@ -53,7 +53,7 @@
 | 1 | Ricardo (1625) | 8 | 9 | 5 | 8 |
 | 2 | Léo (1861) | 8 | 9 | 5 | 7 |
 | 3 | Marcelo (1717) | 7 | 9 | 5 | 7 |
-| 4 | Freddy (1781) | 7 | 10 | 4 | 7 |
+| 4 | Freddy (1787) | 7 | 10 | 4 | 7 |
 | 5 | Júlio (1551) | 6 | 10 | 5 | 6 |
 | 6 | Pedro (1113) | 5 | 9 | 5 | 5 |
 | 7 | Ribas (2055) | 5 | 9 | 5 | 4 |

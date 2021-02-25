@@ -31,7 +31,7 @@ De folga: Felipe (1552)
 * **Marcelo *(1717)*** `1   -   0`  Renato *(999)*
 
 **>** [Link](https://www.lichess.org/9SCbnWsf), *D00 - Queen's Pawn Game: Chigorin Variation*.
-* **Léo *(1861)*** `1   -   0`  Freddy *(1781)*
+* **Léo *(1861)*** `1   -   0`  Freddy *(1787)*
 
 **>** [Link](https://www.lichess.org/EdwQe0e0), *A45 - Trompowsky Attack*.
 * Alexandre *(1183)* `0   -   1` **Júlio *(1551)***

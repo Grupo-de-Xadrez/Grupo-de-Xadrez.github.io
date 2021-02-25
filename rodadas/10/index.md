@@ -40,7 +40,7 @@ De folga: Marcelo (2049)
 * Renato *(999)* `0   -   1` **Ribas *(2055)***
 
 **>** [Link](https://www.lichess.org/czwrbtoa), *D00 - Queen's Pawn Game*.
-* Júlio *(1551)* `0   -   1` **Freddy *(1781)***
+* Júlio *(1551)* `0   -   1` **Freddy *(1787)***
 
 **>** [Link](https://www.lichess.org/i8nZDdQV), *C01 - French Defense: Exchange Variation, Monte Carlo Variation*.
 

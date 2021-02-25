@@ -44,5 +44,5 @@ De folga: Freddy (1890)
 
 **>** [Link](https://www.lichess.org/Pb9aW9HI), *C00 - French Defense: Schlechter Variation*.
 
-De folga: Freddy (1781)
+De folga: Freddy (1787)
 
