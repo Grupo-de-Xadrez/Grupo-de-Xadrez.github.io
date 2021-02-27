@@ -5,13 +5,13 @@
 * Ricardo *(1771)* `½ - ½` Vitor *(1313)*
 
 **>** [Link](https://www.lichess.org/DzW6bbNE), *C44 - King's Knight Opening: Normal Variation*.
-* Alexandre *(1154)* `0   -   1` **Milton *(1889)***
+* Alexandre *(1154)* `0   -   1` **Milton *(1892)***
 
 **>** [Link](https://www.lichess.org/rFpRNKGI), *B20 - Sicilian Defense: Staunton-Cochrane Variation*.
 * **Léo *(1933)*** `1   -   0`  Felipe *(1552)*
 
 **>** [Link](https://www.lichess.org/0hAMPnId), *D30 - Queen's Gambit Declined*.
-* Diogo *(1236)* `0   -   1` **Pedro *(1216)***
+* Diogo *(1236)* `0   -   1` **Pedro *(1199)***
 
 **>** [Link](https://www.lichess.org/xh3yb5Ix), *C41 - Philidor Defense*.
 * **Ribas *(1623)*** `1   -   0`  Renato *(1234)*
@@ -21,14 +21,14 @@
 
 **>** [Link](https://www.lichess.org/huR1ONU0), *D10 - Slav Defense: Exchange Variation*.
 
-De folga: Marcelo (2049)
+De folga: Marcelo (2018)
 
 #### Blitz:
 
-* Vitor *(1256)* `0   -   1` **Ricardo *(1625)***
+* Vitor *(1249)* `0   -   1` **Ricardo *(1625)***
 
 **>** [Link](https://www.lichess.org/sMrIcVds), *C46 - Three Knights Opening*.
-* **Milton *(1647)*** `1   -   0`  Alexandre *(1183)*
+* **Milton *(1641)*** `1   -   0`  Alexandre *(1183)*
 
 **>** [Link](https://www.lichess.org/vZnMORke), *C28 - Vienna Game: Stanley Variation, Three Knights Variation*.
 * Felipe *(1387)* `½ - ½` Léo *(1861)*
@@ -37,12 +37,12 @@ De folga: Marcelo (2049)
 * **Pedro *(1113)*** `1   -   0`  Diogo *(1493)*
 
 **>** [Link](https://www.lichess.org/lwaXzUH9), *D00 - Queen's Pawn Game*.
-* Renato *(993)* `0   -   1` **Ribas *(2055)***
+* Renato *(999)* `0   -   1` **Ribas *(2055)***
 
 **>** [Link](https://www.lichess.org/czwrbtoa), *D00 - Queen's Pawn Game*.
-* Júlio *(1551)* `0   -   1` **Freddy *(1781)***
+* Júlio *(1551)* `0   -   1` **Freddy *(1814)***
 
 **>** [Link](https://www.lichess.org/i8nZDdQV), *C01 - French Defense: Exchange Variation, Monte Carlo Variation*.
 
-De folga: Marcelo (1717)
+De folga: Marcelo (1774)
 

@@ -14,18 +14,18 @@
 * Júlio *(1706)* `0   -   1` **Léo *(1933)***
 
 **>** [Link](https://www.lichess.org/Y3GmBysX), *B06 - Modern Defense: Standard Defense*.
-* Marcelo *(2049)* `½ - ½` Freddy *(1890)*
+* Marcelo *(2018)* `½ - ½` Freddy *(1890)*
 
 **>** [Link](https://www.lichess.org/ULDJhyiK), *C12 - French Defense: MacCutcheon Variation, Chigorin Variation*.
-* **Pedro *(1216)*** `1   -   0`  Renato *(1234)*
+* **Pedro *(1199)*** `1   -   0`  Renato *(1234)*
 
 **>** [Link](https://www.lichess.org/eHkRZq9s), *D00 - Queen's Pawn Game*.
 
-De folga: Milton (1889)
+De folga: Milton (1892)
 
 #### Blitz:
 
-* Vitor *(1256)* `0   -   1` **Felipe *(1387)***
+* Vitor *(1249)* `0   -   1` **Felipe *(1387)***
 
 **>** [Link](https://www.lichess.org/PoxhQGHP), *C41 - Philidor Defense: Boden Variation*.
 * Diogo *(1493)* `0   -   1` **Ricardo *(1625)***
@@ -37,12 +37,12 @@ De folga: Milton (1889)
 * **Léo *(1861)*** `1   -   0`  Júlio *(1551)*
 
 **>** [Link](https://www.lichess.org/vhpeAYWf), *C65 - Ruy Lopez: Berlin Defense*.
-* Freddy *(1781)* `0   -   1` **Marcelo *(1717)***
+* Freddy *(1814)* `0   -   1` **Marcelo *(1774)***
 
 **>** [Link](https://www.lichess.org/aQvQgFvB), *E81 - King's Indian Defense: Steiner Attack*.
-* Renato *(993)* `0   -   1` **Pedro *(1113)***
+* Renato *(999)* `0   -   1` **Pedro *(1113)***
 
 **>** [Link](https://www.lichess.org/xt6SEfF6), *D00 - Queen's Pawn Game*.
 
-De folga: Milton (1647)
+De folga: Milton (1641)
 

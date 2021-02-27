@@ -11,10 +11,10 @@
 * Renato *(1234)* `0   -   1` **Felipe *(1552)***
 
 **>** [Link](https://www.lichess.org/rxcxV1No), *C41 - Philidor Defense*.
-* Pedro *(1216)* `0   -   1` **Milton *(1889)***
+* Pedro *(1199)* `0   -   1` **Milton *(1892)***
 
 **>** [Link](https://www.lichess.org/H4MP7ROS), *D00 - Queen's Pawn Game*.
-* Ricardo *(1771)* `0   -   1` **Marcelo *(2049)***
+* Ricardo *(1771)* `0   -   1` **Marcelo *(2018)***
 
 **>** [Link](https://www.lichess.org/T4cMwFqJ), *B40 - Sicilian Defense: French Variation*.
 * Alexandre *(1154)* `0   -   1` **Léo *(1933)*** `INVERTIDO`
@@ -25,24 +25,24 @@ De folga: Freddy (1890)
 
 #### Blitz:
 
-* Vitor *(1256)* `½ - ½` Ribas *(2055)*
+* Vitor *(1249)* `½ - ½` Ribas *(2055)*
 
 **>** [Link](https://www.lichess.org/jCwtl7kN), *B20 - Sicilian Defense: Bowdler Attack*.
 * **Júlio *(1551)*** `1   -   0`  Diogo *(1493)*
 
 **>** [Link](https://www.lichess.org/USQgItX9), *A40 - Horwitz Defense*.
-* **Felipe *(1387)*** `1   -   0`  Renato *(993)*
+* **Felipe *(1387)*** `1   -   0`  Renato *(999)*
 
 **>** [Link](https://www.lichess.org/XIfFoMyW), *C23 - Bishop's Opening*.
-* **Milton *(1647)*** `1   -   0`  Pedro *(1113)*
+* **Milton *(1641)*** `1   -   0`  Pedro *(1113)*
 
 **>** [Link](https://www.lichess.org/Piatvx1D), *C23 - Bishop's Opening*.
-* Marcelo *(1717)* `0   -   1` **Ricardo *(1625)***
+* Marcelo *(1774)* `0   -   1` **Ricardo *(1625)***
 
 **>** [Link](https://www.lichess.org/U1pZa3C0), *C62 - Ruy Lopez: Steinitz Defense*.
 * **Léo *(1861)*** `1   -   0`  Alexandre *(1183)* `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/Pb9aW9HI), *C00 - French Defense: Schlechter Variation*.
 
-De folga: Freddy (1781)
+De folga: Freddy (1814)
 

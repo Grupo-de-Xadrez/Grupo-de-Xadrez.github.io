@@ -2,18 +2,18 @@
 
 #### Rapid:
 
-* Vitor *(1313)*     -     Alexandre *(1154)*
+* **Vitor *(1313)*** `1   -   0`  Alexandre *(1154)* `INVERTIDO`
 
- **>** 
+**>** [Link](https://www.lichess.org/uzz6TLeb), *C25 - Vienna Game: Max Lange Defense*.
 * Ricardo *(1771)*     -     Léo *(1933)*
 
  **>** 
-* Milton *(1889)*     -     Marcelo *(2049)*
+* Milton *(1892)* `½ - ½` Marcelo *(2018)*
 
- **>** 
-* Pedro *(1216)*     -     Felipe *(1552)*
+**>** [Link](https://www.lichess.org/Hveq9NYu), *C00 - French Defense: King's Indian Attack*.
+* **Pedro *(1199)*** `1   -   0`  Felipe *(1552)*
 
- **>** 
+**>** [Link](https://www.lichess.org/3tPc9vbg), *D00 - Queen's Pawn Game*.
 * Diogo *(1236)* `0   -   1` **Freddy *(1890)***
 
 **>** [Link](https://www.lichess.org/bzs5OTvF), *A40 - Horwitz Defense*.
@@ -25,24 +25,24 @@ De folga: Renato (1234)
 
 #### Blitz:
 
-* Alexandre *(1183)*     -     Vitor *(1256)*
+* Alexandre *(1183)* `0   -   1` **Vitor *(1249)*** `INVERTIDO`
 
- **>** 
+**>** [Link](https://www.lichess.org/HrAy00oE), *C40 - King's Knight Opening*.
 * Léo *(1861)*     -     Ricardo *(1625)*
 
  **>** 
-* Marcelo *(1717)*     -     Milton *(1647)*
+* **Marcelo *(1774)*** `1   -   0`  Milton *(1641)*
 
- **>** 
-* Felipe *(1387)*     -     Pedro *(1113)*
+**>** [Link](https://www.lichess.org/ddfdNyXJ), *B32 - Sicilian Defense: LÃ¶wenthal Variation*.
+* **Felipe *(1387)*** `1   -   0`  Pedro *(1113)*
 
- **>** 
-* **Freddy *(1781)*** `1   -   0`  Diogo *(1493)*
+**>** [Link](https://www.lichess.org/XgzeSbk8), *C23 - Bishop's Opening*.
+* **Freddy *(1814)*** `1   -   0`  Diogo *(1493)*
 
 **>** [Link](https://www.lichess.org/xVTfL6Vs), *D30 - Queen's Gambit Declined*.
 * Ribas *(2055)*     -     Júlio *(1551)*
 
  **>** 
 
-De folga: Renato (993)
+De folga: Renato (999)
 
