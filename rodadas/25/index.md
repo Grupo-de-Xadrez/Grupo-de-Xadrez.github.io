@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* Léo *(1933)*     -     Vitor *(1320)*
+* Léo *(1933)*     -     Vitor *(1314)*
 
  **>** 
 * Marcelo *(2018)*     -     Alexandre *(1154)*

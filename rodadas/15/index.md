@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* Renato *(1234)*     -     Vitor *(1320)*
+* Renato *(1234)*     -     Vitor *(1314)*
 
  **>** 
 * Freddy *(1890)*     -     Pedro *(1199)*
