@@ -31,7 +31,7 @@ De folga: Diogo (1236)
 * Pedro *(1113)*     -     Léo *(1861)*
 
  **>** 
-* Alexandre *(1183)*     -     Renato *(993)*
+* Alexandre *(1183)*     -     Renato *(987)*
 
  **>** 
 * Freddy *(1814)*     -     Ricardo *(1625)*
