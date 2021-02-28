@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* Vitor *(1313)*     -     Felipe *(1552)*
+* Vitor *(1320)*     -     Felipe *(1552)*
 
  **>** 
 * Diogo *(1236)*     -     Ricardo *(1771)*

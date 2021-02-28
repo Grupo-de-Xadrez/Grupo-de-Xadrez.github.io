@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* **Felipe *(1552)*** `1   -   0`  Vitor *(1313)*
+* **Felipe *(1552)*** `1   -   0`  Vitor *(1320)*
 
 **>** [Link](https://www.lichess.org/il8Y1UYr), *C24 - Bishop's Opening: Berlin Defense*.
 * **Ricardo *(1771)*** `1   -   0`  Diogo *(1236)*

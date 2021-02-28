@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* Ricardo *(1771)* `½ - ½` Vitor *(1313)*
+* Ricardo *(1771)* `½ - ½` Vitor *(1320)*
 
 **>** [Link](https://www.lichess.org/DzW6bbNE), *C44 - King's Knight Opening: Normal Variation*.
 * Alexandre *(1154)* `0   -   1` **Milton *(1892)***

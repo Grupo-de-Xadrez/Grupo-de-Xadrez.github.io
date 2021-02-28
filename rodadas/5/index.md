@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* **Ribas *(1623)*** `1   -   0`  Vitor *(1313)*
+* **Ribas *(1623)*** `1   -   0`  Vitor *(1320)*
 
 **>** [Link](https://www.lichess.org/uUGYj33X), *D20 - Queen's Gambit Accepted*.
 * Diogo *(1236)* `0   -   1` **Júlio *(1706)***
