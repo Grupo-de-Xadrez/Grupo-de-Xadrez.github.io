@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* Vitor *(1314)*     -     Ricardo *(1771)*
+* Vitor *(1323)*     -     Ricardo *(1771)*
 
  **>** 
 * Milton *(1892)*     -     Alexandre *(1154)*
@@ -28,7 +28,7 @@ De folga: Marcelo (2018)
 * Ricardo *(1625)*     -     Vitor *(1249)*
 
  **>** 
-* Alexandre *(1183)*     -     Milton *(1641)*
+* Alexandre *(1183)*     -     Milton *(1651)*
 
  **>** 
 * Léo *(1861)*     -     Felipe *(1387)*
@@ -37,7 +37,7 @@ De folga: Marcelo (2018)
 * Diogo *(1493)*     -     Pedro *(1113)*
 
  **>** 
-* Ribas *(2055)*     -     Renato *(993)*
+* Ribas *(2055)*     -     Renato *(991)*
 
  **>** 
 * Freddy *(1814)*     -     Júlio *(1551)*

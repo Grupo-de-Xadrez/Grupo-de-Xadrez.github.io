@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* Alexandre *(1154)*     -     Vitor *(1314)*
+* Alexandre *(1154)*     -     Vitor *(1323)*
 
  **>** 
 * Léo *(1933)*     -     Ricardo *(1771)*
@@ -31,7 +31,7 @@ De folga: Renato (1234)
 * Ricardo *(1625)*     -     Léo *(1861)*
 
  **>** 
-* Milton *(1641)*     -     Marcelo *(1774)*
+* Milton *(1651)*     -     Marcelo *(1774)*
 
  **>** 
 * Pedro *(1113)*     -     Felipe *(1387)*
@@ -44,5 +44,5 @@ De folga: Renato (1234)
 
  **>** 
 
-De folga: Renato (993)
+De folga: Renato (991)
 

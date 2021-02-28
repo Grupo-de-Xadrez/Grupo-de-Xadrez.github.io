@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* **Milton *(1892)*** `1   -   0`  Vitor *(1314)*
+* **Milton *(1892)*** `1   -   0`  Vitor *(1323)*
 
 **>** [Link](https://www.lichess.org/cvAf4XYT), *C24 - Bishop's Opening: Vienna Hybrid*.
 * Felipe *(1552)* `0   -   1` **Ricardo *(1771)***
@@ -25,7 +25,7 @@ De folga: Alexandre (1154)
 
 #### Blitz:
 
-* Vitor *(1249)* `0   -   1` **Milton *(1641)***
+* Vitor *(1249)* `0   -   1` **Milton *(1651)***
 
 **>** [Link](https://www.lichess.org/vf5wM9Rz), *B30 - Sicilian Defense: Nyezhmetdinov-Rossolimo Attack*.
 * **Ricardo *(1625)*** `1   -   0`  Felipe *(1387)*
@@ -40,7 +40,7 @@ De folga: Alexandre (1154)
 * **Pedro *(1113)*** `1   -   0`  Júlio *(1551)*
 
 **>** [Link](https://www.lichess.org/HIltIKfw), *D00 - Queen's Pawn Game*.
-* **Freddy *(1814)*** `1   -   0`  Renato *(993)*
+* **Freddy *(1814)*** `1   -   0`  Renato *(991)*
 
 **>** [Link](https://www.lichess.org/He4kkwh3), *D10 - Slav Defense: Exchange Variation*.
 

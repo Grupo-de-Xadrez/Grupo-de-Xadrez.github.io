@@ -21,14 +21,14 @@
 
  **>** 
 
-De folga: Vitor (1314)
+De folga: Vitor (1323)
 
 #### Blitz:
 
 * Diogo *(1493)*     -     Felipe *(1387)*
 
  **>** 
-* Ribas *(2055)*     -     Milton *(1641)*
+* Ribas *(2055)*     -     Milton *(1651)*
 
  **>** 
 * Júlio *(1551)*     -     Ricardo *(1625)*
@@ -37,7 +37,7 @@ De folga: Vitor (1314)
 * Freddy *(1814)*     -     Alexandre *(1183)*
 
  **>** 
-* Léo *(1861)*     -     Renato *(993)*
+* Léo *(1861)*     -     Renato *(991)*
 
  **>** 
 * Marcelo *(1774)*     -     Pedro *(1113)*

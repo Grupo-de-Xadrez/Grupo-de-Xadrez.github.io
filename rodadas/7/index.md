@@ -21,14 +21,14 @@
 
 **>** [Link](https://www.lichess.org/mvtmGlJJ), *C41 - Philidor Defense*.
 
-De folga: Vitor (1314)
+De folga: Vitor (1323)
 
 #### Blitz:
 
 * **Felipe *(1387)*** `1   -   0`  Diogo *(1493)*
 
 **>** [Link](https://www.lichess.org/K27unGrd), *C23 - Bishop's Opening*.
-* Milton *(1641)* `½ - ½` Ribas *(2055)*
+* Milton *(1651)* `½ - ½` Ribas *(2055)*
 
 **>** [Link](https://www.lichess.org/JY2PY2di), *B20 - Sicilian Defense: Staunton-Cochrane Variation*.
 * Ricardo *(1625)* `0   -   1` **Júlio *(1551)***
@@ -37,7 +37,7 @@ De folga: Vitor (1314)
 * Alexandre *(1183)* `0   -   1` **Freddy *(1814)***
 
 **>** [Link](https://www.lichess.org/BU6Y8gxM), *C00 - French Defense: Schlechter Variation*.
-* Renato *(993)* `0   -   1` **Léo *(1861)***
+* Renato *(991)* `0   -   1` **Léo *(1861)***
 
 **>** [Link](https://www.lichess.org/Zuj9WuHM), *D00 - Queen's Pawn Game: Mason Attack*.
 * Pedro *(1113)* `0   -   1` **Marcelo *(1774)***

@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* Freddy *(1890)*     -     Vitor *(1314)*
+* Freddy *(1890)*     -     Vitor *(1323)*
 
  **>** 
 * Renato *(1234)*     -     Júlio *(1706)*
@@ -28,7 +28,7 @@ De folga: Léo (1933)
 * Vitor *(1249)*     -     Freddy *(1814)*
 
  **>** 
-* Júlio *(1551)*     -     Renato *(993)*
+* Júlio *(1551)*     -     Renato *(991)*
 
  **>** 
 * Ribas *(2055)*     -     Pedro *(1113)*
@@ -40,7 +40,7 @@ De folga: Léo (1933)
 * Felipe *(1387)*     -     Alexandre *(1183)*
 
  **>** 
-* Ricardo *(1625)*     -     Milton *(1641)*
+* Ricardo *(1625)*     -     Milton *(1651)*
 
  **>** 
 
