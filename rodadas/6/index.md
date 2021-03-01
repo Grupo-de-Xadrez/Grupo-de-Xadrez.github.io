@@ -34,7 +34,7 @@ De folga: Ribas (1623)
 * Milton *(1651)* `0   -   1` **Freddy *(1814)***
 
 **>** [Link](https://www.lichess.org/kntzkFHk), *C00 - French Defense*.
-* **Ricardo *(1625)*** `1   -   0`  Renato *(987)*
+* **Ricardo *(1625)*** `1   -   0`  Renato *(992)*
 
 **>** [Link](https://www.lichess.org/W6qYlQxP), *C40 - King's Pawn Game: Damiano Defense*.
 * Alexandre *(1183)* `0   -   1` **Pedro *(1113)***
