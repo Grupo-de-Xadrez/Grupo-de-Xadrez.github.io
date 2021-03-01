@@ -40,7 +40,7 @@ De folga: Vitor (1323)
 * Léo *(1861)*     -     Renato *(992)*
 
  **>** 
-* Marcelo *(1774)*     -     Pedro *(1113)*
+* Marcelo *(1774)*     -     Pedro *(1134)*
 
  **>** 
 
