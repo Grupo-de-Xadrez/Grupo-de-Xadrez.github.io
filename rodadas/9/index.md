@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* **Milton *(1892)*** `1   -   0`  Vitor *(1323)*
+* **Milton *(1892)*** `1   -   0`  Vitor *(1316)*
 
 **>** [Link](https://www.lichess.org/cvAf4XYT), *C24 - Bishop's Opening: Vienna Hybrid*.
 * Felipe *(1552)* `0   -   1` **Ricardo *(1771)***
@@ -25,7 +25,7 @@ De folga: Alexandre (1154)
 
 #### Blitz:
 
-* Vitor *(1255)* `0   -   1` **Milton *(1645)***
+* Vitor *(1255)* `0   -   1` **Milton *(1650)***
 
 **>** [Link](https://www.lichess.org/vf5wM9Rz), *B30 - Sicilian Defense: Nyezhmetdinov-Rossolimo Attack*.
 * **Ricardo *(1625)*** `1   -   0`  Felipe *(1387)*

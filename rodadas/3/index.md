@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* Vitor *(1323)* `0   -   1` **Freddy *(1890)***
+* Vitor *(1316)* `0   -   1` **Freddy *(1890)***
 
 **>** [Link](https://www.lichess.org/mPoMdB5X), *C00 - French Defense: Queen's Knight*.
 * **Júlio *(1706)*** `1   -   0`  Renato *(1234)*
@@ -40,7 +40,7 @@ De folga: Léo (1933)
 * Alexandre *(1183)* `0   -   1` **Felipe *(1387)***
 
 **>** [Link](https://www.lichess.org/Ph54JBSv), *D00 - Queen's Pawn Game*.
-* Milton *(1645)* `0   -   1` **Ricardo *(1625)***
+* Milton *(1650)* `0   -   1` **Ricardo *(1625)***
 
 **>** [Link](https://www.lichess.org/fWgQh4gz), *C23 - Bishop's Opening*.
 

@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* Ricardo *(1771)* `½ - ½` Vitor *(1323)*
+* Ricardo *(1771)* `½ - ½` Vitor *(1316)*
 
 **>** [Link](https://www.lichess.org/DzW6bbNE), *C44 - King's Knight Opening: Normal Variation*.
 * Alexandre *(1154)* `0   -   1` **Milton *(1892)***
@@ -28,7 +28,7 @@ De folga: Marcelo (2018)
 * Vitor *(1255)* `0   -   1` **Ricardo *(1625)***
 
 **>** [Link](https://www.lichess.org/sMrIcVds), *C46 - Three Knights Opening*.
-* **Milton *(1645)*** `1   -   0`  Alexandre *(1183)*
+* **Milton *(1650)*** `1   -   0`  Alexandre *(1183)*
 
 **>** [Link](https://www.lichess.org/vZnMORke), *C28 - Vienna Game: Stanley Variation, Three Knights Variation*.
 * Felipe *(1387)* `½ - ½` Léo *(1861)*

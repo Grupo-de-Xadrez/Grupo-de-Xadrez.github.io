@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* **Vitor *(1323)*** `1   -   0`  Alexandre *(1154)* `INVERTIDO`
+* **Vitor *(1316)*** `1   -   0`  Alexandre *(1154)* `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/uzz6TLeb), *C25 - Vienna Game: Max Lange Defense*.
 * Ricardo *(1771)*     -     Léo *(1933)*
@@ -31,7 +31,7 @@ De folga: Renato (1234)
 * Léo *(1861)*     -     Ricardo *(1625)*
 
  **>** 
-* **Marcelo *(1774)*** `1   -   0`  Milton *(1645)*
+* **Marcelo *(1774)*** `1   -   0`  Milton *(1650)*
 
 **>** [Link](https://www.lichess.org/ddfdNyXJ), *B32 - Sicilian Defense: LÃ¶wenthal Variation*.
 * **Felipe *(1387)*** `1   -   0`  Pedro *(1134)*

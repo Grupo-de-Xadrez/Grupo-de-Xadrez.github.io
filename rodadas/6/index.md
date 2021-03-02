@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* **Diogo *(1236)*** `1   -   0`  Vitor *(1323)*
+* **Diogo *(1236)*** `1   -   0`  Vitor *(1316)*
 
 **>** [Link](https://www.lichess.org/oLT8dFSp), *D01 - Rapport-Jobava System*.
 * Felipe *(1552)* `0   -   1` **Júlio *(1706)***
@@ -31,7 +31,7 @@ De folga: Ribas (1623)
 * **Júlio *(1551)*** `1   -   0`  Felipe *(1387)*
 
 **>** [Link](https://www.lichess.org/Hd2EH2bV), *D00 - Queen's Pawn Game: Mason Variation*.
-* Milton *(1645)* `0   -   1` **Freddy *(1814)***
+* Milton *(1650)* `0   -   1` **Freddy *(1814)***
 
 **>** [Link](https://www.lichess.org/kntzkFHk), *C00 - French Defense*.
 * **Ricardo *(1625)*** `1   -   0`  Renato *(1012)*

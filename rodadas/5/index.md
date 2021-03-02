@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* **Ribas *(1623)*** `1   -   0`  Vitor *(1323)*
+* **Ribas *(1623)*** `1   -   0`  Vitor *(1316)*
 
 **>** [Link](https://www.lichess.org/uUGYj33X), *D20 - Queen's Gambit Accepted*.
 * Diogo *(1236)* `0   -   1` **Júlio *(1706)***
@@ -34,7 +34,7 @@ De folga: Freddy (1890)
 * **Felipe *(1387)*** `1   -   0`  Renato *(1012)*
 
 **>** [Link](https://www.lichess.org/XIfFoMyW), *C23 - Bishop's Opening*.
-* **Milton *(1645)*** `1   -   0`  Pedro *(1134)*
+* **Milton *(1650)*** `1   -   0`  Pedro *(1134)*
 
 **>** [Link](https://www.lichess.org/Piatvx1D), *C23 - Bishop's Opening*.
 * Marcelo *(1774)* `0   -   1` **Ricardo *(1625)***

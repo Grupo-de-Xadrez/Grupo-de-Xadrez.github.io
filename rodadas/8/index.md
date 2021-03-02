@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* **Felipe *(1552)*** `1   -   0`  Vitor *(1323)*
+* **Felipe *(1552)*** `1   -   0`  Vitor *(1316)*
 
 **>** [Link](https://www.lichess.org/il8Y1UYr), *C24 - Bishop's Opening: Berlin Defense*.
 * **Ricardo *(1771)*** `1   -   0`  Diogo *(1236)*
@@ -44,5 +44,5 @@ De folga: Milton (1892)
 
 **>** [Link](https://www.lichess.org/xt6SEfF6), *D00 - Queen's Pawn Game*.
 
-De folga: Milton (1645)
+De folga: Milton (1650)
 
