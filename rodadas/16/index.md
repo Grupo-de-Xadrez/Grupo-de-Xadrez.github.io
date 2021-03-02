@@ -25,7 +25,7 @@ De folga: Léo (1933)
 
 #### Blitz:
 
-* Vitor *(1249)*     -     Freddy *(1814)*
+* Vitor *(1244)*     -     Freddy *(1814)*
 
  **>** 
 * Júlio *(1551)*     -     Renato *(1012)*
@@ -40,7 +40,7 @@ De folga: Léo (1933)
 * Felipe *(1387)*     -     Alexandre *(1183)*
 
  **>** 
-* Ricardo *(1625)*     -     Milton *(1641)*
+* Ricardo *(1625)*     -     Milton *(1634)*
 
  **>** 
 
