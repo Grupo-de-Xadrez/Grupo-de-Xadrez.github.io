@@ -40,7 +40,7 @@ De folga: Milton (1892)
 * Marcelo *(1774)*     -     Freddy *(1814)*
 
  **>** 
-* Pedro *(1134)*     -     Renato *(1006)*
+* Pedro *(1134)*     -     Renato *(1013)*
 
  **>** 
 
