@@ -31,7 +31,7 @@ De folga: Léo (1933)
 * Júlio *(1551)*     -     Renato *(1012)*
 
  **>** 
-* Ribas *(2055)*     -     Pedro *(1134)*
+* Ribas *(2055)*     -     Pedro *(1118)*
 
  **>** 
 * Diogo *(1493)*     -     Marcelo *(1774)*
@@ -40,7 +40,7 @@ De folga: Léo (1933)
 * Felipe *(1387)*     -     Alexandre *(1183)*
 
  **>** 
-* Ricardo *(1625)*     -     Milton *(1634)*
+* Ricardo *(1625)*     -     Milton *(1641)*
 
  **>** 
 

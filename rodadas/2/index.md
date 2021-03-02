@@ -28,7 +28,7 @@ De folga: Ricardo (1771)
 * Renato *(1012)* `0   -   1` **Vitor *(1250)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/8D1HswlL), *C20 - Center Game*.
-* **Freddy *(1814)*** `1   -   0`  Pedro *(1134)*
+* **Freddy *(1814)*** `1   -   0`  Pedro *(1118)*
 
 **>** [Link](https://www.lichess.org/3GCiQUZb), *D20 - Queen's Gambit Accepted: Old Variation*.
 * Júlio *(1551)* `0   -   1` **Marcelo *(1774)***
@@ -40,7 +40,7 @@ De folga: Ricardo (1771)
 * Diogo *(1493)* `½ - ½` Alexandre *(1183)*
 
 **>** [Link](https://www.lichess.org/JLLAkhLx), *C41 - Philidor Defense*.
-* Felipe *(1387)* `0   -   1` **Milton *(1634)***
+* Felipe *(1387)* `0   -   1` **Milton *(1641)***
 
 **>** [Link](https://www.lichess.org/DJGNYvmh), *B20 - Sicilian Defense: Bowdler Attack*.
 

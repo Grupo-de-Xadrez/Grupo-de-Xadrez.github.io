@@ -31,7 +31,7 @@ De folga: Léo (1933)
 * Renato *(1012)* `0   -   1` **Júlio *(1551)***
 
 **>** [Link](https://www.lichess.org/sGYNFcf4), *D00 - Queen's Pawn Game*.
-* Pedro *(1134)* `0   -   1` **Ribas *(2055)***
+* Pedro *(1118)* `0   -   1` **Ribas *(2055)***
 
 **>** [Link](https://www.lichess.org/XPb1HyYk), *D00 - Queen's Pawn Game*.
 * **Marcelo *(1774)*** `1   -   0`  Diogo *(1493)*
@@ -40,7 +40,7 @@ De folga: Léo (1933)
 * Alexandre *(1183)* `0   -   1` **Felipe *(1387)***
 
 **>** [Link](https://www.lichess.org/Ph54JBSv), *D00 - Queen's Pawn Game*.
-* Milton *(1634)* `0   -   1` **Ricardo *(1625)***
+* Milton *(1641)* `0   -   1` **Ricardo *(1625)***
 
 **>** [Link](https://www.lichess.org/fWgQh4gz), *C23 - Bishop's Opening*.
 
