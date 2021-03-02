@@ -28,7 +28,7 @@ De folga: Vitor (1323)
 * Diogo *(1493)*     -     Felipe *(1387)*
 
  **>** 
-* Ribas *(2055)*     -     Milton *(1642)*
+* Ribas *(2055)*     -     Milton *(1635)*
 
  **>** 
 * Júlio *(1551)*     -     Ricardo *(1625)*
@@ -44,5 +44,5 @@ De folga: Vitor (1323)
 
  **>** 
 
-De folga: Vitor (1249)
+De folga: Vitor (1255)
 
