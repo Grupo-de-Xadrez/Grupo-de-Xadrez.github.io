@@ -34,7 +34,7 @@ De folga: Freddy (1890)
 * Renato *(1012)*     -     Felipe *(1387)*
 
  **>** 
-* Pedro *(1134)*     -     Milton *(1635)*
+* Pedro *(1134)*     -     Milton *(1639)*
 
  **>** 
 * Ricardo *(1625)*     -     Marcelo *(1774)*
