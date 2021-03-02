@@ -31,7 +31,7 @@ De folga: Renato (1234)
 * Léo *(1861)*     -     Ricardo *(1625)*
 
  **>** 
-* **Marcelo *(1774)*** `1   -   0`  Milton *(1648)*
+* **Marcelo *(1774)*** `1   -   0`  Milton *(1651)*
 
 **>** [Link](https://www.lichess.org/ddfdNyXJ), *B32 - Sicilian Defense: LÃ¶wenthal Variation*.
 * **Felipe *(1387)*** `1   -   0`  Pedro *(1118)*
@@ -40,7 +40,7 @@ De folga: Renato (1234)
 * **Freddy *(1814)*** `1   -   0`  Diogo *(1493)*
 
 **>** [Link](https://www.lichess.org/xVTfL6Vs), *D30 - Queen's Gambit Declined*.
-* Ribas *(2055)*     -     Júlio *(1551)*
+* Ribas *(2055)*     -     Júlio *(1546)*
 
  **>** 
 
