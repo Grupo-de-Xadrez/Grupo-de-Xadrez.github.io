@@ -37,7 +37,7 @@ De folga: Vitor (1323)
 * Alexandre *(1183)* `0   -   1` **Freddy *(1814)***
 
 **>** [Link](https://www.lichess.org/BU6Y8gxM), *C00 - French Defense: Schlechter Variation*.
-* Renato *(1001)* `0   -   1` **Léo *(1861)***
+* Renato *(1006)* `0   -   1` **Léo *(1861)***
 
 **>** [Link](https://www.lichess.org/Zuj9WuHM), *D00 - Queen's Pawn Game: Mason Attack*.
 * Pedro *(1134)* `0   -   1` **Marcelo *(1774)***
