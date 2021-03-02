@@ -40,7 +40,7 @@ De folga: Alexandre (1154)
 * **Pedro *(1118)*** `1   -   0`  Júlio *(1551)*
 
 **>** [Link](https://www.lichess.org/HIltIKfw), *D00 - Queen's Pawn Game*.
-* **Freddy *(1814)*** `1   -   0`  Renato *(1012)*
+* **Freddy *(1814)*** `1   -   0`  Renato *(1019)*
 
 **>** [Link](https://www.lichess.org/He4kkwh3), *D10 - Slav Defense: Exchange Variation*.
 

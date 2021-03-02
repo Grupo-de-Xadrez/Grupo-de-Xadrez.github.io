@@ -40,7 +40,7 @@ De folga: Alexandre (1154)
 * Júlio *(1551)*     -     Pedro *(1118)*
 
  **>** 
-* Renato *(1012)*     -     Freddy *(1814)*
+* Renato *(1019)*     -     Freddy *(1814)*
 
  **>** 
 
