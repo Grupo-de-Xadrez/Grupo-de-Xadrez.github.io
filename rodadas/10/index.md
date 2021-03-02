@@ -28,7 +28,7 @@ De folga: Marcelo (2018)
 * Vitor *(1249)* `0   -   1` **Ricardo *(1625)***
 
 **>** [Link](https://www.lichess.org/sMrIcVds), *C46 - Three Knights Opening*.
-* **Milton *(1638)*** `1   -   0`  Alexandre *(1183)*
+* **Milton *(1645)*** `1   -   0`  Alexandre *(1183)*
 
 **>** [Link](https://www.lichess.org/vZnMORke), *C28 - Vienna Game: Stanley Variation, Three Knights Variation*.
 * Felipe *(1387)* `½ - ½` Léo *(1861)*
@@ -37,7 +37,7 @@ De folga: Marcelo (2018)
 * **Pedro *(1134)*** `1   -   0`  Diogo *(1493)*
 
 **>** [Link](https://www.lichess.org/lwaXzUH9), *D00 - Queen's Pawn Game*.
-* Renato *(1013)* `0   -   1` **Ribas *(2055)***
+* Renato *(1012)* `0   -   1` **Ribas *(2055)***
 
 **>** [Link](https://www.lichess.org/czwrbtoa), *D00 - Queen's Pawn Game*.
 * Júlio *(1551)* `0   -   1` **Freddy *(1814)***

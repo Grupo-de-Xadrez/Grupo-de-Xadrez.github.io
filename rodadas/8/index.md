@@ -40,9 +40,9 @@ De folga: Milton (1892)
 * Freddy *(1814)* `0   -   1` **Marcelo *(1774)***
 
 **>** [Link](https://www.lichess.org/aQvQgFvB), *E81 - King's Indian Defense: Steiner Attack*.
-* Renato *(1013)* `0   -   1` **Pedro *(1134)***
+* Renato *(1012)* `0   -   1` **Pedro *(1134)***
 
 **>** [Link](https://www.lichess.org/xt6SEfF6), *D00 - Queen's Pawn Game*.
 
-De folga: Milton (1638)
+De folga: Milton (1645)
 
