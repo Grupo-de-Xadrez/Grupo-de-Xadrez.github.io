@@ -25,7 +25,7 @@ De folga: Freddy (1890)
 
 #### Blitz:
 
-* Ribas *(2055)*     -     Vitor *(1255)*
+* Ribas *(2055)*     -     Vitor *(1249)*
 
  **>** 
 * Diogo *(1493)*     -     Júlio *(1551)*
@@ -34,7 +34,7 @@ De folga: Freddy (1890)
 * Renato *(1012)*     -     Felipe *(1387)*
 
  **>** 
-* Pedro *(1134)*     -     Milton *(1648)*
+* Pedro *(1134)*     -     Milton *(1641)*
 
  **>** 
 * Ricardo *(1625)*     -     Marcelo *(1774)*
