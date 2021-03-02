@@ -44,5 +44,5 @@ De folga: Vitor (1316)
 
 **>** [Link](https://www.lichess.org/LkJD4S6R), *A45 - Indian Game*.
 
-De folga: Vitor (1244)
+De folga: Vitor (1250)
 

@@ -25,7 +25,7 @@ De folga: Pedro (1199)
 
 #### Blitz:
 
-* Vitor *(1244)*     -     Júlio *(1551)*
+* Vitor *(1250)*     -     Júlio *(1551)*
 
  **>** 
 * Ribas *(2055)*     -     Freddy *(1814)*
