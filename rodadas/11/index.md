@@ -5,9 +5,9 @@
 * **Vitor *(1316)*** `1   -   0`  Alexandre *(1154)* `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/uzz6TLeb), *C25 - Vienna Game: Max Lange Defense*.
-* Ricardo *(1771)*     -     Léo *(1933)*
+* Ricardo *(1771)* `0   -   1` **Léo *(1933)***
 
- **>** 
+**>** [Link](https://www.lichess.org/2WDMqx8f), *B23 - Sicilian Defense: Closed, Traditional*.
 * Milton *(1892)* `½ - ½` Marcelo *(2018)*
 
 **>** [Link](https://www.lichess.org/Hveq9NYu), *C00 - French Defense: King's Indian Attack*.
@@ -17,7 +17,7 @@
 * Diogo *(1236)* `0   -   1` **Freddy *(1890)***
 
 **>** [Link](https://www.lichess.org/bzs5OTvF), *A40 - Horwitz Defense*.
-* Júlio *(1706)*     -     Ribas *(1623)*
+* Júlio *(1706)* `½ - ½` Ribas *(1623)*
 
  **>** 
 
@@ -28,9 +28,9 @@ De folga: Renato (1234)
 * Alexandre *(1183)* `0   -   1` **Vitor *(1250)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/HrAy00oE), *C40 - King's Knight Opening*.
-* Léo *(1861)*     -     Ricardo *(1625)*
+* Léo *(1861)* `½ - ½` Ricardo *(1625)*
 
- **>** 
+**>** [Link](https://www.lichess.org/8SZrGgrw), *C62 - Ruy Lopez: Steinitz Defense*.
 * **Marcelo *(1774)*** `1   -   0`  Milton *(1661)*
 
 **>** [Link](https://www.lichess.org/ddfdNyXJ), *B32 - Sicilian Defense: LÃ¶wenthal Variation*.
@@ -40,7 +40,7 @@ De folga: Renato (1234)
 * **Freddy *(1814)*** `1   -   0`  Diogo *(1493)*
 
 **>** [Link](https://www.lichess.org/xVTfL6Vs), *D30 - Queen's Gambit Declined*.
-* Ribas *(2055)*     -     Júlio *(1546)*
+* Ribas *(2055)* `½ - ½` Júlio *(1546)*
 
  **>** 
 
