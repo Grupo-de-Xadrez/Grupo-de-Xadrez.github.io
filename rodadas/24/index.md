@@ -11,10 +11,10 @@
 * Marcelo *(2018)*     -     Milton *(1892)*
 
  **>** 
-* Felipe *(1552)*     -     Pedro *(1199)*
+* Felipe *(1590)*     -     Pedro *(1199)*
 
  **>** 
-* Freddy *(1890)*     -     Diogo *(1236)*
+* Freddy *(1868)*     -     Diogo *(1236)*
 
  **>** 
 * Ribas *(1623)*     -     Júlio *(1706)*

@@ -11,13 +11,13 @@
 * Renato *(1234)*     -     Alexandre *(1154)*
 
  **>** 
-* Ricardo *(1771)*     -     Freddy *(1890)*
+* Ricardo *(1771)*     -     Freddy *(1868)*
 
  **>** 
 * Milton *(1892)*     -     Júlio *(1706)*
 
  **>** 
-* Felipe *(1552)*     -     Ribas *(1623)*
+* Felipe *(1590)*     -     Ribas *(1623)*
 
  **>** 
 

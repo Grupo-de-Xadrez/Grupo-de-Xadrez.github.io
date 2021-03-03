@@ -8,7 +8,7 @@
 * Renato *(1234)* `0   -   1` **Marcelo *(2018)***
 
 **>** [Link](https://www.lichess.org/88IwjQLc), *D00 - Queen's Pawn Game: Mason Attack*.
-* Freddy *(1890)* `0   -   1` **Léo *(1933)***
+* Freddy *(1868)* `0   -   1` **Léo *(1933)***
 
 **>** [Link](https://www.lichess.org/jErAgptw), *A84 - Dutch Defense: Classical Variation*.
 * **Júlio *(1706)*** `1   -   0`  Alexandre *(1154)*
@@ -21,7 +21,7 @@
 
 **>** [Link](https://www.lichess.org/Q7BaIb8v), *C26 - Vienna Game: Stanley Variation*.
 
-De folga: Felipe (1552)
+De folga: Felipe (1590)
 
 #### Blitz:
 

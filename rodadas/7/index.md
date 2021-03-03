@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* Diogo *(1236)* `0   -   1` **Felipe *(1552)***
+* Diogo *(1236)* `0   -   1` **Felipe *(1590)***
 
 **>** [Link](https://www.lichess.org/AW1ob8qv), *D00 - Queen's Pawn Game: Chigorin Variation*.
 * Ribas *(1623)* `0   -   1` **Milton *(1892)***
@@ -11,7 +11,7 @@
 * Júlio *(1706)* `½ - ½` Ricardo *(1771)*
 
 **>** [Link](https://www.lichess.org/Tflx76ez), *D00 - Queen's Pawn Game: Mason Variation*.
-* **Freddy *(1890)*** `1   -   0`  Alexandre *(1154)*
+* **Freddy *(1868)*** `1   -   0`  Alexandre *(1154)*
 
 **>** [Link](https://www.lichess.org/c4RUGpPR), *D30 - Queen's Gambit Declined*.
 * **Léo *(1933)*** `1   -   0`  Renato *(1234)*

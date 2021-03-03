@@ -5,7 +5,7 @@
 * **Milton *(1892)*** `1   -   0`  Vitor *(1316)*
 
 **>** [Link](https://www.lichess.org/cvAf4XYT), *C24 - Bishop's Opening: Vienna Hybrid*.
-* Felipe *(1552)* `0   -   1` **Ricardo *(1771)***
+* Felipe *(1590)* `0   -   1` **Ricardo *(1771)***
 
 **>** [Link](https://www.lichess.org/jORs1Lx5), *C50 - Italian Game: Anti-Fried Liver Defense*.
 * **Léo *(1933)*** `1   -   0`  Diogo *(1236)*
@@ -17,7 +17,7 @@
 * **Júlio *(1706)*** `1   -   0`  Pedro *(1199)*
 
 **>** [Link](https://www.lichess.org/rROVT2Qw), *D00 - Queen's Pawn Game: Mason Variation*.
-* Renato *(1234)* `0   -   1` **Freddy *(1890)***
+* Renato *(1234)* `0   -   1` **Freddy *(1868)***
 
 **>** [Link](https://www.lichess.org/rxPhGsIN), *A40 - Horwitz Defense*.
 

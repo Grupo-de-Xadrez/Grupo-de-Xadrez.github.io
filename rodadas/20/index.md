@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* Felipe *(1552)*     -     Diogo *(1236)*
+* Felipe *(1590)*     -     Diogo *(1236)*
 
  **>** 
 * Milton *(1892)*     -     Ribas *(1623)*
@@ -11,7 +11,7 @@
 * Ricardo *(1771)*     -     Júlio *(1706)*
 
  **>** 
-* Alexandre *(1154)*     -     Freddy *(1890)*
+* Alexandre *(1154)*     -     Freddy *(1868)*
 
  **>** 
 * Renato *(1234)*     -     Léo *(1933)*

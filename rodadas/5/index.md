@@ -8,7 +8,7 @@
 * Diogo *(1236)* `0   -   1` **Júlio *(1706)***
 
 **>** [Link](https://www.lichess.org/tacQGS40), *A45 - Queen's Pawn Game: Chigorin Variation*.
-* Renato *(1234)* `0   -   1` **Felipe *(1552)***
+* Renato *(1234)* `0   -   1` **Felipe *(1590)***
 
 **>** [Link](https://www.lichess.org/rxcxV1No), *C41 - Philidor Defense*.
 * Pedro *(1199)* `0   -   1` **Milton *(1892)***
@@ -21,7 +21,7 @@
 
 **>** [Link](https://www.lichess.org/VxQwOEXu), *C41 - Philidor Defense*.
 
-De folga: Freddy (1890)
+De folga: Freddy (1868)
 
 #### Blitz:
 

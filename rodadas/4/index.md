@@ -5,13 +5,13 @@
 * Vitor *(1316)* `½ - ½` Júlio *(1706)*
 
 **>** [Link](https://www.lichess.org/cNEagLGV), *C46 - Four Knights Game*.
-* Ribas *(1623)* `0   -   1` **Freddy *(1890)***
+* Ribas *(1623)* `0   -   1` **Freddy *(1868)***
 
 **>** [Link](https://www.lichess.org/cdRVlh4r), *C00 - French Defense: Knight Variation*.
 * Renato *(1234)* `0   -   1` **Diogo *(1236)***
 
 **>** [Link](https://www.lichess.org/7bYFbRah), *D00 - Queen's Pawn Game*.
-* **Marcelo *(2018)*** `1   -   0`  Felipe *(1552)*
+* **Marcelo *(2018)*** `1   -   0`  Felipe *(1590)*
 
 **>** [Link](https://www.lichess.org/dWGd6c2o), *C41 - Philidor Defense*.
 * Milton *(1892)* `0   -   1` **Léo *(1933)***

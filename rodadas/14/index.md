@@ -8,7 +8,7 @@
 * Marcelo *(2018)*     -     Renato *(1234)*
 
  **>** 
-* Léo *(1933)*     -     Freddy *(1890)*
+* Léo *(1933)*     -     Freddy *(1868)*
 
  **>** 
 * Alexandre *(1154)*     -     Júlio *(1706)*
@@ -21,7 +21,7 @@
 
  **>** 
 
-De folga: Felipe (1552)
+De folga: Felipe (1590)
 
 #### Blitz:
 

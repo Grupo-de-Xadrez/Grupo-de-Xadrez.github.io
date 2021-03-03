@@ -14,7 +14,7 @@
 * Milton *(1892)*     -     Renato *(1234)*
 
  **>** 
-* Freddy *(1890)*     -     Felipe *(1552)*
+* Freddy *(1868)*     -     Felipe *(1590)*
 
  **>** 
 * Ribas *(1623)*     -     Diogo *(1236)*

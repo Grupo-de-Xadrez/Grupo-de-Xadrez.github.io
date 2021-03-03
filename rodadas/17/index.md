@@ -5,13 +5,13 @@
 * Júlio *(1706)*     -     Vitor *(1316)*
 
  **>** 
-* Freddy *(1890)*     -     Ribas *(1623)*
+* Freddy *(1868)*     -     Ribas *(1623)*
 
  **>** 
 * Diogo *(1236)*     -     Renato *(1234)*
 
  **>** 
-* Felipe *(1552)*     -     Marcelo *(2018)*
+* Felipe *(1590)*     -     Marcelo *(2018)*
 
  **>** 
 * Léo *(1933)*     -     Milton *(1892)*

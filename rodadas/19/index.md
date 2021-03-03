@@ -5,10 +5,10 @@
 * Vitor *(1316)*     -     Diogo *(1236)*
 
  **>** 
-* Júlio *(1706)*     -     Felipe *(1552)*
+* Júlio *(1706)*     -     Felipe *(1590)*
 
  **>** 
-* Milton *(1892)*     -     Freddy *(1890)*
+* Milton *(1892)*     -     Freddy *(1868)*
 
  **>** 
 * Ricardo *(1771)*     -     Renato *(1234)*

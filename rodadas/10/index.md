@@ -8,7 +8,7 @@
 * Alexandre *(1154)* `0   -   1` **Milton *(1892)***
 
 **>** [Link](https://www.lichess.org/rFpRNKGI), *B20 - Sicilian Defense: Staunton-Cochrane Variation*.
-* **Léo *(1933)*** `1   -   0`  Felipe *(1552)*
+* **Léo *(1933)*** `1   -   0`  Felipe *(1590)*
 
 **>** [Link](https://www.lichess.org/0hAMPnId), *D30 - Queen's Gambit Declined*.
 * Diogo *(1236)* `0   -   1` **Pedro *(1199)***
@@ -17,7 +17,7 @@
 * **Ribas *(1623)*** `1   -   0`  Renato *(1234)*
 
 **>** [Link](https://www.lichess.org/CNBZdTeY), *C30 - King's Gambit*.
-* **Freddy *(1890)*** `1   -   0`  Júlio *(1706)*
+* **Freddy *(1868)*** `1   -   0`  Júlio *(1706)*
 
 **>** [Link](https://www.lichess.org/huR1ONU0), *D10 - Slav Defense: Exchange Variation*.
 

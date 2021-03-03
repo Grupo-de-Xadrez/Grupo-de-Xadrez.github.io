@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* **Felipe *(1552)*** `1   -   0`  Vitor *(1316)*
+* **Felipe *(1590)*** `1   -   0`  Vitor *(1316)*
 
 **>** [Link](https://www.lichess.org/il8Y1UYr), *C24 - Bishop's Opening: Berlin Defense*.
 * **Ricardo *(1771)*** `1   -   0`  Diogo *(1236)*
@@ -14,7 +14,7 @@
 * Júlio *(1706)* `0   -   1` **Léo *(1933)***
 
 **>** [Link](https://www.lichess.org/Y3GmBysX), *B06 - Modern Defense: Standard Defense*.
-* Marcelo *(2018)* `½ - ½` Freddy *(1890)*
+* Marcelo *(2018)* `½ - ½` Freddy *(1868)*
 
 **>** [Link](https://www.lichess.org/ULDJhyiK), *C12 - French Defense: MacCutcheon Variation, Chigorin Variation*.
 * **Pedro *(1199)*** `1   -   0`  Renato *(1234)*

@@ -5,7 +5,7 @@
 * Renato *(1234)*     -     Vitor *(1316)*
 
  **>** 
-* Freddy *(1890)*     -     Pedro *(1199)*
+* Freddy *(1868)*     -     Pedro *(1199)*
 
  **>** 
 * Júlio *(1706)*     -     Marcelo *(2018)*
@@ -17,7 +17,7 @@
 * Diogo *(1236)*     -     Alexandre *(1154)*
 
  **>** 
-* Felipe *(1552)*     -     Milton *(1892)*
+* Felipe *(1590)*     -     Milton *(1892)*
 
  **>** 
 
