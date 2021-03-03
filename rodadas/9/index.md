@@ -28,7 +28,7 @@ De folga: Alexandre (1154)
 * Vitor *(1244)* `0   -   1` **Milton *(1661)***
 
 **>** [Link](https://www.lichess.org/vf5wM9Rz), *B30 - Sicilian Defense: Nyezhmetdinov-Rossolimo Attack*.
-* **Ricardo *(1625)*** `1   -   0`  Felipe *(1389)*
+* **Ricardo *(1625)*** `1   -   0`  Felipe *(1387)*
 
 **>** [Link](https://www.lichess.org/GY5kET9w), *C41 - Philidor Defense*.
 * Diogo *(1493)* `½ - ½` Léo *(1861)*
@@ -40,7 +40,7 @@ De folga: Alexandre (1154)
 * **Pedro *(1118)*** `1   -   0`  Júlio *(1546)*
 
 **>** [Link](https://www.lichess.org/HIltIKfw), *D00 - Queen's Pawn Game*.
-* **Freddy *(1814)*** `1   -   0`  Renato *(1007)*
+* **Freddy *(1815)*** `1   -   0`  Renato *(1007)*
 
 **>** [Link](https://www.lichess.org/He4kkwh3), *D10 - Slav Defense: Exchange Variation*.
 

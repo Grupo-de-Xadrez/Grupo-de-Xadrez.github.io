@@ -25,7 +25,7 @@ De folga: Léo (1933)
 
 #### Blitz:
 
-* **Freddy *(1814)*** `1   -   0`  Vitor *(1244)*
+* **Freddy *(1815)*** `1   -   0`  Vitor *(1244)*
 
 **>** [Link](https://www.lichess.org/2NkAyca4), *D20 - Queen's Gambit Accepted: Old Variation*.
 * Renato *(1007)* `0   -   1` **Júlio *(1546)***
@@ -37,7 +37,7 @@ De folga: Léo (1933)
 * **Marcelo *(1774)*** `1   -   0`  Diogo *(1493)*
 
 **>** [Link](https://www.lichess.org/5TFXe391), *C16 - French Defense: Winawer Variation, Advance Variation*.
-* Alexandre *(1183)* `0   -   1` **Felipe *(1389)***
+* Alexandre *(1183)* `0   -   1` **Felipe *(1387)***
 
 **>** [Link](https://www.lichess.org/Ph54JBSv), *D00 - Queen's Pawn Game*.
 * Milton *(1661)* `0   -   1` **Ricardo *(1625)***
