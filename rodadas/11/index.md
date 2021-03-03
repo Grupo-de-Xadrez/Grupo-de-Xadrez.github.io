@@ -31,7 +31,7 @@ De folga: Renato (1234)
 * Léo *(1861)*     -     Ricardo *(1625)*
 
  **>** 
-* **Marcelo *(1774)*** `1   -   0`  Milton *(1656)*
+* **Marcelo *(1774)*** `1   -   0`  Milton *(1654)*
 
 **>** [Link](https://www.lichess.org/ddfdNyXJ), *B32 - Sicilian Defense: LÃ¶wenthal Variation*.
 * **Felipe *(1387)*** `1   -   0`  Pedro *(1118)*
