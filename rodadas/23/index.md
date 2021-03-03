@@ -28,7 +28,7 @@ De folga: Marcelo (2018)
 * Ricardo *(1625)*     -     Vitor *(1250)*
 
  **>** 
-* Alexandre *(1183)*     -     Milton *(1654)*
+* Alexandre *(1183)*     -     Milton *(1656)*
 
  **>** 
 * Léo *(1861)*     -     Felipe *(1387)*
@@ -37,7 +37,7 @@ De folga: Marcelo (2018)
 * Diogo *(1493)*     -     Pedro *(1118)*
 
  **>** 
-* Ribas *(2055)*     -     Renato *(1011)*
+* Ribas *(2055)*     -     Renato *(1007)*
 
  **>** 
 * Freddy *(1814)*     -     Júlio *(1546)*
