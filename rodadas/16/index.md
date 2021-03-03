@@ -37,7 +37,7 @@ De folga: Léo (1933)
 * Diogo *(1493)*     -     Marcelo *(1774)*
 
  **>** 
-* Felipe *(1387)*     -     Alexandre *(1183)*
+* Felipe *(1398)*     -     Alexandre *(1183)*
 
  **>** 
 * Ricardo *(1625)*     -     Milton *(1661)*

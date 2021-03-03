@@ -25,7 +25,7 @@ De folga: Vitor (1316)
 
 #### Blitz:
 
-* **Felipe *(1387)*** `1   -   0`  Diogo *(1493)*
+* **Felipe *(1398)*** `1   -   0`  Diogo *(1493)*
 
 **>** [Link](https://www.lichess.org/K27unGrd), *C23 - Bishop's Opening*.
 * Milton *(1661)* `½ - ½` Ribas *(2055)*
