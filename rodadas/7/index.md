@@ -17,7 +17,7 @@
 * **Léo *(1933)*** `1   -   0`  Renato *(1234)*
 
 **>** [Link](https://www.lichess.org/qlgtkmyW), *B27 - Sicilian Defense: Jalalabad Variation*.
-* **Marcelo *(2018)*** `1   -   0`  Pedro *(1199)*
+* **Marcelo *(2018)*** `1   -   0`  Pedro *(1192)*
 
 **>** [Link](https://www.lichess.org/mvtmGlJJ), *C41 - Philidor Defense*.
 

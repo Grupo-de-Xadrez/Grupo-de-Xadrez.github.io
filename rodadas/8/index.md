@@ -17,7 +17,7 @@
 * Marcelo *(2018)* `½ - ½` Freddy *(1868)*
 
 **>** [Link](https://www.lichess.org/ULDJhyiK), *C12 - French Defense: MacCutcheon Variation, Chigorin Variation*.
-* **Pedro *(1199)*** `1   -   0`  Renato *(1234)*
+* **Pedro *(1192)*** `1   -   0`  Renato *(1234)*
 
 **>** [Link](https://www.lichess.org/eHkRZq9s), *D00 - Queen's Pawn Game*.
 

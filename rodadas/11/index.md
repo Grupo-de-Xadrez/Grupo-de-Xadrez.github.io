@@ -11,7 +11,7 @@
 * Milton *(1892)* `½ - ½` Marcelo *(2018)*
 
 **>** [Link](https://www.lichess.org/Hveq9NYu), *C00 - French Defense: King's Indian Attack*.
-* **Pedro *(1199)*** `1   -   0`  Felipe *(1590)*
+* **Pedro *(1192)*** `1   -   0`  Felipe *(1590)*
 
 **>** [Link](https://www.lichess.org/3tPc9vbg), *D00 - Queen's Pawn Game*.
 * Diogo *(1236)* `0   -   1` **Freddy *(1868)***

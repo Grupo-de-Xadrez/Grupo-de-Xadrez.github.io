@@ -5,7 +5,7 @@
 * Vitor *(1316)* `0   -   1` **Renato *(1234)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/uoeqKY9M), *C20 - English Opening: The Whale*.
-* Pedro *(1199)* `0   -   1` **Freddy *(1868)***
+* Pedro *(1192)* `0   -   1` **Freddy *(1868)***
 
 **>** [Link](https://www.lichess.org/7lTkPhIV), *D00 - Queen's Pawn Game*.
 * Marcelo *(2018)* `0   -   1` **Júlio *(1706)***

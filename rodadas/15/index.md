@@ -5,7 +5,7 @@
 * Renato *(1234)*     -     Vitor *(1316)*
 
  **>** 
-* Freddy *(1868)*     -     Pedro *(1199)*
+* Freddy *(1868)*     -     Pedro *(1192)*
 
  **>** 
 * Júlio *(1706)*     -     Marcelo *(2018)*
