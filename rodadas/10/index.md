@@ -31,7 +31,7 @@ De folga: Marcelo (2018)
 * **Milton *(1661)*** `1   -   0`  Alexandre *(1183)*
 
 **>** [Link](https://www.lichess.org/vZnMORke), *C28 - Vienna Game: Stanley Variation, Three Knights Variation*.
-* Felipe *(1398)* `½ - ½` Léo *(1861)*
+* Felipe *(1389)* `½ - ½` Léo *(1861)*
 
 **>** [Link](https://www.lichess.org/K5Vz3kms), *B20 - Sicilian Defense: Bowdler Attack*.
 * **Pedro *(1118)*** `1   -   0`  Diogo *(1493)*

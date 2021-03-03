@@ -34,7 +34,7 @@ De folga: Renato (1234)
 * **Marcelo *(1774)*** `1   -   0`  Milton *(1661)*
 
 **>** [Link](https://www.lichess.org/ddfdNyXJ), *B32 - Sicilian Defense: LÃ¶wenthal Variation*.
-* **Felipe *(1398)*** `1   -   0`  Pedro *(1118)*
+* **Felipe *(1389)*** `1   -   0`  Pedro *(1118)*
 
 **>** [Link](https://www.lichess.org/XgzeSbk8), *C23 - Bishop's Opening*.
 * **Freddy *(1814)*** `1   -   0`  Diogo *(1493)*

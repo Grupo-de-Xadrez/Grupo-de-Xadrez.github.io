@@ -31,7 +31,7 @@ De folga: Marcelo (2018)
 * Alexandre *(1183)*     -     Milton *(1661)*
 
  **>** 
-* Léo *(1861)*     -     Felipe *(1398)*
+* Léo *(1861)*     -     Felipe *(1389)*
 
  **>** 
 * Diogo *(1493)*     -     Pedro *(1118)*

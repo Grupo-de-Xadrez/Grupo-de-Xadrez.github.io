@@ -4,7 +4,7 @@
 
 * ALE: **Alexandre**, a.k.a. [@AHCA](https://www.lichess.org/@/AHCA) *(Rapid: 1154, Blitz: 1183)*
 * DIO: **Diogo**, a.k.a. [@diogo98](https://www.lichess.org/@/diogo98) *(Rapid: 1236, Blitz: 1493)*
-* FEL: **Felipe**, a.k.a. [@Fgcotta](https://www.lichess.org/@/Fgcotta) *(Rapid: 1552, Blitz: 1398)*
+* FEL: **Felipe**, a.k.a. [@Fgcotta](https://www.lichess.org/@/Fgcotta) *(Rapid: 1552, Blitz: 1389)*
 * FRE: **Freddy**, a.k.a. [@PlixMax](https://www.lichess.org/@/PlixMax) *(Rapid: 1890, Blitz: 1814)*
 * JUL: **Júlio**, a.k.a. [@juliopinheiro](https://www.lichess.org/@/juliopinheiro) *(Rapid: 1706, Blitz: 1546)*
 * LEO: **Léo**, a.k.a. [@killer9](https://www.lichess.org/@/killer9) *(Rapid: 1933, Blitz: 1861)*
@@ -56,7 +56,7 @@
 | 4 | Freddy (1814) | 7 | 10 | 4 | 7 |
 | 5 | Júlio (1546) | 6½ | 11 | 6 | 6 |
 | 6 | Ribas (2055) | 5½ | 10 | 5 | 4 |
-| 7 | Felipe (1398) | 5½ | 10 | 4 | 5 |
+| 7 | Felipe (1389) | 5½ | 10 | 4 | 5 |
 | 8 | Pedro (1118) | 5 | 10 | 6 | 5 |
 | 9 | Milton (1661) | 4½ | 10 | 5 | 4 |
 | 10 | Vitor (1244) | 3½ | 10 | 4 | 3 |

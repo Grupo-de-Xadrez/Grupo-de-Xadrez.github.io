@@ -28,7 +28,7 @@ De folga: Ribas (1623)
 * **Vitor *(1244)*** `1   -   0`  Diogo *(1493)*
 
 **>** [Link](https://www.lichess.org/wVZwlYka), *C22 - Center Game: Normal Variation*.
-* **Júlio *(1546)*** `1   -   0`  Felipe *(1398)*
+* **Júlio *(1546)*** `1   -   0`  Felipe *(1389)*
 
 **>** [Link](https://www.lichess.org/Hd2EH2bV), *D00 - Queen's Pawn Game: Mason Variation*.
 * Milton *(1661)* `0   -   1` **Freddy *(1814)***
