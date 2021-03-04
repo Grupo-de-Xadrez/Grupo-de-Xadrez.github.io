@@ -150,106 +150,106 @@ E,J=,
 F,K=,
 G,L=,
 
-r:
-A,H=,
-B,I=,
-C,J=,
-D,K=,
-L,E=,
-M,F=,
+    r:
+    A,H=,
+    B,I=,
+    C,J=,
+    D,K=,
+    L,E=,
+    M,F=,
 
-r:
-I,A=,
-J,H=,
-K,B=,
-L,C=,
-M,D=,
-G,F=,
+    r:
+    I,A=,
+    J,H=,
+    K,B=,
+    L,C=,
+    M,D=,
+    G,F=,
 
-r:
-J,A=,
-I,K=,
-H,L=,
-B,M=,
-D,G=,
-F,E=,
+    r:
+    J,A=,
+    I,K=,
+    H,L=,
+    B,M=,
+    D,G=,
+    F,E=,
 
-r:
-K,A=,
-J,L=,
-M,I=,
-G,B=,
-C,F=,
-E,D=,
+    r:
+    K,A=,
+    J,L=,
+    M,I=,
+    G,B=,
+    C,F=,
+    E,D=,
 
-r:
-A,L=,
-K,M=,
-G,I=,
-F,H=,
-B,E=,
-C,D=,
+    r:
+    A,L=,
+    K,M=,
+    G,I=,
+    F,H=,
+    B,E=,
+    C,D=,
 
-r:
-A,M=,
-K,G=,
-F,J=,
-E,I=,
-D,H=,
-B,C=,
+    r:
+    A,M=,
+    K,G=,
+    F,J=,
+    E,I=,
+    D,H=,
+    B,C=,
 
-r:
-G,M=,
-F,L=,
-E,K=,
-D,J=,
-I,C=,
-H,B=,
+    r:
+    G,M=,
+    F,L=,
+    E,K=,
+    D,J=,
+    I,C=,
+    H,B=,
 
-r:
-A,G=,
-M,E=,
-L,D=,
-C,K=,
-J,B=,
-I,H=,
+    r:
+    A,G=,
+    M,E=,
+    L,D=,
+    C,K=,
+    J,B=,
+    I,H=,
 
-r:
-A,F=,
-E,G=,
-M,C=,
-L,B=,
-H,K=,
-J,I=,
+    r:
+    A,F=,
+    E,G=,
+    M,C=,
+    L,B=,
+    H,K=,
+    J,I=,
 
-r:
-A,E=,
-F,D=,
-G,C=,
-H,M=,
-I,L=,
-K,J=,
+    r:
+    A,E=,
+    F,D=,
+    G,C=,
+    H,M=,
+    I,L=,
+    K,J=,
 
-r:
-D,A=,
-C,E=,
-B,F=,
-G,H=,
-J,M=,
-L,K=,
+    r:
+    D,A=,
+    C,E=,
+    B,F=,
+    G,H=,
+    J,M=,
+    L,K=,
 
-r:
-C,A=,
-B,D=,
-E,H=,
-I,F=,
-G,J=,
-M,L=,
+    r:
+    C,A=,
+    B,D=,
+    E,H=,
+    I,F=,
+    G,J=,
+    M,L=,
 
-r:
-B,A=,
-H,C=,
-D,I=,
-J,E=,
-K,F=,
-L,G=,
+    r:
+    B,A=,
+    H,C=,
+    D,I=,
+    J,E=,
+    K,F=,
+    L,G=,

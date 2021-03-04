@@ -19,6 +19,9 @@ def main():
 
     analysing = None
     for line in data:
+        if line.startswith('\t'):
+            continue
+
         if line.endswith(':'):
             analysing = line[:-1]
             if analysing == 'r':
