@@ -9,7 +9,7 @@
 * JUL: **Júlio**, a.k.a. [@juliopinheiro](https://www.lichess.org/@/juliopinheiro) *(Rapid: 1706, Blitz: 1546)*
 * LEO: **Léo**, a.k.a. [@killer9](https://www.lichess.org/@/killer9) *(Rapid: 1933, Blitz: 1861)*
 * MAR: **Marcelo**, a.k.a. [@mkvieira](https://www.lichess.org/@/mkvieira) *(Rapid: 2018, Blitz: 1774)*
-* MIL: **Milton**, a.k.a. [@milton1960](https://www.lichess.org/@/milton1960) *(Rapid: 1892, Blitz: 1661)*
+* MIL: **Milton**, a.k.a. [@milton1960](https://www.lichess.org/@/milton1960) *(Rapid: 1892, Blitz: 1652)*
 * PED: **Pedro**, a.k.a. [@Phoenix20201](https://www.lichess.org/@/Phoenix20201) *(Rapid: 1192, Blitz: 1118)*
 * REN: **Renato**, a.k.a. [@Padilha20](https://www.lichess.org/@/Padilha20) *(Rapid: 1234, Blitz: 1007)*
 * RIC: **Ricardo**, a.k.a. [@r-k-k](https://www.lichess.org/@/r-k-k) *(Rapid: 1771, Blitz: 1625)*
@@ -58,7 +58,7 @@
 | 6 | Ribas (2055) | 6½ | 11 | 6 | 5 |
 | 7 | Felipe (1387) | 5½ | 11 | 4 | 5 |
 | 8 | Pedro (1118) | 5 | 11 | 7 | 5 |
-| 9 | Milton (1661) | 4½ | 11 | 6 | 4 |
+| 9 | Milton (1652) | 4½ | 11 | 6 | 4 |
 | 10 | Vitor (1244) | 3½ | 10 | 4 | 3 |
 | 11 | Renato (1007) | 2 | 11 | 5 | 2 |
 | 12 | Diogo (1493) | 2 | 12 | 6 | 1 |
