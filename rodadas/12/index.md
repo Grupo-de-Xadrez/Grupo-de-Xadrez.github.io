@@ -11,9 +11,9 @@
 * Pedro *(1192)* `0   -   1` **Ricardo *(1771)***
 
 **>** [Link](https://www.lichess.org/3bvheiJ5), *D00 - Queen's Pawn Game*.
-* Milton *(1892)*     -     Renato *(1234)*
+* **Milton *(1892)*** `1   -   0`  Renato *(1234)*
 
- **>** 
+**>** [Link](https://www.lichess.org/2RRLRxRt), *C23 - Bishop's Opening*.
 * Freddy *(1868)* `0   -   1` **Felipe *(1590)***
 
 **>** [Link](https://www.lichess.org/RmTb2iD3), *D30 - Queen's Gambit Declined*.
@@ -34,9 +34,9 @@ De folga: Júlio (1706)
 * **Ricardo *(1625)*** `1   -   0`  Pedro *(1118)*
 
 **>** [Link](https://www.lichess.org/7Nkr2iz9), *C40 - King's Knight Opening*.
-* Renato *(1007)*     -     Milton *(1661)*
+* **Renato *(1007)*** `1   -   0`  Milton *(1661)*
 
- **>** 
+**>** [Link](https://www.lichess.org/hRqL9LVj), *B20 - Sicilian Defense: Staunton-Cochrane Variation*.
 * Felipe *(1387)* `0   -   1` **Freddy *(1815)***
 
 **>** [Link](https://www.lichess.org/B0i0X5fg), *C02 - French Defense: Advance Variation*.
