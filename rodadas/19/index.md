@@ -14,7 +14,7 @@
 * Ricardo *(1771)*     -     Renato *(1234)*
 
  **>** 
-* Alexandre *(1154)*     -     Pedro *(1192)*
+* Alexandre *(1154)*     -     Pedro *(1183)*
 
  **>** 
 * Marcelo *(2018)*     -     Léo *(1933)*
@@ -34,7 +34,7 @@ De folga: Ribas (1623)
 * Freddy *(1815)*     -     Milton *(1652)*
 
  **>** 
-* Renato *(1001)*     -     Ricardo *(1625)*
+* Renato *(1005)*     -     Ricardo *(1625)*
 
  **>** 
 * Pedro *(1118)*     -     Alexandre *(1183)*

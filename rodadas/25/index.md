@@ -8,7 +8,7 @@
 * Marcelo *(2018)*     -     Alexandre *(1154)*
 
  **>** 
-* Ricardo *(1771)*     -     Pedro *(1192)*
+* Ricardo *(1771)*     -     Pedro *(1183)*
 
  **>** 
 * Renato *(1234)*     -     Milton *(1892)*
@@ -34,7 +34,7 @@ De folga: Júlio (1706)
 * Pedro *(1118)*     -     Ricardo *(1625)*
 
  **>** 
-* Milton *(1652)*     -     Renato *(1001)*
+* Milton *(1652)*     -     Renato *(1005)*
 
  **>** 
 * Freddy *(1815)*     -     Felipe *(1387)*

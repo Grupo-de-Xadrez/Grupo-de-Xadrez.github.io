@@ -11,7 +11,7 @@
 * Renato *(1234)* `0   -   1` **Felipe *(1590)***
 
 **>** [Link](https://www.lichess.org/rxcxV1No), *C41 - Philidor Defense*.
-* Pedro *(1192)* `0   -   1` **Milton *(1892)***
+* Pedro *(1183)* `0   -   1` **Milton *(1892)***
 
 **>** [Link](https://www.lichess.org/H4MP7ROS), *D00 - Queen's Pawn Game*.
 * Ricardo *(1771)* `0   -   1` **Marcelo *(2018)***
@@ -31,7 +31,7 @@ De folga: Freddy (1868)
 * **Júlio *(1546)*** `1   -   0`  Diogo *(1493)*
 
 **>** [Link](https://www.lichess.org/USQgItX9), *A40 - Horwitz Defense*.
-* **Felipe *(1387)*** `1   -   0`  Renato *(1001)*
+* **Felipe *(1387)*** `1   -   0`  Renato *(1005)*
 
 **>** [Link](https://www.lichess.org/XIfFoMyW), *C23 - Bishop's Opening*.
 * **Milton *(1652)*** `1   -   0`  Pedro *(1118)*

@@ -11,7 +11,7 @@
 * **Léo *(1933)*** `1   -   0`  Felipe *(1590)*
 
 **>** [Link](https://www.lichess.org/0hAMPnId), *D30 - Queen's Gambit Declined*.
-* Diogo *(1236)* `0   -   1` **Pedro *(1192)***
+* Diogo *(1236)* `0   -   1` **Pedro *(1183)***
 
 **>** [Link](https://www.lichess.org/xh3yb5Ix), *C41 - Philidor Defense*.
 * **Ribas *(1623)*** `1   -   0`  Renato *(1234)*
@@ -37,7 +37,7 @@ De folga: Marcelo (2018)
 * **Pedro *(1118)*** `1   -   0`  Diogo *(1493)*
 
 **>** [Link](https://www.lichess.org/lwaXzUH9), *D00 - Queen's Pawn Game*.
-* Renato *(1001)* `0   -   1` **Ribas *(2055)***
+* Renato *(1005)* `0   -   1` **Ribas *(2055)***
 
 **>** [Link](https://www.lichess.org/czwrbtoa), *D00 - Queen's Pawn Game*.
 * Júlio *(1546)* `0   -   1` **Freddy *(1815)***

@@ -8,7 +8,7 @@
 * **Júlio *(1706)*** `1   -   0`  Renato *(1234)*
 
 **>** [Link](https://www.lichess.org/UoTKilWT), *D00 - Queen's Pawn Game: Mason Variation*.
-* **Ribas *(1623)*** `1   -   0`  Pedro *(1192)*
+* **Ribas *(1623)*** `1   -   0`  Pedro *(1183)*
 
 **>** [Link](https://www.lichess.org/rwRiLi0u), *C30 - King's Gambit*.
 * Diogo *(1236)* `0   -   1` **Marcelo *(2018)***
@@ -28,7 +28,7 @@ De folga: Léo (1933)
 * **Freddy *(1815)*** `1   -   0`  Vitor *(1244)*
 
 **>** [Link](https://www.lichess.org/2NkAyca4), *D20 - Queen's Gambit Accepted: Old Variation*.
-* Renato *(1001)* `0   -   1` **Júlio *(1546)***
+* Renato *(1005)* `0   -   1` **Júlio *(1546)***
 
 **>** [Link](https://www.lichess.org/sGYNFcf4), *D00 - Queen's Pawn Game*.
 * Pedro *(1118)* `0   -   1` **Ribas *(2055)***

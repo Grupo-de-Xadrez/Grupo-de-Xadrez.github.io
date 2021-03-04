@@ -21,7 +21,7 @@
 
  **>** 
 
-De folga: Pedro (1192)
+De folga: Pedro (1183)
 
 #### Blitz:
 
@@ -31,7 +31,7 @@ De folga: Pedro (1192)
 * Ribas *(2055)*     -     Freddy *(1815)*
 
  **>** 
-* Renato *(1001)*     -     Diogo *(1493)*
+* Renato *(1005)*     -     Diogo *(1493)*
 
  **>** 
 * Marcelo *(1774)*     -     Felipe *(1387)*

@@ -14,7 +14,7 @@
 * Renato *(1234)* `0   -   1` **Ricardo *(1771)***
 
 **>** [Link](https://www.lichess.org/1Wnoetil), *D00 - Queen's Pawn Game*.
-* Pedro *(1192)* `0   -   1` **Alexandre *(1154)***
+* Pedro *(1183)* `0   -   1` **Alexandre *(1154)***
 
 **>** [Link](https://www.lichess.org/uq0GqkcY), *D00 - Queen's Pawn Game*.
 * Léo *(1933)* `½ - ½` Marcelo *(2018)*
@@ -34,7 +34,7 @@ De folga: Ribas (1623)
 * Milton *(1652)* `0   -   1` **Freddy *(1815)***
 
 **>** [Link](https://www.lichess.org/kntzkFHk), *C00 - French Defense*.
-* **Ricardo *(1625)*** `1   -   0`  Renato *(1001)*
+* **Ricardo *(1625)*** `1   -   0`  Renato *(1005)*
 
 **>** [Link](https://www.lichess.org/W6qYlQxP), *C40 - King's Pawn Game: Damiano Defense*.
 * Alexandre *(1183)* `0   -   1` **Pedro *(1118)***

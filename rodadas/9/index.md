@@ -14,7 +14,7 @@
 * **Marcelo *(2018)*** `1   -   0`  Ribas *(1623)*
 
 **>** [Link](https://www.lichess.org/H57Di5PJ), *B33 - Sicilian Defense: Open*.
-* **Júlio *(1706)*** `1   -   0`  Pedro *(1192)*
+* **Júlio *(1706)*** `1   -   0`  Pedro *(1183)*
 
 **>** [Link](https://www.lichess.org/rROVT2Qw), *D00 - Queen's Pawn Game: Mason Variation*.
 * Renato *(1234)* `0   -   1` **Freddy *(1868)***
@@ -40,7 +40,7 @@ De folga: Alexandre (1154)
 * **Pedro *(1118)*** `1   -   0`  Júlio *(1546)*
 
 **>** [Link](https://www.lichess.org/HIltIKfw), *D00 - Queen's Pawn Game*.
-* **Freddy *(1815)*** `1   -   0`  Renato *(1001)*
+* **Freddy *(1815)*** `1   -   0`  Renato *(1005)*
 
 **>** [Link](https://www.lichess.org/He4kkwh3), *D10 - Slav Defense: Exchange Variation*.
 

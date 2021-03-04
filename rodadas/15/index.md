@@ -5,7 +5,7 @@
 * Renato *(1234)*     -     Vitor *(1316)*
 
  **>** 
-* Freddy *(1868)*     -     Pedro *(1192)*
+* Freddy *(1868)*     -     Pedro *(1183)*
 
  **>** 
 * Júlio *(1706)*     -     Marcelo *(2018)*
@@ -25,7 +25,7 @@ De folga: Ricardo (1771)
 
 #### Blitz:
 
-* Vitor *(1244)*     -     Renato *(1001)*
+* Vitor *(1244)*     -     Renato *(1005)*
 
  **>** 
 * Pedro *(1118)*     -     Freddy *(1815)*

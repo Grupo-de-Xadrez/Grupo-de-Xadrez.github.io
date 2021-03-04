@@ -11,7 +11,7 @@
 * Marcelo *(2018)*     -     Milton *(1892)*
 
  **>** 
-* Felipe *(1590)*     -     Pedro *(1192)*
+* Felipe *(1590)*     -     Pedro *(1183)*
 
  **>** 
 * Freddy *(1868)*     -     Diogo *(1236)*
@@ -44,5 +44,5 @@ De folga: Renato (1234)
 
  **>** 
 
-De folga: Renato (1001)
+De folga: Renato (1005)
 

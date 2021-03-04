@@ -5,7 +5,7 @@
 * Vitor *(1316)*     -     Marcelo *(2018)*
 
  **>** 
-* Léo *(1933)*     -     Pedro *(1192)*
+* Léo *(1933)*     -     Pedro *(1183)*
 
  **>** 
 * Renato *(1234)*     -     Alexandre *(1154)*
@@ -31,7 +31,7 @@ De folga: Diogo (1236)
 * Pedro *(1118)*     -     Léo *(1861)*
 
  **>** 
-* Alexandre *(1183)*     -     Renato *(1001)*
+* Alexandre *(1183)*     -     Renato *(1005)*
 
  **>** 
 * Freddy *(1815)*     -     Ricardo *(1625)*
