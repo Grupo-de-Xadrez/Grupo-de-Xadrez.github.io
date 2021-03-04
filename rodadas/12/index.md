@@ -34,7 +34,7 @@ De folga: Júlio (1706)
 * **Ricardo *(1625)*** `1   -   0`  Pedro *(1118)*
 
 **>** [Link](https://www.lichess.org/7Nkr2iz9), *C40 - King's Knight Opening*.
-* **Renato *(1005)*** `1   -   0`  Milton *(1652)*
+* **Renato *(1005)*** `1   -   0`  Milton *(1654)*
 
 **>** [Link](https://www.lichess.org/hRqL9LVj), *B20 - Sicilian Defense: Staunton-Cochrane Variation*.
 * Felipe *(1387)* `0   -   1` **Freddy *(1815)***
