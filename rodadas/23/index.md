@@ -25,10 +25,10 @@ De folga: Marcelo (2018)
 
 #### Blitz:
 
-* Ricardo *(1625)*     -     Vitor *(1239)*
+* Ricardo *(1625)*     -     Vitor *(1246)*
 
  **>** 
-* Alexandre *(1183)*     -     Milton *(1668)*
+* Alexandre *(1183)*     -     Milton *(1662)*
 
  **>** 
 * Léo *(1861)*     -     Felipe *(1387)*

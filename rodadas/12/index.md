@@ -25,7 +25,7 @@ De folga: Júlio (1706)
 
 #### Blitz:
 
-* Léo *(1861)*     -     Vitor *(1239)*
+* Léo *(1861)*     -     Vitor *(1246)*
 
  **>** 
 * Marcelo *(1774)*     -     Alexandre *(1183)*
@@ -34,7 +34,7 @@ De folga: Júlio (1706)
 * **Ricardo *(1625)*** `1   -   0`  Pedro *(1105)*
 
 **>** [Link](https://www.lichess.org/7Nkr2iz9), *C40 - King's Knight Opening*.
-* **Renato *(1021)*** `1   -   0`  Milton *(1668)*
+* **Renato *(1021)*** `1   -   0`  Milton *(1662)*
 
 **>** [Link](https://www.lichess.org/hRqL9LVj), *B20 - Sicilian Defense: Staunton-Cochrane Variation*.
 * Felipe *(1387)* `0   -   1` **Freddy *(1815)***

@@ -25,13 +25,13 @@ De folga: Renato (1234)
 
 #### Blitz:
 
-* Alexandre *(1183)* `0   -   1` **Vitor *(1239)*** `INVERTIDO`
+* Alexandre *(1183)* `0   -   1` **Vitor *(1246)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/HrAy00oE), *C40 - King's Knight Opening*.
 * Léo *(1861)* `½ - ½` Ricardo *(1625)*
 
 **>** [Link](https://www.lichess.org/8SZrGgrw), *C62 - Ruy Lopez: Steinitz Defense*.
-* **Marcelo *(1774)*** `1   -   0`  Milton *(1668)*
+* **Marcelo *(1774)*** `1   -   0`  Milton *(1662)*
 
 **>** [Link](https://www.lichess.org/ddfdNyXJ), *B32 - Sicilian Defense: LÃ¶wenthal Variation*.
 * **Felipe *(1387)*** `1   -   0`  Pedro *(1105)*
