@@ -25,7 +25,7 @@ De folga: Alexandre (1154)
 
 #### Blitz:
 
-* Milton *(1659)*     -     Vitor *(1246)*
+* Milton *(1658)*     -     Vitor *(1246)*
 
  **>** 
 * Felipe *(1387)*     -     Ricardo *(1625)*
@@ -40,7 +40,7 @@ De folga: Alexandre (1154)
 * Júlio *(1546)*     -     Pedro *(1105)*
 
  **>** 
-* Renato *(1024)*     -     Freddy *(1815)*
+* Renato *(1020)*     -     Freddy *(1815)*
 
  **>** 
 
