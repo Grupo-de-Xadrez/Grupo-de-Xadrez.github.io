@@ -44,5 +44,5 @@ De folga: Pedro (1183)
 
 **>** [Link](https://www.lichess.org/LqcS00rX), *C41 - Philidor Defense*.
 
-De folga: Pedro (1118)
+De folga: Pedro (1105)
 

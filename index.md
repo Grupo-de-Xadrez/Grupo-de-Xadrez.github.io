@@ -10,7 +10,7 @@
 * LEO: **Léo**, a.k.a. [@killer9](https://www.lichess.org/@/killer9) *(Rapid: 1933, Blitz: 1861)*
 * MAR: **Marcelo**, a.k.a. [@mkvieira](https://www.lichess.org/@/mkvieira) *(Rapid: 2018, Blitz: 1774)*
 * MIL: **Milton**, a.k.a. [@milton1960](https://www.lichess.org/@/milton1960) *(Rapid: 1892, Blitz: 1645)*
-* PED: **Pedro**, a.k.a. [@Phoenix20201](https://www.lichess.org/@/Phoenix20201) *(Rapid: 1183, Blitz: 1118)*
+* PED: **Pedro**, a.k.a. [@Phoenix20201](https://www.lichess.org/@/Phoenix20201) *(Rapid: 1183, Blitz: 1105)*
 * REN: **Renato**, a.k.a. [@Padilha20](https://www.lichess.org/@/Padilha20) *(Rapid: 1234, Blitz: 1020)*
 * RIC: **Ricardo**, a.k.a. [@r-k-k](https://www.lichess.org/@/r-k-k) *(Rapid: 1771, Blitz: 1625)*
 * RIB: **Ribas**, a.k.a. [@Rpribas](https://www.lichess.org/@/Rpribas) *(Rapid: 1623, Blitz: 2055)*
@@ -57,7 +57,7 @@
 | 5 | Júlio (1546) | 6½ | 11 | 6 | 6 |
 | 6 | Ribas (2055) | 6½ | 11 | 6 | 5 |
 | 7 | Felipe (1387) | 5½ | 11 | 4 | 5 |
-| 8 | Pedro (1118) | 5 | 11 | 7 | 5 |
+| 8 | Pedro (1105) | 5 | 11 | 7 | 5 |
 | 9 | Milton (1645) | 4½ | 11 | 6 | 4 |
 | 10 | Vitor (1239) | 3½ | 10 | 4 | 3 |
 | 11 | Renato (1020) | 2 | 11 | 5 | 2 |

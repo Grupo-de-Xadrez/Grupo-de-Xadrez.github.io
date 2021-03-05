@@ -31,7 +31,7 @@ De folga: Júlio (1706)
 * Marcelo *(1774)*     -     Alexandre *(1183)*
 
  **>** 
-* **Ricardo *(1625)*** `1   -   0`  Pedro *(1118)*
+* **Ricardo *(1625)*** `1   -   0`  Pedro *(1105)*
 
 **>** [Link](https://www.lichess.org/7Nkr2iz9), *C40 - King's Knight Opening*.
 * **Renato *(1020)*** `1   -   0`  Milton *(1645)*

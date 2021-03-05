@@ -37,7 +37,7 @@ De folga: Ribas (1623)
 * **Ricardo *(1625)*** `1   -   0`  Renato *(1020)*
 
 **>** [Link](https://www.lichess.org/W6qYlQxP), *C40 - King's Pawn Game: Damiano Defense*.
-* Alexandre *(1183)* `0   -   1` **Pedro *(1118)***
+* Alexandre *(1183)* `0   -   1` **Pedro *(1105)***
 
 **>** [Link](https://www.lichess.org/dRK4gyy6), *C20 - King's Pawn Game: Leonardis Variation*.
 * Marcelo *(1774)* `0   -   1` **Léo *(1861)***
