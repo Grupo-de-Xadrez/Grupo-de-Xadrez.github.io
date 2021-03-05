@@ -25,7 +25,7 @@ De folga: Marcelo (2018)
 
 #### Blitz:
 
-* Vitor *(1250)* `0   -   1` **Ricardo *(1625)***
+* Vitor *(1244)* `0   -   1` **Ricardo *(1625)***
 
 **>** [Link](https://www.lichess.org/sMrIcVds), *C46 - Three Knights Opening*.
 * **Milton *(1671)*** `1   -   0`  Alexandre *(1183)*
