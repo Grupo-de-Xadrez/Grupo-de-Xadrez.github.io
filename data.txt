@@ -1,6 +1,9 @@
 p:
 =2
 
+c:
+=A,B,C,D,E,F,G,H,I,J,K,L,M
+
 n:
 D=Alexandre
 M=Diogo
@@ -136,7 +139,7 @@ K,L=d,d
 
 r:
 A,C=HHOQWigg,EtDVxlHb
-D,B=,
+D,B=EpHWeWxy,ual2NNE4
 H,E=3bvheiJ5,7Nkr2iz9
 F,I=2RRLRxRt,hRqL9LVj
 J,G=RmTb2iD3,B0i0X5fg

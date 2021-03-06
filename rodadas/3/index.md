@@ -2,47 +2,47 @@
 
 #### Rapid:
 
-* Vitor *(1316)* `0   -   1` **Freddy *(1868)***
+* Vitor *(1316)* `0   -   1` **Freddy *(1868)*** 
 
 **>** [Link](https://www.lichess.org/mPoMdB5X), *C00 - French Defense: Queen's Knight*.
-* **Júlio *(1706)*** `1   -   0`  Renato *(1234)*
+* **Júlio *(1706)*** `1   -   0`  Renato *(1234)* 
 
 **>** [Link](https://www.lichess.org/UoTKilWT), *D00 - Queen's Pawn Game: Mason Variation*.
-* **Ribas *(1623)*** `1   -   0`  Pedro *(1183)*
+* **Ribas *(1623)*** `1   -   0`  Pedro *(1183)* 
 
 **>** [Link](https://www.lichess.org/rwRiLi0u), *C30 - King's Gambit*.
-* Diogo *(1236)* `0   -   1` **Marcelo *(2018)***
+* Diogo *(1236)* `0   -   1` **Marcelo *(1950)*** 
 
 **>** [Link](https://www.lichess.org/iTEYyYuH), *A06 - Zukertort Opening: Tennison Gambit*.
-* **Felipe *(1590)*** `1   -   0`  Alexandre *(1154)*
+* **Felipe *(1590)*** `1   -   0`  Alexandre *(1196)* 
 
 **>** [Link](https://www.lichess.org/AjfNFS7V), *C23 - Bishop's Opening*.
-* **Ricardo *(1771)*** `1   -   0`  Milton *(1892)*
+* **Ricardo *(1771)*** `1   -   0`  Milton *(1892)* 
 
 **>** [Link](https://www.lichess.org/ONIds6vg), *B30 - Sicilian Defense: Old Sicilian*.
 
-De folga: Léo (1933)
+De folga: Léo *(1933)*
 
 #### Blitz:
 
-* **Freddy *(1815)*** `1   -   0`  Vitor *(1246)*
+* **Freddy *(1815)*** `1   -   0`  Vitor *(1233)* 
 
 **>** [Link](https://www.lichess.org/2NkAyca4), *D20 - Queen's Gambit Accepted: Old Variation*.
-* Renato *(1021)* `0   -   1` **Júlio *(1546)***
+* Renato *(1021)* `0   -   1` **Júlio *(1546)*** 
 
 **>** [Link](https://www.lichess.org/sGYNFcf4), *D00 - Queen's Pawn Game*.
-* Pedro *(1105)* `0   -   1` **Ribas *(2055)***
+* Pedro *(1105)* `0   -   1` **Ribas *(2055)*** 
 
 **>** [Link](https://www.lichess.org/XPb1HyYk), *D00 - Queen's Pawn Game*.
-* **Marcelo *(1774)*** `1   -   0`  Diogo *(1493)*
+* **Marcelo *(1782)*** `1   -   0`  Diogo *(1493)* 
 
 **>** [Link](https://www.lichess.org/5TFXe391), *C16 - French Defense: Winawer Variation, Advance Variation*.
-* Alexandre *(1183)* `0   -   1` **Felipe *(1387)***
+* Alexandre *(1165)* `0   -   1` **Felipe *(1387)*** 
 
 **>** [Link](https://www.lichess.org/Ph54JBSv), *D00 - Queen's Pawn Game*.
-* Milton *(1672)* `0   -   1` **Ricardo *(1625)***
+* Milton *(1672)* `0   -   1` **Ricardo *(1625)*** 
 
 **>** [Link](https://www.lichess.org/fWgQh4gz), *C23 - Bishop's Opening*.
 
-De folga: Léo (1861)
+De folga: Léo *(1861)*
 

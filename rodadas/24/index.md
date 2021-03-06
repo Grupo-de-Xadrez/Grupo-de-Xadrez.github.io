@@ -2,47 +2,47 @@
 
 #### Rapid:
 
-* Alexandre *(1154)*     -     Vitor *(1316)*
+* Alexandre *(1196)*     -     Vitor *(1316)* 
 
- **>** 
-* Léo *(1933)*     -     Ricardo *(1771)*
+**>** 
+* Léo *(1933)*     -     Ricardo *(1771)* 
 
- **>** 
-* Marcelo *(2018)*     -     Milton *(1892)*
+**>** 
+* Marcelo *(1950)*     -     Milton *(1892)* 
 
- **>** 
-* Felipe *(1590)*     -     Pedro *(1183)*
+**>** 
+* Felipe *(1590)*     -     Pedro *(1183)* 
 
- **>** 
-* Freddy *(1868)*     -     Diogo *(1236)*
+**>** 
+* Freddy *(1868)*     -     Diogo *(1236)* 
 
- **>** 
-* Ribas *(1623)*     -     Júlio *(1706)*
+**>** 
+* Ribas *(1623)*     -     Júlio *(1706)* 
 
- **>** 
+**>** 
 
-De folga: Renato (1234)
+De folga: Renato *(1234)*
 
 #### Blitz:
 
-* Vitor *(1246)*     -     Alexandre *(1183)*
+* Vitor *(1233)*     -     Alexandre *(1165)* 
 
- **>** 
-* Ricardo *(1625)*     -     Léo *(1861)*
+**>** 
+* Ricardo *(1625)*     -     Léo *(1861)* 
 
- **>** 
-* Milton *(1672)*     -     Marcelo *(1774)*
+**>** 
+* Milton *(1672)*     -     Marcelo *(1782)* 
 
- **>** 
-* Pedro *(1105)*     -     Felipe *(1387)*
+**>** 
+* Pedro *(1105)*     -     Felipe *(1387)* 
 
- **>** 
-* Diogo *(1493)*     -     Freddy *(1815)*
+**>** 
+* Diogo *(1493)*     -     Freddy *(1815)* 
 
- **>** 
-* Júlio *(1546)*     -     Ribas *(2055)*
+**>** 
+* Júlio *(1546)*     -     Ribas *(2055)* 
 
- **>** 
+**>** 
 
-De folga: Renato (1021)
+De folga: Renato *(1021)*
 
