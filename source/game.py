@@ -60,7 +60,7 @@ class Game:
             self.__black_player.stats(self.__ritmo).ties_as_black.append(self)
 
     def __str__(self):
-        return self.header() + ' ' + self.warning_header() + '\n\n' + '**>**' + ' ' + self.body()
+        return self.header() + self.link_header() + self.warning_header()
 
     def header(self):
         if  self.__result == Result.NOT_YET_PLAYED:
@@ -78,7 +78,7 @@ class Game:
         except AttributeError:
             return ''
 
-    def body(self):
+    def link_header(self):
         try:
             return f'[\u2197]({self.link})'
         except AttributeError:
