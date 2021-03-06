@@ -2,9 +2,9 @@
 
 #### Rapid:
 
-* Vitor *(1316)*     -     Léo *(1933)*
+* Vitor *(1316)* `0   -   1` **Léo *(1933)***
 
- **>** 
+**>** [Link](https://www.lichess.org/HHOQWigg), *B20 - Sicilian Defense: Bowdler Attack*.
 * Alexandre *(1154)*     -     Marcelo *(2018)*
 
  **>** 
@@ -25,9 +25,9 @@ De folga: Júlio (1706)
 
 #### Blitz:
 
-* Léo *(1861)*     -     Vitor *(1246)*
+* **Léo *(1861)*** `1   -   0`  Vitor *(1246)*
 
- **>** 
+**>** [Link](https://www.lichess.org/EtDVxlHb), *C62 - Ruy Lopez: Steinitz Defense*.
 * Marcelo *(1774)*     -     Alexandre *(1183)*
 
  **>** 
