@@ -1,4 +1,6 @@
-[⌂](https://grupo-de-xadrez.github.io/)### Rodada 25:
+[⌂](https://grupo-de-xadrez.github.io/)
+
+### Rodada 25:
 
 #### Rapid:
 

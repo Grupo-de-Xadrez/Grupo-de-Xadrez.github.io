@@ -1,4 +1,6 @@
-[⌂](https://grupo-de-xadrez.github.io/)### Rodada 23:
+[⌂](https://grupo-de-xadrez.github.io/)
+
+### Rodada 23:
 
 #### Rapid:
 

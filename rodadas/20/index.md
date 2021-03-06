@@ -1,4 +1,6 @@
-[⌂](https://grupo-de-xadrez.github.io/)### Rodada 20:
+[⌂](https://grupo-de-xadrez.github.io/)
+
+### Rodada 20:
 
 #### Rapid:
 

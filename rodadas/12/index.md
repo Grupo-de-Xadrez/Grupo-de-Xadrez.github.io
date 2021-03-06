@@ -1,4 +1,6 @@
-[⌂](https://grupo-de-xadrez.github.io/)### Rodada 12:
+[⌂](https://grupo-de-xadrez.github.io/)
+
+### Rodada 12:
 
 #### Rapid:
 

@@ -1,4 +1,6 @@
-[⌂](https://grupo-de-xadrez.github.io/)### Rodada 8:
+[⌂](https://grupo-de-xadrez.github.io/)
+
+### Rodada 8:
 
 #### Rapid:
 

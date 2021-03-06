@@ -1,4 +1,6 @@
-[⌂](https://grupo-de-xadrez.github.io/)### Rodada 17:
+[⌂](https://grupo-de-xadrez.github.io/)
+
+### Rodada 17:
 
 #### Rapid:
 
