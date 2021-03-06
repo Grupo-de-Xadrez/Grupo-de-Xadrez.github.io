@@ -58,7 +58,7 @@ def main():
     page += '## Participantes:'
     page += '\n'
     page += '\n'
-    page += '\n'.join(map(lambda player: '* ' + player.resume(['rapid', 'blitz']), sorted(players, key=)))
+    page += '\n'.join(map(lambda player: '* ' + player.resume(['rapid', 'blitz']), sorted(players, key=lambda player: player.name)))
     page += '\n'
     page += '\n'
 
