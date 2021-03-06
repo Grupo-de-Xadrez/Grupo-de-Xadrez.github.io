@@ -1,5 +1,4 @@
 # [⌂](https://grupo-de-xadrez.github.io/)
-
 ## Rodadas:
 
 * [Rodada 1](https://grupo-de-xadrez.github.io/rodadas/1)

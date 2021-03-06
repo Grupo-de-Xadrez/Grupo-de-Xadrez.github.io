@@ -108,14 +108,14 @@ def main():
     if not os.path.exists(f'{projectFolder}/rodadas/'):
         os.mkdir(f'{projectFolder}/rodadas/')
 
-    subpage = '# [\u2302](https://grupo-de-xadrez.github.io/)'
+    subpage = '## [\u2302 Página Principal](https://grupo-de-xadrez.github.io/)'
     subpage += '\n'
     subpage += '## Rodadas:'
     subpage += '\n'
     subpage += '\n'
 
     for i in range(number_of_rounds):
-        subsubpage = '# [\u2302](https://grupo-de-xadrez.github.io/)'
+        subsubpage = '# [\u2302 Página Principal](https://grupo-de-xadrez.github.io/)'
         subsubpage += '\n'
         subsubpage += f'### Rodada {i + 1}:'
         subsubpage += '\n'
@@ -145,4 +145,4 @@ def main():
     open(f'{projectFolder}/rodadas/index.md', 'w', encoding='utf-8').write(subpage)
 
 if __name__ == '__main__':
-    main()
+    main()
