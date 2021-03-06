@@ -80,6 +80,6 @@ class Game:
 
     def body(self):
         try:
-            return f'[\u2197]({self.link}), *{self.opening}*.'
+            return f'[\u2197]({self.link})'
         except AttributeError:
             return ''

@@ -4,22 +4,22 @@
 
 * Ricardo *(1771)* `½ - ½` Vitor *(1316)* 
 
-**>** [↗](https://www.lichess.org/DzW6bbNE), *C44 - King's Knight Opening: Normal Variation*.
+**>** [↗](https://www.lichess.org/DzW6bbNE)
 * Alexandre *(1196)* `0   -   1` **Milton *(1892)*** 
 
-**>** [↗](https://www.lichess.org/rFpRNKGI), *B20 - Sicilian Defense: Staunton-Cochrane Variation*.
+**>** [↗](https://www.lichess.org/rFpRNKGI)
 * **Léo *(1933)*** `1   -   0` Felipe *(1590)* 
 
-**>** [↗](https://www.lichess.org/0hAMPnId), *D30 - Queen's Gambit Declined*.
+**>** [↗](https://www.lichess.org/0hAMPnId)
 * Diogo *(1236)* `0   -   1` **Pedro *(1183)*** 
 
-**>** [↗](https://www.lichess.org/xh3yb5Ix), *C41 - Philidor Defense*.
+**>** [↗](https://www.lichess.org/xh3yb5Ix)
 * **Ribas *(1623)*** `1   -   0` Renato *(1234)* 
 
-**>** [↗](https://www.lichess.org/CNBZdTeY), *C30 - King's Gambit*.
+**>** [↗](https://www.lichess.org/CNBZdTeY)
 * **Freddy *(1868)*** `1   -   0` Júlio *(1706)* 
 
-**>** [↗](https://www.lichess.org/huR1ONU0), *D10 - Slav Defense: Exchange Variation*.
+**>** [↗](https://www.lichess.org/huR1ONU0)
 
 De folga: Marcelo *(1950)*
 
@@ -27,22 +27,22 @@ De folga: Marcelo *(1950)*
 
 * Vitor *(1233)* `0   -   1` **Ricardo *(1625)*** 
 
-**>** [↗](https://www.lichess.org/sMrIcVds), *C46 - Three Knights Opening*.
+**>** [↗](https://www.lichess.org/sMrIcVds)
 * **Milton *(1672)*** `1   -   0` Alexandre *(1165)* 
 
-**>** [↗](https://www.lichess.org/vZnMORke), *C28 - Vienna Game: Stanley Variation, Three Knights Variation*.
+**>** [↗](https://www.lichess.org/vZnMORke)
 * Felipe *(1387)* `½ - ½` Léo *(1861)* 
 
-**>** [↗](https://www.lichess.org/K5Vz3kms), *B20 - Sicilian Defense: Bowdler Attack*.
+**>** [↗](https://www.lichess.org/K5Vz3kms)
 * **Pedro *(1105)*** `1   -   0` Diogo *(1493)* 
 
-**>** [↗](https://www.lichess.org/lwaXzUH9), *D00 - Queen's Pawn Game*.
+**>** [↗](https://www.lichess.org/lwaXzUH9)
 * Renato *(1021)* `0   -   1` **Ribas *(2055)*** 
 
-**>** [↗](https://www.lichess.org/czwrbtoa), *D00 - Queen's Pawn Game*.
+**>** [↗](https://www.lichess.org/czwrbtoa)
 * Júlio *(1546)* `0   -   1` **Freddy *(1815)*** 
 
-**>** [↗](https://www.lichess.org/i8nZDdQV), *C01 - French Defense: Exchange Variation, Monte Carlo Variation*.
+**>** [↗](https://www.lichess.org/i8nZDdQV)
 
 De folga: Marcelo *(1782)*
 

@@ -4,19 +4,19 @@
 
 * **Vitor *(1316)*** `1   -   0` Alexandre *(1196)* `INVERTIDO`
 
-**>** [↗](https://www.lichess.org/uzz6TLeb), *C25 - Vienna Game: Max Lange Defense*.
+**>** [↗](https://www.lichess.org/uzz6TLeb)
 * Ricardo *(1771)* `0   -   1` **Léo *(1933)*** 
 
-**>** [↗](https://www.lichess.org/2WDMqx8f), *B23 - Sicilian Defense: Closed, Traditional*.
+**>** [↗](https://www.lichess.org/2WDMqx8f)
 * Milton *(1892)* `½ - ½` Marcelo *(1950)* 
 
-**>** [↗](https://www.lichess.org/Hveq9NYu), *C00 - French Defense: King's Indian Attack*.
+**>** [↗](https://www.lichess.org/Hveq9NYu)
 * **Pedro *(1183)*** `1   -   0` Felipe *(1590)* 
 
-**>** [↗](https://www.lichess.org/3tPc9vbg), *D00 - Queen's Pawn Game*.
+**>** [↗](https://www.lichess.org/3tPc9vbg)
 * Diogo *(1236)* `0   -   1` **Freddy *(1868)*** 
 
-**>** [↗](https://www.lichess.org/bzs5OTvF), *A40 - Horwitz Defense*.
+**>** [↗](https://www.lichess.org/bzs5OTvF)
 * Júlio *(1706)* `½ - ½` Ribas *(1623)* 
 
 **>** 
@@ -27,19 +27,19 @@ De folga: Renato *(1234)*
 
 * Alexandre *(1165)* `0   -   1` **Vitor *(1233)*** `INVERTIDO`
 
-**>** [↗](https://www.lichess.org/HrAy00oE), *C40 - King's Knight Opening*.
+**>** [↗](https://www.lichess.org/HrAy00oE)
 * Léo *(1861)* `½ - ½` Ricardo *(1625)* 
 
-**>** [↗](https://www.lichess.org/8SZrGgrw), *C62 - Ruy Lopez: Steinitz Defense*.
+**>** [↗](https://www.lichess.org/8SZrGgrw)
 * **Marcelo *(1782)*** `1   -   0` Milton *(1672)* 
 
-**>** [↗](https://www.lichess.org/ddfdNyXJ), *B32 - Sicilian Defense: LÃ¶wenthal Variation*.
+**>** [↗](https://www.lichess.org/ddfdNyXJ)
 * **Felipe *(1387)*** `1   -   0` Pedro *(1105)* 
 
-**>** [↗](https://www.lichess.org/XgzeSbk8), *C23 - Bishop's Opening*.
+**>** [↗](https://www.lichess.org/XgzeSbk8)
 * **Freddy *(1815)*** `1   -   0` Diogo *(1493)* 
 
-**>** [↗](https://www.lichess.org/xVTfL6Vs), *D30 - Queen's Gambit Declined*.
+**>** [↗](https://www.lichess.org/xVTfL6Vs)
 * Ribas *(2055)* `½ - ½` Júlio *(1546)* 
 
 **>** 
