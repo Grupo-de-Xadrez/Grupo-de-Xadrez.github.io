@@ -11,7 +11,7 @@
 * Marcelo *(1950)* `0   -   1` **Júlio *(1706)*** 
 
 **>** [Link](https://www.lichess.org/t9BXx170), *C55 - Italian Game: Two Knights Defense, Modern Bishop's Opening*.
-* **Léo *(1933)*** `1   -   0`  Ribas *(1623)* 
+* **Léo *(1933)*** `1   -   0` Ribas *(1623)* 
 
 **>** [Link](https://www.lichess.org/MpK0U206), *D20 - Queen's Gambit Accepted: Accelerated Mannheim Variation*.
 * Alexandre *(1196)* `½ - ½` Diogo *(1236)* 
@@ -28,7 +28,7 @@ De folga: Ricardo *(1771)*
 * Renato *(1021)* `0   -   1` **Vitor *(1233)*** `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/8D1HswlL), *C20 - Center Game*.
-* **Freddy *(1815)*** `1   -   0`  Pedro *(1105)* 
+* **Freddy *(1815)*** `1   -   0` Pedro *(1105)* 
 
 **>** [Link](https://www.lichess.org/3GCiQUZb), *D20 - Queen's Gambit Accepted: Old Variation*.
 * Júlio *(1546)* `0   -   1` **Marcelo *(1782)*** 

@@ -2,7 +2,7 @@
 
 #### Rapid:
 
-* **Ribas *(1623)*** `1   -   0`  Vitor *(1316)* 
+* **Ribas *(1623)*** `1   -   0` Vitor *(1316)* 
 
 **>** [Link](https://www.lichess.org/uUGYj33X), *D20 - Queen's Gambit Accepted*.
 * Diogo *(1236)* `0   -   1` **Júlio *(1706)*** 
@@ -28,19 +28,19 @@ De folga: Freddy *(1868)*
 * Vitor *(1233)* `½ - ½` Ribas *(2055)* 
 
 **>** [Link](https://www.lichess.org/jCwtl7kN), *B20 - Sicilian Defense: Bowdler Attack*.
-* **Júlio *(1546)*** `1   -   0`  Diogo *(1493)* 
+* **Júlio *(1546)*** `1   -   0` Diogo *(1493)* 
 
 **>** [Link](https://www.lichess.org/USQgItX9), *A40 - Horwitz Defense*.
-* **Felipe *(1387)*** `1   -   0`  Renato *(1021)* 
+* **Felipe *(1387)*** `1   -   0` Renato *(1021)* 
 
 **>** [Link](https://www.lichess.org/XIfFoMyW), *C23 - Bishop's Opening*.
-* **Milton *(1672)*** `1   -   0`  Pedro *(1105)* 
+* **Milton *(1672)*** `1   -   0` Pedro *(1105)* 
 
 **>** [Link](https://www.lichess.org/Piatvx1D), *C23 - Bishop's Opening*.
 * Marcelo *(1782)* `0   -   1` **Ricardo *(1625)*** 
 
 **>** [Link](https://www.lichess.org/U1pZa3C0), *C62 - Ruy Lopez: Steinitz Defense*.
-* **Léo *(1861)*** `1   -   0`  Alexandre *(1165)* `INVERTIDO`
+* **Léo *(1861)*** `1   -   0` Alexandre *(1165)* `INVERTIDO`
 
 **>** [Link](https://www.lichess.org/Pb9aW9HI), *C00 - French Defense: Schlechter Variation*.
 

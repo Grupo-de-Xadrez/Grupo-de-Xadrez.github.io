@@ -64,9 +64,9 @@ class Game:
 
     def header(self):
         if  self.__result == Result.NOT_YET_PLAYED:
-            return f'* {self.__white_player.long_name(self.__ritmo)}     -     {self.__black_player.long_name(self.__ritmo)}'
+            return f'* {self.__white_player.long_name(self.__ritmo)} `\u00b7 - \u00b7` {self.__black_player.long_name(self.__ritmo)}'
         elif self.__result == Result.WHITE_WON:
-            return f'* **{self.__white_player.long_name(self.__ritmo)}** `1   -   0`  {self.__black_player.long_name(self.__ritmo)}'
+            return f'* **{self.__white_player.long_name(self.__ritmo)}** `1   -   0` {self.__black_player.long_name(self.__ritmo)}'
         elif self.__result == Result.BLACK_WON:
             return f'* {self.__white_player.long_name(self.__ritmo)} `0   -   1` **{self.__black_player.long_name(self.__ritmo)}**'
         elif self.__result == Result.DRAW:

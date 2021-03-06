@@ -2,10 +2,10 @@
 
 #### Rapid:
 
-* **Felipe *(1590)*** `1   -   0`  Vitor *(1316)* 
+* **Felipe *(1590)*** `1   -   0` Vitor *(1316)* 
 
 **>** [Link](https://www.lichess.org/il8Y1UYr), *C24 - Bishop's Opening: Berlin Defense*.
-* **Ricardo *(1771)*** `1   -   0`  Diogo *(1236)* 
+* **Ricardo *(1771)*** `1   -   0` Diogo *(1236)* 
 
 **>** [Link](https://www.lichess.org/676T5NmF), *C65 - Ruy Lopez: Berlin Defense*.
 * Alexandre *(1196)* `0   -   1` **Ribas *(1623)*** 
@@ -17,7 +17,7 @@
 * Marcelo *(1950)* `½ - ½` Freddy *(1868)* 
 
 **>** [Link](https://www.lichess.org/ULDJhyiK), *C12 - French Defense: MacCutcheon Variation, Chigorin Variation*.
-* **Pedro *(1183)*** `1   -   0`  Renato *(1234)* 
+* **Pedro *(1183)*** `1   -   0` Renato *(1234)* 
 
 **>** [Link](https://www.lichess.org/eHkRZq9s), *D00 - Queen's Pawn Game*.
 
@@ -31,10 +31,10 @@ De folga: Milton *(1892)*
 * Diogo *(1493)* `0   -   1` **Ricardo *(1625)*** 
 
 **>** [Link](https://www.lichess.org/tOKohgQf), *D01 - Rapport-Jobava System*.
-* **Ribas *(2055)*** `1   -   0`  Alexandre *(1165)* 
+* **Ribas *(2055)*** `1   -   0` Alexandre *(1165)* 
 
 **>** [Link](https://www.lichess.org/1QNCTqCm), *C30 - King's Gambit*.
-* **Léo *(1861)*** `1   -   0`  Júlio *(1546)* 
+* **Léo *(1861)*** `1   -   0` Júlio *(1546)* 
 
 **>** [Link](https://www.lichess.org/vhpeAYWf), *C65 - Ruy Lopez: Berlin Defense*.
 * Freddy *(1815)* `0   -   1` **Marcelo *(1782)*** 

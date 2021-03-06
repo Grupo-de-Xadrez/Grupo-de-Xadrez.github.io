@@ -11,7 +11,7 @@
 * Renato *(1234)* `0   -   1` **Diogo *(1236)*** 
 
 **>** [Link](https://www.lichess.org/7bYFbRah), *D00 - Queen's Pawn Game*.
-* **Marcelo *(1950)*** `1   -   0`  Felipe *(1590)* 
+* **Marcelo *(1950)*** `1   -   0` Felipe *(1590)* 
 
 **>** [Link](https://www.lichess.org/dWGd6c2o), *C41 - Philidor Defense*.
 * Milton *(1892)* `0   -   1` **Léo *(1933)*** 
@@ -25,7 +25,7 @@ De folga: Pedro *(1183)*
 
 #### Blitz:
 
-* **Júlio *(1546)*** `1   -   0`  Vitor *(1233)* 
+* **Júlio *(1546)*** `1   -   0` Vitor *(1233)* 
 
 **>** [Link](https://www.lichess.org/IwpZ88MV), *D00 - Queen's Pawn Game: Mason Variation*.
 * Freddy *(1815)* `0   -   1` **Ribas *(2055)*** 
@@ -37,10 +37,10 @@ De folga: Pedro *(1183)*
 * Felipe *(1387)* `0   -   1` **Marcelo *(1782)*** 
 
 **>** [Link](https://www.lichess.org/wULx6CqR), *C02 - French Defense: Advance Variation*.
-* **Léo *(1861)*** `1   -   0`  Milton *(1672)* 
+* **Léo *(1861)*** `1   -   0` Milton *(1672)* 
 
 **>** [Link](https://www.lichess.org/YLnhheQG), *A20 - English Opening: King's English Variation*.
-* **Ricardo *(1625)*** `1   -   0`  Alexandre *(1165)* 
+* **Ricardo *(1625)*** `1   -   0` Alexandre *(1165)* 
 
 **>** [Link](https://www.lichess.org/LqcS00rX), *C41 - Philidor Defense*.
 
