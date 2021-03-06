@@ -8,7 +8,6 @@ class PlayerStats:
         self.ties_as_black = []
         self.relative_position = 1
 
-
     @property
     def number_of_wins_as_white(self):
         return len(self.wins_as_white)
