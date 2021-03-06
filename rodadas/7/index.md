@@ -2,23 +2,23 @@
 
 #### Rapid:
 
-* Diogo *(1236)* `0   -   1` **Felipe *(1590)***[↗](https://www.lichess.org/AW1ob8qv)
-* Ribas *(1623)* `0   -   1` **Milton *(1892)***[↗](https://www.lichess.org/4PHI8qN4)
-* Júlio *(1706)* `½ - ½` Ricardo *(1771)*[↗](https://www.lichess.org/Tflx76ez)
-* **Freddy *(1868)*** `1   -   0` Alexandre *(1196)*[↗](https://www.lichess.org/c4RUGpPR)
-* **Léo *(1933)*** `1   -   0` Renato *(1234)*[↗](https://www.lichess.org/qlgtkmyW)
-* **Marcelo *(1950)*** `1   -   0` Pedro *(1183)*[↗](https://www.lichess.org/mvtmGlJJ)
+* Diogo *(1236)* `0   -   1` **Felipe *(1590)*** [↗](https://www.lichess.org/AW1ob8qv) 
+* Ribas *(1623)* `0   -   1` **Milton *(1892)*** [↗](https://www.lichess.org/4PHI8qN4) 
+* Júlio *(1706)* `½ - ½` Ricardo *(1771)* [↗](https://www.lichess.org/Tflx76ez) 
+* **Freddy *(1868)*** `1   -   0` Alexandre *(1196)* [↗](https://www.lichess.org/c4RUGpPR) 
+* **Léo *(1933)*** `1   -   0` Renato *(1234)* [↗](https://www.lichess.org/qlgtkmyW) 
+* **Marcelo *(1950)*** `1   -   0` Pedro *(1183)* [↗](https://www.lichess.org/mvtmGlJJ) 
 
 De folga: Vitor *(1316)*
 
 #### Blitz:
 
-* **Felipe *(1387)*** `1   -   0` Diogo *(1493)*[↗](https://www.lichess.org/K27unGrd)
-* Milton *(1672)* `½ - ½` Ribas *(2055)*[↗](https://www.lichess.org/JY2PY2di)
-* Ricardo *(1625)* `0   -   1` **Júlio *(1546)***[↗](https://www.lichess.org/m0SZj8Sq)
-* Alexandre *(1165)* `0   -   1` **Freddy *(1815)***[↗](https://www.lichess.org/BU6Y8gxM)
-* Renato *(1021)* `0   -   1` **Léo *(1861)***[↗](https://www.lichess.org/Zuj9WuHM)
-* Pedro *(1105)* `0   -   1` **Marcelo *(1782)***[↗](https://www.lichess.org/LkJD4S6R)
+* **Felipe *(1387)*** `1   -   0` Diogo *(1493)* [↗](https://www.lichess.org/K27unGrd) 
+* Milton *(1672)* `½ - ½` Ribas *(2055)* [↗](https://www.lichess.org/JY2PY2di) 
+* Ricardo *(1625)* `0   -   1` **Júlio *(1546)*** [↗](https://www.lichess.org/m0SZj8Sq) 
+* Alexandre *(1165)* `0   -   1` **Freddy *(1815)*** [↗](https://www.lichess.org/BU6Y8gxM) 
+* Renato *(1021)* `0   -   1` **Léo *(1861)*** [↗](https://www.lichess.org/Zuj9WuHM) 
+* Pedro *(1105)* `0   -   1` **Marcelo *(1782)*** [↗](https://www.lichess.org/LkJD4S6R) 
 
 De folga: Vitor *(1233)*
 
