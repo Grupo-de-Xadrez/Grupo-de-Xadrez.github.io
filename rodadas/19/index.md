@@ -1,4 +1,4 @@
-### Rodada 19:
+[⌂](https://grupo-de-xadrez.github.io/)### Rodada 19:
 
 #### Rapid:
 

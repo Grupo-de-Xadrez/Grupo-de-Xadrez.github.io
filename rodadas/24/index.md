@@ -1,4 +1,4 @@
-### Rodada 24:
+[⌂](https://grupo-de-xadrez.github.io/)### Rodada 24:
 
 #### Rapid:
 

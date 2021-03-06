@@ -1,4 +1,4 @@
-### Rodada 6:
+[⌂](https://grupo-de-xadrez.github.io/)### Rodada 6:
 
 #### Rapid:
 

@@ -1,4 +1,4 @@
-### Rodada 18:
+[⌂](https://grupo-de-xadrez.github.io/)### Rodada 18:
 
 #### Rapid:
 

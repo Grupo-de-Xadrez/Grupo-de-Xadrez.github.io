@@ -1,4 +1,4 @@
-### Rodada 21:
+[⌂](https://grupo-de-xadrez.github.io/)### Rodada 21:
 
 #### Rapid:
 

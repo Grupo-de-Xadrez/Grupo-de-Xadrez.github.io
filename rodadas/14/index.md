@@ -1,4 +1,4 @@
-### Rodada 14:
+[⌂](https://grupo-de-xadrez.github.io/)### Rodada 14:
 
 #### Rapid:
 

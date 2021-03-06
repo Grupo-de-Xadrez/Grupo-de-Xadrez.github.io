@@ -1,4 +1,4 @@
-### Rodada 22:
+[⌂](https://grupo-de-xadrez.github.io/)### Rodada 22:
 
 #### Rapid:
 

@@ -1,4 +1,4 @@
-### Rodada 13:
+[⌂](https://grupo-de-xadrez.github.io/)### Rodada 13:
 
 #### Rapid:
 

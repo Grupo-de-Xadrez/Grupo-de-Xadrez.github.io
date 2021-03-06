@@ -1,4 +1,4 @@
-### Rodada 7:
+[⌂](https://grupo-de-xadrez.github.io/)### Rodada 7:
 
 #### Rapid:
 

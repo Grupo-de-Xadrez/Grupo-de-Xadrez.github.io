@@ -1,4 +1,4 @@
-### Rodada 1:
+[⌂](https://grupo-de-xadrez.github.io/)### Rodada 1:
 
 #### Rapid:
 

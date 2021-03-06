@@ -1,4 +1,4 @@
-### Rodada 16:
+[⌂](https://grupo-de-xadrez.github.io/)### Rodada 16:
 
 #### Rapid:
 
