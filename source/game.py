@@ -60,7 +60,7 @@ class Game:
             self.__black_player.stats(self.__ritmo).ties_as_black.append(self)
 
     def __str__(self):
-        return self.header() + self.link_header() + self.warning_header()
+        return self.header() + ' ' + self.link_header() + ' ' + self.warning_header()
 
     def header(self):
         if  self.__result == Result.NOT_YET_PLAYED:
