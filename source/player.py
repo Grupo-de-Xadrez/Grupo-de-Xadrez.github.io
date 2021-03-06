@@ -50,7 +50,7 @@ class Player:
         return self.__perf['perfs'][ritmo]['rating']
 
     def resume(self, ritmos):
-        return f'{self.name} [@{self.nickname}]({self.link}) *({", ".join([f"{ritmo}: {self.rating(ritmo)}" for ritmo in ritmos])})*'
+        return f'**{self.name}** [@{self.nickname}]({self.link}) *({", ".join([f"{ritmo}: {self.rating(ritmo)}" for ritmo in ritmos])})*'
 
     def long_name(self, ritmo):
         return f'{self.name} *({self.rating(ritmo)})*'
