@@ -43,25 +43,12 @@ class Tournament:
     def table(self):
         table = ''
 
-        table += '| Pos | Nome | Pts | J | J P | V |'
+        table += '| Pos | Nome | Pts | J | JP | V | | ' + ' | '.join([f'\\#{player.stats(self.__ritmo).relative_position}' for player in self.__players]) + ' |'
         table += '\n'
 
-        table += '| :---: | :--- | :---: | :---: | :---: | :---: |'
+        table += '| :---: | :--- | :---: | :---: | :---: | :---: | :---: | ' + ' | '.join([':---:' for _ in self.__players]) + ' |'
         table += '\n'
 
-        table += '\n'.join(map(lambda player: player.table_entry(self.__ritmo), self.__players))
+        table += '\n'.join(map(lambda player: player.table_entry(self.__ritmo, self.__players), self.__players))
 
         return table
-
-    def cross_table(self):
-        cross_table = ''
-
-        cross_table += '| | ' + ' | '.join([player.abbreviation for player in self.__players]) + ' |'
-        cross_table += '\n'
-
-        cross_table += '| :--- | ' + ' | '.join([':---:' for _ in self.__players]) + ' |'
-        cross_table += '\n'
-
-        cross_table += '\n'.join([player.cross_table_entry(self.__ritmo, self.__players) for player in self.__players]) # Allows intern modification
-
-        return cross_table

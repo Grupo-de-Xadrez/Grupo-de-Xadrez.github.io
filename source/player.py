@@ -64,17 +64,16 @@ class Player:
     def better_than(self, player, ritmo):
         return self.stats(ritmo).better_than(player.stats(ritmo))
 
-    def table_entry(self, ritmo):
-        return f'| {self.stats(ritmo).relative_position} | {self.long_name(ritmo)} | {self.stats(ritmo).points} | {self.stats(ritmo).number_of_games} | {self.stats(ritmo).number_of_games_as_black} | {self.stats(ritmo).number_of_wins} |'
-
-    def cross_table_entry(self, ritmo, players):
-        table_entry = f'| **{self.abbreviation}** |'
+    def table_entry(self, ritmo, players):
+        table_entry = f'| **\\#{self.stats(ritmo).relative_position}** | {self.name} | **{self.stats(ritmo).points}** | {self.stats(ritmo).number_of_games} | {self.stats(ritmo).number_of_games_as_black} | {self.stats(ritmo).number_of_wins} | |'
 
         for player in players:
             table_entry += ' '
             if self == player:
-                table_entry += '::::::::'
+                table_entry += ''
             else:
+                table_entry += '`'
+
                 result_as_white_versus_player = self.stats(ritmo).get_result_as_white_versus(player)
                 if result_as_white_versus_player == 1.0:
                     table_entry += '1'
@@ -83,7 +82,22 @@ class Player:
                 elif result_as_white_versus_player == 0.5:
                     table_entry += '\u00bd'
                 else:
-                    table_entry += ''
+                    table_entry += '\u00b7'
+
+                table_entry += '|'
+
+                result_as_black_versus_player = self.stats(ritmo).get_result_as_black_versus(player)
+                if result_as_black_versus_player == 1.0:
+                    table_entry += '1'
+                elif result_as_black_versus_player == 0.0:
+                    table_entry += '0'
+                elif result_as_black_versus_player == 0.5:
+                    table_entry += '\u00bd'
+                else:
+                    table_entry += '\u00b7'
+
+                table_entry += '`'
+
             table_entry += ' |'
 
         return table_entry

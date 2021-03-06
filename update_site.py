@@ -103,22 +103,6 @@ def main():
     page += '\n'
     page += '\n'
 
-    page += '## Resultados'
-    page += '\n'
-    page += '\n'
-    page += '#### Rapid:'
-    page += '\n'
-    page += '\n'
-    page += tournaments[0].cross_table()
-    page += '\n'
-    page += '\n'
-    page += '#### Blitz:'
-    page += '\n'
-    page += '\n'
-    page += tournaments[1].cross_table()
-    page += '\n'
-    page += '\n'
-
     open(f'{projectFolder}/index.md', 'w', encoding='utf-8').write(page)
 
     if not os.path.exists(f'{projectFolder}/rodadas/'):
