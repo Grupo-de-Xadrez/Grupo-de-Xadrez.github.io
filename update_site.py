@@ -1,16 +1,15 @@
 import sys
-sys.path.insert(0, 'E:/Programas/Programas em Python')
-sys.path.insert(0, './source')
-
 import pathlib
+projectFolder = pathlib.Path(__file__).parent.absolute()
+sys.path.insert(0, 'E:/Programas/Programas em Python')
+sys.path.insert(0, f'{projectFolder}/source')
+
 import os
 from tournament import Tournament
 from player import Player
 from mylib import save, load
 
 def main():
-    projectFolder = pathlib.Path(__file__).parent.absolute()
-
     data = open(f'{projectFolder}/data.txt', encoding='utf-8').read().split('\n')
 
     players = []
