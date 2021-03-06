@@ -114,7 +114,7 @@ def main():
     subpage += '\n'
 
     for i in range(number_of_rounds):
-        subsubpage = ''
+        subsubpage = '[\u2302]()'
         subsubpage += f'### Rodada {i + 1}:'
         subsubpage += '\n'
         subsubpage += '\n'
