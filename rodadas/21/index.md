@@ -20,7 +20,7 @@ De folga: Milton *(1892)*
 * Alexandre *(1165)* `· - ·` Ribas *(2055)*  
 * Júlio *(1532)* `· - ·` Léo *(1861)*  
 * Marcelo *(1782)* `· - ·` Freddy *(1818)*  
-* Pedro *(1089)* `· - ·` Renato *(1020)*  
+* Pedro *(1104)* `· - ·` Renato *(1020)*  
 
 De folga: Milton *(1672)*
 
