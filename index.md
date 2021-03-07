@@ -6,7 +6,7 @@
 * **Diogo** [@diogo98](https://www.lichess.org/@/diogo98) *(rapid: 1236, blitz: 1493)*
 * **Felipe** [@Fgcotta](https://www.lichess.org/@/Fgcotta) *(rapid: 1590, blitz: 1387)*
 * **Freddy** [@PlixMax](https://www.lichess.org/@/PlixMax) *(rapid: 1878, blitz: 1808)*
-* **Júlio** [@juliopinheiro](https://www.lichess.org/@/juliopinheiro) *(rapid: 1706, blitz: 1539)*
+* **Júlio** [@juliopinheiro](https://www.lichess.org/@/juliopinheiro) *(rapid: 1706, blitz: 1547)*
 * **Léo** [@killer9](https://www.lichess.org/@/killer9) *(rapid: 1933, blitz: 1861)*
 * **Marcelo** [@mkvieira](https://www.lichess.org/@/mkvieira) *(rapid: 1950, blitz: 1782)*
 * **Milton** [@milton1960](https://www.lichess.org/@/milton1960) *(rapid: 1892, blitz: 1659)*
