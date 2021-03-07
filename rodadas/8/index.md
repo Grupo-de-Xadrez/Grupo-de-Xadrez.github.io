@@ -19,7 +19,7 @@ De folga: Milton *(1892)*
 * Diogo *(1493)* `0   -   1` **Ricardo *(1607)*** [↗](https://www.lichess.org/tOKohgQf) 
 * **Ribas *(2055)*** `1   -   0` Alexandre *(1165)* [↗](https://www.lichess.org/1QNCTqCm) 
 * **Léo *(1861)*** `1   -   0` Júlio *(1544)* [↗](https://www.lichess.org/vhpeAYWf) 
-* Freddy *(1807)* `0   -   1` **Marcelo *(1782)*** [↗](https://www.lichess.org/aQvQgFvB) 
+* Freddy *(1809)* `0   -   1` **Marcelo *(1782)*** [↗](https://www.lichess.org/aQvQgFvB) 
 * Renato *(1031)* `0   -   1` **Pedro *(1167)*** [↗](https://www.lichess.org/xt6SEfF6) 
 
 De folga: Milton *(1672)*
