@@ -19,7 +19,7 @@ De folga: Ribas *(1623)*
 * **Júlio *(1532)*** `1   -   0` Felipe *(1387)* [↗](https://www.lichess.org/Hd2EH2bV) 
 * Milton *(1672)* `0   -   1` **Freddy *(1806)*** [↗](https://www.lichess.org/kntzkFHk) 
 * **Ricardo *(1607)*** `1   -   0` Renato *(1026)* [↗](https://www.lichess.org/W6qYlQxP) 
-* Alexandre *(1165)* `0   -   1` **Pedro *(1091)*** [↗](https://www.lichess.org/dRK4gyy6) 
+* Alexandre *(1165)* `0   -   1` **Pedro *(1099)*** [↗](https://www.lichess.org/dRK4gyy6) 
 * Marcelo *(1782)* `0   -   1` **Léo *(1861)*** [↗](https://www.lichess.org/Ay7CPkyi) 
 
 De folga: Ribas *(2055)*
