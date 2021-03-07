@@ -22,5 +22,5 @@ De folga: Renato *(1243)*
 * Diogo *(1493)* `· - ·` Freddy *(1809)*  
 * Júlio *(1544)* `· - ·` Ribas *(2055)*  
 
-De folga: Renato *(1031)*
+De folga: Renato *(1028)*
 
