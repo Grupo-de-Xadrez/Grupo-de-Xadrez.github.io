@@ -19,7 +19,7 @@ De folga: Diogo *(1236)*
 * Pedro *(1167)* `· - ·` Léo *(1861)*  
 * Alexandre *(1165)* `0   -   1` **Renato *(1028)*** [↗](https://www.lichess.org/nilwVslB) 
 * **Freddy *(1809)*** `1   -   0` Ricardo *(1607)* [↗](https://www.lichess.org/H0bF30Ao) 
-* Júlio *(1544)* `· - ·` Milton *(1672)*  
+* Júlio *(1544)* `· - ·` Milton *(1668)*  
 * **Ribas *(2055)*** `1   -   0` Felipe *(1387)* [↗](https://www.lichess.org/3HTXJBuX) 
 
 De folga: Diogo *(1493)*

@@ -22,5 +22,5 @@ De folga: Milton *(1892)*
 * Marcelo *(1782)* `· - ·` Freddy *(1809)*  
 * Pedro *(1167)* `· - ·` Renato *(1028)*  
 
-De folga: Milton *(1672)*
+De folga: Milton *(1668)*
 
