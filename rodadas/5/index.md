@@ -22,5 +22,5 @@ De folga: Freddy *(1878)*
 * Marcelo *(1782)* `0   -   1` **Ricardo *(1607)*** [↗](https://www.lichess.org/U1pZa3C0) 
 * **Léo *(1861)*** `1   -   0` Alexandre *(1165)* [↗](https://www.lichess.org/Pb9aW9HI) `INVERTIDO`
 
-De folga: Freddy *(1818)*
+De folga: Freddy *(1809)*
 
