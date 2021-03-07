@@ -148,10 +148,10 @@ L,M=RsaJBLmG,ovy99Fgs
 r:
 A,B=,
 C,H=,
-I,D=,
+I,D=A0vx4YaX,nilwVslB
 E,J=,
 F,K=,
-G,L=,
+G,L=uRPVrxNA,3HTXJBuX
 
 r:
 A,H=,
