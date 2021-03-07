@@ -16,7 +16,7 @@ De folga: Diogo *(1236)*
 #### Blitz:
 
 * Marcelo *(1782)* `· - ·` Vitor *(1234)*  
-* Pedro *(1100)* `· - ·` Léo *(1861)*  
+* Pedro *(1096)* `· - ·` Léo *(1861)*  
 * Alexandre *(1165)* `0   -   1` **Renato *(1020)*** [↗](https://www.lichess.org/nilwVslB) 
 * **Freddy *(1809)*** `1   -   0` Ricardo *(1607)* [↗](https://www.lichess.org/H0bF30Ao) 
 * Júlio *(1532)* `· - ·` Milton *(1672)*  
