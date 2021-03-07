@@ -16,7 +16,7 @@ De folga: Léo *(1933)*
 #### Blitz:
 
 * **Freddy *(1808)*** `1   -   0` Vitor *(1228)* [↗](https://www.lichess.org/2NkAyca4) 
-* Renato *(1030)* `0   -   1` **Júlio *(1552)*** [↗](https://www.lichess.org/sGYNFcf4) 
+* Renato *(1030)* `0   -   1` **Júlio *(1559)*** [↗](https://www.lichess.org/sGYNFcf4) 
 * Pedro *(1162)* `0   -   1` **Ribas *(2055)*** [↗](https://www.lichess.org/XPb1HyYk) 
 * **Marcelo *(1782)*** `1   -   0` Diogo *(1493)* [↗](https://www.lichess.org/5TFXe391) 
 * Alexandre *(1165)* `0   -   1` **Felipe *(1387)*** [↗](https://www.lichess.org/Ph54JBSv) 
