@@ -17,7 +17,7 @@ De folga: Ricardo *(1750)*
 
 * Renato *(1031)* `0   -   1` **Vitor *(1228)*** [↗](https://www.lichess.org/8D1HswlL) `INVERTIDO`
 * **Freddy *(1807)*** `1   -   0` Pedro *(1145)* [↗](https://www.lichess.org/3GCiQUZb) 
-* Júlio *(1538)* `0   -   1` **Marcelo *(1782)*** [↗](https://www.lichess.org/bLg3vsmi) 
+* Júlio *(1544)* `0   -   1` **Marcelo *(1782)*** [↗](https://www.lichess.org/bLg3vsmi) 
 * Ribas *(2055)* `0   -   1` **Léo *(1861)*** [↗](https://www.lichess.org/2aruQaIu) 
 * Diogo *(1493)* `½ - ½` Alexandre *(1165)* [↗](https://www.lichess.org/JLLAkhLx) 
 * Felipe *(1387)* `0   -   1` **Milton *(1672)*** [↗](https://www.lichess.org/DJGNYvmh) 

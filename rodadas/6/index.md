@@ -16,7 +16,7 @@ De folga: Ribas *(1623)*
 #### Blitz:
 
 * **Vitor *(1228)*** `1   -   0` Diogo *(1493)* [↗](https://www.lichess.org/wVZwlYka) 
-* **Júlio *(1538)*** `1   -   0` Felipe *(1387)* [↗](https://www.lichess.org/Hd2EH2bV) 
+* **Júlio *(1544)*** `1   -   0` Felipe *(1387)* [↗](https://www.lichess.org/Hd2EH2bV) 
 * Milton *(1672)* `0   -   1` **Freddy *(1807)*** [↗](https://www.lichess.org/kntzkFHk) 
 * **Ricardo *(1607)*** `1   -   0` Renato *(1031)* [↗](https://www.lichess.org/W6qYlQxP) 
 * Alexandre *(1165)* `0   -   1` **Pedro *(1145)*** [↗](https://www.lichess.org/dRK4gyy6) 

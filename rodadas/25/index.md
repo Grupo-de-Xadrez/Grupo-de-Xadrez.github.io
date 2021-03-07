@@ -22,5 +22,5 @@ De folga: Júlio *(1706)*
 * Freddy *(1807)* `· - ·` Felipe *(1387)*  
 * Ribas *(2055)* `· - ·` Diogo *(1493)*  
 
-De folga: Júlio *(1538)*
+De folga: Júlio *(1544)*
 
