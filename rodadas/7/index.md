@@ -20,7 +20,7 @@ De folga: Vitor *(1304)*
 * Ricardo *(1607)* `0   -   1` **Júlio *(1532)*** [↗](https://www.lichess.org/m0SZj8Sq) 
 * Alexandre *(1165)* `0   -   1` **Freddy *(1808)*** [↗](https://www.lichess.org/BU6Y8gxM) 
 * Renato *(1026)* `0   -   1` **Léo *(1861)*** [↗](https://www.lichess.org/Zuj9WuHM) 
-* Pedro *(1106)* `0   -   1` **Marcelo *(1782)*** [↗](https://www.lichess.org/LkJD4S6R) 
+* Pedro *(1125)* `0   -   1` **Marcelo *(1782)*** [↗](https://www.lichess.org/LkJD4S6R) 
 
 De folga: Vitor *(1228)*
 

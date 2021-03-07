@@ -17,7 +17,7 @@ De folga: Léo *(1933)*
 
 * **Freddy *(1808)*** `1   -   0` Vitor *(1228)* [↗](https://www.lichess.org/2NkAyca4) 
 * Renato *(1026)* `0   -   1` **Júlio *(1532)*** [↗](https://www.lichess.org/sGYNFcf4) 
-* Pedro *(1106)* `0   -   1` **Ribas *(2055)*** [↗](https://www.lichess.org/XPb1HyYk) 
+* Pedro *(1125)* `0   -   1` **Ribas *(2055)*** [↗](https://www.lichess.org/XPb1HyYk) 
 * **Marcelo *(1782)*** `1   -   0` Diogo *(1493)* [↗](https://www.lichess.org/5TFXe391) 
 * Alexandre *(1165)* `0   -   1` **Felipe *(1387)*** [↗](https://www.lichess.org/Ph54JBSv) 
 * Milton *(1672)* `0   -   1` **Ricardo *(1607)*** [↗](https://www.lichess.org/fWgQh4gz) 
