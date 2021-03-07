@@ -17,7 +17,7 @@ De folga: Pedro *(1183)*
 
 * Vitor *(1228)* `· - ·` Júlio *(1539)*  
 * Ribas *(2055)* `· - ·` Freddy *(1808)*  
-* Renato *(1027)* `· - ·` Diogo *(1493)*  
+* Renato *(1030)* `· - ·` Diogo *(1493)*  
 * Marcelo *(1782)* `· - ·` Felipe *(1387)*  
 * Milton *(1671)* `· - ·` Léo *(1861)*  
 * Alexandre *(1165)* `· - ·` Ricardo *(1607)*  
