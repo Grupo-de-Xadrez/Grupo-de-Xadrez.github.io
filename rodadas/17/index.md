@@ -22,5 +22,5 @@ De folga: Pedro *(1183)*
 * Milton *(1672)* `· - ·` Léo *(1861)*  
 * Alexandre *(1165)* `· - ·` Ricardo *(1607)*  
 
-De folga: Pedro *(1125)*
+De folga: Pedro *(1145)*
 
