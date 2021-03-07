@@ -4,7 +4,7 @@
 
 #### Rapid:
 
-* Marcelo *(1950)* `· - ·` Vitor *(1311)*  
+* Marcelo *(1950)* `· - ·` Vitor *(1304)*  
 * Pedro *(1183)* `· - ·` Léo *(1933)*  
 * Alexandre *(1196)* `· - ·` Renato *(1243)*  
 * Freddy *(1878)* `· - ·` Ricardo *(1750)*  

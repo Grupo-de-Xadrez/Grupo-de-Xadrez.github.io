@@ -4,7 +4,7 @@
 
 #### Rapid:
 
-* Vitor *(1311)* `0   -   1` **Renato *(1243)*** [↗](https://www.lichess.org/uoeqKY9M) `INVERTIDO`
+* Vitor *(1304)* `0   -   1` **Renato *(1243)*** [↗](https://www.lichess.org/uoeqKY9M) `INVERTIDO`
 * Pedro *(1183)* `0   -   1` **Freddy *(1878)*** [↗](https://www.lichess.org/7lTkPhIV) 
 * Marcelo *(1950)* `0   -   1` **Júlio *(1706)*** [↗](https://www.lichess.org/t9BXx170) 
 * **Léo *(1933)*** `1   -   0` Ribas *(1623)* [↗](https://www.lichess.org/MpK0U206) 

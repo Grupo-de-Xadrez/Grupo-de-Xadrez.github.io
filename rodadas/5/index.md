@@ -4,7 +4,7 @@
 
 #### Rapid:
 
-* **Ribas *(1623)*** `1   -   0` Vitor *(1311)* [↗](https://www.lichess.org/uUGYj33X) 
+* **Ribas *(1623)*** `1   -   0` Vitor *(1304)* [↗](https://www.lichess.org/uUGYj33X) 
 * Diogo *(1236)* `0   -   1` **Júlio *(1706)*** [↗](https://www.lichess.org/tacQGS40) 
 * Renato *(1243)* `0   -   1` **Felipe *(1590)*** [↗](https://www.lichess.org/rxcxV1No) 
 * Pedro *(1183)* `0   -   1` **Milton *(1892)*** [↗](https://www.lichess.org/H4MP7ROS) 

@@ -4,7 +4,7 @@
 
 #### Rapid:
 
-* Vitor *(1311)* `0   -   1` **Freddy *(1878)*** [↗](https://www.lichess.org/mPoMdB5X) 
+* Vitor *(1304)* `0   -   1` **Freddy *(1878)*** [↗](https://www.lichess.org/mPoMdB5X) 
 * **Júlio *(1706)*** `1   -   0` Renato *(1243)* [↗](https://www.lichess.org/UoTKilWT) 
 * **Ribas *(1623)*** `1   -   0` Pedro *(1183)* [↗](https://www.lichess.org/rwRiLi0u) 
 * Diogo *(1236)* `0   -   1` **Marcelo *(1950)*** [↗](https://www.lichess.org/iTEYyYuH) 
