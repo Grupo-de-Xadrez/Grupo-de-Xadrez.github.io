@@ -6,7 +6,7 @@
 
 * Felipe *(1590)* `· - ·` Diogo *(1236)*  
 * Milton *(1892)* `· - ·` Ribas *(1623)*  
-* Ricardo *(1750)* `· - ·` Júlio *(1706)*  
+* Ricardo *(1750)* `· - ·` Júlio *(1691)*  
 * Alexandre *(1196)* `· - ·` Freddy *(1878)*  
 * Renato *(1243)* `· - ·` Léo *(1933)*  
 * Pedro *(1183)* `· - ·` Marcelo *(1950)*  

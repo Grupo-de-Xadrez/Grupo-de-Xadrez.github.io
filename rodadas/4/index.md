@@ -4,7 +4,7 @@
 
 #### Rapid:
 
-* Vitor *(1304)* `½ - ½` Júlio *(1706)* [↗](https://www.lichess.org/cNEagLGV) 
+* Vitor *(1304)* `½ - ½` Júlio *(1691)* [↗](https://www.lichess.org/cNEagLGV) 
 * Ribas *(1623)* `0   -   1` **Freddy *(1878)*** [↗](https://www.lichess.org/cdRVlh4r) 
 * Renato *(1243)* `0   -   1` **Diogo *(1236)*** [↗](https://www.lichess.org/7bYFbRah) 
 * **Marcelo *(1950)*** `1   -   0` Felipe *(1590)* [↗](https://www.lichess.org/dWGd6c2o) 

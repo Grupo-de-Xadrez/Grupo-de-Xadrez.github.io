@@ -7,7 +7,7 @@
 * **Felipe *(1590)*** `1   -   0` Vitor *(1304)* [↗](https://www.lichess.org/il8Y1UYr) 
 * **Ricardo *(1750)*** `1   -   0` Diogo *(1236)* [↗](https://www.lichess.org/676T5NmF) 
 * Alexandre *(1196)* `0   -   1` **Ribas *(1623)*** [↗](https://www.lichess.org/v82wftGd) 
-* Júlio *(1706)* `0   -   1` **Léo *(1933)*** [↗](https://www.lichess.org/Y3GmBysX) 
+* Júlio *(1691)* `0   -   1` **Léo *(1933)*** [↗](https://www.lichess.org/Y3GmBysX) 
 * Marcelo *(1950)* `½ - ½` Freddy *(1878)* [↗](https://www.lichess.org/ULDJhyiK) 
 * **Pedro *(1183)*** `1   -   0` Renato *(1243)* [↗](https://www.lichess.org/eHkRZq9s) 
 

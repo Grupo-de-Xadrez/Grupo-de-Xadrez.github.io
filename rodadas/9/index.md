@@ -8,7 +8,7 @@
 * Felipe *(1590)* `0   -   1` **Ricardo *(1750)*** [↗](https://www.lichess.org/jORs1Lx5) 
 * **Léo *(1933)*** `1   -   0` Diogo *(1236)* [↗](https://www.lichess.org/bokVjkNU) 
 * **Marcelo *(1950)*** `1   -   0` Ribas *(1623)* [↗](https://www.lichess.org/H57Di5PJ) 
-* **Júlio *(1706)*** `1   -   0` Pedro *(1183)* [↗](https://www.lichess.org/rROVT2Qw) 
+* **Júlio *(1691)*** `1   -   0` Pedro *(1183)* [↗](https://www.lichess.org/rROVT2Qw) 
 * Renato *(1243)* `0   -   1` **Freddy *(1878)*** [↗](https://www.lichess.org/rxPhGsIN) 
 
 De folga: Alexandre *(1196)*

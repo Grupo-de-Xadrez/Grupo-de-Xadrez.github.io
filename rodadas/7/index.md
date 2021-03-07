@@ -6,7 +6,7 @@
 
 * Diogo *(1236)* `0   -   1` **Felipe *(1590)*** [↗](https://www.lichess.org/AW1ob8qv) 
 * Ribas *(1623)* `0   -   1` **Milton *(1892)*** [↗](https://www.lichess.org/4PHI8qN4) 
-* Júlio *(1706)* `½ - ½` Ricardo *(1750)* [↗](https://www.lichess.org/Tflx76ez) 
+* Júlio *(1691)* `½ - ½` Ricardo *(1750)* [↗](https://www.lichess.org/Tflx76ez) 
 * **Freddy *(1878)*** `1   -   0` Alexandre *(1196)* [↗](https://www.lichess.org/c4RUGpPR) 
 * **Léo *(1933)*** `1   -   0` Renato *(1243)* [↗](https://www.lichess.org/qlgtkmyW) 
 * **Marcelo *(1950)*** `1   -   0` Pedro *(1183)* [↗](https://www.lichess.org/mvtmGlJJ) 

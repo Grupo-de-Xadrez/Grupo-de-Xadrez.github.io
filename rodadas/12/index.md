@@ -11,7 +11,7 @@
 * Freddy *(1878)* `0   -   1` **Felipe *(1590)*** [↗](https://www.lichess.org/RmTb2iD3) 
 * **Ribas *(1623)*** `1   -   0` Diogo *(1236)* [↗](https://www.lichess.org/RsaJBLmG) 
 
-De folga: Júlio *(1706)*
+De folga: Júlio *(1691)*
 
 #### Blitz:
 

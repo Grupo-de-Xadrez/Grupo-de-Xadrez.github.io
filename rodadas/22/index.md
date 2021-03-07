@@ -8,7 +8,7 @@
 * Ricardo *(1750)* `· - ·` Felipe *(1590)*  
 * Diogo *(1236)* `· - ·` Léo *(1933)*  
 * Ribas *(1623)* `· - ·` Marcelo *(1950)*  
-* Pedro *(1183)* `· - ·` Júlio *(1706)*  
+* Pedro *(1183)* `· - ·` Júlio *(1691)*  
 * Freddy *(1878)* `· - ·` Renato *(1243)*  
 
 De folga: Alexandre *(1196)*

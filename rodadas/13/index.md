@@ -8,7 +8,7 @@
 * Léo *(1933)* `· - ·` Pedro *(1183)*  
 * **Renato *(1243)*** `1   -   0` Alexandre *(1196)* [↗](https://www.lichess.org/A0vx4YaX) 
 * Ricardo *(1750)* `0   -   1` **Freddy *(1878)*** [↗](https://www.lichess.org/66oh7Iwv) 
-* Milton *(1892)* `· - ·` Júlio *(1706)*  
+* Milton *(1892)* `· - ·` Júlio *(1691)*  
 * Felipe *(1590)* `0   -   1` **Ribas *(1623)*** [↗](https://www.lichess.org/uRPVrxNA) 
 
 De folga: Diogo *(1236)*

@@ -5,7 +5,7 @@
 #### Rapid:
 
 * Freddy *(1878)* `· - ·` Vitor *(1304)*  
-* Renato *(1243)* `· - ·` Júlio *(1706)*  
+* Renato *(1243)* `· - ·` Júlio *(1691)*  
 * Pedro *(1183)* `· - ·` Ribas *(1623)*  
 * Marcelo *(1950)* `· - ·` Diogo *(1236)*  
 * Alexandre *(1196)* `· - ·` Felipe *(1590)*  

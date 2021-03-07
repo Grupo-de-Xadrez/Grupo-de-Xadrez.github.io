@@ -11,7 +11,7 @@
 * Felipe *(1590)* `· - ·` Freddy *(1878)*  
 * Diogo *(1236)* `· - ·` Ribas *(1623)*  
 
-De folga: Júlio *(1706)*
+De folga: Júlio *(1691)*
 
 #### Blitz:
 

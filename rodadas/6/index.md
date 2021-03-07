@@ -5,7 +5,7 @@
 #### Rapid:
 
 * **Diogo *(1236)*** `1   -   0` Vitor *(1304)* [↗](https://www.lichess.org/oLT8dFSp) 
-* Felipe *(1590)* `0   -   1` **Júlio *(1706)*** [↗](https://www.lichess.org/UPHBOLK8) 
+* Felipe *(1590)* `0   -   1` **Júlio *(1691)*** [↗](https://www.lichess.org/UPHBOLK8) 
 * Freddy *(1878)* `0   -   1` **Milton *(1892)*** [↗](https://www.lichess.org/DnGe3nKh) 
 * Renato *(1243)* `0   -   1` **Ricardo *(1750)*** [↗](https://www.lichess.org/1Wnoetil) 
 * Pedro *(1183)* `0   -   1` **Alexandre *(1196)*** [↗](https://www.lichess.org/uq0GqkcY) 

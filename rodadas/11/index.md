@@ -9,7 +9,7 @@
 * Milton *(1892)* `½ - ½` Marcelo *(1950)* [↗](https://www.lichess.org/Hveq9NYu) 
 * **Pedro *(1183)*** `1   -   0` Felipe *(1590)* [↗](https://www.lichess.org/3tPc9vbg) 
 * Diogo *(1236)* `0   -   1` **Freddy *(1878)*** [↗](https://www.lichess.org/bzs5OTvF) 
-* Júlio *(1706)* `½ - ½` Ribas *(1623)*  
+* Júlio *(1691)* `½ - ½` Ribas *(1623)*  
 
 De folga: Renato *(1243)*
 

@@ -5,7 +5,7 @@
 #### Rapid:
 
 * Vitor *(1304)* `· - ·` Ribas *(1623)*  
-* Júlio *(1706)* `· - ·` Diogo *(1236)*  
+* Júlio *(1691)* `· - ·` Diogo *(1236)*  
 * Felipe *(1590)* `· - ·` Renato *(1243)*  
 * Milton *(1892)* `· - ·` Pedro *(1183)*  
 * Marcelo *(1950)* `· - ·` Ricardo *(1750)*  
