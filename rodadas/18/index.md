@@ -22,5 +22,5 @@ De folga: Freddy *(1878)*
 * Ricardo *(1607)* `· - ·` Marcelo *(1782)*  
 * Alexandre *(1165)* `· - ·` Léo *(1861)*  
 
-De folga: Freddy *(1811)*
+De folga: Freddy *(1806)*
 
