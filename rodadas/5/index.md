@@ -16,7 +16,7 @@ De folga: Freddy *(1878)*
 #### Blitz:
 
 * Vitor *(1228)* `½ - ½` Ribas *(2055)* [↗](https://www.lichess.org/jCwtl7kN) 
-* **Júlio *(1547)*** `1   -   0` Diogo *(1493)* [↗](https://www.lichess.org/USQgItX9) 
+* **Júlio *(1552)*** `1   -   0` Diogo *(1493)* [↗](https://www.lichess.org/USQgItX9) 
 * **Felipe *(1387)*** `1   -   0` Renato *(1030)* [↗](https://www.lichess.org/XIfFoMyW) 
 * **Milton *(1659)*** `1   -   0` Pedro *(1162)* [↗](https://www.lichess.org/Piatvx1D) 
 * Marcelo *(1782)* `0   -   1` **Ricardo *(1607)*** [↗](https://www.lichess.org/U1pZa3C0) 
