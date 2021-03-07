@@ -19,7 +19,7 @@ De folga: Renato *(1243)*
 * Léo *(1861)* `½ - ½` Ricardo *(1607)* [↗](https://www.lichess.org/8SZrGgrw) 
 * **Marcelo *(1782)*** `1   -   0` Milton *(1672)* [↗](https://www.lichess.org/ddfdNyXJ) 
 * **Felipe *(1387)*** `1   -   0` Pedro *(1125)* [↗](https://www.lichess.org/XgzeSbk8) 
-* **Freddy *(1810)*** `1   -   0` Diogo *(1493)* [↗](https://www.lichess.org/xVTfL6Vs) 
+* **Freddy *(1807)*** `1   -   0` Diogo *(1493)* [↗](https://www.lichess.org/xVTfL6Vs) 
 * Ribas *(2055)* `½ - ½` Júlio *(1532)*  
 
 De folga: Renato *(1031)*
