@@ -22,5 +22,5 @@ De folga: Júlio *(1706)*
 * Felipe *(1387)* `0   -   1` **Freddy *(1807)*** [↗](https://www.lichess.org/B0i0X5fg) 
 * Diogo *(1493)* `0   -   1` **Ribas *(2055)*** [↗](https://www.lichess.org/ovy99Fgs) 
 
-De folga: Júlio *(1532)*
+De folga: Júlio *(1538)*
 
