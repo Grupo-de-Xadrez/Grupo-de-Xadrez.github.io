@@ -22,5 +22,5 @@ De folga: Pedro *(1183)*
 * **Léo *(1861)*** `1   -   0` Milton *(1672)* [↗](https://www.lichess.org/YLnhheQG) 
 * **Ricardo *(1607)*** `1   -   0` Alexandre *(1165)* [↗](https://www.lichess.org/LqcS00rX) 
 
-De folga: Pedro *(1096)*
+De folga: Pedro *(1091)*
 
