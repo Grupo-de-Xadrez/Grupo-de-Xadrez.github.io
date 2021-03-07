@@ -4,7 +4,7 @@
 
 #### Rapid:
 
-* **Felipe *(1590)*** `1   -   0` Vitor *(1317)* [↗](https://www.lichess.org/il8Y1UYr) 
+* **Felipe *(1590)*** `1   -   0` Vitor *(1311)* [↗](https://www.lichess.org/il8Y1UYr) 
 * **Ricardo *(1750)*** `1   -   0` Diogo *(1236)* [↗](https://www.lichess.org/676T5NmF) 
 * Alexandre *(1196)* `0   -   1` **Ribas *(1623)*** [↗](https://www.lichess.org/v82wftGd) 
 * Júlio *(1706)* `0   -   1` **Léo *(1933)*** [↗](https://www.lichess.org/Y3GmBysX) 

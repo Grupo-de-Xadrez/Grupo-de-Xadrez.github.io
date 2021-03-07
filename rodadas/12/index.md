@@ -4,7 +4,7 @@
 
 #### Rapid:
 
-* Vitor *(1317)* `0   -   1` **Léo *(1933)*** [↗](https://www.lichess.org/HHOQWigg) 
+* Vitor *(1311)* `0   -   1` **Léo *(1933)*** [↗](https://www.lichess.org/HHOQWigg) 
 * Alexandre *(1196)* `½ - ½` Marcelo *(1950)* [↗](https://www.lichess.org/EpHWeWxy) 
 * Pedro *(1183)* `0   -   1` **Ricardo *(1750)*** [↗](https://www.lichess.org/3bvheiJ5) 
 * **Milton *(1892)*** `1   -   0` Renato *(1243)* [↗](https://www.lichess.org/2RRLRxRt) 

@@ -4,7 +4,7 @@
 
 #### Rapid:
 
-* Pedro *(1183)* `0   -   1` **Vitor *(1317)*** [↗](https://www.lichess.org/V2sxuQDq) 
+* Pedro *(1183)* `0   -   1` **Vitor *(1311)*** [↗](https://www.lichess.org/V2sxuQDq) 
 * Renato *(1243)* `0   -   1` **Marcelo *(1950)*** [↗](https://www.lichess.org/88IwjQLc) 
 * Freddy *(1878)* `0   -   1` **Léo *(1933)*** [↗](https://www.lichess.org/jErAgptw) 
 * **Júlio *(1706)*** `1   -   0` Alexandre *(1196)* [↗](https://www.lichess.org/SMPemRrp) 

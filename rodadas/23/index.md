@@ -4,7 +4,7 @@
 
 #### Rapid:
 
-* Vitor *(1317)* `· - ·` Ricardo *(1750)*  
+* Vitor *(1311)* `· - ·` Ricardo *(1750)*  
 * Milton *(1892)* `· - ·` Alexandre *(1196)*  
 * Felipe *(1590)* `· - ·` Léo *(1933)*  
 * Pedro *(1183)* `· - ·` Diogo *(1236)*  

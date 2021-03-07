@@ -4,7 +4,7 @@
 
 #### Rapid:
 
-* **Vitor *(1317)*** `1   -   0` Alexandre *(1196)* [↗](https://www.lichess.org/uzz6TLeb) `INVERTIDO`
+* **Vitor *(1311)*** `1   -   0` Alexandre *(1196)* [↗](https://www.lichess.org/uzz6TLeb) `INVERTIDO`
 * Ricardo *(1750)* `0   -   1` **Léo *(1933)*** [↗](https://www.lichess.org/2WDMqx8f) 
 * Milton *(1892)* `½ - ½` Marcelo *(1950)* [↗](https://www.lichess.org/Hveq9NYu) 
 * **Pedro *(1183)*** `1   -   0` Felipe *(1590)* [↗](https://www.lichess.org/3tPc9vbg) 

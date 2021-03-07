@@ -4,7 +4,7 @@
 
 #### Rapid:
 
-* **Milton *(1892)*** `1   -   0` Vitor *(1317)* [↗](https://www.lichess.org/cvAf4XYT) 
+* **Milton *(1892)*** `1   -   0` Vitor *(1311)* [↗](https://www.lichess.org/cvAf4XYT) 
 * Felipe *(1590)* `0   -   1` **Ricardo *(1750)*** [↗](https://www.lichess.org/jORs1Lx5) 
 * **Léo *(1933)*** `1   -   0` Diogo *(1236)* [↗](https://www.lichess.org/bokVjkNU) 
 * **Marcelo *(1950)*** `1   -   0` Ribas *(1623)* [↗](https://www.lichess.org/H57Di5PJ) 

@@ -11,7 +11,7 @@
 * **Léo *(1933)*** `1   -   0` Renato *(1243)* [↗](https://www.lichess.org/qlgtkmyW) 
 * **Marcelo *(1950)*** `1   -   0` Pedro *(1183)* [↗](https://www.lichess.org/mvtmGlJJ) 
 
-De folga: Vitor *(1317)*
+De folga: Vitor *(1311)*
 
 #### Blitz:
 

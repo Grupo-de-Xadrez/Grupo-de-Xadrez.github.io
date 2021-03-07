@@ -11,7 +11,7 @@
 * Renato *(1243)* `· - ·` Léo *(1933)*  
 * Pedro *(1183)* `· - ·` Marcelo *(1950)*  
 
-De folga: Vitor *(1317)*
+De folga: Vitor *(1311)*
 
 #### Blitz:
 
