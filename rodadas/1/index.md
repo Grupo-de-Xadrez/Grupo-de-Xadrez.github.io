@@ -15,7 +15,7 @@ De folga: Felipe *(1590)*
 
 #### Blitz:
 
-* Vitor *(1228)* `0   -   1` **Pedro *(1167)*** [↗](https://www.lichess.org/Z4XgGxLN) `INVERTIDO`
+* Vitor *(1228)* `0   -   1` **Pedro *(1165)*** [↗](https://www.lichess.org/Z4XgGxLN) `INVERTIDO`
 * **Marcelo *(1782)*** `1   -   0` Renato *(1027)* [↗](https://www.lichess.org/9SCbnWsf) 
 * **Léo *(1861)*** `1   -   0` Freddy *(1805)* [↗](https://www.lichess.org/EdwQe0e0) 
 * Alexandre *(1165)* `0   -   1` **Júlio *(1539)*** [↗](https://www.lichess.org/r9QMmITh) 

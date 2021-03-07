@@ -19,7 +19,7 @@ De folga: Alexandre *(1196)*
 * Felipe *(1387)* `· - ·` Ricardo *(1607)*  
 * Léo *(1861)* `· - ·` Diogo *(1493)*  
 * Marcelo *(1782)* `· - ·` Ribas *(2055)*  
-* Júlio *(1539)* `· - ·` Pedro *(1167)*  
+* Júlio *(1539)* `· - ·` Pedro *(1165)*  
 * Renato *(1027)* `· - ·` Freddy *(1805)*  
 
 De folga: Alexandre *(1165)*
