@@ -20,7 +20,7 @@ De folga: Alexandre *(1196)*
 * Diogo *(1493)* `½ - ½` Léo *(1861)* [↗](https://www.lichess.org/JAvSCtvm) 
 * Ribas *(2055)* `0   -   1` **Marcelo *(1782)*** [↗](https://www.lichess.org/7Y9AzenX) 
 * **Pedro *(1106)*** `1   -   0` Júlio *(1532)* [↗](https://www.lichess.org/HIltIKfw) 
-* **Freddy *(1806)*** `1   -   0` Renato *(1026)* [↗](https://www.lichess.org/He4kkwh3) 
+* **Freddy *(1808)*** `1   -   0` Renato *(1026)* [↗](https://www.lichess.org/He4kkwh3) 
 
 De folga: Alexandre *(1165)*
 
