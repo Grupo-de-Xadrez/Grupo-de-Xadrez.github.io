@@ -15,7 +15,7 @@ De folga: Milton *(1892)*
 
 #### Blitz:
 
-* Vitor *(1234)* `0   -   1` **Felipe *(1387)*** [↗](https://www.lichess.org/PoxhQGHP) 
+* Vitor *(1228)* `0   -   1` **Felipe *(1387)*** [↗](https://www.lichess.org/PoxhQGHP) 
 * Diogo *(1493)* `0   -   1` **Ricardo *(1607)*** [↗](https://www.lichess.org/tOKohgQf) 
 * **Ribas *(2055)*** `1   -   0` Alexandre *(1165)* [↗](https://www.lichess.org/1QNCTqCm) 
 * **Léo *(1861)*** `1   -   0` Júlio *(1532)* [↗](https://www.lichess.org/vhpeAYWf) 

@@ -14,7 +14,7 @@
 * **Renato** [@Padilha20](https://www.lichess.org/@/Padilha20) *(rapid: 1243, blitz: 1020)*
 * **Ribas** [@Rpribas](https://www.lichess.org/@/Rpribas) *(rapid: 1623, blitz: 2055)*
 * **Ricardo** [@r-k-k](https://www.lichess.org/@/r-k-k) *(rapid: 1750, blitz: 1607)*
-* **Vitor** [@VitorStahlhoefer](https://www.lichess.org/@/VitorStahlhoefer) *(rapid: 1304, blitz: 1234)*
+* **Vitor** [@VitorStahlhoefer](https://www.lichess.org/@/VitorStahlhoefer) *(rapid: 1304, blitz: 1228)*
 
 ## Rodadas:
 

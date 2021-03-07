@@ -22,5 +22,5 @@ De folga: Vitor *(1304)*
 * Léo *(1861)* `· - ·` Renato *(1020)*  
 * Marcelo *(1782)* `· - ·` Pedro *(1091)*  
 
-De folga: Vitor *(1234)*
+De folga: Vitor *(1228)*
 
