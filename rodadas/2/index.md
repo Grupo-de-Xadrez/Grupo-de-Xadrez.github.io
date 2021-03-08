@@ -20,7 +20,7 @@ De folga: Ricardo *(1750)*
 * Júlio *(1548)* `0   -   1` **Marcelo *(1782)*** [↗](https://www.lichess.org/bLg3vsmi) 
 * Ribas *(2055)* `0   -   1` **Léo *(1861)*** [↗](https://www.lichess.org/2aruQaIu) 
 * Diogo *(1493)* `½ - ½` Alexandre *(1165)* [↗](https://www.lichess.org/JLLAkhLx) 
-* Felipe *(1387)* `0   -   1` **Milton *(1662)*** [↗](https://www.lichess.org/DJGNYvmh) 
+* Felipe *(1387)* `0   -   1` **Milton *(1656)*** [↗](https://www.lichess.org/DJGNYvmh) 
 
 De folga: Ricardo *(1607)*
 
