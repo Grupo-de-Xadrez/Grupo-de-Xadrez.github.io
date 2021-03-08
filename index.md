@@ -11,7 +11,7 @@
 * **Marcelo** [@mkvieira](https://www.lichess.org/@/mkvieira) *(rapid: 1950, blitz: 1782)*
 * **Milton** [@milton1960](https://www.lichess.org/@/milton1960) *(rapid: 1892, blitz: 1678)*
 * **Pedro** [@Phoenix20201](https://www.lichess.org/@/Phoenix20201) *(rapid: 1183, blitz: 1162)*
-* **Renato** [@Padilha20](https://www.lichess.org/@/Padilha20) *(rapid: 1243, blitz: 1047)*
+* **Renato** [@Padilha20](https://www.lichess.org/@/Padilha20) *(rapid: 1243, blitz: 1042)*
 * **Ribas** [@Rpribas](https://www.lichess.org/@/Rpribas) *(rapid: 1623, blitz: 2055)*
 * **Ricardo** [@r-k-k](https://www.lichess.org/@/r-k-k) *(rapid: 1750, blitz: 1607)*
 * **Vitor** [@VitorStahlhoefer](https://www.lichess.org/@/VitorStahlhoefer) *(rapid: 1304, blitz: 1239)*
