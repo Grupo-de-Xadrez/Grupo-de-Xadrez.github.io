@@ -22,5 +22,5 @@ De folga: Renato *(1243)*
 * **Freddy *(1808)*** `1   -   0` Diogo *(1493)* [↗](https://www.lichess.org/xVTfL6Vs) 
 * Ribas *(2055)* `½ - ½` Júlio *(1548)*  
 
-De folga: Renato *(1042)*
+De folga: Renato *(1048)*
 
