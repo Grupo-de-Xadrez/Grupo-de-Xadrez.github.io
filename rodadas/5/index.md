@@ -18,7 +18,7 @@ De folga: Freddy *(1878)*
 * Vitor *(1233)* `½ - ½` Ribas *(2055)* [↗](https://www.lichess.org/jCwtl7kN) 
 * **Júlio *(1548)*** `1   -   0` Diogo *(1493)* [↗](https://www.lichess.org/USQgItX9) 
 * **Felipe *(1387)*** `1   -   0` Renato *(1030)* [↗](https://www.lichess.org/XIfFoMyW) 
-* **Milton *(1667)*** `1   -   0` Pedro *(1162)* [↗](https://www.lichess.org/Piatvx1D) 
+* **Milton *(1670)*** `1   -   0` Pedro *(1162)* [↗](https://www.lichess.org/Piatvx1D) 
 * Marcelo *(1782)* `0   -   1` **Ricardo *(1607)*** [↗](https://www.lichess.org/U1pZa3C0) 
 * **Léo *(1861)*** `1   -   0` Alexandre *(1165)* [↗](https://www.lichess.org/Pb9aW9HI) `INVERTIDO`
 
