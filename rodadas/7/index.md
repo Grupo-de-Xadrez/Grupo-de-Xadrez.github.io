@@ -22,5 +22,5 @@ De folga: Vitor *(1304)*
 * Renato *(1040)* `0   -   1` **Léo *(1861)*** [↗](https://www.lichess.org/Zuj9WuHM) 
 * Pedro *(1162)* `0   -   1` **Marcelo *(1782)*** [↗](https://www.lichess.org/LkJD4S6R) 
 
-De folga: Vitor *(1233)*
+De folga: Vitor *(1239)*
 

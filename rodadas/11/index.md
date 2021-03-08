@@ -15,7 +15,7 @@ De folga: Renato *(1243)*
 
 #### Blitz:
 
-* Alexandre *(1165)* `0   -   1` **Vitor *(1233)*** [↗](https://www.lichess.org/HrAy00oE) `INVERTIDO`
+* Alexandre *(1165)* `0   -   1` **Vitor *(1239)*** [↗](https://www.lichess.org/HrAy00oE) `INVERTIDO`
 * Léo *(1861)* `½ - ½` Ricardo *(1607)* [↗](https://www.lichess.org/8SZrGgrw) 
 * **Marcelo *(1782)*** `1   -   0` Milton *(1678)* [↗](https://www.lichess.org/ddfdNyXJ) 
 * **Felipe *(1387)*** `1   -   0` Pedro *(1162)* [↗](https://www.lichess.org/XgzeSbk8) 

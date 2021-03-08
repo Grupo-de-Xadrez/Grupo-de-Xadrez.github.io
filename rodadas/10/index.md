@@ -15,7 +15,7 @@ De folga: Marcelo *(1950)*
 
 #### Blitz:
 
-* Vitor *(1233)* `0   -   1` **Ricardo *(1607)*** [↗](https://www.lichess.org/sMrIcVds) 
+* Vitor *(1239)* `0   -   1` **Ricardo *(1607)*** [↗](https://www.lichess.org/sMrIcVds) 
 * **Milton *(1678)*** `1   -   0` Alexandre *(1165)* [↗](https://www.lichess.org/vZnMORke) 
 * Felipe *(1387)* `½ - ½` Léo *(1861)* [↗](https://www.lichess.org/K5Vz3kms) 
 * **Pedro *(1162)*** `1   -   0` Diogo *(1493)* [↗](https://www.lichess.org/lwaXzUH9) 
