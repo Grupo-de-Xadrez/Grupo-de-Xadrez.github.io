@@ -20,7 +20,7 @@ De folga: Felipe *(1590)*
 * **Léo *(1861)*** `1   -   0` Freddy *(1808)* [↗](https://www.lichess.org/EdwQe0e0) 
 * Alexandre *(1165)* `0   -   1` **Júlio *(1548)*** [↗](https://www.lichess.org/r9QMmITh) 
 * Ribas *(2055)* `0   -   1` **Ricardo *(1607)*** [↗](https://www.lichess.org/ocUpBa5T) 
-* **Diogo *(1493)*** `1   -   0` Milton *(1666)* [↗](https://www.lichess.org/9E2gILyV) 
+* **Diogo *(1493)*** `1   -   0` Milton *(1671)* [↗](https://www.lichess.org/9E2gILyV) 
 
 De folga: Felipe *(1387)*
 
