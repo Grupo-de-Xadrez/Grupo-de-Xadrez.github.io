@@ -15,7 +15,7 @@ De folga: Ricardo *(1750)*
 
 #### Blitz:
 
-* Renato *(1037)* `0   -   1` **Vitor *(1239)*** [↗](https://www.lichess.org/8D1HswlL) `INVERTIDO`
+* Renato *(1033)* `0   -   1` **Vitor *(1239)*** [↗](https://www.lichess.org/8D1HswlL) `INVERTIDO`
 * **Freddy *(1808)*** `1   -   0` Pedro *(1162)* [↗](https://www.lichess.org/3GCiQUZb) 
 * Júlio *(1548)* `0   -   1` **Marcelo *(1782)*** [↗](https://www.lichess.org/bLg3vsmi) 
 * Ribas *(2055)* `0   -   1` **Léo *(1861)*** [↗](https://www.lichess.org/2aruQaIu) 
