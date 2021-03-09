@@ -19,7 +19,7 @@ De folga: Marcelo *(1950)*
 * **Milton *(1682)*** `1   -   0` Alexandre *(1165)* [↗](https://www.lichess.org/vZnMORke) 
 * Felipe *(1387)* `½ - ½` Léo *(1861)* [↗](https://www.lichess.org/K5Vz3kms) 
 * **Pedro *(1162)*** `1   -   0` Diogo *(1493)* [↗](https://www.lichess.org/lwaXzUH9) 
-* Renato *(1043)* `0   -   1` **Ribas *(2055)*** [↗](https://www.lichess.org/czwrbtoa) 
+* Renato *(1037)* `0   -   1` **Ribas *(2055)*** [↗](https://www.lichess.org/czwrbtoa) 
 * Júlio *(1548)* `0   -   1` **Freddy *(1808)*** [↗](https://www.lichess.org/i8nZDdQV) 
 
 De folga: Marcelo *(1782)*
