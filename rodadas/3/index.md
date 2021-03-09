@@ -5,7 +5,7 @@
 #### Rapid:
 
 * Vitor *(1304)* `0   -   1` **Freddy *(1878)*** [↗](https://www.lichess.org/mPoMdB5X) 
-* **Júlio *(1691)*** `1   -   0` Renato *(1243)* [↗](https://www.lichess.org/UoTKilWT) 
+* **Júlio *(1691)*** `1   -   0` Renato *(1233)* [↗](https://www.lichess.org/UoTKilWT) 
 * **Ribas *(1623)*** `1   -   0` Pedro *(1183)* [↗](https://www.lichess.org/rwRiLi0u) 
 * Diogo *(1236)* `0   -   1` **Marcelo *(1950)*** [↗](https://www.lichess.org/iTEYyYuH) 
 * **Felipe *(1590)*** `1   -   0` Alexandre *(1196)* [↗](https://www.lichess.org/AjfNFS7V) 
@@ -20,7 +20,7 @@ De folga: Léo *(1933)*
 * Pedro *(1162)* `0   -   1` **Ribas *(2055)*** [↗](https://www.lichess.org/XPb1HyYk) 
 * **Marcelo *(1782)*** `1   -   0` Diogo *(1493)* [↗](https://www.lichess.org/5TFXe391) 
 * Alexandre *(1165)* `0   -   1` **Felipe *(1387)*** [↗](https://www.lichess.org/Ph54JBSv) 
-* Milton *(1678)* `0   -   1` **Ricardo *(1607)*** [↗](https://www.lichess.org/fWgQh4gz) 
+* Milton *(1682)* `0   -   1` **Ricardo *(1607)*** [↗](https://www.lichess.org/fWgQh4gz) 
 
 De folga: Léo *(1861)*
 

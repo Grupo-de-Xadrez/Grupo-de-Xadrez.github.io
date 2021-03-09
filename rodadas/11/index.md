@@ -11,13 +11,13 @@
 * Diogo *(1236)* `0   -   1` **Freddy *(1878)*** [↗](https://www.lichess.org/bzs5OTvF) 
 * Júlio *(1691)* `½ - ½` Ribas *(1623)*  
 
-De folga: Renato *(1243)*
+De folga: Renato *(1233)*
 
 #### Blitz:
 
 * Alexandre *(1165)* `0   -   1` **Vitor *(1239)*** [↗](https://www.lichess.org/HrAy00oE) `INVERTIDO`
 * Léo *(1861)* `½ - ½` Ricardo *(1607)* [↗](https://www.lichess.org/8SZrGgrw) 
-* **Marcelo *(1782)*** `1   -   0` Milton *(1678)* [↗](https://www.lichess.org/ddfdNyXJ) 
+* **Marcelo *(1782)*** `1   -   0` Milton *(1682)* [↗](https://www.lichess.org/ddfdNyXJ) 
 * **Felipe *(1387)*** `1   -   0` Pedro *(1162)* [↗](https://www.lichess.org/XgzeSbk8) 
 * **Freddy *(1808)*** `1   -   0` Diogo *(1493)* [↗](https://www.lichess.org/xVTfL6Vs) 
 * Ribas *(2055)* `½ - ½` Júlio *(1548)*  

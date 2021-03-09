@@ -4,7 +4,7 @@
 
 #### Rapid:
 
-* Renato *(1243)* `· - ·` Vitor *(1304)*  
+* Renato *(1233)* `· - ·` Vitor *(1304)*  
 * Freddy *(1878)* `· - ·` Pedro *(1183)*  
 * Júlio *(1691)* `· - ·` Marcelo *(1950)*  
 * Ribas *(1623)* `· - ·` Léo *(1933)*  
@@ -20,7 +20,7 @@ De folga: Ricardo *(1750)*
 * Marcelo *(1782)* `· - ·` Júlio *(1548)*  
 * Léo *(1861)* `· - ·` Ribas *(2055)*  
 * Alexandre *(1165)* `· - ·` Diogo *(1493)*  
-* Milton *(1678)* `· - ·` Felipe *(1387)*  
+* Milton *(1682)* `· - ·` Felipe *(1387)*  
 
 De folga: Ricardo *(1607)*
 

@@ -8,7 +8,7 @@
 * Milton *(1892)* `· - ·` Alexandre *(1196)*  
 * Felipe *(1590)* `· - ·` Léo *(1933)*  
 * Pedro *(1183)* `· - ·` Diogo *(1236)*  
-* Renato *(1243)* `· - ·` Ribas *(1623)*  
+* Renato *(1233)* `· - ·` Ribas *(1623)*  
 * Júlio *(1691)* `· - ·` Freddy *(1878)*  
 
 De folga: Marcelo *(1950)*
@@ -16,7 +16,7 @@ De folga: Marcelo *(1950)*
 #### Blitz:
 
 * Ricardo *(1607)* `· - ·` Vitor *(1239)*  
-* Alexandre *(1165)* `· - ·` Milton *(1678)*  
+* Alexandre *(1165)* `· - ·` Milton *(1682)*  
 * Léo *(1861)* `· - ·` Felipe *(1387)*  
 * Diogo *(1493)* `· - ·` Pedro *(1162)*  
 * Ribas *(2055)* `· - ·` Renato *(1048)*  
