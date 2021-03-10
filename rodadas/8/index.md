@@ -22,5 +22,5 @@ De folga: Milton *(1892)*
 * Freddy *(1808)* `0   -   1` **Marcelo *(1782)*** [↗](https://www.lichess.org/aQvQgFvB) 
 * Renato *(1033)* `0   -   1` **Pedro *(1139)*** [↗](https://www.lichess.org/xt6SEfF6) 
 
-De folga: Milton *(1634)*
+De folga: Milton *(1639)*
 
