@@ -18,7 +18,7 @@ De folga: Júlio *(1691)*
 * **Léo *(1861)*** `1   -   0` Vitor *(1238)* [↗](https://www.lichess.org/EtDVxlHb) 
 * **Marcelo *(1782)*** `1   -   0` Alexandre *(1165)* [↗](https://www.lichess.org/ual2NNE4) 
 * **Ricardo *(1607)*** `1   -   0` Pedro *(1139)* [↗](https://www.lichess.org/7Nkr2iz9) 
-* **Renato *(1033)*** `1   -   0` Milton *(1638)* [↗](https://www.lichess.org/hRqL9LVj) 
+* **Renato *(1033)*** `1   -   0` Milton *(1643)* [↗](https://www.lichess.org/hRqL9LVj) 
 * Felipe *(1387)* `0   -   1` **Freddy *(1808)*** [↗](https://www.lichess.org/B0i0X5fg) 
 * Diogo *(1493)* `0   -   1` **Ribas *(2055)*** [↗](https://www.lichess.org/ovy99Fgs) 
 
