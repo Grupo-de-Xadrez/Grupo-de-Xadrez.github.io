@@ -16,10 +16,10 @@ De folga: Diogo *(1236)*
 #### Blitz:
 
 * **Marcelo *(1782)*** `1   -   0` Vitor *(1238)* [↗](https://www.lichess.org/fgWdUeWV) `INVERTIDO`
-* Pedro *(1162)* `· - ·` Léo *(1861)*  
+* Pedro *(1139)* `· - ·` Léo *(1861)*  
 * Alexandre *(1165)* `0   -   1` **Renato *(1033)*** [↗](https://www.lichess.org/nilwVslB) 
 * **Freddy *(1808)*** `1   -   0` Ricardo *(1607)* [↗](https://www.lichess.org/H0bF30Ao) 
-* Júlio *(1548)* `0   -   1` **Milton *(1671)*** [↗](https://www.lichess.org/n3O7NKOa) 
+* Júlio *(1548)* `0   -   1` **Milton *(1634)*** [↗](https://www.lichess.org/n3O7NKOa) 
 * **Ribas *(2055)*** `1   -   0` Felipe *(1387)* [↗](https://www.lichess.org/3HTXJBuX) 
 
 De folga: Diogo *(1493)*
