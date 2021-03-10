@@ -9,7 +9,7 @@
 * **Júlio** [@juliopinheiro](https://www.lichess.org/@/juliopinheiro) *(rapid: 1691, blitz: 1548)*
 * **Léo** [@killer9](https://www.lichess.org/@/killer9) *(rapid: 1933, blitz: 1861)*
 * **Marcelo** [@mkvieira](https://www.lichess.org/@/mkvieira) *(rapid: 1950, blitz: 1782)*
-* **Milton** [@milton1960](https://www.lichess.org/@/milton1960) *(rapid: 1892, blitz: 1639)*
+* **Milton** [@milton1960](https://www.lichess.org/@/milton1960) *(rapid: 1892, blitz: 1633)*
 * **Pedro** [@Phoenix20201](https://www.lichess.org/@/Phoenix20201) *(rapid: 1183, blitz: 1139)*
 * **Renato** [@Padilha20](https://www.lichess.org/@/Padilha20) *(rapid: 1233, blitz: 1033)*
 * **Ribas** [@Rpribas](https://www.lichess.org/@/Rpribas) *(rapid: 1623, blitz: 2055)*
