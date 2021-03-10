@@ -20,7 +20,7 @@ De folga: Léo *(1933)*
 * Ribas *(2055)* `· - ·` Pedro *(1139)*  
 * Diogo *(1493)* `· - ·` Marcelo *(1782)*  
 * Felipe *(1387)* `· - ·` Alexandre *(1165)*  
-* Ricardo *(1607)* `· - ·` Milton *(1642)*  
+* Ricardo *(1607)* `· - ·` Milton *(1637)*  
 
 De folga: Léo *(1861)*
 
